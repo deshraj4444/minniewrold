@@ -1,0 +1,185 @@
+﻿@model MayaAstro.Models.BlogCategoryVM
+@{
+    var type = !string.IsNullOrEmpty(this.Context.Request.Query["type"]) ? this.Context.Request.Query["type"].ToString() : "0";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<style>
+    .submit-button-right {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float: right;
+    }
+        .submit-button-right:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+            float: right;
+        }
+</style>
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h1>Add YVideo Category</h1>
+    </div>
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        @using (Html.BeginForm("SaveYVideoCategory", "Admin", new { TypeId = 4}, FormMethod.Post, false, new { id = "frmUserDetails", enctype = "multipart/form-data" }))
+                        {
+                            @Html.HiddenFor(model => model.Id)
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="row g-3">
+                                        <div class="col-md-6" style="display: none;">
+                                            <label class="admin-panel-label">website</label>
+                                            <div class="form-check">
+                                                @Html.RadioButtonFor(m => m.WebsiteId, 1, new { @class = "form-check-input", id = "mayait" })
+                                                <label class="form-check-label" for="mayait">mayaastro</label>
+                                            </div>
+                                            <div class="form-check">
+                                                @Html.RadioButtonFor(m => m.WebsiteId, 2, new { @class = "form-check-input", id = "mayaastro" })
+                                                <label class="form-check-label" for="mayaastro">mayait</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row g-3">
+                                        <div class="col-md-6">
+                                            <label>Title</label>
+                                            @Html.TextBoxFor(m => m.BlogCategoryName, new { @class = "form-control" })
+                                        </div>
+                                        <div class="col-md-12">
+                                            <input type="submit" class="btn submit-button-right" value="Submit" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                        <section class="section">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <h5 class="card-title"> YVideo Category</h5>
+
+                                            <div class="row-search-enquiry mt-3" style="display: flex; flex-direction: row; justify-content: space-between;">
+                                                <div class="col-lg-2">
+                                                    <div class="input-group">
+                                                        <label class="mx-2 mt-2">Entries per page: </label>
+                                                        <select id="entriesPerPage" class="form-select" onchange="initializePagination()">
+                                                            <option value="10" selected="">10</option>
+                                                            <option value="20">20</option>
+                                                            <option value="30">30</option>
+                                                            <option value="50">50</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-3">
+                                                    <div class="input-group mb-3">
+                                                        <label class="mx-2 mt-2">Search: </label>
+                                                        <input type="text" class="form-control" id="searchInput" placeholder="Search by Title" onkeyup="filterItems()" />
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="row" id="cardContainer">
+                                                @if (Model?.BlogCategoryList?.Any() == true)
+                                                {
+                                                    foreach (var category in Model.BlogCategoryList)
+                                                    {
+                                                        <div class="col-lg-4 col-md-6 mb-4 card-item">
+                                                            <div class="card">
+                                                                <div class="action-buttons" style="position: absolute; top: 10px; right: 10px;">
+                                                                    <a class="btn btn-sm" href="@Url.Action("AddYVideoCategory", "Admin", new { id = category.Id })" title="Edit">
+                                                                        <i class="fas fa-edit"></i>
+                                                                    </a>
+
+                                                                    <a class="btn btn-sm" href="@Url.Action("DeleteYVideoCategory", "Admin", new { id = category.Id })" title="Delete" onclick="return confirm('Are you sure you want to delete this product?');">
+                                                                        <i class="fas fa-trash"></i>
+                                                                    </a>
+
+                                                                </div>
+                                                                <div class="card-body">
+                                                                    <h5 class="card-title">@Html.DisplayFor(modelItem => category.BlogCategoryName)</h5>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                }
+                                                else
+                                                {
+                                                    <div class="col-lg-12">
+                                                        <div class="card">
+                                                            <div class="card-body">
+                                                                <p>No Items available.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                }
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-lg-12">
+                                                    <nav>
+                                                        <ul class="pagination justify-content-center" id="pagination"></ul>
+                                                    </nav>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.ckeditor.com/ckeditor5/39.0.1/classic/ckeditor.js"></script>
+<script>
+     ClassicEditor.create(document.querySelector('#description')).catch(error => { console.error(error); });
+
+            function filterItems() {
+             const searchInput = document.getElementById("searchInput").value.toLowerCase();
+             const cards = document.querySelectorAll(".card-item");
+
+       cards.forEach(card => {
+            const title = card.querySelector(".card-title").textContent.toLowerCase();
+           card.style.display = title.includes(searchInput) ? "" : "none";
+          });
+             initializePagination();
+         }
+
+         function initializePagination() {
+             const entriesPerPage = parseInt(document.getElementById("entriesPerPage").value);
+          const cards = document.querySelectorAll(".card-item");
+       const totalCards = Array.from(cards).filter(card => card.style.display !== "none").length;
+       const totalPages = Math.ceil(totalCards / entriesPerPage);
+
+             const pagination = document.getElementById("pagination");
+             pagination.innerHTML = "";
+
+             if (totalPages > 1) {
+                 for (let i = 1; i <= totalPages; i++) {
+                  const li = document.createElement("li");
+               li.className = "page-item";
+                li.innerHTML = `<a class="page-link" href="#" onclick="paginate(${i}); return false;">${i}</a>`;
+                pagination.appendChild(li);
+            }
+        }
+
+        paginate(1);
+    }
+    function paginate(page) {
+        const entriesPerPage = parseInt(document.getElementById("entriesPerPage").value);
+        const cards = Array.from(document.querySelectorAll(".card-item")).filter(card => card.style.display !== "none");
+
+        const start = (page - 1) * entriesPerPage;
+        const end = start + entriesPerPage;
+
+        cards.forEach((card, index) => {
+            card.style.display = index >= start && index < end ? "" : "none";
+        });
+    }
+    document.addEventListener("DOMContentLoaded", initializePagination);</script>

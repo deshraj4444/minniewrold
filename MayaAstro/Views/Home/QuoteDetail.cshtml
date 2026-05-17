@@ -1,0 +1,155 @@
+﻿@model MayaAstro.Models.BlogDetailVM
+@{
+    ViewData["Title"] = Model.Title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    @inject Microsoft.Extensions.Configuration.IConfiguration Configuration;
+    var uploadUrl = Configuration["ApiSettings:UploadURL"];
+    var BaseUrl = Configuration["ApiSettings:BaseUrl"];
+    <meta property="og:title" content="@Model.Title" />
+    <meta property="og:description" content="@Model.Description" />
+    <meta property="og:image" content="@BaseUrl@Model.BannerImageUrl" />
+    <meta property="og:image:secure_url" content="@BaseUrl@Model.BannerImageUrl" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:url" content="@uploadUrl@Model.PageUrl" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="@BaseUrl@Model.BannerImageUrl" />
+     
+}
+
+
+<section class="as_servicedetail_wrapper as_padderBottom80 as_padderTop80">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9 col-md-8">
+                <div class="as_blog_box as_blog_single as_padderBottom80">
+                    <div class="as_blogdetail_img">
+                        <img src=" @uploadUrl@Model.BannerImageUrl" class="img-responsive" alt="">
+                        <span class="as_btn">@Model.PublishDate?.ToString("MMM dd, yyyy")</span>
+                    </div>
+                    <div class="socialmedia-icon">
+                        <!-- Share on Twitter -->
+                        <a href="https://twitter.com/intent/tweet?url=@BaseUrl@Model.PageUrl&text=@Model.PageUrl "
+                           target="_blank" rel="noopener noreferrer">
+                            <i class="bi bi-twitter fs-5"></i>
+                        </a>
+                        <!-- Share on WhatsApp -->
+                        <a href="https://api.whatsapp.com/send?text=@BaseUrl@Slugify(Model.PageUrl)"
+                           target="_blank" rel="noopener noreferrer">
+                            <i class="bi bi-whatsapp fs-5"></i>
+                        </a>
+                        <!-- Share on LinkedIn -->
+                        <a href="https://www.linkedin.com/shareArticle?url=@BaseUrl@Model.PageUrl"
+                           target="_blank" rel="noopener noreferrer">
+                            <i class="bi bi-linkedin fs-5"></i>
+                        </a>
+
+                        <!-- Share on Facebook -->
+                        <a href="https://www.facebook.com/sharer?u=@BaseUrl@Model.PageUrl"
+                           target="_blank" rel="noopener noreferrer">
+                            <i class="bi bi-facebook fs-5"></i>
+                        </a>
+                    </div>
+                    <h1 style="text-align: center;">@Model.Title</h1>
+                    <p>@Html.Raw(Model.Description)</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4">
+                <div class="as_blog_sidebar">
+                    <div class="as_service_widget as_padderBottom40">
+                        <h3 class="as_heading">Categories</h3>
+                        <ul>
+                            @if (Model.BlogCategoryList != null && Model.BlogCategoryList.Any())
+                            {
+                                foreach (var category in Model.BlogCategoryList)
+                                {
+                                    <li>
+                                        <a href="/blog/@Slugify(category.BlogCategoryName)">
+                                            <i class="bi bi-caret-right-fill fs-6 me-2"></i>
+                                            <span>@category.BlogCategoryName</span>
+                                        </a>
+                                    </li>
+                                }
+                            }
+                            else
+                            {
+                                <li>No categories available.</li>
+                            }
+                        </ul>
+                    </div>
+                    <div class="as_service_widget as_padderBottom40">
+                        <h3 class="as_heading">Recent Posts</h3>
+                        <ul class="as_recentposts">
+                            <li>
+                                @if (Model?.BlogList?.Any() == true)
+                                {
+                                    foreach (var blog in Model.BlogList.Take(7))
+                                    {
+                                        <span class="as_btn-sidebar">@blog.PublishDate?.ToString("MMM dd, yyyy")</span>
+                                        <div class="as_detail">
+                                            <h5>
+                                                <i class="bi bi-caret-right-fill fs-6 me-2"></i>
+                                                <a href="/@Slugify(blog.PageUrl)">@blog.Title</a>
+                                            </h5>
+                                        </div>
+                                    }
+                                }
+                                else
+                                {
+                                    <p>No blogs available.</p>
+                                }
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+
+
+
+   @*  <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="d-flex">
+                    <img src="~/image/eda8f4ce-b66f-4702-bf36-60098e0ae5c8.png" class="d-block img-fluid" alt="img-1">
+                    <img src="~/image/eda8f4ce-b66f-4702-bf36-60098e0ae5c8.png" class="d-block img-fluid" alt="img-2">
+                    <img src="~/image/f317aee0-713b-4e90-99bc-f0fe81e9c0b6.jpg" class="d-block img-fluid" alt="img-3">
+                </div>
+            </div>
+        </div>
+
+        <!-- Right control for carousel movement -->
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div> *@
+
+
+   
+
+</section>
+@* <div class="row-d-flex">
+    <div class="col-lg-4">
+        <img src="~/image/dce70f52-9cef-4e33-8f0b-30b8426fb2c9.jpg" class="d-block img-fluid" alt="img-1">
+    </div>
+    <div class="col-lg-4">
+        <img src="~/image/7aa6267b-beaa-4d2b-9532-7cf9c00e7a5a.png" class="d-block img-fluid" alt="img-1">
+    </div>
+    <div class="col-lg-4">
+        <img src="~/image/6b9e9622-6e74-42db-b58c-48bad27d600b.png" class="d-block img-fluid" alt="img-1">
+    </div>
+</div> *@
+
+
+@functions {
+    public string Slugify(string title)
+    {
+        if (string.IsNullOrEmpty(title))
+            return string.Empty;
+        return title.Trim().Replace(" ", "-");
+    }
+}

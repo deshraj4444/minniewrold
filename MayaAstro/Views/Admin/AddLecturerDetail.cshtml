@@ -1,0 +1,144 @@
+﻿@model MayaAstro.Models.LectureDetailVM
+
+
+@{
+
+    Layout = "~/Views/Shared/_Admin_Layout.cshtml";
+}
+<style>
+    .submit-button-right {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float: right;
+    }
+
+        .submit-button-right:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+            float: right;
+
+</style>
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h1>Add Lecture Detail</h1>
+    </div>
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="auto-container">
+                            <div class="sec-title">
+                                <div class="clearfix">
+                                    <div class="pull-left">
+                                        <div class="title"> Add Lecture Detail</div>
+
+                                    </div>
+                                    <div class="pull-right">
+                                        <div class="text">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Contact Form -->
+                            @using (Html.BeginForm("SaveLectureDetails", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+
+                            {
+                                @Html.HiddenFor(x => x.Id)
+
+                                <div class="row clearfix">
+                                    <div class="form-group col-lg-6 col-md-6 col-sm-12 mt-3">
+                                        <label for="Title">In English </label>
+                                        @Html.EditorFor(model => model.EnglishName, new { htmlAttributes = new { @class = "form-control", required = "required", placeholder = "Title" } })
+                                        @Html.ValidationMessageFor(model => model.EnglishName, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="form-group col-lg-6 col-md-6 col-sm-12 mt-3">
+                                        <label for="Title">Lecture </label>
+                                        @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", placeholder = "Title", required = "required" } })
+                                        @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                                    </div>
+
+                                    <div class="col-md-6 about-section-top mt-3">
+                                        <label class="admin-panel-label">Lecture Category</label>
+                                        @Html.DropDownListFor(m => m.LectureId, new SelectList(Model.LectureCategoryList, "Id", "LectureName"), "-- Select Category --", new { @class = "form-control nice-select wide", required = "required" })
+                                        @Html.ValidationMessageFor(model => model.LectureId, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="form-group text-center col-lg-12 col-md-12 col-sm-12 mb-3">
+                                        <input type="submit" class="btn submit-button-right" value="Submit" />
+                                        @*<button class="theme-btn btn-style-three" type="submit"><span class="txt">Save</span></button>*@
+                                    </div>
+                                </div>
+
+
+                            }
+
+                        </div>
+                        <section class="section">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Lecture Detail List</h5>
+
+
+                                            <!-- Table with stripped rows -->
+                                            <table id="example" class="table datatable">
+                                                <thead>
+                                                    <tr>
+                                                        <th>SNo</th>
+                                                        <th>German Title</th>
+                                                        <th>English Title</th>
+                                                        <th>Lecture Category Name</th>
+                                                        <th>Action</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    @if (Model?.LectureList?.Any() == true)
+                                                        {
+                                                            var Sl = 1;
+                                                            foreach (var item in Model.LectureList)
+                                                            {
+                                                            <tr>
+                                                                <td>@Sl</td>
+                                                                <td>@item.Name</td>
+                                                                <td>@item.EnglishName</td>
+                                                                <td>@item.LectureCategoryName</td>
+                                                                <td class="table-action-btn">
+                                                                    <div class="sorting_1 pt-4 pb-3">
+                                                                        <a href="~/Admin/AddLecturerDetail/@item.Id" type="button" class="">
+                                                                            <i class="bi bi-pencil-square" data-toggle="tooltip" data-placement="top" title="Edit"></i>
+
+                                                                        </a>
+                                                                        <a href="/Admin/DeleteLectureDetail/?id=@item.Id" class="" onclick="return confirm('Are you sure you wish to Delete This ?')">
+                                                                            <i class="bi bi-trash3-fill" data-toggle="tooltip" data-placement="top" title="Remove"></i>
+
+                                                                        </a>
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                                Sl++;
+                                                            }
+                                                        }
+                                                        else
+                                                        {
+                                                        <tr>
+                                                            <td colspan="8">No Lecture available.</td>
+                                                        </tr>
+                                                    }
+                                                </tbody>
+                                            </table>
+                                            <!-- End Table with stripped rows -->
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>

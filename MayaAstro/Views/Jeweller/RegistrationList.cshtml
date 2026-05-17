@@ -1,0 +1,134 @@
+﻿@model MayaAstro.Models.CommonEnquiryVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<style>
+    .submit-button-right {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float: right;
+    }
+
+        .submit-button-right:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+            float: right;
+        }
+
+    .text-danger {
+        color: #dc3545 !important;
+    }
+</style>
+
+<main id="main" class="main">
+    @if (TempData["message"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["message"]
+        </div>
+    }
+
+    @if (TempData["error"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["error"]
+        </div>
+    }
+    <div class="pagetitle">
+        <h1>User List</h1>
+    </div>
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+
+
+                        <table id="example" class="table datatable">
+                            <thead>
+                                <tr>
+                                    <th>SNo</th>
+                                    <th>Name</th>
+                                    <th>Firm Name</th>
+                                    <th>Phone</th>
+                                    <th>City</th>
+                                    <th>Created Date</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model?.list?.Any() == true)
+                                {
+                                    var Sl = 1;
+                                    foreach (var item in Model.list)
+                                    {
+                                        <tr>
+                                            <td>@Sl</td>
+                                            <td>@item.Name</td>
+                                            <td>@item.FirmName</td>
+                                            <td>@item.Phone</td>
+                                            <td>@item.City</td>
+                                            <td>@( item.CreatedDate.ToString("yyyy-MM-dd"))</td>
+                                            <td class="table-action-btn">
+                                                <div class="pt-4 pb-3">
+
+                                                    <a href="/Jeweller/DeleteRegistration/@item.Id" onclick="return confirm('Are you sure you wish to Delete This ?')">
+                                                        <i class="bi bi-trash3-fill" title="Remove"></i>
+                                                    </a>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        Sl++;
+                                    }
+                                }
+
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+<!-- DataTables CSS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+<!-- DataTables JS -->
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script>$(document).ready(function () {
+        $('#example').DataTable({
+            "paging": true,          // Enable pagination
+            "searching": true,       // Enable search box
+            "ordering": true,        // Enable column sorting
+            "info": true,            // Show table info
+            "order": [[6, "desc"]]   // Default sort by Created Date (column index 6)
+        });
+    });</script>
+<script>// Hide alerts after 3 seconds
+    setTimeout(function () {
+        var alerts = document.querySelectorAll('.alert');
+        alerts.forEach(function (alert) {
+            alert.style.transition = "opacity 0.5s ease";
+            alert.style.opacity = "0";
+            setTimeout(function () {
+                alert.remove();
+            }, 500);
+        });
+    }, 3000);
+
+    // Preview uploaded image
+    function previewImage(event) {
+        var reader = new FileReader();
+        reader.onload = function () {
+            var output = document.getElementById('imgPreview');
+            output.src = reader.result;
+            output.style.display = 'block';
+        };
+        reader.readAsDataURL(event.target.files[0]);
+    }</script>

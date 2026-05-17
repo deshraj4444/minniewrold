@@ -1,0 +1,23 @@
+﻿{
+  "messages": {
+    "InternalServerError": "Something went wrong. Please contact with administrator.",
+    "InValidLogin": "You have entered incorrect email or password.",
+    "UsersNotExists": "User not exists.",
+    "SavedSuccessfully": "Saved Successfully.",
+    "ResendEmail": "Email Resend Request.",
+    "VerifyEmail": "Email Verification Request.",
+    "UpdatedSuccessfully": " Updated Successfully",
+    "DeleteSuccessfully": " Delete Successfully",
+    "LoginSuccessfully": " Login Successfully",
+    "ForgetPassword": "Forget Password Request",
+    "AstroNotAuthorize": "Admin not approved your account yet",
+    "ForgotPasswordLinkSentSuccessfully": "Link with reset password has been sent to your email successfully, please check your email.",
+    "Pbkdf2Iterations": 12000,
+    "SaltByteSize": 24,
+    "HashByteSize": 24,
+    "PasswordHasBeenChangedSucessfully": "Password has been changed sucessfully",
+    "EncryptDecryptKey": "E546C8DF278CD5931069B522E695D4F2"
+
+  }
+
+}

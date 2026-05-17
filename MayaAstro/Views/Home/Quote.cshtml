@@ -1,0 +1,210 @@
+﻿@model List<MayaAstro.Models.BlogListImageVM>
+
+@using System.Text.RegularExpressions
+@{
+    ViewData["Title"] = "Explore Our Blog: Uplifting Messages for a Meaningful Life";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    @inject Microsoft.Extensions.Configuration.IConfiguration Configuration;
+    var uploadUrl = Configuration["ApiSettings:UploadURL"];
+
+    var path = this.Context.Request.Path.Value;
+    var blogPath = path.Contains("/blog/")
+                    ? path.Split(new string[] { "/blog/" }, StringSplitOptions.None).LastOrDefault()
+                    : string.Empty;
+
+}
+@functions {
+    public string Slugify(string title)
+    {
+        if (string.IsNullOrEmpty(title))
+            return string.Empty;
+
+        // Replace spaces with hyphens and trim any leading or trailing spaces
+        return title.Trim().Replace(" ", "-");
+    }
+    public string RemoveSlugify(string title)
+    {
+        if (string.IsNullOrEmpty(title))
+            return string.Empty;
+
+        // Replace spaces with hyphens and trim any leading or trailing spaces
+        return title.Trim().Replace("-", " ");
+    }
+}
+
+
+<div class="hs_indx_title_main_wrapper">
+    <div class="hs_title_img_overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 full_width">
+                <div class="hs_indx_title_left_wrapper">
+                    <h2>Quotes</h2>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 full_width">
+                <div class="hs_indx_title_right_wrapper">
+                    <ul>
+                        <li><a href="/">Home</a> &nbsp;&nbsp;&nbsp;> </li>
+                        <li>Quotes</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="as_blog_wrapper as_padderTop80 as_padderBottom80">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                @if (blogPath == "")
+                {
+                    <h1 class="as_heading as_heading_center">Our Latest Blog</h1>
+
+                }
+                else
+                {
+                    <h1 class="as_heading as_heading_center">@RemoveSlugify(blogPath)</h1>
+
+                }
+
+                <p class="as_font14 as_margin0 as_padderBottom20">Explore engaging topics insightful tips and inspiring stories to keep you informed motivated </p>
+
+                <div class="as_search_wrapper text-center">
+                    <input type="text" id="searchInput" class="form-control" placeholder="Search blogs by title..." style="max-width: 500px; margin: 0 auto; padding: 10px;color: white;">
+                </div>
+                <!-- Loader element -->
+
+                <div class="text-left">
+                    <div class="row">
+                        <div id="blogList"></div>
+                    </div>
+                </div>
+
+                <div id="noBlogsMessage" class="text-center" style="display: none; color: white;">
+                    <p>No blogs found matching your search.</p>
+                </div>
+                <div id="loader" style="display: none; text-align: center; color:#ff7e00;">
+                    <p>Loading...</p>
+                </div>
+
+
+                <div class="text-center">
+                    <button id="loadMoreBtn" class="btn btn-primary" style="display: block; margin: 20px auto;">
+                        Load More <i class="bi bi-arrow-clockwise"></i>
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+    const blogList = $("#blogList");
+    const loadMoreBtn = $("#loadMoreBtn");
+    const loader = $("#loader");
+    const noBlogsMessage = $("#noBlogsMessage");
+    const uploadUrl = '@uploadUrl';
+    let currentPage = 1;
+    const pageSize = 9;
+    let searchQuery = "";
+    let isLoading = false;
+
+
+
+    function loadBlogs() {
+        if (isLoading) return;
+        isLoading = true;
+
+        loader.show();
+        loadMoreBtn.hide();
+
+        $.ajax({
+            url: "/blogList",
+            type: "GET",
+            data: {
+                categoryName: '@blogPath',
+                pageSize: pageSize,
+                pageNo: currentPage,
+                search: searchQuery
+            },
+            success: function (response) {
+
+                let row;
+                response.forEach((blog, index) => {
+                    // Create a new row every 3 blogs
+                    if (index % 3 === 0) {
+                        row = $('<div class="row">');
+                        blogList.append(row);
+                    }
+                    const blogCard = `
+                                        <div class="col-lg-4 col-md-6 col-sm-12 col-12 blog-card" data-title="${blog.title.toLowerCase()}">
+                                            <div class="as_blog_boxcard">
+                                                <div class="as_blog_img">
+                                                    <a href="/${Slugify(blog.pageUrl)}">
+                                                        <img src="${uploadUrl + blog.thumbnailImageUrl}" alt="" class="img-fluid">
+                                                    </a>
+                                                </div>
+                                                <div class="lower-content">
+          <ul class="post-meta">
+                                                                <li>  <img src="${uploadUrl + blog.authorImage}" alt="" class="img-fluid test">
+                                                                    ${blog.author} </li>
+    <li class="post-date" style="font-size: 12px;">
+                  ${new Date(blog.publishDate).toLocaleDateString('en-GB', {
+                            day: '2-digit',
+                            month: 'short',
+                            year: 'numeric',
+                        })}
+                </li>
+                                                           
+
+                                                    </ul>
+            
+                                                        <h4><a href="/${Slugify(blog.pageUrl)}">${blog.title}</a></h4>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    `;
+                    row.append(blogCard);
+                });
+
+                currentPage++;
+                if (response.length === pageSize) {
+                    loadMoreBtn.show();
+                } else {
+                    loadMoreBtn.hide();
+                }
+                loader.hide();
+                isLoading = false;
+            },
+            error: function () {
+                alert("Failed to load blogs. Please try again.");
+                loader.hide();
+                isLoading = false;
+            }
+        });
+    }
+    // Search functionality with debounce
+    let debounceTimer;
+    $("#searchInput").off("keyup").on("keyup", function () {
+        clearTimeout(debounceTimer);
+        searchQuery = $(this).val().toLowerCase();
+        currentPage = 1;
+        blogList.empty();
+        noBlogsMessage.hide();
+        loadBlogs();
+    });
+
+    function Slugify(title) {
+        if (!title) return "";
+        return title.trim().replace(/\s+/g, '-').toLowerCase();
+    }
+    loadMoreBtn.on("click", function () {
+        loadBlogs();
+    });
+    loadBlogs();
+</script>
+

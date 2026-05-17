@@ -1,0 +1,115 @@
+﻿@model MayaAstro.Models.ContactsVM
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="hs_indx_title_main_wrapper">
+    <div class="hs_title_img_overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 full_width">
+                <div class="hs_indx_title_left_wrapper">
+                    <h2>Contact</h2>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 full_width">
+                <div class="hs_indx_title_right_wrapper">
+                    <ul>
+                        <li><a href="/">Home</a> &nbsp;&nbsp;&nbsp;> </li>
+                        <li>Contact</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="as_contact_section as_padderTop80">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-12">
+                <div class="as_contact_info">
+                    <h1 class="as_heading">Contact Information</h1>
+                    <p class="as_font14 as_margin0">We're here to assist you! Whether you have questions, need support, or want to share feedback, reach out to us. Your satisfaction is our priority, and we're ready to help.</p>
+
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                            <div class="as_info_box">
+                                <span class="as_icon">
+                                    <i class="bi bi-telephone-outbound-fill text-white"></i>
+                                </span>
+                                <div class="as_info">
+                                    <h5>Call Us</h5>
+                                    <p class="as_margin0 as_font14 mb-0">+ (91) 96462-22201</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-xs-12">
+                            <div class="as_info_box">
+                                <span class="as_icon"><i class="bi bi-send-arrow-up-fill text-white"></i></span>
+                                <div class="as_info">
+                                    <h5>Mail Us</h5>
+                                    <p class="as_margin0 as_font14 mb-0">
+                                        <a href="javascript:;">
+                                            mayait.corporate@gmail.com
+                                        </a>
+                                    </p>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @using (Html.BeginForm("ContactUs", "MinnieWorld", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <div class="col-lg-6 col-md-12">
+                    <div class="as_contact_form">
+                        <h4 class="as_subheading text-white">Have A Question?</h4>
+
+                        <div class="form-group">
+                            <label for="FirstName" class="text-white">First Name</label>
+                            @Html.TextBoxFor(model => model.FirstName, new { @class = "form-control", placeholder = "Enter your first name", @id = "FirstName" })
+                            @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group">
+                            <label for="LastName" class="text-white">Last Name</label>
+                            @Html.TextBoxFor(model => model.LastName, new { @class = "form-control", placeholder = "Enter your last name", @id = "LastName" })
+                            @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group pt-3">
+                            <label for="Email" class="text-white">Email Address</label>
+                            @Html.TextBoxFor(model => model.Email, new { @class = "form-control", placeholder = "Enter your email", type = "email", @id = "Email" })
+                            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group">
+                            <label for="Contact" class="text-white">Contact</label>
+                            @Html.TextBoxFor(model => model.Contact, new { @class = "form-control", placeholder = "Enter your contact number", @id = "Contact" })
+                            @Html.ValidationMessageFor(model => model.Contact, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group pt-3">
+                            <label for="Remarks" class="text-white">Message</label>
+                            @Html.TextAreaFor(model => model.Remarks, new { @class = "form-control", placeholder = "Your message", rows = "4", @id = "Remarks" })
+                            @Html.ValidationMessageFor(model => model.Remarks, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group mt-3">
+                            <button type="submit" class="as_btn text-white">Submit</button>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+<section class="as_map_section">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3232.6635670083247!2d76.88682547540616!3d31.52582967421148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390feb7a1649f279%3A0x4d278f21e4c54770!2sMaya%20IT%20Solutions%20Pvt.%20Ltd.!5e1!3m2!1sen!2sin!4v1737434315303!5m2!1sen!2sin"
+    width="100%" height="743px" style="border:0;" allowfullscreen=""
+    loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    
+</section>

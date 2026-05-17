@@ -1,0 +1,52 @@
+﻿@using MayaAstro.Services.Services
+@model List<YouTubeVideos>
+
+@{
+    ViewData["Title"] = "YouTube Blogs";
+}
+
+<h2 class="text-center mt-4">YouTube Blogs</h2>
+
+
+@* <form method="get" class="mb-4 text-center">
+    <label for="channelId">Enter Channel ID:</label>
+    <input type="text" name="channelId" id="channelId" placeholder="Enter Channel ID" required />
+    <label for="maxResults">Max Results:</label>
+    <input type="number" name="maxResults" id="maxResults" value="10" min="1" max="50" required />
+    <button type="submit">Fetch Videos</button>
+</form> *@
+<div class="container">
+    <div class="row">
+        @foreach (var video in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@video.Title</h5>                      
+                        <iframe width="100%" height="250"
+                                src="https://www.youtube.com/embed/@video.VideoId"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen>
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+<style>
+    .card {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        border-radius: 10px;
+        transition: transform 0.2s;
+    }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+    iframe {
+        border-radius: 10px;
+    }
+</style>

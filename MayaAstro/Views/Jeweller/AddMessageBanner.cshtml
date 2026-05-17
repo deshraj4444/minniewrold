@@ -1,0 +1,125 @@
+﻿@model MayaAstro.Models.MessageBannerDetailVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<style>
+    .submit-button-right {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float: right;
+    }
+
+        .submit-button-right:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+            float: right;
+        }
+</style>
+
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h1>Add MessageBanner Detail</h1>
+    </div>
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        @if (TempData["message"] != null)
+                        {
+                            <div class="alert alert-success">
+                                @TempData["message"]
+                            </div>
+                        }
+
+                        @if (TempData["error"] != null)
+                        {
+                            <div class="alert alert-danger">
+                                @TempData["error"]
+                            </div>
+                        }
+                        @using (Html.BeginForm("AddMessageBanner", "Jeweller", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                        {
+                            @Html.HiddenFor(model => model.Id)
+
+
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="row clearfix">
+
+                                        <div class="form-group col-lg-6 col-md-6 col-sm-12 mt-3">
+                                            <label for="WelcomeMessage">Welcome Message </label>
+                                            @Html.TextAreaFor(model => model.WelcomeMessage,
+                                                new { @class = "form-control", required = "required", rows = "4" })
+                                            @Html.ValidationMessageFor(model => model.WelcomeMessage, "", new { @class = "text-danger" })
+                                        </div>
+                                        <div class="form-group col-lg-6 col-md-6 col-sm-12 mt-3">
+                                            <label for="ContactMessage">Contact Message</label>
+                                            @Html.TextAreaFor(model => model.ContactMessage,
+                                                new { @class = "form-control", required = "required", rows = "4" })
+                                            @Html.ValidationMessageFor(model => model.ContactMessage, "", new { @class = "text-danger" })
+                                        </div>
+                                        <div class="form-group col-lg-6 col-md-6 col-sm-12 mt-3">
+                                            <label for="Address">Address</label>
+                                            @Html.TextAreaFor(model => model.Address,
+                                                new { @class = "form-control", rows = "3" })
+                                            @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+                                        </div>
+
+                                        <div class="form-group col-lg-6 col-md-6 col-sm-12 mt-3">
+                                            <label for="Email">Email</label>
+                                            @Html.TextBoxFor(model => model.Email,
+                                                new { @class = "form-control", type = "email" })
+                                            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                                        </div>
+
+                                        <div class="form-group text-center col-lg-12 col-md-12 col-sm-12 mb-3">
+                                            <input type="submit" class="btn submit-button-right" value="Submit" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+<script>// Hide alerts after 3 seconds
+    setTimeout(function () {
+        var alerts = document.querySelectorAll('.alert');
+        alerts.forEach(function (alert) {
+            alert.style.transition = "opacity 0.5s ease";
+            alert.style.opacity = "0";
+            setTimeout(function () {
+                alert.remove();
+            }, 500);
+        });
+    }, 3000);
+
+    // Preview uploaded image
+    function previewImage(event) {
+        var reader = new FileReader();
+        reader.onload = function () {
+            var output = document.getElementById('imgPreview');
+            output.src = reader.result;
+            output.style.display = 'block';
+        };
+        reader.readAsDataURL(event.target.files[0]);
+    }</script>
+<script>setTimeout(function () {
+        var alerts = document.querySelectorAll('.alert');
+        alerts.forEach(function (alert) {
+            alert.style.transition = "opacity 0.5s ease";
+            alert.style.opacity = "0";
+            setTimeout(function () {
+                alert.remove();
+            }, 500);
+        });
+    }, 3000); // 3 seconds</script>
+

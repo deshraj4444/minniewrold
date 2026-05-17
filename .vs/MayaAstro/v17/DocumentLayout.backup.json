@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Office\\MayaItProjects\\mayaAstro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|c:\\office\\mayaitprojects\\mayaastro\\mayaastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|solutionrelative:mayaastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|c:\\office\\mayaitprojects\\mayaastro\\mayaastro\\controllers\\jewellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|solutionrelative:mayaastro\\controllers\\jewellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|c:\\office\\mayaitprojects\\mayaastro\\mayaastro\\controllers\\webapi\\jewellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|solutionrelative:mayaastro\\controllers\\webapi\\jewellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|c:\\office\\mayaitprojects\\mayaastro\\mayaastro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|solutionrelative:mayaastro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|c:\\office\\mayaitprojects\\mayaastro\\mayaastro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|solutionrelative:mayaastro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|c:\\office\\mayaitprojects\\mayaastro\\mayaastro\\services\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|solutionrelative:mayaastro\\services\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|c:\\office\\mayaitprojects\\mayaastro\\mayaastro\\services\\services\\notificationhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|solutionrelative:mayaastro\\services\\services\\notificationhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|c:\\office\\mayaitprojects\\mayaastro\\mayaastro\\services\\repositories\\jewellerrepositiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|solutionrelative:mayaastro\\services\\repositories\\jewellerrepositiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|c:\\office\\mayaitprojects\\mayaastro\\mayaastro\\services\\services\\jewellerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|solutionrelative:mayaastro\\services\\services\\jewellerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|c:\\office\\mayaitprojects\\mayaastro\\mayaastro\\controllers\\minnieworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|solutionrelative:mayaastro\\controllers\\minnieworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|c:\\office\\mayaitprojects\\mayaastro\\mayaastro\\mayaastro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5518EFD8-B48E-4795-AA01-6C40B4993069}|MayaAstro\\MayaAstro.csproj|solutionrelative:mayaastro\\mayaastro.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Program.cs",
+              "RelativeDocumentMoniker": "MayaAstro\\Program.cs",
+              "ToolTip": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Program.cs",
+              "RelativeToolTip": "MayaAstro\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T11:00:52.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationHubService.cs",
+              "DocumentMoniker": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Services\\Services\\NotificationHubService.cs",
+              "RelativeDocumentMoniker": "MayaAstro\\Services\\Services\\NotificationHubService.cs",
+              "ToolTip": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Services\\Services\\NotificationHubService.cs",
+              "RelativeToolTip": "MayaAstro\\Services\\Services\\NotificationHubService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowF4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T11:00:50.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JewellerRepositiory.cs",
+              "DocumentMoniker": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Services\\Repositories\\JewellerRepositiory.cs",
+              "RelativeDocumentMoniker": "MayaAstro\\Services\\Repositories\\JewellerRepositiory.cs",
+              "ToolTip": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Services\\Repositories\\JewellerRepositiory.cs",
+              "RelativeToolTip": "MayaAstro\\Services\\Repositories\\JewellerRepositiory.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAcwKMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:59:52.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JewellerController.cs",
+              "DocumentMoniker": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Controllers\\WebApi\\JewellerController.cs",
+              "RelativeDocumentMoniker": "MayaAstro\\Controllers\\WebApi\\JewellerController.cs",
+              "ToolTip": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Controllers\\WebApi\\JewellerController.cs",
+              "RelativeToolTip": "MayaAstro\\Controllers\\WebApi\\JewellerController.cs",
+              "ViewState": "AgIAAAEAAABAAAAAAEAlwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:58:19.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JewellerController.cs",
+              "DocumentMoniker": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Controllers\\JewellerController.cs",
+              "RelativeDocumentMoniker": "MayaAstro\\Controllers\\JewellerController.cs",
+              "ToolTip": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Controllers\\JewellerController.cs",
+              "RelativeToolTip": "MayaAstro\\Controllers\\JewellerController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowGwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:58:06.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JewellerServices.cs",
+              "DocumentMoniker": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Services\\Services\\JewellerServices.cs",
+              "RelativeDocumentMoniker": "MayaAstro\\Services\\Services\\JewellerServices.cs",
+              "ToolTip": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Services\\Services\\JewellerServices.cs",
+              "RelativeToolTip": "MayaAstro\\Services\\Services\\JewellerServices.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAcwOkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:55:38.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MinnieWorldController.cs",
+              "DocumentMoniker": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Controllers\\MinnieWorldController.cs",
+              "RelativeDocumentMoniker": "MayaAstro\\Controllers\\MinnieWorldController.cs",
+              "ToolTip": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Controllers\\MinnieWorldController.cs",
+              "RelativeToolTip": "MayaAstro\\Controllers\\MinnieWorldController.cs",
+              "ViewState": "AgIAABQAAAAoMzMzM/MvwBcAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:54:55.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MayaAstro",
+              "DocumentMoniker": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\MayaAstro.csproj",
+              "RelativeDocumentMoniker": "MayaAstro\\MayaAstro.csproj",
+              "ToolTip": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\MayaAstro.csproj",
+              "RelativeToolTip": "MayaAstro\\MayaAstro.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T10:51:33.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Services\\Configuration\\Configuration.cs",
+              "RelativeDocumentMoniker": "MayaAstro\\Services\\Configuration\\Configuration.cs",
+              "ToolTip": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\Services\\Configuration\\Configuration.cs",
+              "RelativeToolTip": "MayaAstro\\Services\\Configuration\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T10:49:52.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\appsettings.json",
+              "RelativeDocumentMoniker": "MayaAstro\\appsettings.json",
+              "ToolTip": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\appsettings.json",
+              "RelativeToolTip": "MayaAstro\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T10:43:36.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MayaAstro\\appsettings.Development.json",
+              "ToolTip": "C:\\Office\\MayaItProjects\\mayaAstro\\MayaAstro\\appsettings.Development.json",
+              "RelativeToolTip": "MayaAstro\\appsettings.Development.json",
+              "ViewState": "AgIAAC8AAABAzczMzEwiwDoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T10:43:15.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+﻿@model MayaAstro.Models.GoldSettingsVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<style>
+    .submit-button-right {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float: right;
+    }
+
+        .submit-button-right:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+            float: right;
+        }
+</style>
+
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h1>Add Gold & Silver Settings</h1>
+    </div>
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        @if (TempData["message"] != null)
+                        {
+                            <div class="alert alert-success">@TempData["message"]</div>
+                        }
+
+                        @if (TempData["error"] != null)
+                        {
+                            <div class="alert alert-danger">@TempData["error"]</div>
+                        }
+
+                        @using (Html.BeginForm("AddGoldSettings", "Jeweller", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                        {
+                            @Html.HiddenFor(model => model.Id)
+
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="row clearfix">
+
+                                        <h5>Gold Settings</h5>
+                                        <div class="form-group col-lg-4 mt-3">
+                                            <label>Gold Premium Per Gram</label>
+                                            @Html.TextBoxFor(model => model.GoldPremiumPerGram,
+                                                new { @class = "form-control", type = "number", step = "0.01" })
+                                        </div>
+
+                                        <div class="form-group col-lg-4 mt-3">
+                                            <label>Gold GST Adjustment (%)</label>
+                                            @Html.TextBoxFor(model => model.GoldGstAdjustment,
+                                                new { @class = "form-control", type = "number", step = "0.01" })
+                                        </div>
+
+                                        <div class="form-group col-lg-4 mt-3">
+                                            <label>Gold Dealer Margin</label>
+                                            @Html.TextBoxFor(model => model.GoldDealerMargin,
+                                                new { @class = "form-control", type = "number", step = "0.01" })
+                                        </div>
+
+                                        <h5 class="mt-4">Silver Settings</h5>
+                                        <div class="form-group col-lg-4 mt-3">
+                                            <label>Silver Premium Per Kg</label>
+                                            @Html.TextBoxFor(model => model.SilverPremiumPerKg,
+                                                new { @class = "form-control", type = "number", step = "0.01" })
+                                        </div>
+
+                                        <div class="form-group col-lg-4 mt-3">
+                                            <label>Silver GST Adjustment (%)</label>
+                                            @Html.TextBoxFor(model => model.SilverGstAdjustment,
+                                                new { @class = "form-control", type = "number", step = "0.01" })
+                                        </div>
+
+                                        <div class="form-group col-lg-4 mt-3">
+                                            <label>Silver Dealer Margin</label>
+                                            @Html.TextBoxFor(model => model.SilverDealerMargin,
+                                                new { @class = "form-control", type = "number", step = "0.01" })
+                                        </div>
+
+                                        <div class="form-group text-center col-lg-12 col-md-12 col-sm-12 mb-3">
+                                            <input type="submit" class="btn submit-button-right" value="Submit" />
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<script>// Hide alerts after 3 seconds
+    setTimeout(function () {
+        var alerts = document.querySelectorAll('.alert');
+        alerts.forEach(function (alert) {
+            alert.style.transition = "opacity 0.5s ease";
+            alert.style.opacity = "0";
+            setTimeout(function () {
+                alert.remove();
+            }, 500);
+        });
+    }, 3000);</script>

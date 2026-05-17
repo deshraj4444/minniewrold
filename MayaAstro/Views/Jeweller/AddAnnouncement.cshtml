@@ -1,0 +1,81 @@
+﻿@model MayaAstro.Models.AnnouncementsVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<style>
+    .submit-button-right {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float: right;
+    }
+
+        .submit-button-right:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+        }
+</style>
+
+<main id="main" class="main">
+
+    <div class="pagetitle">
+        <h1>Add / Edit Announcement</h1>
+    </div>
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+
+                <div class="card">
+                    <div class="card-body">
+
+                        @if (TempData["message"] != null)
+                        {
+                            <div class="alert alert-success">@TempData["message"]</div>
+                        }
+
+                        @if (TempData["error"] != null)
+                        {
+                            <div class="alert alert-danger">@TempData["error"]</div>
+                        }
+
+                        @using (Html.BeginForm("AddAnnouncement", "Jeweller", FormMethod.Post))
+                        {
+                            @Html.HiddenFor(model => model.Id)
+
+                            <div class="row clearfix">
+
+                                <div class="form-group col-lg-6 mt-3">
+                                    <label>Title</label>
+                                    @Html.TextBoxFor(model => model.Title, new { @class = "form-control", required = "required" })
+                                </div>
+
+                                <div class="form-group col-lg-12 mt-3">
+                                    <label>Message</label>
+                                    @Html.TextAreaFor(model => model.Message, new { @class = "form-control", rows = 4, required = "required" })
+                                </div>
+
+                                <div class="form-group col-lg-6 mt-3">
+                                    <label> Date</label>
+                                    @Html.TextBoxFor(model => model.StartDate, "{0:yyyy-MM-dd}",
+                                    new { @class = "form-control", type = "date", required = "required" })
+                                </div>
+
+                                <div class="form-group text-center col-lg-12 mt-4">
+                                    <input type="submit" class="btn submit-button-right" value="Submit" />
+                                </div>
+
+                            </div>
+                        }
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+</main>

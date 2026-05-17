@@ -1,0 +1,112 @@
+﻿@model MayaAstro.Models.ZodiacCombinedViewModelVM
+@{
+	ViewData["Title"] = @ViewBag.Sign;
+	var today = DateOnly.FromDateTime(DateTime.Today);
+	@inject Microsoft.Extensions.Configuration.IConfiguration Configuration;
+	var uploadUrl = Configuration["ApiSettings:UploadURL"];
+}
+
+@if (Model.HoroscopeVMData.Date == today)
+{
+	<section class="as_servicedetail_wrapper as_padderBottom80 as_padderTop80">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-9 col-md-8">
+					<div class="as_blog_box as_blog_single as_padderBottom80 horoscope">
+					@* 	<h1>Aquarius Today's Horoscope</h1>
+						<h2>@Model.HoroscopeVMData.Date</h2> *@
+						<h1>@Model.HoroscopeVMData.Title </h1>
+						<h6>@Model.HoroscopeVMData.Date</h6>
+						<div class="as_blogdetail_img">
+							<img src="@uploadUrl@Model.HoroscopeVMData.BannerImageUrl" class="img-responsive horoscope" alt="">
+						</div>
+					</div>
+					<div class="Horoscope-description prediction">
+					@* 	<h1>@Model.HoroscopeVMData.Title </h1>
+						<h6>@Model.HoroscopeVMData.Date</h6> *@
+						<p>@Html.Raw(Model.HoroscopeVMData.ShortDescription)</p>
+						<p>@Html.Raw(Model.HoroscopeVMData.LongDescription) </p>
+					</div>
+						
+				
+				</div>
+				<div class="col-lg-3 col-md-4">
+					<div style="padding: 20px; background-color: #f9f9f9; border-radius: 10px;">
+						<h3 style="margin-bottom: 20px; text-align: center; font-size: 22px; font-weight: bold;">Discover Your Rashi</h3>
+						<ul style="list-style: none; padding: 0;">
+							@if (Model?.HoroscopeVMData?.RashiList?.Any() == true)
+							{
+								foreach (var rashi in Model.HoroscopeVMData.RashiList)
+								{
+									<li style="display: flex; align-items: center; margin-bottom: 15px; background: #fff; padding: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+										<figure style="margin: 0; width: 50px; height: 50px;">
+											<img src="@uploadUrl@rashi.ImageUrl"
+												 style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;"
+												 alt="">
+										</figure>
+										<div style="margin-left: 10px;">
+											<h5 style="margin: 0; font-size: 16px;">
+												<a href="/zodiac/@rashi.Name" style="text-decoration: none; color: #333;">
+													@rashi.Name
+												</a>
+											</h5>
+										</div>
+									</li>
+								}
+							}
+							else
+							{
+								<li style="text-align: center; color: #888;">No rashis data available.</li>
+							}
+						</ul>
+					</div>
+				</div>
+
+
+				
+			</div>
+		</div>
+	</section>
+}
+else
+{
+	<section class="as_banner_wrapper">
+		<div class="container-fluid">
+			<div class="row as_verticle_center">
+				<div class="col-lg-6 order-lg-1 col-md-6 order-md-1 col-sm-12 order-sm-1 col-12 order-2">
+
+					<div class="container containerzodaic-tarus-content">
+						<h1>@(@ViewBag.Sign.ToString().Substring(0, 1).ToUpper() + @ViewBag.Sign.ToString().Substring(1).ToLower()) Horoscope</h1>
+
+
+						<p><strong>Date:</strong> @Model.HoroscopeData.Date</p>
+						<p><strong>Horoscope:</strong> @Model.HoroscopeData.Horoscope_Data</p>
+
+
+
+
+
+					</div>
+
+
+				</div>
+				<div class="col-lg-6 order-lg-2 col-md-6 order-md-2 col-sm-12 order-sm-2 col-12 order-1">
+					<div class="as_banner_img text-center">
+						<img src="~/img/banner_image.png" alt="" class="img-fluid">
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="container-fluid px-0 position-relative">
+
+			<div class="header-slider">
+			</div>
+		</div>
+
+	</section>
+}
+
+
+

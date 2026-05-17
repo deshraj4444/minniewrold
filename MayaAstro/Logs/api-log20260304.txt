@@ -1,0 +1,227 @@
+2026-03-04 16:31:41.477 +05:30 [INF] User profile is available. Using 'C:\Users\rajin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-03-04 16:31:42.476 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/ - null null
+2026-03-04 16:31:42.542 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-03-04 16:31:42.544 +05:30 [INF] Hosting environment: Production
+2026-03-04 16:31:42.544 +05:30 [INF] Content root path: C:\Office\MayaItProjects\mayaAstro\MayaAstro
+2026-03-04 16:31:46.950 +05:30 [INF] Executing endpoint 'MayaAstro.Controllers.HomeController.Index (MayaAstro)'
+2026-03-04 16:31:47.178 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller MayaAstro.Controllers.HomeController (MayaAstro).
+2026-03-04 16:31:47.783 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44327/api/HomeBlogList/1 - null null
+2026-03-04 16:31:47.850 +05:30 [INF] Executing endpoint 'MayaAstro.Controllers.WebApi.BlogApiController.HomeBlogList (MayaAstro)'
+2026-03-04 16:31:48.029 +05:30 [INF] Route matched with {action = "HomeBlogList", controller = "BlogApi"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] HomeBlogList(Int32, System.String) on controller MayaAstro.Controllers.WebApi.BlogApiController (MayaAstro).
+2026-03-04 16:31:51.145 +05:30 [WRN] No store type was specified for the decimal property 'Gold10g' on entity type 'GoldPriceData'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-04 16:31:51.146 +05:30 [WRN] No store type was specified for the decimal property 'SilverPerKg' on entity type 'GoldPriceData'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-04 16:31:51.146 +05:30 [WRN] No store type was specified for the decimal property 'UsdInr' on entity type 'GoldPriceData'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-04 16:32:35.936 +05:30 [ERR] An error occurred using the connection to database 'MayaDB' on server '192.168.1.15'.
+2026-03-04 16:32:36.140 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'MayaAstro.DatabaseEntities.MayaAstroContext'.
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (64): The specified network name is no longer available.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:64,State:0,Class:20
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (64): The specified network name is no longer available.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:64,State:0,Class:20
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2026-03-04 16:32:36.484 +05:30 [INF] Executing OkObjectResult, writing value of type 'MayaAstro.Models.ApiResponseModel'.
+2026-03-04 16:32:36.769 +05:30 [INF] Executed action MayaAstro.Controllers.WebApi.BlogApiController.HomeBlogList (MayaAstro) in 48725.664ms
+2026-03-04 16:32:36.784 +05:30 [INF] Executed endpoint 'MayaAstro.Controllers.WebApi.BlogApiController.HomeBlogList (MayaAstro)'
+2026-03-04 16:32:36.864 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:44327/api/HomeBlogList/1 - 200 null application/json; charset=utf-8 49076.1801ms
+2026-03-04 16:32:37.186 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44327/api/GetHoroscopeList/ - null null
+2026-03-04 16:32:37.255 +05:30 [INF] Executing endpoint 'MayaAstro.Controllers.WebApi.HoroscopeApiController.GetHoroscopeList (MayaAstro)'
+2026-03-04 16:32:37.275 +05:30 [INF] Route matched with {action = "GetHoroscopeList", controller = "HoroscopeApi"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHoroscopeList() on controller MayaAstro.Controllers.WebApi.HoroscopeApiController (MayaAstro).
+2026-03-04 16:32:37.485 +05:30 [ERR] An error occurred using the connection to database 'MayaDB' on server '192.168.1.15'.
+2026-03-04 16:32:37.496 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'MayaAstro.DatabaseEntities.MayaAstroContext'.
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (64): The specified network name is no longer available.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:64,State:0,Class:20
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (64): The specified network name is no longer available.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:64,State:0,Class:20
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2026-03-04 16:32:37.652 +05:30 [INF] Executing OkObjectResult, writing value of type 'MayaAstro.Models.ApiResponseModel'.
+2026-03-04 16:32:37.654 +05:30 [INF] Executed action MayaAstro.Controllers.WebApi.HoroscopeApiController.GetHoroscopeList (MayaAstro) in 378.53ms
+2026-03-04 16:32:37.655 +05:30 [INF] Executed endpoint 'MayaAstro.Controllers.WebApi.HoroscopeApiController.GetHoroscopeList (MayaAstro)'
+2026-03-04 16:32:37.658 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:44327/api/GetHoroscopeList/ - 200 null application/json; charset=utf-8 472.2976ms
+2026-03-04 16:32:37.795 +05:30 [INF] Executing ViewResult, running view Index.
+2026-03-04 16:32:38.206 +05:30 [INF] Executed ViewResult - view Index executed in 428.3043ms.
+2026-03-04 16:32:38.206 +05:30 [INF] Executed action MayaAstro.Controllers.HomeController.Index (MayaAstro) in 51025.6206ms
+2026-03-04 16:32:38.207 +05:30 [INF] Executed endpoint 'MayaAstro.Controllers.HomeController.Index (MayaAstro)'
+2026-03-04 16:32:38.234 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/ - 200 null text/html; charset=utf-8 55787.4844ms
+2026-03-04 16:32:38.482 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/css/slick.css?v=1.0 - null null
+2026-03-04 16:32:38.572 +05:30 [INF] Sending file. Request path: '/css/slick.css'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\css\slick.css'
+2026-03-04 16:32:38.575 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/css/slick.css?v=1.0 - 200 1893 text/css 93.3834ms
+2026-03-04 16:32:38.603 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/css/style.css?v=1.0 - null null
+2026-03-04 16:32:38.616 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/logo.png - null null
+2026-03-04 16:32:38.617 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/banner_image.png - null null
+2026-03-04 16:32:38.679 +05:30 [INF] Sending file. Request path: '/img/logo.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\logo.png'
+2026-03-04 16:32:38.683 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/logo.png - 200 13754 image/png 66.9707ms
+2026-03-04 16:32:38.683 +05:30 [INF] Sending file. Request path: '/css/style.css'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\css\style.css'
+2026-03-04 16:32:38.695 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/css/style.css?v=1.0 - 200 66313 text/css 92.2442ms
+2026-03-04 16:32:38.717 +05:30 [INF] Sending file. Request path: '/img/banner_image.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\banner_image.png'
+2026-03-04 16:32:38.718 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/about1.png - null null
+2026-03-04 16:32:38.718 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/sign1.png - null null
+2026-03-04 16:32:38.719 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/banner_image.png - 200 177575 image/png 101.9222ms
+2026-03-04 16:32:38.730 +05:30 [INF] Sending file. Request path: '/img/sign1.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\sign1.png'
+2026-03-04 16:32:38.731 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/sign1.png - 200 25724 image/png 13.2229ms
+2026-03-04 16:32:38.738 +05:30 [INF] Sending file. Request path: '/img/about1.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\about1.png'
+2026-03-04 16:32:38.742 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/about1.png - 200 317465 image/png 24.0303ms
+2026-03-04 16:32:38.778 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/sign3.png - null null
+2026-03-04 16:32:38.787 +05:30 [INF] Sending file. Request path: '/img/sign3.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\sign3.png'
+2026-03-04 16:32:38.787 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/js/slick.min.js - null null
+2026-03-04 16:32:38.787 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/sign3.png - 200 13337 image/png 9.8308ms
+2026-03-04 16:32:38.798 +05:30 [INF] Sending file. Request path: '/js/slick.min.js'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\js\slick.min.js'
+2026-03-04 16:32:38.798 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/js/main.js - null null
+2026-03-04 16:32:38.804 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/js/slick.min.js - 200 42862 text/javascript 16.7233ms
+2026-03-04 16:32:38.807 +05:30 [INF] Sending file. Request path: '/js/main.js'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\js\main.js'
+2026-03-04 16:32:38.807 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/js/main.js - 200 1430 text/javascript 9.1014ms
+2026-03-04 16:32:38.809 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/_framework/aspnetcore-browser-refresh.js - null null
+2026-03-04 16:32:38.819 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/sign4.png - null null
+2026-03-04 16:32:38.827 +05:30 [INF] Sending file. Request path: '/img/sign4.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\sign4.png'
+2026-03-04 16:32:38.843 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/sign4.png - 200 25123 image/png 24.0927ms
+2026-03-04 16:32:38.847 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 22.6251ms
+2026-03-04 16:32:38.847 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/sign2.png - null null
+2026-03-04 16:32:38.915 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/sign10.png - null null
+2026-03-04 16:32:38.917 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/sign5.png - null null
+2026-03-04 16:32:38.918 +05:30 [INF] Sending file. Request path: '/img/sign2.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\sign2.png'
+2026-03-04 16:32:38.951 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/sign2.png - 200 35135 image/png 103.6181ms
+2026-03-04 16:32:38.969 +05:30 [INF] Sending file. Request path: '/img/sign5.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\sign5.png'
+2026-03-04 16:32:38.969 +05:30 [INF] Sending file. Request path: '/img/sign10.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\sign10.png'
+2026-03-04 16:32:38.970 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/sign10.png - 200 32891 image/png 55.0473ms
+2026-03-04 16:32:38.970 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/sign5.png - 200 30164 image/png 53.8755ms
+2026-03-04 16:32:39.845 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/sign6.png - null null
+2026-03-04 16:32:39.845 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/header-banner.png - null null
+2026-03-04 16:32:39.845 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/zodiac.png - null null
+2026-03-04 16:32:39.854 +05:30 [INF] Sending file. Request path: '/img/sign6.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\sign6.png'
+2026-03-04 16:32:39.863 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/sign6.png - 200 13182 image/png 18.4083ms
+2026-03-04 16:32:39.864 +05:30 [INF] Sending file. Request path: '/img/zodiac.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\zodiac.png'
+2026-03-04 16:32:39.866 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/zodiac.png - 200 78489 image/png 21.044ms
+2026-03-04 16:32:39.883 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/sign9.png - null null
+2026-03-04 16:32:39.884 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/sign8.png - null null
+2026-03-04 16:32:39.898 +05:30 [INF] Sending file. Request path: '/img/sign8.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\sign8.png'
+2026-03-04 16:32:39.902 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/sign8.png - 200 15967 image/png 19.0236ms
+2026-03-04 16:32:39.903 +05:30 [INF] Sending file. Request path: '/img/sign9.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\sign9.png'
+2026-03-04 16:32:39.903 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/sign9.png - 200 21862 image/png 19.7345ms
+2026-03-04 16:32:39.908 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/sign12.png - null null
+2026-03-04 16:32:39.908 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/sign7.png - null null
+2026-03-04 16:32:39.918 +05:30 [INF] Sending file. Request path: '/img/sign12.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\sign12.png'
+2026-03-04 16:32:39.918 +05:30 [INF] Sending file. Request path: '/img/sign7.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\sign7.png'
+2026-03-04 16:32:39.920 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/sign7.png - 200 33046 image/png 12.4801ms
+2026-03-04 16:32:39.921 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/sign12.png - 200 37080 image/png 12.8489ms
+2026-03-04 16:32:39.928 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/service1.svg - null null
+2026-03-04 16:32:39.929 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/service2.svg - null null
+2026-03-04 16:32:39.934 +05:30 [INF] Sending file. Request path: '/img/service1.svg'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\service1.svg'
+2026-03-04 16:32:39.941 +05:30 [INF] Sending file. Request path: '/img/service2.svg'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\service2.svg'
+2026-03-04 16:32:39.941 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/service1.svg - 200 1710 image/svg+xml 12.5083ms
+2026-03-04 16:32:39.942 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/service2.svg - 200 2744 image/svg+xml 13.0554ms
+2026-03-04 16:32:39.946 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/service3.svg - null null
+2026-03-04 16:32:39.951 +05:30 [INF] Sending file. Request path: '/img/service3.svg'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\service3.svg'
+2026-03-04 16:32:39.952 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/service3.svg - 200 2011 image/svg+xml 5.8236ms
+2026-03-04 16:32:39.963 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/service4.svg - null null
+2026-03-04 16:32:39.970 +05:30 [INF] Sending file. Request path: '/img/service4.svg'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\service4.svg'
+2026-03-04 16:32:39.971 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/service4.svg - 200 1344 image/svg+xml 8.1619ms
+2026-03-04 16:32:39.972 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/service5.svg - null null
+2026-03-04 16:32:39.980 +05:30 [INF] Sending file. Request path: '/img/service5.svg'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\service5.svg'
+2026-03-04 16:32:39.980 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/service5.svg - 200 3618 image/svg+xml 8.697ms
+2026-03-04 16:32:39.980 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/service6.svg - null null
+2026-03-04 16:32:39.987 +05:30 [INF] Sending file. Request path: '/img/service6.svg'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\service6.svg'
+2026-03-04 16:32:39.988 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/service6.svg - 200 2449 image/svg+xml 8.1254ms
+2026-03-04 16:32:39.991 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/service7.svg - null null
+2026-03-04 16:32:39.998 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/service8.svg - null null
+2026-03-04 16:32:39.998 +05:30 [INF] Sending file. Request path: '/img/service7.svg'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\service7.svg'
+2026-03-04 16:32:39.998 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/service7.svg - 200 14684 image/svg+xml 7.4259ms
+2026-03-04 16:32:40.003 +05:30 [INF] Sending file. Request path: '/img/service8.svg'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\service8.svg'
+2026-03-04 16:32:40.005 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/service8.svg - 200 1257 image/svg+xml 7.4062ms
+2026-03-04 16:32:40.006 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/shape.svg - null null
+2026-03-04 16:32:40.013 +05:30 [INF] Sending file. Request path: '/img/shape.svg'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\shape.svg'
+2026-03-04 16:32:40.014 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/shape.svg - 200 16038 image/svg+xml 7.8242ms
+2026-03-04 16:32:40.141 +05:30 [INF] Sending file. Request path: '/img/header-banner.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\header-banner.png'
+2026-03-04 16:32:40.166 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/header-banner.png - 200 6723385 image/png 320.9624ms
+2026-03-04 16:32:40.172 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/_vs/browserLink - null null
+2026-03-04 16:32:40.304 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44327/img/bg-2.png - null null
+2026-03-04 16:32:40.359 +05:30 [INF] Sending file. Request path: '/img/bg-2.png'. Physical path: 'C:\Office\MayaItProjects\mayaAstro\MayaAstro\wwwroot\img\bg-2.png'
+2026-03-04 16:32:40.378 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/img/bg-2.png - 200 2119846 image/png 74.3857ms
+2026-03-04 16:32:40.428 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44327/_vs/browserLink - 200 null text/javascript; charset=UTF-8 256.0257ms

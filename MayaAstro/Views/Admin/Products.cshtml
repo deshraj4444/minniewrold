@@ -1,0 +1,189 @@
+﻿@model MayaAstro.Models.ProductDetailVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<style>
+    .submit-button {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float:right;
+    }
+
+        .submit-button:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+        }
+
+    .submit-button-right {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float: right;
+    }
+
+        .submit-button-right:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+        }
+</style>
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h1>Products</h1>
+         @* <nav>
+             <ol class="breadcrumb">
+                 <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                 <li class="breadcrumb-item">Products</li>
+             </ol>   
+         </nav> *@
+    </div><!-- End Page Title -->
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                      
+
+                        <!-- Multi Columns Form -->
+                        @using (Html.BeginForm("Products", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                        {
+                            @Html.HiddenFor(model => model.Id)
+                            @Html.HiddenFor(model => model.BannerImageUrl)
+
+                            <div class="card mt-3">
+                                <div class="card-body">
+                                    <h5 class="card-title">Add Products</h5>
+                                    <div class="row">
+                                        <div class="col-md-6 about-section-top">
+                                            <label class="admin-panel-label">Product Category</label>
+                                            @Html.DropDownListFor(m => m.ProductCategoryId, new SelectList(Model.ProductList, "Id", "ProductCategoryName"), "-- Select Category --", new { @class = "form-control nice-select wide" })
+                                            @Html.ValidationMessageFor(model => model.ProductCategoryId, "", new { @class = "text-danger" })
+                                        </div>
+                                        <div class="col-md-6 align-items-center justify-content-right about-section-top">
+                                            <a href="/Admin/AddProdutCategory" class="btn submit-button-right">Add Product Category</a>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+
+                                        <div class="col-md-6 mt-3 about-section-top">
+                                            <label class="admin-panel-label" for="Image">Upload Image</label>
+                                            <div class="form-group">
+                                                <div class="upload-img mt-3 text-center">
+
+                                                    <img id="selectedImage" src="@Model.BannerImageUrl" alt="Selected Image" class="profile-pic" style="max-width: 100px; max-height: 100px;" />
+
+                                                </div>
+                                                <div class="custom-file">
+                                                    <input type="file" class="form-control nice-select wide" id="Image" name="Image" onchange="showImage(this)" accept="image/*">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-6 about-section-top">
+                                            <label class="admin-panel-label">Title</label>
+                                            @Html.TextBoxFor(m => m.Title, new { @class = "form-control", required = "required" })
+                                            @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+                                        </div>
+
+
+                                        <div class="col-md-6">
+                                            <label class="admin-panel-label" for="DownloadLink">Upload Catalog</label>
+                                            <div class="form-group">
+                                                <div class="custom-file">
+                                                    <input type="file" class="form-control nice-select wide" id="DownloadLink" name="DownloadLink">
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+                                        <div class="col-md-12 about-section-top">
+                                            <label class="admin-panel-label">Description</label>
+                                            @Html.TextAreaFor(m => m.Description, new { @class = "form-control", id = "description" })
+                                        </div>
+                                   
+
+                                    <div class="col-md-12 about-section-top">
+                                        <label class="admin-panel-label">Specification</label>
+                                        @Html.TextAreaFor(m => m.ProductDescription, new { @class = "form-control", id = "productdescription" })
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row g-3">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">SEO</h5>
+                                        <div class="row">
+                                        <div class="col-md-6 about-section-top">
+                                                <label class="admin-panel-label">Product Meta Title</label>
+                                                @Html.TextBoxFor(m => m.ProductMetaTitle, new { @class = "form-control" })
+                                           
+                                        </div>
+
+                                        <div class="col-md-6 about-section-top">
+                                            <label class="admin-panel-label">Product Meta Description</label>
+                                            @Html.TextBoxFor(m => m.ProductMetaDescription, new { @class = "form-control" })
+                                        </div>
+                                        </div>
+                                       
+                                        <div class="row">
+                                        <div class="col-md-6 about-section-top">
+                                            <label class="admin-panel-label">Seo Title</label>
+                                            @Html.TextBoxFor(m => m.SeoTitle, new { @class = "form-control" })
+                                        </div>
+
+                                        <div class="col-md-6 about-section-top">
+                                            <label class="admin-panel-label">Product Meta Keyword</label>
+                                            @Html.TextBoxFor(m => m.ProductMetaKeyword, new { @class = "form-control" })
+                                        </div>
+                                       </div>
+                                    <div class="row">
+                                        <div class="col-md-6 about-section-top">
+                                            <label class="admin-panel-label">Product Meta Content</label>
+                                            @Html.TextBoxFor(m => m.ProductMetaContent, new { @class = "form-control" })
+                                        </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                               
+
+                                <div class="col-md-12">
+                                <input type="submit" class="btn submit-button ms-5 mt-3" value="Submit" />
+                                </div>
+                           
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/ckeditor5-35.4.0-clasic/build/ckeditor.js"></script>
+<script src="~/js/ckeditor (1).js"></script>
+<script>
+    function showImage(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#selectedImage').attr('src', e.target.result).show();
+            };
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+
+    ClassicEditor
+        .create(document.querySelector('#description'))
+        .catch(error => {
+            console.error(error);
+        });
+
+    ClassicEditor
+        .create(document.querySelector('#productdescription'))
+        .catch(error => {
+            console.error(error);
+        });
+</script>

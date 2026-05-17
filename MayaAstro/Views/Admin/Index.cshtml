@@ -1,0 +1,149 @@
+﻿@model MayaAstro.Models.WebsiteVM
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    @inject Microsoft.Extensions.Configuration.IConfiguration Configuration;
+    var uploadUrl = Configuration["ApiSettings:UploadURL"];
+}
+
+<style>
+    .submit-button {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float: right;
+    }
+
+        .submit-button:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+        }
+
+    .submit-button-right {
+        background-color: #0f4989 !important;
+        color: white !important;
+    }
+
+        .submit-button-right:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+        }
+
+    #entriesPerPage {
+        display: block;
+        height: 40px;
+    }
+
+    .action-buttons.position-absolute.top-0.end-0.p-2 {
+        margin-top: -33px;
+        margin-right: -28px;
+    }
+    .card {
+        min-height: 350px;
+    }
+    .action-buttons .btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .action-buttons {
+        position: relative;
+        display: flex;
+        justify-content: flex-end;
+        right: 0;
+        top: 0;
+        border-bottom: 1px solid #c0c7cf;
+    }
+</style>
+@{
+    int selectedWebsiteId = ViewBag.SelectedWebsiteId ?? 1;
+}
+<main id="main" class="main">
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="col-lg-6">
+                            <h5 class="card-title">Websites List</h5>
+                        </div>
+
+                        <form id="websiteSelectionForm">
+                            @Html.AntiForgeryToken() <!-- Ensure CSRF token is present -->
+
+                            <div class="row g-4 mt-4" id="horoscopesCards">
+                                @if (Model?.WebsiteList?.Any() == true)
+                                {
+                                    foreach (var website in Model.WebsiteList)
+                                    {
+                                        <div class="col-lg-4 col-md-6 mb-4">
+                                            <div class="card">
+                                                <div class="action-buttons mb-2">
+                                                    <input type="radio" name="selectedWebsite"
+                                                           value="@website.Id"
+                                                           class="website-radio"
+                                                    @(website.Id == selectedWebsiteId ? "checked" : "")>
+                                                    Select
+                                                </div>
+                                                <div>
+                                                    <a class="card-title" href="@Url.Action("SelectWebsite", "Admin", new { websiteId = website.Id })" title="Select Website">
+                                                        @website.WebsiteName
+                                                        <img src="@uploadUrl@website.WebsiteLogoUrl"
+                                                             alt="Image"
+                                                             class="card-img-top mb-lg-3 mb-md-2 mb-sm-2"
+                                                             style="width: 100%; height: 200px; object-fit: scale-down;" />
+                                                        <h6>@website.WebsiteName</h6>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+                                }
+                                else
+                                {
+                                    <div class="col-lg-12">
+                                        <div class="alert alert-warning" role="alert">
+                                            No Websites available.
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+<script>
+$(document).ready(function () {
+    debugger;
+    $(".website-radio").change(function () {
+        var selectedWebsiteId = parseInt($(this).val(), 10); // Convert to integer
+
+        console.log("Selected Website ID:", selectedWebsiteId); // Debugging Log
+
+        // Ensure websiteId is valid (not null, undefined, or 0)
+        if (!selectedWebsiteId || selectedWebsiteId === 0) {
+            console.error("Invalid Website ID:", selectedWebsiteId);
+            return; // Stop execution if websiteId is invalid
+        }
+
+        $.ajax({
+            url: "/Admin/UpdateUserWebsite",
+            type: "POST",
+            contentType: "application/json",
+            data: JSON.stringify({ websiteId: selectedWebsiteId }),
+            success: function (response) {
+                if (response.success) {
+                    console.log("Website ID updated successfully!");
+                } else {
+                    console.error("Error updating website ID:", response.message);
+                }
+            },
+            error: function () {
+                console.error("Something went wrong while updating the website ID.");
+            }
+        });
+    });
+});
+</script>

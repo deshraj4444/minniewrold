@@ -1,0 +1,914 @@
+﻿@model MayaAstro.Models.ContactsVM
+@{
+    ViewData["Title"] = "Who We Are: Sharing Love, Hope, and Spiritual Guidance";
+    Layout = "~/Views/Shared/_MinnieWorldLayout.cshtml";
+}
+
+<section>
+    <div class="row py-3 headerbanner">
+        <div class="col rounded">
+            <div id="carouselExampleIndicators" class="carousel slide shadow-sm" data-bs-ride="true">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                    aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                    aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                    aria-label="Slide 3"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3"
+                    aria-label="Slide 4"></button>
+                </div>
+                <div class="carousel-inner rounded">
+                    <div class="carousel-item active">
+                        <img src="Wall_panel_img/slider_3 .png" class="d-block w-100 img-fluid" alt="...">
+                        <div class="w-100  minnieworld-blog  position-absolute top-0 start-0 d-flex ">
+                            <h3>
+                                Elevate Your Space with Understated Art
+
+                            </h3>
+                            <p>"Captivating Elegance, Enchanting Serenity"</p>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="Wall_panel_img/slider 1.webp" class="img-fluid d-block w-100" alt="...">
+                        <div class="w-100 h-100 minnieworld-blog position-absolute top-0 end-0 d-flex text-end">
+                            <h3>
+                                Discover the Unseen, Through Colors
+
+                            </h3>
+                            <p>"Art That Opens Doors to New Worlds"</p>
+                        </div>
+                    </div>
+
+
+                </div>
+                <button class="carousel-control-prev justify-content-start px-5" type="button"
+                data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                    <p aria-hidden="true">&#10094;</p>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next justify-content-end px-5" type="button"
+                data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                    <p aria-hidden="true">&#10095;</p>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="ps-section--category">
+    <div class="container-fluid">
+        <h3 class="ps-section__title">Check out the most popular categories</h3>
+        <div class="ps-category--block">
+            <div class="ps-category__thumbnail">
+                <a class="ps-category__image" href="#.html">
+                    <img src="Wall_panel_img/topwall_1.png" class="plp-image plp-product__image">
+                    <img src="Wall_panel_img/topwall_2.png" class="img-fluid ope" alt="">
+                </a>
+                <div class="ps-category__content">
+                    <a class="ps-category__name" href="#.html">Categories</a>
+
+                </div>
+            </div>
+            <div class="ps-category__thumbnail">
+                <a class="ps-category__image" href="#.html">
+                    <img src="Wall_panel_img/topwall_3.png" class="plp-image plp-product__image">
+                    <img src="Wall_panel_img/topwall_4.png" class="img-fluid" alt="">
+                </a>
+                <div class="ps-category__content">
+              @*       <a class="ps-category__name" href="#.html"> One</a> *@
+             
+                </div>
+            </div>
+            <div class="ps-category__thumbnail">
+                <a class="ps-category__image" href="#.html">
+                    <img src="Wall_panel_img/topwall_5.png" class="plp-image plp-product__image">
+                    <img src="Wall_panel_img/topwall_6.png" class="img-fluid" alt="">
+                </a>
+                <div class="ps-category__content">
+         @*            <a class="ps-category__name" href="#.html"> Two</a> *@
+           
+                </div>
+            </div>
+            <div class="ps-category__thumbnail">
+                <a class="ps-category__image" href="#.html">
+                    <img src="Wall_panel_img/topwall_7.png" class="plp-image plp-product__image">
+                    <img src="Wall_panel_img/topwall_8.png" class="img-fluid" alt="">
+                </a>
+                <div class="ps-category__content">
+                @*     <a class="ps-category__name" href="#.html"> Three</a> *@
+                 
+                </div>
+            </div>
+            <div class="ps-category__thumbnail">
+                <a class="ps-category__image" href="#.html">
+                    <img src="Wall_panel_img/topwall_2.png" class="plp-image plp-product__image">
+                    <img src="Wall_panel_img/topwall_1.png" class="img-fluid ope" alt="">
+                </a>
+                <div class="ps-category__content">
+                    <a class="ps-category__name" href="#.html"></a>
+
+                </div>
+            </div>
+            <div class="ps-category__thumbnail">
+                <a class="ps-category__image" href="#.html">
+                    <img src="Wall_panel_img/topwall_9.png" class="plp-image plp-product__image">
+                    <img src="Wall_panel_img/topwall_10.png" class="img-fluid" alt="">
+                </a>
+                <div class="ps-category__content">
+            @*         <a class="ps-category__name" href="#.html"> Four</a> *@
+                
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="banners mb-25">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="banner-img wow animate__ animate__fadeInUp animated" data-wow-delay="0"
+                style="visibility: visible; animation-name: fadeInUp;">
+                    <img src="Wall_panel_img/main_1.jpg" alt="">
+                    <div class="banner-text">
+                        <h4> Everyday Fresh &amp; <br>Clean with Our <br> Products </h4>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="banner-img wow animate__ animate__fadeInUp animated" data-wow-delay=".2s"
+                style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                    <img src="Wall_panel_img/main_2.jpg" alt="">
+                    <div class="banner-text">
+                        <h4> Make your Breakfast <br> Healthy and Easy </h4>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 d-md-none d-lg-flex">
+                <div class="banner-img mb-sm-0 wow animate__ animate__fadeInUp animated" data-wow-delay=".4s"
+                style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                    <img src="Wall_panel_img/main_3.jpg" alt="">
+                    <div class="banner-text">
+                        <h4>The best Organic <br>Products Online </h4>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="ps-section--featured" id="products">
+    <div class="container">
+        <h3 class="ps-section__title">Featured products</h3>
+        <div class="ps-section__content">
+            <div class="row m-0">
+                <div class="col-6 col-md-3 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/1.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/2.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">Luteti 3D Wall Panel PVC Flower Design Cover for Interior Wall Decor in Living Room </a>
+                                </h5>
+                                @* <div class="ps-product__meta">
+                                    <span class="ps-product__price">$299.99</span>
+                                    <span class="ps-product__del">$60.65</span>
+                                </div> *@
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/3.jpg" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/4.jpg" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">Decorative Wall Panel</a>
+                                </h5>
+                                @* <div class="ps-product__meta">
+                                    <span class="ps-product__price">$299.99</span>
+                                    <span class="ps-product__del">$60.65</span>
+                                </div> *@
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/5.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/6.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">WPC Interior Wall Paneling Design</a>
+                                </h5>
+                                @* <div class="ps-product__meta">
+                                    <span class="ps-product__price">$299.99</span>
+                                    <span class="ps-product__del">$60.65</span>
+                                </div> *@
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/7.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/8.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">
+                                        PVC Wall Panel Design , Living Room Wooden Wall Panels , Bedroom Background Wall
+                                        Panel
+                                    </a>
+                                </h5>
+                                @*  <div class="ps-product__meta">
+                                    <span class="ps-product__price">$299.99</span>
+                                    <span class="ps-product__del">$60.65</span>
+                                </div> *@
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/9.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/10.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">Wood Slat Wall Panuel, Oak Decorative Panel, Wide Size 50mm, Accent Wall Panels</a>
+                                </h5>
+                                @*  <div class="ps-product__meta">
+                                    <span class="ps-product__price">$299.99</span>
+                                    <span class="ps-product__del">$60.65</span>
+                                </div> *@
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/11.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/12.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">WPC Acoustic Wall Panel</a>
+                                </h5>
+                                @*  <div class="ps-product__meta">
+                                    <span class="ps-product__price">$299.99</span>
+                                    <span class="ps-product__del">$60.65</span>
+                                </div> *@
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/13.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/14.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">WPC Wainscoting Wall Panel and more </a>
+                                </h5>
+
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/15.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/16.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">
+                                        PVC Wall Panel Design , Living Room Wooden Wall Panels , Bedroom Background Wall Panel
+                                        wall cladding panels -
+                                    </a>
+                                </h5>
+
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+           
+        </div>
+    </div>
+</section>
+<section class="ps-section--featured pt-0">
+    <div class="container-fluid">
+        <h3 class="ps-section__title">Top Rated Products</h3>
+        <div class="ps-section__content">
+            <div class="row m-0">
+                <div class="col-6 col-md-2 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/a.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/b.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">Luteti 3D Wall Panel PVC Flower Design Cover for Interior Wall Decor in Living Room</a>
+                                </h5>
+                                <div class="ps-product__meta">
+                                </div>
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-2 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/c.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/d.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">WPC Acoustic Wall Panel</a>
+                                </h5>
+                                <div class="ps-product__meta">
+
+                                </div>
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-2 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/e.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/f.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">Decorative Wall Panel</a>
+                                </h5>
+                                <div class="ps-product__meta">
+
+                                </div>
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-2 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/g.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/h.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">SWPC Interior Wall Paneling Design</a>
+                                </h5>
+
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-6 col-md-2 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/i.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/j.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">PVC Wall Panel Design Living Room Wooden Wall Panels</a>
+                                </h5>
+
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-2 p-0">
+                    <div class="ps-section__product">
+                        <div class="ps-product ps-product--standard">
+                            <div class="ps-product__thumbnail">
+                                <a class="ps-product__image" href="#">
+                                    <figure>
+                                        <img src="Wall_panel_img/k.png" class="img-fluid" alt="alt">
+                                        <img src="Wall_panel_img/l.png" class="img-fluid" alt="alt">
+                                    </figure>
+                                </a>
+
+                                <div class="ps-product__badge">
+                                    <div class="ps-badge ps-badge--sale">Sale</div>
+                                </div>
+                            </div>
+                            <div class="ps-product__content">
+                                <h5 class="ps-product__title">
+                                    <a href="#">Wall Panel Design , Living Room Panels , Wall cladding panels</a>
+                                </h5>
+
+                                <div class="ps-product__rating">
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                    <i class="bi bi-star-fill"></i>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<section class="about-us mb-7">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 pr-lg-8 mb-8">
+                <h2 class="title text-left">We Provide Continuous &amp; Kind Service for Customers</h2>
+                <h5>Customer Service</h5>
+                <p class="mb-0">
+                    customer satisfaction is our top priority. We are committed to providing exceptional service and support to
+                    meet your needs. Our team is always ready to assist you with any inquiries, ensuring a seamless and
+                    hassle-free experience.
+                </p>
+                <h5>Customer Service</h5>
+                <p class="mb-0">
+                    customer satisfaction is our top priority. We are committed to providing exceptional service and support to
+                    meet your needs. Our team is always ready to assist you with any inquiries, ensuring a seamless and
+                    hassle-free experience.
+                </p>
+                <h5>Customer Service</h5>
+                <p class="mb-0">
+                    L customer satisfaction is our top priority. We are committed to providing exceptional service and support to
+                    meet your needs. Our team is always ready to assist you with any inquiries, ensuring a seamless and
+                    hassle-free experience.
+                </p>
+                <h5>Customer Service</h5>
+                <p class="mb-0">
+                    customer satisfaction is our top priority. We are committed to providing exceptional service and support to
+                    meet your needs. Our team is always ready to assist you with any inquiries, ensuring a seamless and
+                    hassle-free experience.
+                </p>
+
+
+            </div>
+            <div class="col-md-6 mb-8">
+                <figure class="br-lg">
+                    <img src="Wall_panel_img/LUXURY.png" class="img-fluid" alt="Banner" width="610" height="500">
+                </figure>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="our-collection-area collection-bg pb-75">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <!--Section Title Start-->
+                <div class="section-title" id="Categories">
+                    <h3 class="ps-section__title">Hot categories in this week</h3>
+                </div>
+                <!--Section Title End-->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <!--Single Categorie Collection Start-->
+                <div class="single-categorie-collection mt-30">
+                    <div class="categorie-collection-img">
+                        <a href="#">
+                            <img src="Wall_panel_img/home1-banner1.png" class="img-fluid" alt="">
+                        </a>
+                    </div>
+                </div>
+                <!--Single Categorie Collection End-->
+            </div>
+            <div class="col-md-3">
+                <!--Single Categorie Collection Start-->
+                <div class="single-categorie-collection mt-30">
+                    <div class="categorie-collection-img">
+                        <a href="#">
+                            <img src="Wall_panel_img/home1-banner2.png" class="img-fluid" alt="">
+                        </a>
+                    </div>
+                </div>
+                <!--Single Categorie Collection End-->
+            </div>
+            <div class="col-md-6">
+                <!--Single Categorie Collection Start-->
+                <div class="single-categorie-collection mt-30">
+                    <div class="categorie-collection-img">
+                        <a href="#">
+                            <img src="Wall_panel_img/home1-banner3.png" class="img-fluid" alt="">
+                        </a>
+                    </div>
+                </div>
+                <!--Single Categorie Collection End-->
+            </div>
+            <div class="col-md-6">
+                <!--Single Categorie Collection Start-->
+                <div class="single-categorie-collection mt-30">
+                    <div class="categorie-collection-img">
+                        <a href="#">
+                            <img src="Wall_panel_img/home1-banner4.png" class="img-fluid" alt="">
+                        </a>
+                    </div>
+                </div>
+                <!--Single Categorie Collection End-->
+            </div>
+            <div class="col-md-3">
+                <!--Single Categorie Collection Start-->
+                <div class="single-categorie-collection mt-30">
+                    <div class="categorie-collection-img">
+                        <a href="#">
+                            <img src="Wall_panel_img/home1-banner5.png" class="img-fluid" alt="">
+                        </a>
+                    </div>
+                </div>
+                <!--Single Categorie Collection End-->
+            </div>
+            <div class="col-md-3">
+                <!--Single Categorie Collection Start-->
+                <div class="single-categorie-collection mt-30">
+                    <div class="categorie-collection-img">
+                        <a href="#">
+                            <img src="Wall_panel_img/home1-banner6.png" class="img-fluid" alt="">
+                        </a>
+                    </div>
+                </div>
+                <!--Single Categorie Collection End-->
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="contact-info-section" id="ContactUs">
+    <div class="auto-container">
+        <!-- Sec Title -->
+        <div class="title-box">
+            <div class="title">GET IN TOUCH</div>
+            <h2>Contact  Information</h2>
+
+        </div>
+
+        <div class="row clearfix">
+
+            <!-- Info Column -->
+            <div class="info-column col-lg-4 col-md-6 col-sm-12">
+                <div class="inner-column">
+                    <div class="content">
+                        <div class="icon-box"><span class="flaticon-pin"></span></div>
+                        <ul>
+                            <li><strong>Address</strong></li>
+                            <li>
+                                Front of Sprint, Field School Bhojpur,Near Dental College<br />
+                                Sunder Nagar, Himachal Pradesh 175019 , India
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Info Column -->
+            <div class="info-column col-lg-4 col-md-6 col-sm-12">
+                <div class="inner-column">
+                    <div class="content">
+                        <div class="icon-box"><span class="flaticon-phone-call"></span></div>
+                        <ul>
+                            <li><strong>Phone</strong></li>
+                            <li>+91 9625944361</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Info Column -->
+            <div class="info-column col-lg-4 col-md-6 col-sm-12">
+                <div class="inner-column">
+                    <div class="content">
+                        <div class="icon-box"><span class="flaticon-email-1"></span></div>
+                        <ul>
+                            <li><strong>E-Mail</strong></li>
+                            <li>mayait.corporate@gmail.com</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+<section class="contact-map-section">
+    <div class="auto-container">
+        <!-- Sec Title -->
+        <div class="sec-title">
+            <div class="clearfix">
+                <div class="pull-left">
+                    <div class="title">SEND YOUR MESSAGE</div>
+                    <h2>Send Your Message</h2>
+                </div>
+
+            </div>
+        </div>
+
+
+        @using (Html.BeginForm("ContactUs", "MinnieWorld", FormMethod.Post, new { enctype = "multipart/form-data", @id = "contact-form" }))
+        {
+            <div class="contact-form">
+                <div class="row clearfix d-flex">
+                    <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                        <label for="FirstName">First Name</label>
+                        @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control", placeholder = "First Name", id = "FirstName" } })
+                        @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                        <label for="LastName">Last Name</label>
+                        @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control", placeholder = "Last Name", id = "LastName" } })
+                        @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                        <label for="Email">Email</label>
+                        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control", placeholder = "Email", id = "Email" } })
+                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                        <label for="Contact">Contact</label>
+                        @Html.EditorFor(model => model.Contact, new { htmlAttributes = new { @class = "form-control", placeholder = "Contact", id = "Contact" } })
+                        @Html.ValidationMessageFor(model => model.Contact, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group col-lg-12 col-md-12 col-sm-12">
+                        <label for="Remarks">Remarks</label>
+                        @Html.TextAreaFor(model => model.Remarks, new { @class = "form-control", placeholder = "Your Message", id = "Remarks", rows = "4" })
+                        @Html.ValidationMessageFor(model => model.Remarks, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group text-center col-lg-12 col-md-12 col-sm-12">
+                        <button type="submit" class="theme-btn btn-style-three">
+                            <span class="txt">Send Now</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        }
+
+
+
+    </div>
+</section>

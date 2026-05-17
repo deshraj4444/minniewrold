@@ -1,0 +1,135 @@
+﻿@model MayaAstro.Models.QuickLearnVM
+@{
+
+    Layout = "~/Views/Shared/_Admin_Layout.cshtml";
+}
+
+<style>
+    .submit-button-right {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float: right;
+    }
+
+        .submit-button-right:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+            float: right;
+        }
+
+    .text-danger {
+        color: #dc3545 !important
+    }
+</style>
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h1>Add QuickLearn</h1>
+    </div>
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        @using (Html.BeginForm("SaveQuickLearn", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                        {
+                            @Html.HiddenFor(x => x.Id)
+
+                                <div class="card">
+                                    <div class="card-body">
+                                        <div class="row g-3">
+                                            <div class="col-md-6">
+
+                                            @Html.LabelFor(m => m.Title, new { @class = "control-label" })
+                                            @Html.TextBoxFor(m => m.Title, new { @class = "form-control", required = "required" })
+
+                                            @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+                                            </div>
+                                            <div class="col-md-12">
+                                            @*<button class="theme-btn btn-style-three" type="submit"><span class="txt">save</span></button>*@
+                                                <input type="submit" class="btn submit-button-right" value="Submit" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                        }
+
+                        <section class="section">
+                            <div class="row">
+                                <div class="col-lg-12">
+
+
+                                            <div class="row">
+                                                <div class="col-lg-12">
+
+                                                    <div class="card">
+                                                        <div class="card-body">
+                                                            <h5 class="card-title">QuickLearn List</h5>
+
+
+                                                            <!-- table with stripped rows -->
+                                                            <table id="example" class="table datatable">
+                                                                <thead>
+                                                                    <tr>
+                                                                        <th>SNo</th>
+                                                                        <th>Name</th>
+                                                                       
+                                                                        <th>Action</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                            @if (Model?.QuickLearnList?.Any() == true)
+                                                            {
+                                                                var Sl = 1;
+                                                                foreach (var item in Model.QuickLearnList)
+                                                                {
+                                                                                    <tr>
+                                                                                        <td>@Sl</td>
+                                                                                        <td>@item.Title</td>
+
+                                                                                     
+
+
+                                                                                        <td class="table-action-btn">
+                                                                                            <div class="sorting_1 pt-4 pb-3">
+                                                                                <a href="~/Admin/AddQucikLeran/@item.Id" type="button" class="">
+                                                                                                    <i class="bi bi-pencil-square" data-toggle="tooltip" data-placement="top" title="Edit"></i>
+
+                                                                                                </a>
+                                                                                <a href="/Admin/DeleteQuickLearn/?id=@item.Id" class="" onclick="return confirm('Are you sure you wish to Delete This ?')">
+                                                                                                    <i class="bi bi-trash3-fill" data-toggle="tooltip" data-placement="top" title="Remove"></i>
+
+                                                                                                </a>
+                                                                                            </div>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                    Sl++;
+                                                                }
+                                                            }
+                                                            else
+                                                            {
+                                                                            <tr>
+                                                                                <td colspan="8">no QuickLearn available.</td>
+                                                                            </tr>
+                                                            }
+                                                                </tbody>
+                                                            </table>
+                                                            <!-- end table with stripped rows -->
+
+                                                        </div>
+                                                    </div>
+
+
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>

@@ -1,0 +1,221 @@
+﻿@model MayaAstro.Models.BankDetailVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<style>
+    .submit-button-right {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float: right;
+    }
+
+        .submit-button-right:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+            float: right;
+        }
+
+    .img-preview {
+        max-width: 150px;
+        max-height: 150px;
+        margin-top: 10px;
+        border: 1px solid #ddd;
+        padding: 5px;
+    }
+</style>
+
+<main id="main" class="main">
+    <div class="pagetitle">
+        <h1>Add / Edit Bank Detail</h1>
+    </div>
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        @if (TempData["message"] != null)
+                        {
+                            <div class="alert alert-success">
+                                @TempData["message"]
+                            </div>
+                        }
+
+                        @if (TempData["error"] != null)
+                        {
+                            <div class="alert alert-danger">
+                                @TempData["error"]
+                            </div>
+                        }
+
+                        @using (Html.BeginForm("AddBankDetail", "Jeweller", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                        {
+                            @Html.HiddenFor(model => model.Id)
+                            @Html.HiddenFor(model => model.Image)
+
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="row clearfix">
+
+                                        <div class="form-group col-lg-6 col-md-6 col-sm-12 mt-3">
+                                            <label for="BankName">Bank Name</label>
+                                            @Html.TextBoxFor(model => model.BankName, new { @class = "form-control", required = "required" })
+                                            @Html.ValidationMessageFor(model => model.BankName, "", new { @class = "text-danger" })
+                                        </div>
+
+                                        <div class="form-group col-lg-6 col-md-6 col-sm-12 mt-3">
+                                            <label for="AccountName">Account Name</label>
+                                            @Html.TextBoxFor(model => model.AccountName, new { @class = "form-control", required = "required" })
+                                            @Html.ValidationMessageFor(model => model.AccountName, "", new { @class = "text-danger" })
+                                        </div>
+
+                                        <div class="form-group col-lg-6 col-md-6 col-sm-12 mt-3">
+                                            <label for="AccountNumber">Account Number</label>
+                                            @Html.TextBoxFor(model => model.AccountNumber, new { @class = "form-control", required = "required" })
+                                            @Html.ValidationMessageFor(model => model.AccountNumber, "", new { @class = "text-danger" })
+                                        </div>
+
+                                        <div class="form-group col-lg-6 col-md-6 col-sm-12 mt-3">
+                                            <label for="IFSCCode">IFSC Code</label>
+                                            @Html.TextBoxFor(model => model.IFSCCode, new { @class = "form-control", required = "required" })
+                                            @Html.ValidationMessageFor(model => model.IFSCCode, "", new { @class = "text-danger" })
+                                        </div>
+
+                                        <div class="form-group col-lg-6 col-md-6 col-sm-12 mt-3">
+                                            <label for="GSTNumber">GST Number</label>
+                                            @Html.TextBoxFor(model => model.GSTNumber, new { @class = "form-control" })
+                                            @Html.ValidationMessageFor(model => model.GSTNumber, "", new { @class = "text-danger" })
+                                        </div>
+
+                                        <div class="form-group col-lg-6 col-md-6 col-sm-12 mt-3">
+                                            <label for="Image">Bank Image / Logo</label>
+                                            <input type="file" name="ImageFile" class="form-control" accept="image/*" onchange="previewImage(event)" />                                            @Html.ValidationMessageFor(model => model.Image, "", new { @class = "text-danger" })
+
+                                            <!-- Existing image preview -->
+                                            @if (!string.IsNullOrEmpty(Model.Image))
+                                            {
+                                                <img id="imgPreview" src="@Url.Content(Model.Image)" class="img-preview" />
+                                            }
+                                            else
+                                            {
+                                                <img id="imgPreview" class="img-preview" style="display:none;" />
+                                            }
+                                        </div>
+
+                                        <div class="form-group text-center col-lg-12 col-md-12 col-sm-12 mb-3">
+                                            <input type="submit" class="btn submit-button-right" value="Submit" />
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+                        <section class="section">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <div class="card">
+                                        <div class="card-body">
+
+
+                                            <table id="example" class="table datatable">
+                                                <thead>
+                                                    <tr>
+                                                        <th>SNo</th>
+                                                        <th>Bank Name</th>
+                                                        <th>Account Name</th>
+                                                        <th>Account Number</th>
+                                                        <th>IFSC</th>
+                                                        <th>GST Number</th>
+                                                        <th>Image</th>
+                                                        <th>Action</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    @if (Model?.BankList?.Any() == true)
+                                                    {
+                                                        var Sl = 1;
+                                                        foreach (var item in Model.BankList)
+                                                        {
+                                                            <tr>
+                                                                <td>@Sl</td>
+                                                                <td>@item.BankName</td>
+                                                                <td>@item.AccountName</td>
+                                                                <td>@item.AccountNumber</td>
+                                                                <td>@item.IFSCCode</td>
+                                                                <td>@item.GSTNumber</td>
+                                                                <td>
+                                                                    @if (!string.IsNullOrEmpty(item.Image))
+                                                                    {
+                                                                        <img src="@Url.Content(item.Image)" width="60" height="60" style="object-fit:contain;" />
+                                                                    }
+                                                                </td>                                                                <td class="table-action-btn">
+                                                                    <div class="pt-4 pb-3">
+                                                                        <a href="/Jeweller/AddBankDetail/@item.Id"> <i class="bi bi-pencil-square"  title="Edit"></i>
+                                                                            
+                                                                        </a>
+                                                                        <a href="/Jeweller/DeleteBankDetail/?id=@item.Id" onclick="return confirm('Are you sure you wish to Delete This ?')">
+                                                                            <i class="bi bi-trash3-fill" title="Remove"></i>
+                                                                        </a>
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                            Sl++;
+                                                        }
+                                                    }
+
+                                                </tbody>
+                                            </table>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<script>// Hide alerts after 3 seconds
+    setTimeout(function () {
+        var alerts = document.querySelectorAll('.alert');
+        alerts.forEach(function (alert) {
+            alert.style.transition = "opacity 0.5s ease";
+            alert.style.opacity = "0";
+            setTimeout(function () {
+                alert.remove();
+            }, 500);
+        });
+    }, 3000);
+
+    // Preview uploaded image
+    function previewImage(event) {
+        var reader = new FileReader();
+        reader.onload = function () {
+            var output = document.getElementById('imgPreview');
+            output.src = reader.result;
+            output.style.display = 'block';
+        };
+        reader.readAsDataURL(event.target.files[0]);
+    }</script>
+<!-- DataTables CSS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+<!-- DataTables JS -->
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script>$(document).ready(function () {
+        $('#example').DataTable({
+            "paging": true,          // Enable pagination
+            "searching": true,       // Enable search box
+            "ordering": true,        // Enable column sorting
+            "info": true,            // Show table info
+            "order": [[6, "desc"]]   // Default sort by Created Date (column index 6)
+        });
+    });</script>

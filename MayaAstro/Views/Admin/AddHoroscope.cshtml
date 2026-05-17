@@ -1,0 +1,226 @@
+﻿@model MayaAstro.Models.HoroscopeVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<style>
+    .submit-button {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float: right;
+    }
+
+        .submit-button:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+        }
+
+    .submit-button-right {
+        background-color: #0f4989 !important;
+        color: white !important;
+    }
+
+        .submit-button-right:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+        }
+</style>
+<main id="main" class="main">
+
+    <div class="pagetitle">
+        <h1>Horoscope</h1>
+
+    </div>
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                         <div class="d-flex justify-content-between align-items-center">
+                            <h5 class="card-title">Add Horoscope</h5>
+                         
+                            <a href="@Url.Action("AddRashi", "Admin")" class="btn submit-button-right">Add Rashi</a>
+                        </div> 
+                        @using (Html.BeginForm("SaveHoroscope", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                        { 
+                             @Html.HiddenFor(model => model.Id) 
+                             @Html.HiddenFor(model => model.BannerImageUrl)
+                            @Html.HiddenFor(model => model.ThumbnailImageUrl) 
+                            
+
+                            <div class="card mt-3">
+                                <div class="card-body">
+                                <div class="col-md-6">
+                                    <label class="admin-panel-label" for="Image">Upload Banner Image</label>
+                                    <div class="form-group">
+                                        <div class="custom-file">
+                                            <input type="file"
+                                                   class="form-control nice-select wide"
+                                                   id="Image"
+                                                   name="Image"
+                                                   onchange="showImage(this)"
+                                                   accept="image/*">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 text-center">
+                                    <div class="upload-img mt-3">
+                                        <img id="selectedImage"
+                                             src="@Model.BannerImageUrl"
+                                             alt="Selected Image"
+                                             class="profile-pic"
+                                             style="max-height: 100px; display:@(Model.BannerImageUrl != null ? "block" : "none");" />
+                                    </div>
+                                </div>
+                                   
+                                    <div class="col-md-6">
+                                        <label class="admin-panel-label" for="Image">Upload Thumbnail Image</label>
+                                        <div class="form-group">
+                                            <div class="custom-file">
+                                                <input type="file"
+                                                       class="form-control nice-select wide"
+                                                       id="ThumbnailImage"
+                                                       name="ThumbnailImage"
+                                                       onchange="showThumbnailImage(this)"
+                                                       accept="image/*">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 text-center">
+                                        <div class="upload-img mt-3">
+                                
+                                            <img id="selectedThumbnailImage"
+                                                 src="@Model.ThumbnailImageUrl"
+                                                 alt="Selected Thumbnail Image"
+                                                 class="profile-pic"
+                                                 style="max-height: 100px; display:@(Model.ThumbnailImageUrl != null ? "block" : "none");" />
+                                        </div>
+                                    </div>
+                            </div>
+                                <div class="col-md-6">
+                                    <label class="admin-panel-label">PageUrl</label>
+                                    @Html.TextBoxFor(m => m.PageUrl, new { @class = "form-control", required = "required" })
+                                </div>
+                            <div class="row g-3">
+                                <div class="col-md-6">
+                                    <label class="admin-panel-label">Title</label>
+                                    @Html.TextBoxFor(m => m.Title, new { @class = "form-control", required = "required" })
+                                </div>
+
+                                <div class="col-md-6">
+                                    <label class="admin-panel-label">Rashi Types</label>
+                                    @Html.DropDownListFor(m => m.RashiId, new SelectList(Model.RashiList, "Id", "Name"), "-- Select Category --", new { @class = "form-control nice-select wide" })
+                                        @Html.ValidationMessageFor(model => model.RashiId, "", new { @class = "text-danger", required = "required" })
+                                </div>
+
+                                    <div class="col-md-12">
+                                        <label class="admin-panel-label">Short Description</label>
+                                        @Html.TextAreaFor(m => m.ShortDescription, new { @class = "form-control editor" })
+                                    </div>
+
+                                <div class="col-md-12">
+                                    <label class="admin-panel-label">Long Description</label>
+                                        @Html.TextAreaFor(m => m.LongDescription, new { @class = "form-control editor" })
+                                </div>
+
+                        
+
+                                <div class="col-md-6">
+                                    <label class="admin-panel-label">Publish Date</label>
+                                    @Html.TextBoxFor(m => m.Date, "{0:yyyy-MM-dd}", new { @class = "form-control", @type = "date", value = DateTime.Now.ToString("yyyy-MM-dd") })
+                                    @Html.ValidationMessageFor(m => m.Date, "", new { @class = "text-danger" })
+                                </div>
+
+                                  
+
+                                </div>
+
+                            </div>
+                            
+                             <div class="row g-3">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <h5 class="card-title">SEO</h5>
+                                        <div class="row">
+                                            <div class="col-md-6 about-section-top">
+                                                <label class="admin-panel-label">Horoscope Meta Title</label>
+                                                @Html.TextBoxFor(m => m.HoroscopeMetaTitle, new { @class = "form-control" })
+
+                                            </div>
+                                            <div class="col-md-6 about-section-top">
+                                                <label class="admin-panel-label">Horoscope Title</label>
+                                                @Html.TextBoxFor(m => m.HoroscopeSeoTitle, new { @class = "form-control" })
+                                            </div>
+                                           
+                                        </div>
+
+                                        <div class="row">
+                                            <div class="col-md-6 about-section-top">
+                                                <label class="admin-panel-label">Horoscope Meta Description</label>
+                                                @Html.TextAreaFor(m => m.HoroscopeMetaDescription, new { @class = "form-control" })
+                                            </div>
+
+                                            <div class="col-md-6 about-section-top">
+                                                <label class="admin-panel-label">Horoscope Meta Keyword</label>
+                                                @Html.TextAreaFor(m => m.HoroscopeMetaKeyword, new { @class = "form-control" })
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 about-section-top">
+                                                <label class="admin-panel-label">Blog Meta Content</label>
+                                                @Html.TextAreaFor(m => m.HoroscopeMetaContent, new { @class = "form-control" })
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> 
+
+                            <div class="col-md-12">
+                                <input type="submit" class="btn submit-button ms-5 mt-3" value="Submit" />
+                            </div>
+                        } 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<!-- Scripts -->
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/ckeditor5-35.4.0-clasic/build/ckeditor.js"></script>
+<script src="~/js/ckeditor (1).js"></script>
+<!-- Image Preview JavaScript -->
+<script>
+    function showImage(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#selectedImage').attr('src', e.target.result).show();
+            };
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+
+    function showAuthorImage(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#selectedAuthorImage').attr('src', e.target.result).show();
+            };
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+    function showThumbnailImage(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                $('#selectedThumbnailImage').attr('src', e.target.result).show();
+            };
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+
+
+</script>

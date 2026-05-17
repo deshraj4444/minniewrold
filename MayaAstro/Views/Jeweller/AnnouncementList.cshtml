@@ -1,0 +1,171 @@
+﻿@model MayaAstro.Models.AnnouncementsVM
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<style>
+    .submit-button-right {
+        background-color: #0f4989 !important;
+        color: white !important;
+        float: right;
+    }
+
+        .submit-button-right:hover {
+            background-color: #c9c6c22b !important;
+            color: #0f4989 !important;
+        }
+
+    .text-danger {
+        color: #dc3545 !important;
+    }
+</style>
+
+<main id="main" class="main">
+
+    @if (TempData["message"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["message"]
+        </div>
+    }
+
+    @if (TempData["error"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["error"]
+        </div>
+    }
+
+    <div class="pagetitle">
+        <h1>Announcement List</h1>
+    </div>
+
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <form method="post" asp-action="AnnouncementList" asp-controller="Jeweller">
+                        <div class="row mb-3">
+                            <div class="col-md-3">
+                                <label>Start Date</label>
+                                <input type="date" asp-for="StartDate" class="form-control" />
+                            </div>
+
+                            <div class="col-md-3">
+                                <label>End Date</label>
+                                <input type="date" asp-for="EndDate" class="form-control" />
+                            </div>
+
+                            <div class="col-md-3 pt-4">
+                                <button type="submit" class="btn btn-primary">Search</button>
+                                <a href="/Jeweller/AnnouncementList" class="btn btn-secondary">Reset</a>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="card-body">
+
+                        <div class="pt-3 pb-3">
+                            <a href="/Jeweller/AddAnnouncement" class="btn btn-primary submit-button-right">
+                                Add Announcement
+                            </a>
+                        </div>
+
+                        <table id="example" class="table datatable">
+                            <thead>
+                                <tr>
+                                    <th>SNo</th>
+                                    <th>Title</th>
+                                    <th>Message</th>
+                                    <th>Announcement Date</th>
+                                    <th></th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+
+                            <tbody>
+                                @if (Model?.AnnouncementsList?.Any() == true)
+                                {
+                                    var Sl = 1;
+
+                                    foreach (var item in Model.AnnouncementsList)
+                                    {
+                                        <tr>
+                                            <td>@Sl</td>
+
+                                            <td>@item.Title</td>
+
+                                            <td>@item.Message</td>
+
+                                            <td>@(item.StartDate?.ToString("yyyy-MM-dd") ?? "-")</td>
+                                            <td></td>
+
+
+                                            <td class="table-action-btn">
+
+                                                <a href="/Jeweller/AddAnnouncement?id=@item.Id">
+                                                    <i class="bi bi-pencil-square" title="Edit"></i>
+                                                </a>
+
+                                                &nbsp;
+
+                                                <a href="/Jeweller/DeleteAnnouncement?id=@item.Id"
+                                                   onclick="return confirm('Are you sure you wish to delete this announcement?')">
+                                                    <i class="bi bi-trash3-fill" title="Delete"></i>
+                                                </a>
+
+                                            </td>
+                                        </tr>
+
+                                        Sl++;
+                                    }
+                                }
+                            </tbody>
+
+                        </table>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</main>
+
+
+<!-- DataTables CSS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+<!-- DataTables JS -->
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+<script>$(document).ready(function () {
+
+        $('#example').DataTable({
+            paging: true,
+            searching: true,
+            ordering: true,
+            info: true,
+            order: [[5, "desc"]] // sort by CreatedDate
+        });
+
+    });</script>
+
+<script>setTimeout(function () {
+
+        var alerts = document.querySelectorAll('.alert');
+
+        alerts.forEach(function (alert) {
+
+            alert.style.transition = "opacity 0.5s ease";
+            alert.style.opacity = "0";
+
+            setTimeout(function () {
+                alert.remove();
+            }, 500);
+
+        });
+
+    }, 3000);</script>
