@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background-color: #ffffff;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .header {
+            background-color: #4CAF50;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .content {
+            padding: 20px;
+            color: #333;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        .footer {
+            background-color: #f2f2f2;
+            color: #777;
+            text-align: center;
+            padding: 15px;
+            font-size: 12px;
+        }
+
+        table.details {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+            table.details td {
+                padding: 8px;
+                border: 1px solid #ddd;
+            }
+
+                table.details td.label {
+                    font-weight: bold;
+                    width: 120px;
+                    background-color: #f9f9f9;
+                }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">New User Registration</div>
+        <div class="content">
+            <p>Hello Admin,</p>
+            <p>A new user has registered. Here are the details:</p>
+            <table class="details">
+                <tr><td class="label">Name:</td><td>{{Name}}</td></tr>
+                <tr><td class="label">FirmName:</td><td>{{FirmName}}</td></tr>
+                <tr><td class="label">Mobile:</td><td>{{Phone}}</td></tr>
+                <tr><td class="label">City:</td><td>{{City}}</td></tr>
+            </table>
+            <p>Welcome to JJP!</p>
+            <p>Regards,<br />JJP Team</p>
+        </div>
+        <div class="footer">&copy; 2026 JJP. All rights reserved.</div>
+    </div>
+</body>
+</html>
