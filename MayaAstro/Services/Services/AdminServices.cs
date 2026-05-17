@@ -1,6 +1,7 @@
 ﻿using MayaAstro.Models;
 using MayaAstro.Services.Repositories;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System.Diagnostics;
 using System.IdentityModel.Tokens.Jwt;
@@ -14,12 +15,18 @@ namespace MayaAstro.Services.Services
         private readonly IAdminRepository _iAdminRepository;
         private readonly ICryptoServices _cryptoServices;
         private readonly IHttpContextAccessor _httpContextAccessor;
+        private readonly IConfiguration _configuration;
 
-        public AdminServies(IAdminRepository iAdminRepository, ICryptoServices cryptoServices, IHttpContextAccessor httpContextAccessor)
+        public AdminServies(
+            IAdminRepository iAdminRepository,
+            ICryptoServices cryptoServices,
+            IHttpContextAccessor httpContextAccessor,
+            IConfiguration configuration)
         {
             _iAdminRepository = iAdminRepository;
             _httpContextAccessor = httpContextAccessor;
             _cryptoServices = cryptoServices;
+            _configuration = configuration;
         }
 
         #region Lecture For App
@@ -140,7 +147,10 @@ namespace MayaAstro.Services.Services
             try
             {
                 var tokenHandler = new JwtSecurityTokenHandler();
-                var key = Encoding.ASCII.GetBytes("64A63153-11C1-4919-9133-EFAF99A9B456");
+                var jwtKey = _configuration["JsonWebTokenKeys:IssuerSigningKey"]
+                    ?? _configuration["Token:SecurityKey"]
+                    ?? throw new InvalidOperationException("JWT signing key is not configured.");
+                var key = Encoding.ASCII.GetBytes(jwtKey);
                 var tokenDescriptor = new SecurityTokenDescriptor
                 {
                     Subject = new ClaimsIdentity(new[] { new Claim("id", user.Id.ToString()) }),

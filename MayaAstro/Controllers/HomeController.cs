@@ -9,6 +9,7 @@ using MayaAstro.DatabaseEntities;
 using MayaAstro.Models;
 using MayaAstro.Services.Configuration;
 using MayaAstro.Services.Extensions;
+using MayaAstro.Services.Services;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Http;
@@ -23,13 +24,22 @@ namespace MayaAstro.Controllers
         private readonly HttpClient _client;
         private readonly IConfiguration _configuration;
         private readonly IHttpContextAccessor _httpContextAccessor;
-        public HomeController(ILogger<HomeController> logger, IConfiguration configuration, IHttpContextAccessor httpContextAccessor)
+        private readonly IDomainWebsiteResolver _domainWebsiteResolver;
+        private readonly string _horoscopeBaseUrl;
+
+        public HomeController(
+            ILogger<HomeController> logger,
+            IConfiguration configuration,
+            IHttpContextAccessor httpContextAccessor,
+            IHttpClientFactory httpClientFactory,
+            IDomainWebsiteResolver domainWebsiteResolver)
         {
             _logger = logger;
-            _client = new HttpClient();
-            var apiBaseUrl = configuration.GetValue<string>("ApiSettings:BaseUrl");
-            _client.BaseAddress = new Uri(apiBaseUrl);
+            _configuration = configuration;
+            _client = httpClientFactory.CreateClient("MayaAstroApi");
             _httpContextAccessor = httpContextAccessor;
+            _domainWebsiteResolver = domainWebsiteResolver;
+            _horoscopeBaseUrl = (configuration.GetValue<string>("AstroServices:DailyHoroscopeBaseUrl") ?? "https://horoscope-app-api.vercel.app/").TrimEnd('/') + "/";
         }
         [Route("about")]
         public IActionResult About()
@@ -64,7 +74,7 @@ namespace MayaAstro.Controllers
         [Route("blogList/")]
         public async Task<JsonResult> Blog(string? categoryName, int pageSize, int pageNo, string search = "")
         {
-            int domainId = 1;
+            int domainId = _domainWebsiteResolver.GetCurrentWebsiteId();
             List<BlogListImageVM> items = new List<BlogListImageVM>();
             {
                 //var request = _httpContextAccessor.HttpContext?.Request;
@@ -117,7 +127,7 @@ namespace MayaAstro.Controllers
         [Route("{url}")]
         public async Task<ActionResult> BlogDetail(string url)
         {
-            int domainId = 1;
+            int domainId = _domainWebsiteResolver.GetCurrentWebsiteId();
             var slug = url.Replace("-", " ");
             BlogDetailVM blog = new BlogDetailVM();
             try
@@ -199,7 +209,7 @@ namespace MayaAstro.Controllers
         "Virgo", "Libra", "Scorpio", "Sagittarius",
         "Capricorn", "Aquarius", "Pisces"
     };
-            string horoscopeBaseUrl = "https://horoscope-app-api.vercel.app/";
+            string horoscopeBaseUrl = _horoscopeBaseUrl;
             var horoscopeTasks = signs.Select(sign =>
       _client.GetAsync($"{horoscopeBaseUrl}api/v1/get-horoscope/daily?sign={sign}&day=TOMORROW")
   ).ToList();
@@ -252,7 +262,7 @@ namespace MayaAstro.Controllers
         [Route("quoteList/")]
         public async Task<JsonResult> Quote(string? categoryName, int pageSize, int pageNo, string search = "")
         {
-            int domainId = 1;
+            int domainId = _domainWebsiteResolver.GetCurrentWebsiteId();
 
 
             List<BlogListImageVM> items = new List<BlogListImageVM>();
@@ -307,7 +317,7 @@ namespace MayaAstro.Controllers
         [Route("quote/{url}")]
         public async Task<ActionResult> QuoteDetail(string url)
         {
-            int domainId = 1;
+            int domainId = _domainWebsiteResolver.GetCurrentWebsiteId();
             var slug = url.Replace("-", " ");
             BlogDetailVM blog = new BlogDetailVM();
             try
@@ -385,7 +395,7 @@ namespace MayaAstro.Controllers
         [Route("videoList/")]
         public async Task<JsonResult> Video(string? categoryName, int pageSize, int pageNo, string search = "")
         {
-            int domainId = 1;
+            int domainId = _domainWebsiteResolver.GetCurrentWebsiteId();
             int typeId = 4;
 
             List<BlogListImageVM> items = new List<BlogListImageVM>();
@@ -436,7 +446,7 @@ namespace MayaAstro.Controllers
         [Route("video/{url}")]
         public async Task<ActionResult> VideoDetail(string url)
         {
-            int domainId = 1;
+            int domainId = _domainWebsiteResolver.GetCurrentWebsiteId();
             int typeId = 3;
             var slug = url.Replace("-", " ");
             BlogDetailVM blog = new BlogDetailVM();
@@ -497,7 +507,7 @@ namespace MayaAstro.Controllers
             {
                 return RedirectToAction("Index");
             }
-            string horoscopeBaseUrl = "https://horoscope-app-api.vercel.app/";
+            string horoscopeBaseUrl = _horoscopeBaseUrl;
             string url = $"{horoscopeBaseUrl}api/v1/get-horoscope/daily?sign={sign}&day=TOMORROW";
             var apiResponse = await _client.GetAsync(url);
             HoroscopeResponse horoscopeData = null;
@@ -545,7 +555,7 @@ namespace MayaAstro.Controllers
         
         private async Task<List<BlogDetailVM>> GetBlogDetails()
         {
-            int domainId = 1;
+            int domainId = _domainWebsiteResolver.GetCurrentWebsiteId();
             try
             {
                 var responseMessage = await _client.GetAsync($"api/HomeBlogList/{domainId}");

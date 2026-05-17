@@ -2,22 +2,29 @@
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Configuration;
 
 namespace MayaAstro.Services.Services
 {
     public class YouTubeService
     {
         private readonly HttpClient _httpClient;
-        private readonly string _apiKey = "AIzaSyAIY0-HEjQMqQ1U7GFRrBb5qaGw8L9lA6A"; 
+        private readonly string _apiKey;
         private readonly string _baseUrl = "https://www.googleapis.com/youtube/v3/search";
 
-        public YouTubeService(HttpClient httpClient)
+        public YouTubeService(HttpClient httpClient, IConfiguration configuration)
         {
             _httpClient = httpClient;
+            _apiKey = configuration["YouTubeSettings:ApiKey"];
         }
 
         public async Task<List<YouTubeVideos>> GetVideosAsync(string channelId, int maxResults = 20)
         {
+            if (string.IsNullOrWhiteSpace(_apiKey))
+            {
+                throw new InvalidOperationException("YouTube API key is not configured.");
+            }
+
             var url = $"{_baseUrl}?part=snippet&channelId={channelId}&maxResults={maxResults}&order=date&type=video&key={_apiKey}";
 
             var response = await _httpClient.GetStringAsync(url);

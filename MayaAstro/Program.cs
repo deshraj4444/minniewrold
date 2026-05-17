@@ -40,8 +40,18 @@ builder.Services.AddSingleton<FirebaseApp>(services =>
 });
 builder.Services.AddScoped<SuperadminAuthorizationFilter>();
 builder.Services.AddControllersWithViews();
+builder.Services.Configure<SiteOptions>(builder.Configuration.GetSection("Site"));
+builder.Services.AddHttpClient("MayaAstroApi", client =>
+{
+    var apiBaseUrl = builder.Configuration.GetValue<string>("ApiSettings:BaseUrl");
+    if (!string.IsNullOrWhiteSpace(apiBaseUrl))
+    {
+        client.BaseAddress = new Uri(apiBaseUrl);
+    }
+});
 builder.Services.AddHttpClient<YouTubeService>();
 builder.Services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.TryAddScoped<IDomainWebsiteResolver, DomainWebsiteResolver>();
 builder.Services.TryAddTransient<IBlogRepository, BlogRepository>();
 builder.Services.TryAddTransient<IAdminRepository, AdminRepository>();
 builder.Services.TryAddTransient<IHoroscopeRepository, HoroscopeRepository>();
@@ -65,9 +75,11 @@ var configuration = builder.Configuration;
 builder.Services.TryAddSingleton<IMapper>(new Mapper(new MapperConfiguration(cfg => cfg.AddProfile<Mapping>())));
 builder.Services.AddSession(options =>
 {
-    options.IdleTimeout = TimeSpan.FromMinutes(30); 
-    options.Cookie.HttpOnly = true; 
-    options.Cookie.IsEssential = true; 
+    options.IdleTimeout = TimeSpan.FromMinutes(30);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+    options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
+    options.Cookie.SameSite = SameSiteMode.Lax;
 });
 
 builder.Services.AddAuthentication(options =>
@@ -84,18 +96,24 @@ builder.Services.AddAuthentication(options =>
     options.SlidingExpiration = true;
     options.Cookie.HttpOnly = true;
     options.Cookie.IsEssential = true;
+    options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
+    options.Cookie.SameSite = SameSiteMode.Lax;
 })
 .AddJwtBearer(JwtBearerDefaults.AuthenticationScheme, options =>
 {
+    var jwtKey = builder.Configuration["JsonWebTokenKeys:IssuerSigningKey"]
+        ?? builder.Configuration["Token:SecurityKey"]
+        ?? throw new InvalidOperationException("JWT signing key is not configured.");
+
     options.TokenValidationParameters = new TokenValidationParameters
     {
-        ValidateIssuer = false,
-        ValidateAudience = false,
+        ValidateIssuer = builder.Configuration.GetValue("JsonWebTokenKeys:ValidateIssuer", true),
+        ValidateAudience = builder.Configuration.GetValue("JsonWebTokenKeys:ValidateAudience", true),
         ValidateLifetime = true,
         ValidateIssuerSigningKey = true,
-        ValidIssuer = "https://minnieworld.com/",
-        ValidAudience = "https://minnieworld.com/",
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("64A63153-11C1-4919-9133-EFAF99A9B456"))
+        ValidIssuer = builder.Configuration["JsonWebTokenKeys:ValidIssuer"],
+        ValidAudience = builder.Configuration["JsonWebTokenKeys:ValidAudience"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtKey))
     };
 });
 builder.Configuration.AddJsonFile("appsettings.json", true, true);
@@ -118,6 +136,29 @@ if (!app.Environment.IsDevelopment())
     app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
 }
+
+app.UseHttpsRedirection();
+app.Use(async (context, next) =>
+{
+    context.Response.Headers.TryAdd("X-Content-Type-Options", "nosniff");
+    context.Response.Headers.TryAdd("X-Frame-Options", "SAMEORIGIN");
+    context.Response.Headers.TryAdd("Referrer-Policy", "strict-origin-when-cross-origin");
+    context.Response.Headers.TryAdd("Permissions-Policy", "camera=(), microphone=(), geolocation=()");
+
+    if (!app.Environment.IsDevelopment())
+    {
+        context.Response.Headers.TryAdd("Content-Security-Policy",
+            "default-src 'self'; " +
+            "script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://www.googletagmanager.com https://www.google-analytics.com https://pagead2.googlesyndication.com; " +
+            "style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; " +
+            "img-src 'self' data: https:; " +
+            "font-src 'self' https://cdn.jsdelivr.net data:; " +
+            "connect-src 'self' https://www.google-analytics.com; " +
+            "frame-ancestors 'self';");
+    }
+
+    await next();
+});
 app.UseStaticFiles();
 app.UseRouting();
 app.UseSession();

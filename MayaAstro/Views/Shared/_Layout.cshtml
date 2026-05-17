@@ -1,35 +1,77 @@
-﻿@using System.Web
+﻿@using System.Text.Json
+@using System.Web
+@inject Microsoft.Extensions.Options.IOptions<MayaAstro.Services.Configuration.SiteOptions> SiteOptionsAccessor
+@inject MayaAstro.Services.Services.IDomainWebsiteResolver DomainWebsiteResolver
 <!DOCTYPE html>
 <html lang="en">
+@{
+    var siteOptions = SiteOptionsAccessor.Value;
+    var siteName = DomainWebsiteResolver.GetSiteName();
+    var publicBaseUrl = DomainWebsiteResolver.GetPublicBaseUrl();
+    var requestPath = Context.Request.Path.HasValue ? Context.Request.Path.Value : "/";
+    var canonicalUrl = $"{publicBaseUrl}{requestPath}";
+    var pageTitle = ViewBag.BlogMetaTitle != null
+        ? HttpUtility.HtmlDecode((string)ViewBag.BlogMetaTitle)
+        : (ViewData["Title"]?.ToString() ?? siteOptions.DefaultTitle);
+    var seoTitle = ViewBag.SeoTitle != null
+        ? HttpUtility.HtmlDecode((string)ViewBag.SeoTitle)
+        : pageTitle;
+    var metaDescription = ViewBag.BlogMetaDescription != null
+        ? HttpUtility.HtmlDecode((string)ViewBag.BlogMetaDescription)
+        : siteOptions.DefaultDescription;
+    var metaKeywords = ViewBag.BlogMetaKeyword != null
+        ? HttpUtility.HtmlDecode((string)ViewBag.BlogMetaKeyword)
+        : siteOptions.DefaultKeywords;
+    var ogDescription = ViewBag.BlogMetaContent != null
+        ? HttpUtility.HtmlDecode((string)ViewBag.BlogMetaContent)
+        : metaDescription;
+    var configuredOgImage = ViewBag.OgImage != null ? (string)ViewBag.OgImage : siteOptions.OgImage;
+    var ogImage = !string.IsNullOrWhiteSpace(configuredOgImage) && configuredOgImage.StartsWith("http", StringComparison.OrdinalIgnoreCase)
+        ? configuredOgImage
+        : $"{publicBaseUrl}{configuredOgImage}";
+    var ogType = ViewBag.OgType != null ? (string)ViewBag.OgType : "website";
+    var websiteSchema = JsonSerializer.Serialize(new Dictionary<string, object>
+    {
+        ["@context"] = "https://schema.org",
+        ["@type"] = "WebSite",
+        ["name"] = siteName,
+        ["url"] = publicBaseUrl,
+        ["potentialAction"] = new Dictionary<string, object>
+        {
+            ["@type"] = "SearchAction",
+            ["target"] = $"{publicBaseUrl}/blog?search={{search_term_string}}",
+            ["query-input"] = "required name=search_term_string"
+        }
+    });
+}
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="@metaDescription" />
+    <meta name="keywords" content="@metaKeywords" />
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
+    <meta name="theme-color" content="@siteOptions.ThemeColor" />
+    <link rel="canonical" href="@canonicalUrl" />
 
-    @if (ViewBag.BlogMetaTitle == null)
-    {
-        <meta property="title" content="Hinduism and Spiritual Practices" />
-        <meta property="title" content="Discover the profound spiritual practices of Hinduism, exploring rituals, meditation, yoga, and their deep connection to mindfulness and inner peace. Unveil the wisdom of ancient traditions that inspire harmony and self-realization" />
-
-    }
-    else
-    {
-        <meta property="title" content="@Html.Raw(HttpUtility.HtmlDecode(ViewBag.BlogMetaTitle))" />
-        <meta property="og:title" content="@Html.Raw(HttpUtility.HtmlDecode(ViewBag.SeoTitle))" />
-        <meta property="description" content="@Html.Raw(HttpUtility.HtmlDecode(ViewBag.BlogMetaDescription))" />
-        <meta property="og:description" content="@Html.Raw(HttpUtility.HtmlDecode(ViewBag.BlogMetaContent))" />
-        <meta property="Keyword" content="@Html.Raw(HttpUtility.HtmlDecode(ViewBag.BlogMetaKeyword))" />
-    }
-
-
+    <meta property="og:type" content="@ogType" />
+    <meta property="og:site_name" content="@siteName" />
+    <meta property="og:title" content="@seoTitle" />
+    <meta property="og:description" content="@ogDescription" />
+    <meta property="og:url" content="@canonicalUrl" />
+    <meta property="og:image" content="@ogImage" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="@seoTitle" />
+    <meta name="twitter:description" content="@metaDescription" />
+    <meta name="twitter:image" content="@ogImage" />
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" type="text/css" href="~/css/slick.css?v=1.0">
     <link rel="stylesheet" type="text/css" href="~/css/style.css?v=1.0">
 
-    <title>@ViewData["Title"] - MayaAstro</title>
+    <title>@seoTitle - @siteName</title>
     <link href="~/img/logo.png" rel="icon">
-
+    <script type="application/ld+json">@Html.Raw(websiteSchema)</script>
 </head>
 <body>
 

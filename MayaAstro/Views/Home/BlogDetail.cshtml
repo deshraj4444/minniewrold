@@ -1,29 +1,37 @@
 ﻿@model MayaAstro.Models.BlogDetailVM
+@using System.Text.Json
+@inject Microsoft.Extensions.Configuration.IConfiguration Configuration
 @{
     ViewData["Title"] = Model.Title;
     Layout = "~/Views/Shared/_Layout.cshtml";
-    @inject Microsoft.Extensions.Configuration.IConfiguration Configuration;
     var uploadUrl = Configuration["ApiSettings:UploadURL"];
     var BaseUrl = Configuration["ApiSettings:BaseUrl"];
-    <meta property="og:title" content="@Model.Title" />
-    <meta property="og:description" content="@Model.Description" />
-    <meta property="og:image" content="@BaseUrl@Model.BannerImageUrl" />
-    <meta property="og:image:secure_url" content="@BaseUrl@Model.BannerImageUrl" />
-    <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta property="og:url" content="@uploadUrl@Model.PageUrl" />
-    <meta property="og:type" content="website" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content="@BaseUrl@Model.BannerImageUrl" />
+    ViewBag.OgType = "article";
+    ViewBag.OgImage = $"{BaseUrl}{Model.BannerImageUrl}";
+    var articleSchema = JsonSerializer.Serialize(new Dictionary<string, object>
+    {
+        ["@context"] = "https://schema.org",
+        ["@type"] = "Article",
+        ["headline"] = Model.Title,
+        ["description"] = Model.BlogMetaDescription,
+        ["image"] = $"{BaseUrl}{Model.BannerImageUrl}",
+        ["author"] = new Dictionary<string, object>
+        {
+            ["@type"] = "Person",
+            ["name"] = string.IsNullOrWhiteSpace(Model.Author) ? "MayaAstro" : Model.Author
+        },
+        ["datePublished"] = Model.PublishDate?.ToString("yyyy-MM-dd") ?? Model.CreatedDate.ToString("yyyy-MM-dd"),
+        ["dateModified"] = Model.ModifiedDate.ToString("yyyy-MM-dd")
+    });
 }
+<script type="application/ld+json">@Html.Raw(articleSchema)</script>
 <section class="as_servicedetail_wrapper as_padderBottom80 as_padderTop80">
     <div class="container">
         <div class="row">
             <div class="col-lg-9 col-md-8">
                 <div class="as_blog_box as_blog_single as_padderBottom80">
                     <div class="as_blogdetail_img">
-                        <img src=" @uploadUrl@Model.BannerImageUrl" class="img-responsive" alt="">
+                        <img src="@uploadUrl@Model.BannerImageUrl" class="img-responsive" alt="@(string.IsNullOrWhiteSpace(Model.BannerAltText) ? Model.Title : Model.BannerAltText)">
                         <span class="as_btn">@Model.PublishDate?.ToString("MMM dd, yyyy")</span>
                     </div>
                     <div class="socialmedia-icon">
