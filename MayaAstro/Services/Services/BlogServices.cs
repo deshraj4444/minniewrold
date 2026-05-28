@@ -17,9 +17,9 @@ namespace MayaAstro.Services.Services
 
         #region Blog Details
 
-        public async Task<ApiResponseModel> BlogListImage(string? categoryName, int pageSize, int pageNo, string search, int domainId)
+        public async Task<ApiResponseModel> BlogListImage(string? categoryName, int pageSize, int pageNo, string search, int domainId, int? typeId = null)
         {
-            return await _iBlogRepository.BlogListImage(categoryName, pageSize, pageNo, search, domainId);
+            return await _iBlogRepository.BlogListImage(categoryName, pageSize, pageNo, search, domainId, typeId);
         }
         public async Task<ApiResponseModel> HomeBlogList(int domainId, string? categoryName)
         {

@@ -6,7 +6,7 @@ namespace MayaAstro.Services.Services
     {
 
         #region Blog Details
-        Task<ApiResponseModel> BlogListImage(string? categoryName, int pageSize, int pageNo, string search,int domainId);
+        Task<ApiResponseModel> BlogListImage(string? categoryName, int pageSize, int pageNo, string search, int domainId, int? typeId = null);
         Task<ApiResponseModel> HomeBlogList(int domainId, string? categoryName);
 
         Task<ApiResponseModel> GetBlogDetailList(int typeId, int domainId);

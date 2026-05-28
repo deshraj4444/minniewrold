@@ -26,7 +26,11 @@ namespace MayaAstro.Controllers
         public HomeController(ILogger<HomeController> logger, IConfiguration configuration, IHttpContextAccessor httpContextAccessor)
         {
             _logger = logger;
-            _client = new HttpClient();
+            _configuration = configuration;
+            _client = new HttpClient
+            {
+                Timeout = TimeSpan.FromSeconds(15)
+            };
             var apiBaseUrl = configuration.GetValue<string>("ApiSettings:BaseUrl");
             _client.BaseAddress = new Uri(apiBaseUrl);
             _httpContextAccessor = httpContextAccessor;
@@ -35,12 +39,14 @@ namespace MayaAstro.Controllers
         public IActionResult About()
 
         {
+            SetPageSeo("About MayaAstro", "Learn about MayaAstro astrology guidance, spiritual content, daily horoscope services, blogs and videos.", "about MayaAstro, astrology guidance, spiritual services");
             return View();
         }
         [Route("acharya")]
         public IActionResult Acharya()
 
         {
+            SetPageSeo("MayaAstro Acharya", "Connect with experienced acharyas and astrology experts for spiritual guidance and services.", "acharya, astrologer, spiritual guidance");
             return View();
         }
 
@@ -59,12 +65,13 @@ namespace MayaAstro.Controllers
         [Route("blog/{categoryName?}")]
         public IActionResult Blog()
         {
+            SetPageSeo("Astrology Blog", "Read SEO-friendly astrology articles, daily horoscope updates, Hindu spiritual practices and zodiac insights.", "astrology blog, daily horoscope articles, zodiac insights");
             return View();
         }
         [Route("blogList/")]
         public async Task<JsonResult> Blog(string? categoryName, int pageSize, int pageNo, string search = "")
         {
-            int domainId = 1;
+            int domainId = ResolveDomainId();
             List<BlogListImageVM> items = new List<BlogListImageVM>();
             {
                 //var request = _httpContextAccessor.HttpContext?.Request;
@@ -78,13 +85,13 @@ namespace MayaAstro.Controllers
                     string apiUrl;
                     if (string.IsNullOrEmpty(categoryName))
                     {
-                        apiUrl = $"api/BlogListImage/{pageSize}/{pageNo}/{domainId}?search={search}";
+                        apiUrl = $"api/BlogListImage/{pageSize}/{pageNo}/{domainId}?search={Uri.EscapeDataString(search ?? string.Empty)}";
                         ViewBag.CategoryHeading = "Our Latest Blog"; 
                     }
                     else
                     {
                         var slug = categoryName.Replace("-", " ");
-                        apiUrl = $"api/BlogListImage/{pageSize}/{pageNo}/{domainId}?categoryName={slug}&search={search}";
+                        apiUrl = $"api/BlogListImage/{pageSize}/{pageNo}/{domainId}?categoryName={Uri.EscapeDataString(slug)}&search={Uri.EscapeDataString(search ?? string.Empty)}";
                         ViewBag.CategoryHeading = slug; // Set category heading
                     }
                     var responseMessage = await _client.GetAsync(apiUrl);
@@ -117,7 +124,7 @@ namespace MayaAstro.Controllers
         [Route("{url}")]
         public async Task<ActionResult> BlogDetail(string url)
         {
-            int domainId = 1;
+            int domainId = ResolveDomainId();
             var slug = url.Replace("-", " ");
             BlogDetailVM blog = new BlogDetailVM();
             try
@@ -141,6 +148,12 @@ namespace MayaAstro.Controllers
                 ViewBag.SeoTitle = blog.SeoTitle;
                 ViewBag.BlogMetaKeyword = blog.BlogMetaKeyword;
                 ViewBag.BlogMetaContent = blog.BlogMetaContent;
+                ViewData["OgType"] = "article";
+                ViewData["CanonicalUrl"] = BuildAbsoluteUrl("/" + Slugify(blog.PageUrl ?? url));
+                if (!string.IsNullOrWhiteSpace(blog.OgiImage))
+                {
+                    ViewData["OgImage"] = BuildUploadUrl(blog.OgiImage);
+                }
 
                 var categoryResponse = await _client.GetAsync($"api/GetBlogCategoryUserList/{domainId}");
                 if (categoryResponse.IsSuccessStatusCode)
@@ -172,6 +185,7 @@ namespace MayaAstro.Controllers
         [Route("contact")]
         public IActionResult Contact()
         {
+            SetPageSeo("Contact MayaAstro", "Contact MayaAstro for astrology services, horoscope support, blogs, videos and spiritual guidance.", "contact astrologer, MayaAstro contact, astrology services");
             return View();
         }
 
@@ -181,6 +195,7 @@ namespace MayaAstro.Controllers
 
         public async Task<IActionResult> Index()
         {
+            SetPageSeo("Daily Horoscope, Astrology Blogs and Spiritual Videos", "Explore daily horoscope updates, zodiac guidance, astrology services, spiritual blogs and videos on MayaAstro.", "daily horoscope, zodiac, astrology services, spiritual blogs, astrology videos");
             var blogDetails = await GetBlogDetails();
             var hrresponse = await GetLocalHoroscope();
             if (blogDetails == null)
@@ -240,6 +255,7 @@ namespace MayaAstro.Controllers
         [Route("privacy-policy")]
         public IActionResult Privacy()
         {
+            SetPageSeo("Privacy Policy", "Read the MayaAstro privacy policy for website, blog, video and astrology service users.", "privacy policy");
             return View();
         }
 
@@ -252,7 +268,7 @@ namespace MayaAstro.Controllers
         [Route("quoteList/")]
         public async Task<JsonResult> Quote(string? categoryName, int pageSize, int pageNo, string search = "")
         {
-            int domainId = 1;
+            int domainId = ResolveDomainId();
 
 
             List<BlogListImageVM> items = new List<BlogListImageVM>();
@@ -268,13 +284,13 @@ namespace MayaAstro.Controllers
                     string apiUrl;
                     if (string.IsNullOrEmpty(categoryName))
                     {
-                        apiUrl = $"api/BlogListImage/{pageSize}/{pageNo}/{domainId}?search={search}";
+                        apiUrl = $"api/BlogListImage/{pageSize}/{pageNo}/{domainId}?search={Uri.EscapeDataString(search ?? string.Empty)}";
                         ViewBag.CategoryHeading = "Our Latest Blog";
                     }
                     else
                     {
                         var slug = categoryName.Replace("-", " ");
-                        apiUrl = $"api/BlogListImage/{pageSize}/{pageNo}/{domainId}?categoryName={slug}&search={search}";
+                        apiUrl = $"api/BlogListImage/{pageSize}/{pageNo}/{domainId}?categoryName={Uri.EscapeDataString(slug)}&search={Uri.EscapeDataString(search ?? string.Empty)}";
                         ViewBag.CategoryHeading = slug; // Set category heading
                     }
                     // Call the API
@@ -307,7 +323,7 @@ namespace MayaAstro.Controllers
         [Route("quote/{url}")]
         public async Task<ActionResult> QuoteDetail(string url)
         {
-            int domainId = 1;
+            int domainId = ResolveDomainId();
             var slug = url.Replace("-", " ");
             BlogDetailVM blog = new BlogDetailVM();
             try
@@ -362,30 +378,34 @@ namespace MayaAstro.Controllers
         [Route("services")]
         public IActionResult Services()
         {
+            SetPageSeo("Astrology Services", "Explore professional astrology services, daily horoscope guidance, zodiac readings and spiritual consultations.", "astrology services, horoscope services, zodiac readings");
             return View();
         }
        
         [Route("shop")]
         public IActionResult Shop()
         {
+            SetPageSeo("MayaAstro Shop", "Browse MayaAstro spiritual and astrology products.", "astrology shop, spiritual products");
             return View();
         }
         [Route("term-of-use")]
         public IActionResult TermOfUse()
 
         {
+            SetPageSeo("Terms and Conditions", "Read MayaAstro terms and conditions for astrology services, blogs and video content.", "terms and conditions");
             return View();
         }
 
         [Route("videos/{categoryName?}")]
         public IActionResult Video()
         {
+            SetPageSeo("Astrology Videos", "Watch astrology videos, horoscope explainers and Hindu spiritual guidance from MayaAstro.", "astrology videos, horoscope videos, spiritual videos");
             return View();
         }
         [Route("videoList/")]
         public async Task<JsonResult> Video(string? categoryName, int pageSize, int pageNo, string search = "")
         {
-            int domainId = 1;
+            int domainId = ResolveDomainId();
             int typeId = 4;
 
             List<BlogListImageVM> items = new List<BlogListImageVM>();
@@ -401,13 +421,13 @@ namespace MayaAstro.Controllers
                     string apiUrl;
                     if (string.IsNullOrEmpty(categoryName))
                     {
-                        apiUrl = $"api/BlogListImage/{pageSize}/{pageNo}/{domainId}/{typeId}?search={search}";
+                        apiUrl = $"api/BlogListImage/{pageSize}/{pageNo}/{domainId}/{typeId}?search={Uri.EscapeDataString(search ?? string.Empty)}";
                         ViewBag.CategoryHeading = "Our Latest Videos";
                     }
                     else
                     {
                         var slug = categoryName.Replace("-", " ");
-                        apiUrl = $"api/BlogListImage/{pageSize}/{pageNo}/{domainId}/{typeId}?categoryName={slug}&search={search}";
+                        apiUrl = $"api/BlogListImage/{pageSize}/{pageNo}/{domainId}/{typeId}?categoryName={Uri.EscapeDataString(slug)}&search={Uri.EscapeDataString(search ?? string.Empty)}";
                         ViewBag.CategoryHeading = slug;
                     }
                     var responseMessage = await _client.GetAsync(apiUrl);
@@ -436,7 +456,7 @@ namespace MayaAstro.Controllers
         [Route("video/{url}")]
         public async Task<ActionResult> VideoDetail(string url)
         {
-            int domainId = 1;
+            int domainId = ResolveDomainId();
             int typeId = 3;
             var slug = url.Replace("-", " ");
             BlogDetailVM blog = new BlogDetailVM();
@@ -461,6 +481,12 @@ namespace MayaAstro.Controllers
                 ViewBag.SeoTitle = blog.SeoTitle;
                 ViewBag.BlogMetaKeyword = blog.BlogMetaKeyword;
                 ViewBag.BlogMetaContent = blog.BlogMetaContent;
+                ViewData["OgType"] = "video.other";
+                ViewData["CanonicalUrl"] = BuildAbsoluteUrl("/video/" + Slugify(blog.PageUrl ?? url));
+                if (!string.IsNullOrWhiteSpace(blog.OgiImage))
+                {
+                    ViewData["OgImage"] = BuildUploadUrl(blog.OgiImage);
+                }
 
                 var categoryResponse = await _client.GetAsync($"api/GetBlogCategoryUserList/{domainId}/{typeId}");
                 if (categoryResponse.IsSuccessStatusCode)
@@ -532,6 +558,8 @@ namespace MayaAstro.Controllers
                 }
             }
 
+            SetPageSeo($"{sign} Daily Horoscope", $"Read today's {sign} daily horoscope, zodiac prediction and astrology guidance.", $"{sign} horoscope, {sign} daily horoscope, zodiac prediction");
+            ViewData["CanonicalUrl"] = BuildAbsoluteUrl("/zodiac/" + Slugify(sign));
             ViewBag.Sign = sign;
             var combinedData = new ZodiacCombinedViewModelVM
             {
@@ -545,7 +573,7 @@ namespace MayaAstro.Controllers
         
         private async Task<List<BlogDetailVM>> GetBlogDetails()
         {
-            int domainId = 1;
+            int domainId = ResolveDomainId();
             try
             {
                 var responseMessage = await _client.GetAsync($"api/HomeBlogList/{domainId}");
@@ -593,6 +621,55 @@ namespace MayaAstro.Controllers
             return null;
         }
 
+        private int ResolveDomainId()
+        {
+            var host = _httpContextAccessor.HttpContext?.Request.Host.Host?.ToLowerInvariant();
+            var domainMappings = _configuration.GetSection("WebsiteDomainMappings").Get<Dictionary<string, int>>() ?? new Dictionary<string, int>();
+
+            if (!string.IsNullOrWhiteSpace(host) && domainMappings.TryGetValue(host, out var mappedDomainId))
+            {
+                return mappedDomainId;
+            }
+
+            return _configuration.GetValue("DefaultWebsiteId", 1);
+        }
+
+        private void SetPageSeo(string title, string description, string keywords)
+        {
+            ViewData["MetaTitle"] = title;
+            ViewData["MetaDescription"] = description;
+            ViewData["MetaKeywords"] = keywords;
+            ViewData["CanonicalUrl"] = BuildAbsoluteUrl(_httpContextAccessor.HttpContext?.Request.Path.Value ?? "/");
+        }
+
+        private string BuildAbsoluteUrl(string path)
+        {
+            var request = _httpContextAccessor.HttpContext?.Request;
+            if (request == null)
+            {
+                return path;
+            }
+
+            return $"{request.Scheme}://{request.Host}{path}";
+        }
+
+        private string BuildUploadUrl(string path)
+        {
+            if (string.IsNullOrWhiteSpace(path) || path.StartsWith("http", StringComparison.OrdinalIgnoreCase))
+            {
+                return path;
+            }
+
+            var uploadUrl = _configuration["ApiSettings:UploadURL"]?.TrimEnd('/') ?? string.Empty;
+            return $"{uploadUrl}/{path.TrimStart('/')}";
+        }
+
+        private static string Slugify(string title)
+        {
+            return string.IsNullOrWhiteSpace(title)
+                ? string.Empty
+                : Regex.Replace(title.Trim().ToLowerInvariant(), @"[^a-z0-9]+", "-").Trim('-');
+        }
 
 
         #region Login

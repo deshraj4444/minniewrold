@@ -28,11 +28,11 @@ namespace MayaAstro.Controllers.WebApi
 
         [AllowAnonymous]
         [HttpGet]
-        [Route("api/BlogListImage/{pageSize}/{pageNo}/{domainId}")]
+        [Route("api/BlogListImage/{pageSize}/{pageNo}/{domainId}/{typeId?}")]
 
-        public async Task<IActionResult> BlogListImage(string? categoryName, int pageSize, int pageNo, string? search, int domainId)
+        public async Task<IActionResult> BlogListImage(string? categoryName, int pageSize, int pageNo, string? search, int domainId, int? typeId = null)
         {
-            var data = await _iBlogServices.BlogListImage(categoryName, pageSize, pageNo, search ,domainId);
+            var data = await _iBlogServices.BlogListImage(categoryName, pageSize, pageNo, search, domainId, typeId);
 
             return Ok(data);
         }
