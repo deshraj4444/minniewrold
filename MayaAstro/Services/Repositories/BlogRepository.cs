@@ -25,7 +25,7 @@ namespace MayaAstro.Services.Repositories
 		#region Add Blog Details
 
 
-		public async Task<ApiResponseModel> BlogListImage(string? categoryName, int pageSize, int pageNo, string search, int domainId)
+		public async Task<ApiResponseModel> BlogListImage(string? categoryName, int pageSize, int pageNo, string search, int domainId, int? typeId = null)
 		{
 			try
 			{
@@ -38,6 +38,7 @@ namespace MayaAstro.Services.Repositories
 								  from c in categoryJoin.DefaultIfEmpty()
 								  where s.IsPublished == 1
 								  && s.WebsiteId == domainId
+								  && (!typeId.HasValue || s.TypeId == typeId.Value)
 										&& (string.IsNullOrEmpty(categoryName) || c.BlogCategoryName == categoryName)
 								   && (string.IsNullOrEmpty(sanitizedSearch) || (s.Title ?? string.Empty).ToLower().Contains(sanitizedSearch.ToLower()))
 

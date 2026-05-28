@@ -115,6 +115,26 @@
 
 
 
+    function escapeHtml(value) {
+        return String(value ?? "").replace(/[&<>'"]/g, function (char) {
+            return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' })[char];
+        });
+    }
+
+    function buildAssetUrl(path) {
+        if (!path) return "";
+        return path.startsWith("http") ? path : uploadUrl + path;
+    }
+
+    function formatDate(value) {
+        if (!value) return "";
+        return new Date(value).toLocaleDateString('en-GB', {
+            day: '2-digit',
+            month: 'short',
+            year: 'numeric',
+        });
+    }
+
     function loadBlogs() {
         if (isLoading) return;
         isLoading = true;
@@ -123,7 +143,7 @@
         loadMoreBtn.hide();
 
         $.ajax({
-            url: "/blogList",
+            url: "/videoList",
             type: "GET",
             data: {
                 categoryName: '@blogPath',
@@ -140,30 +160,24 @@
                         row = $('<div class="row">');
                         blogList.append(row);
                     }
+                    const title = escapeHtml(blog.title);
+                    const author = escapeHtml(blog.author);
+                    const imageAlt = escapeHtml(blog.bannerAltText || blog.title || "MayaAstro content image");
+                    const slug = Slugify(blog.pageUrl);
                     const blogCard = `
-                                        <div class="col-lg-4 col-md-6 col-sm-12 col-12 blog-card" data-title="${blog.title.toLowerCase()}">
+                                        <div class="col-lg-4 col-md-6 col-sm-12 col-12 blog-card" data-title="${escapeHtml((blog.title || "").toLowerCase())}">
                                             <div class="as_blog_boxcard">
                                                 <div class="as_blog_img">
-                                                    <a href="/${Slugify(blog.pageUrl)}">
-                                                        <img src="${uploadUrl + blog.thumbnailImageUrl}" alt="" class="img-fluid">
+                                                    <a href="/video/${slug}">
+                                                        <img src="${buildAssetUrl(blog.thumbnailImageUrl)}" alt="${imageAlt}" class="img-fluid" loading="lazy">
                                                     </a>
                                                 </div>
                                                 <div class="lower-content">
-          <ul class="post-meta">
-                                                                <li>  <img src="${uploadUrl + blog.authorImage}" alt="" class="img-fluid test">
-                                                                    ${blog.author} </li>
-    <li class="post-date" style="font-size: 12px;">
-                  ${new Date(blog.publishDate).toLocaleDateString('en-GB', {
-                            day: '2-digit',
-                            month: 'short',
-                            year: 'numeric',
-                        })}
-                </li>
-                                                           
-
+                                                    <ul class="post-meta">
+                                                        <li><img src="${buildAssetUrl(blog.authorImage)}" alt="${author}" class="img-fluid test" loading="lazy"> ${author}</li>
+                                                        <li class="post-date" style="font-size: 12px;">${formatDate(blog.publishDate)}</li>
                                                     </ul>
-            
-                                                        <h4><a href="/${Slugify(blog.pageUrl)}">${blog.title}</a></h4>
+                                                    <h4><a href="/video/${slug}">${title}</a></h4>
                                                 </div>
                                             </div>
                                         </div>

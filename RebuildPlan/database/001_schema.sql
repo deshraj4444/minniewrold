@@ -1,0 +1,47 @@
+CREATE TABLE AdminUsers (
+    Id UNIQUEIDENTIFIER PRIMARY KEY DEFAULT NEWID(),
+    Username NVARCHAR(100) NOT NULL UNIQUE,
+    PasswordHash NVARCHAR(255) NOT NULL,
+    DisplayName NVARCHAR(150) NOT NULL,
+    IsActive BIT NOT NULL DEFAULT 1,
+    CreatedAt DATETIME2 NOT NULL DEFAULT SYSUTCDATETIME()
+);
+
+CREATE TABLE SeoSettings (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    SiteName NVARCHAR(200) NOT NULL,
+    DefaultTitle NVARCHAR(255) NOT NULL,
+    DefaultDescription NVARCHAR(500) NOT NULL,
+    DefaultKeywords NVARCHAR(500) NULL,
+    CanonicalBaseUrl NVARCHAR(255) NOT NULL,
+    UpdatedAt DATETIME2 NOT NULL DEFAULT SYSUTCDATETIME()
+);
+
+CREATE TABLE ContentCategories (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Name NVARCHAR(120) NOT NULL,
+    Slug NVARCHAR(150) NOT NULL UNIQUE,
+    ContentType NVARCHAR(20) NOT NULL CHECK (ContentType IN ('blog','quote','video'))
+);
+
+CREATE TABLE Contents (
+    Id BIGINT IDENTITY(1,1) PRIMARY KEY,
+    ContentType NVARCHAR(20) NOT NULL CHECK (ContentType IN ('blog','quote','video')),
+    CategoryId INT NULL REFERENCES ContentCategories(Id),
+    Title NVARCHAR(255) NOT NULL,
+    Slug NVARCHAR(255) NOT NULL UNIQUE,
+    Summary NVARCHAR(500) NULL,
+    BodyHtml NVARCHAR(MAX) NULL,
+    YouTubeUrl NVARCHAR(500) NULL,
+    ThumbnailUrl NVARCHAR(500) NULL,
+    PublishedAt DATETIME2 NULL,
+    IsPublished BIT NOT NULL DEFAULT 1,
+    SeoTitle NVARCHAR(255) NULL,
+    SeoDescription NVARCHAR(500) NULL,
+    SeoKeywords NVARCHAR(500) NULL,
+    OgImageUrl NVARCHAR(500) NULL,
+    CreatedAt DATETIME2 NOT NULL DEFAULT SYSUTCDATETIME(),
+    UpdatedAt DATETIME2 NOT NULL DEFAULT SYSUTCDATETIME()
+);
+
+CREATE INDEX IX_Contents_Type_PublishedAt ON Contents(ContentType, IsPublished, PublishedAt DESC);
