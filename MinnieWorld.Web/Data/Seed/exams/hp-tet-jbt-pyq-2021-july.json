@@ -1,0 +1,2181 @@
+{
+  "slug": "hp-tet-jbt-pyq-2021-july",
+  "version": 1,
+  "title": "HP TET JBT · July 2021 (previous year questions)",
+  "description": "Questions asked in the HP TET JBT exam of the June 2021 session (held 9 July 2021), with answers checked against a published solved paper and independently verified. Not the complete paper: garbled or doubtful questions were left out.",
+  "category": "HP TET JBT",
+  "kind": "Previous year",
+  "year": 2021,
+  "durationMinutes": 134,
+  "price": 10,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following methods is considered the most scientific and objective method of studying behaviour?",
+      "options": [
+        "Observation method",
+        "Experimental method",
+        "Survey Method",
+        "Case study method"
+      ],
+      "answer": 1,
+      "textHi": "व्यवहार के अध्ययन की कौन-सी विधि सबसे अधिक वैज्ञानिक और वस्तुनिष्ठ मानी जाती है?",
+      "optionsHi": [
+        "अवलोकन विधि",
+        "प्रयोगात्मक विधि",
+        "सर्वेक्षण विधि",
+        "व्यक्ति अध्ययन विधि"
+      ],
+      "explanation": "The experimental method controls variables and tests cause and effect, making it the most scientific and objective. (Q3 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "How many stages of psychosocial development did Erikson describe?",
+      "options": [
+        "Five",
+        "Seven",
+        "Eight",
+        "Three"
+      ],
+      "answer": 2,
+      "textHi": "एरिक्सन ने मनोसामाजिक विकास की कितनी अवस्थाएँ बताईं?",
+      "optionsHi": [
+        "पाँच",
+        "सात",
+        "आठ",
+        "तीन"
+      ],
+      "explanation": "Erikson described eight psychosocial stages from infancy to old age. (Q4 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Our genes are composed of",
+      "options": [
+        "D.N.A",
+        "R.N.A",
+        "Chromosome",
+        "Sperm cell"
+      ],
+      "answer": 0,
+      "textHi": "हमारे जीन किससे बने होते हैं?",
+      "optionsHi": [
+        "डी.एन.ए.",
+        "आर.एन.ए.",
+        "गुणसूत्र",
+        "शुक्राणु कोशिका"
+      ],
+      "explanation": "Genes are segments of DNA (deoxyribonucleic acid). (Q5 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Each egg cell (ovum) carries which sex chromosome?",
+      "options": [
+        "X",
+        "Y",
+        "XX",
+        "YY"
+      ],
+      "answer": 0,
+      "textHi": "प्रत्येक अंड कोशिका में कौन-सा लिंग गुणसूत्र होता है?",
+      "optionsHi": [
+        "X",
+        "Y",
+        "XX",
+        "YY"
+      ],
+      "explanation": "Every ovum carries an X chromosome; the sperm carries either X or Y. (Q6 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Delinquency is often associated with",
+      "options": [
+        "Low parental support",
+        "Inappropriate discipline",
+        "Family discord",
+        "All the above"
+      ],
+      "answer": 3,
+      "textHi": "बाल अपराध प्रायः किससे जुड़ा होता है?",
+      "optionsHi": [
+        "माता-पिता का कम सहयोग",
+        "अनुचित अनुशासन",
+        "पारिवारिक कलह",
+        "उपरोक्त सभी"
+      ],
+      "explanation": "Low parental support, faulty discipline and family discord are all linked with juvenile delinquency. (Q7 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Prenatal development is commonly divided into periods called",
+      "options": [
+        "Germinal",
+        "Embryonic",
+        "Fetal",
+        "All of the above"
+      ],
+      "answer": 3,
+      "textHi": "जन्म-पूर्व विकास को सामान्यतः किन अवधियों में बाँटा जाता है?",
+      "optionsHi": [
+        "बीजावस्था (जर्मिनल)",
+        "भ्रूणावस्था (एम्ब्रियोनिक)",
+        "गर्भस्थ शिशु अवस्था (फीटल)",
+        "उपरोक्त सभी"
+      ],
+      "explanation": "Prenatal development has three periods: germinal, embryonic and fetal. (Q8 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The process of ........ is important in personality development.",
+      "options": [
+        "Identification",
+        "Similarity",
+        "Social attachments",
+        "Separation"
+      ],
+      "answer": 0,
+      "textHi": "व्यक्तित्व विकास में ........ की प्रक्रिया महत्वपूर्ण है।",
+      "optionsHi": [
+        "तादात्म्य (पहचान)",
+        "समानता",
+        "सामाजिक बंधन",
+        "पृथक्करण"
+      ],
+      "explanation": "Through identification (with parents and models) the child takes on values and traits, shaping personality. (Q9 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Skinner conducted his studies on",
+      "options": [
+        "Rats",
+        "Pigeons",
+        "Dogs",
+        "Both (A) and (B)"
+      ],
+      "answer": 3,
+      "textHi": "स्किनर ने अपने अध्ययन किन पर किए?",
+      "optionsHi": [
+        "चूहों पर",
+        "कबूतरों पर",
+        "कुत्तों पर",
+        "(A) और (B) दोनों पर"
+      ],
+      "explanation": "B.F. Skinner experimented mainly with rats and pigeons in the Skinner box. (Q10 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "In operant conditioning, the procedure of not reinforcing a response is called",
+      "options": [
+        "Shaping",
+        "Extinction",
+        "Continuous reinforcement",
+        "None of the above"
+      ],
+      "answer": 1,
+      "textHi": "क्रियाप्रसूत अनुबंधन में किसी अनुक्रिया को पुनर्बलित न करने की प्रक्रिया कहलाती है",
+      "optionsHi": [
+        "आकार देना (शेपिंग)",
+        "विलोपन (एक्सटिंक्शन)",
+        "सतत पुनर्बलन",
+        "उपरोक्त में से कोई नहीं"
+      ],
+      "explanation": "Withholding reinforcement so that a response fades is called extinction. (Q11 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is a system of memory?",
+      "options": [
+        "Sensory",
+        "Short-term",
+        "Long-Term",
+        "All the above"
+      ],
+      "answer": 3,
+      "textHi": "निम्नलिखित में से कौन-सी स्मृति की प्रणाली है?",
+      "optionsHi": [
+        "संवेदी",
+        "अल्पकालिक",
+        "दीर्घकालिक",
+        "उपरोक्त सभी"
+      ],
+      "explanation": "Memory systems are sensory, short-term and long-term memory (Atkinson-Shiffrin model). (Q12 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The first stage of memory is",
+      "options": [
+        "Encoding",
+        "Storage",
+        "Retrieval",
+        "None of the above"
+      ],
+      "answer": 0,
+      "textHi": "स्मृति की पहली अवस्था है",
+      "optionsHi": [
+        "कूटसंकेतन (एन्कोडिंग)",
+        "संचयन (भंडारण)",
+        "पुनःप्राप्ति",
+        "उपरोक्त में से कोई नहीं"
+      ],
+      "explanation": "Memory stages are encoding, storage and retrieval; encoding comes first. (Q13 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Partial or complete loss of Memory is called :",
+      "options": [
+        "Agnosia",
+        "Ataxia",
+        "Amnesia",
+        "None of these"
+      ],
+      "answer": 2,
+      "textHi": "स्मृति का आंशिक या पूर्ण लोप कहलाता है",
+      "optionsHi": [
+        "अग्नोसिया",
+        "अटैक्सिया",
+        "स्मृतिलोप (एम्नेशिया)",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "Amnesia is partial or complete loss of memory. (Q14 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which mental activities are involved in thinking?",
+      "options": [
+        "Inferring",
+        "Abstracting",
+        "Reasoning",
+        "All the above"
+      ],
+      "answer": 3,
+      "textHi": "चिंतन में कौन-सी मानसिक क्रियाएँ शामिल होती हैं?",
+      "optionsHi": [
+        "अनुमान लगाना",
+        "अमूर्तीकरण",
+        "तर्क करना",
+        "उपरोक्त सभी"
+      ],
+      "explanation": "Thinking involves inferring, abstracting and reasoning. (Q16 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Mentally retarded people with IQ ranging from 25 to 39 are known as",
+      "options": [
+        "Mildly mentally retarded",
+        "Moderately mentally retarded",
+        "Severely mentally retarded",
+        "Profoundly mentally retarded"
+      ],
+      "answer": 2,
+      "textHi": "जिन मंदबुद्धि व्यक्तियों की बुद्धि-लब्धि 25 से 39 के बीच होती है, वे कहलाते हैं",
+      "optionsHi": [
+        "हल्के मंदबुद्धि",
+        "मध्यम मंदबुद्धि",
+        "गंभीर मंदबुद्धि",
+        "अति गंभीर मंदबुद्धि"
+      ],
+      "explanation": "On the Wechsler classification, IQ 25–39 is severe mental retardation. (Q17 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The propounder of the Insight theory of learning is",
+      "options": [
+        "Kohler",
+        "Thorndike",
+        "Skinner",
+        "Pavlov"
+      ],
+      "answer": 0,
+      "textHi": "अधिगम के अंतर्दृष्टि सिद्धांत के प्रतिपादक हैं",
+      "optionsHi": [
+        "कोहलर",
+        "थॉर्नडाइक",
+        "स्किनर",
+        "पावलव"
+      ],
+      "explanation": "Wolfgang Köhler proposed insight learning from his experiments with chimpanzees. (Q21 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "How many personality types were described by Kretschmer?",
+      "options": [
+        "Four",
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "answer": 2,
+      "textHi": "क्रेचमर ने व्यक्तित्व के कितने प्रकार बताए?",
+      "optionsHi": [
+        "चार",
+        "दो",
+        "तीन",
+        "पाँच"
+      ],
+      "explanation": "Kretschmer gave three body-build types: pyknic, athletic and asthenic (leptosomic). (Q22 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Creativity is identified by",
+      "options": [
+        "Old behaviour",
+        "Drawing",
+        "Music",
+        "New results"
+      ],
+      "answer": 3,
+      "textHi": "सृजनात्मकता की पहचान होती है",
+      "optionsHi": [
+        "पुराने व्यवहार से",
+        "चित्रकला से",
+        "संगीत से",
+        "नवीन परिणाम से।"
+      ],
+      "explanation": "Creativity is recognised by new, original results or products. (Q23 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who said, \"Creativity is essentially found in new construction or production\"?",
+      "options": [
+        "James Drever",
+        "C.V. Good",
+        "Crow and Crow",
+        "Stein"
+      ],
+      "answer": 0,
+      "textHi": "यह किसने कहा: \"सृजनात्मकता मुख्यतः नवीन रचना या उत्पादन में होती है\"?",
+      "optionsHi": [
+        "जेम्स ड्रेवर",
+        "सी.वी. गुड",
+        "क्रो एवं क्रो",
+        "स्टेन"
+      ],
+      "explanation": "James Drever: \"Creativity is essentially found in new construction or production.\" (Q24 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who propounded the laws of learning?",
+      "options": [
+        "Crow and Crow",
+        "Thorndike",
+        "J.P. Guilford",
+        "Skinner"
+      ],
+      "answer": 1,
+      "textHi": "अधिगम के नियमों के प्रतिपादक कौन हैं?",
+      "optionsHi": [
+        "क्रो एवं क्रो",
+        "थॉर्नडाइक",
+        "जे.पी. गिलफोर्ड",
+        "स्किनर"
+      ],
+      "explanation": "E.L. Thorndike gave the laws of learning: readiness, exercise and effect. (Q25 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Children whose mental age is lower than their chronological age are known as :",
+      "options": [
+        "Gifted Child",
+        "Normal Child",
+        "Learning Disabled",
+        "Retarded Child"
+      ],
+      "answer": 3,
+      "textHi": "जिन बच्चों की मानसिक आयु उनकी कालानुक्रमिक आयु से कम होती है, वे कहलाते हैं",
+      "optionsHi": [
+        "प्रतिभाशाली बालक",
+        "सामान्य बालक",
+        "अधिगम अक्षम बालक",
+        "मंदित बालक"
+      ],
+      "explanation": "When mental age is below chronological age (IQ below normal) the child is called mentally retarded. (Q26 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who stated, \"Children construct their own understanding through interaction with their environment\"?",
+      "options": [
+        "Skinner",
+        "Guilford",
+        "Piaget",
+        "Burt"
+      ],
+      "answer": 2,
+      "textHi": "किसने कहा, \"बच्चे अपने वातावरण के साथ अंतःक्रिया द्वारा अपनी समझ का निर्माण स्वयं करते हैं।\"",
+      "optionsHi": [
+        "स्किनर ने",
+        "गिलफोर्ड ने",
+        "पियाजे ने",
+        "बर्ट ने।"
+      ],
+      "explanation": "Piaget's constructivism holds that children build understanding by interacting with the environment. (Q27 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What is the IQ of a child whose mental age equals the chronological age?",
+      "options": [
+        "100",
+        "120",
+        "80",
+        "140"
+      ],
+      "answer": 0,
+      "textHi": "जिस बालक की मानसिक आयु उसकी कालानुक्रमिक आयु के बराबर हो, उसकी बुद्धि-लब्धि कितनी होगी?",
+      "optionsHi": [
+        "100",
+        "120",
+        "80",
+        "140"
+      ],
+      "explanation": "IQ = (MA/CA) × 100 = 100 when MA equals CA. (Q28 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The stage in which a child begins to think logically about concrete objects and events is known as",
+      "options": [
+        "Sensorimotor stage",
+        "Pre-operational stage",
+        "Formal operational stage",
+        "Concrete operational stage"
+      ],
+      "answer": 3,
+      "textHi": "वह अवस्था जिसमें बच्चा मूर्त वस्तुओं और घटनाओं के बारे में तार्किक रूप से सोचना शुरू करता है, कहलाती है",
+      "optionsHi": [
+        "संवेदी-पेशीय अवस्था",
+        "पूर्व-संक्रियात्मक अवस्था",
+        "औपचारिक संक्रियात्मक अवस्था",
+        "मूर्त संक्रियात्मक अवस्था"
+      ],
+      "explanation": "In the concrete operational stage (7–11 years) children reason logically about concrete objects and events. (Q29 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The Kindergarten system of education was proposed by",
+      "options": [
+        "Nunn",
+        "Spencer",
+        "Froebel",
+        "Montessori"
+      ],
+      "answer": 2,
+      "textHi": "शिक्षा की किंडरगार्टन पद्धति का प्रतिपादन किसने किया?",
+      "optionsHi": [
+        "नन",
+        "स्पेंसर",
+        "फ्रोबेल",
+        "मॉन्टेसरी"
+      ],
+      "explanation": "Friedrich Froebel founded the Kindergarten system. (Q30 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-3.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: Ceylon is ........ island.",
+      "options": [
+        "the",
+        "an",
+        "a",
+        "be"
+      ],
+      "answer": 1,
+      "explanation": "'Island' begins with a vowel sound, so it takes 'an'. (Q31 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: ........ a Ford, he has a Fiat car.",
+      "options": [
+        "besides",
+        "with",
+        "except",
+        "between"
+      ],
+      "answer": 0,
+      "explanation": "'Besides' means 'in addition to': besides a Ford, he has a Fiat. (Q33 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: He and ........ were good friends.",
+      "options": [
+        "I",
+        "me",
+        "my",
+        "am"
+      ],
+      "answer": 0,
+      "explanation": "The subject of a verb takes the subjective case 'I'. (Q34 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "The synonym of 'Agony' is",
+      "options": [
+        "affair",
+        "agree",
+        "pain",
+        "happy"
+      ],
+      "answer": 2,
+      "explanation": "Agony means severe pain or suffering. (Q35 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "The masculine of 'Heifer' is",
+      "options": [
+        "Horse",
+        "Hart",
+        "Ram",
+        "Bullock"
+      ],
+      "answer": 3,
+      "explanation": "A heifer is a young cow; the masculine given in grammar books is bullock. (Q36 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "The word 'Amateur' means",
+      "options": [
+        "one who is mature enough",
+        "one who does some art or sport as a hobby",
+        "one who is not mature enough",
+        "an artist by profession"
+      ],
+      "answer": 1,
+      "explanation": "An amateur does an art or sport as a hobby, not as a profession. (Q37 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Change the voice: 'Never tell a lie.'",
+      "options": [
+        "Let a lie never be told.",
+        "Let a lie never was told.",
+        "Let a lie never has told.",
+        "Let a lie never is told."
+      ],
+      "answer": 0,
+      "explanation": "Imperative passive uses 'Let ... be + past participle': Let a lie never be told. (Q39 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "An 'Epic' is",
+      "options": [
+        "songs handed down orally from generation to generation",
+        "a long narrative poem based on a myth or legend",
+        "a three-line rhyming stanza",
+        "two lines of rhyming verse"
+      ],
+      "answer": 1,
+      "explanation": "An epic is a long narrative poem about heroic deeds, often based on myth or legend. (Q40 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: I ........ rather die than beg.",
+      "options": [
+        "would",
+        "should",
+        "could",
+        "must"
+      ],
+      "answer": 0,
+      "explanation": "'Would rather ... than' expresses preference. (Q41 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: It is difficult to distinguish ........ the two sisters.",
+      "options": [
+        "in",
+        "from",
+        "between",
+        "against"
+      ],
+      "answer": 2,
+      "explanation": "'Between' is used for two people or things. (Q42 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most opposite in meaning to: IMPLICATE",
+      "options": [
+        "Embarrass",
+        "Explicit",
+        "Exceptional",
+        "Exonerate"
+      ],
+      "answer": 3,
+      "explanation": "To implicate is to involve in a crime; to exonerate is to declare free from blame. (Q43 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most opposite in meaning to: STERILE",
+      "options": [
+        "Imbecile",
+        "Solitary",
+        "Fertile",
+        "Unscrupulous"
+      ],
+      "answer": 2,
+      "explanation": "Sterile (unable to produce) is the opposite of fertile. (Q44 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most opposite in meaning to: LOGICAL",
+      "options": [
+        "Irrational",
+        "Inconsiderate",
+        "Inconsistent",
+        "Clear"
+      ],
+      "answer": 0,
+      "explanation": "Irrational (not based on reason) is the opposite of logical. (Q45 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word nearest in meaning to: OMINOUS",
+      "options": [
+        "Helpless",
+        "Humble",
+        "Restless",
+        "Sinister"
+      ],
+      "answer": 3,
+      "explanation": "Ominous means threatening or sinister. (Q47 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word nearest in meaning to: ENHANCE",
+      "options": [
+        "Embellish",
+        "Create",
+        "Increase",
+        "Reveal"
+      ],
+      "answer": 2,
+      "explanation": "Enhance means to increase or improve. (Q48 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the one word for: A piece of grassland",
+      "options": [
+        "Prairie",
+        "Moor",
+        "Untrodden",
+        "Meadow"
+      ],
+      "answer": 3,
+      "explanation": "A meadow is a piece of grassland. (Q49 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the one word for: A place for keeping birds",
+      "options": [
+        "Aviary",
+        "Zoo",
+        "Circus",
+        "Home"
+      ],
+      "answer": 0,
+      "explanation": "An aviary is a place for keeping birds. (Q50 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the one word for: An unmarried man",
+      "options": [
+        "Widower",
+        "Bachelor",
+        "Young",
+        "Aged"
+      ],
+      "answer": 1,
+      "explanation": "A bachelor is an unmarried man. (Q51 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Change the voice: The bell was rung by the chairman.",
+      "options": [
+        "The chairman was ringing the bell.",
+        "The chairman had been ringing the bell.",
+        "The chairman rang the bell.",
+        "The chairman had rung the bell."
+      ],
+      "answer": 2,
+      "explanation": "The active of 'was rung by' is simple past: The chairman rang the bell. (Q52 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Change the voice: Send this file in.",
+      "options": [
+        "This file be sent in.",
+        "Let this file be sent in.",
+        "This file is being sent in.",
+        "You are requested to send this file in."
+      ],
+      "answer": 1,
+      "explanation": "Imperative passive: Let this file be sent in. (Q53 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Change the voice: He was praised by his father.",
+      "options": [
+        "His father praised him.",
+        "His father praises him.",
+        "His father is praising him.",
+        "His father always praises him."
+      ],
+      "answer": 0,
+      "explanation": "Past passive becomes simple past active: His father praised him. (Q54 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Change the voice: He shot the tiger dead.",
+      "options": [
+        "The tiger will be shot dead by him.",
+        "Let the tiger be shot dead by him.",
+        "It was he who shot the tiger dead.",
+        "The tiger was shot dead by him."
+      ],
+      "answer": 3,
+      "explanation": "Simple past passive: was + past participle: The tiger was shot dead by him. (Q55 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct meaning of the idiom: 'Smell a rat'",
+      "options": [
+        "Suspect something foul",
+        "Bad smell",
+        "Very nervous",
+        "To be angry"
+      ],
+      "answer": 0,
+      "explanation": "To smell a rat is to suspect something wrong. (Q56 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct meaning of the idiom: 'Out of the wood(s)'",
+      "options": [
+        "Run away",
+        "Take revenge",
+        "Free from danger",
+        "Rebuke"
+      ],
+      "answer": 2,
+      "explanation": "Out of the wood(s) means out of danger or difficulty. (Q57 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct meaning of the idiom: 'Cry for the moon'",
+      "options": [
+        "In sorrow",
+        "Difficult situation",
+        "To imitate",
+        "Ask for the impossible"
+      ],
+      "answer": 3,
+      "explanation": "To cry for the moon is to ask for the impossible. (Q58 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct meaning of the idiom: 'Bring to light'",
+      "options": [
+        "Early morning",
+        "Disclose",
+        "Coming back home",
+        "Comfortable"
+      ],
+      "answer": 1,
+      "explanation": "To bring to light is to disclose or reveal. (Q59 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct meaning of the idiom: 'In black and white'",
+      "options": [
+        "In two colours",
+        "In contrast",
+        "In clear words",
+        "In writing"
+      ],
+      "answer": 3,
+      "explanation": "In black and white means in writing. (Q60 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-6.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "भाषा ........ होती है।",
+      "options": [
+        "परिवर्तनशील",
+        "स्थायी",
+        "निश्चित",
+        "अपरिवर्तनशील"
+      ],
+      "answer": 0,
+      "explanation": "भाषा समय के साथ बदलती रहती है, अतः परिवर्तनशील है। (Q61 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "ग्रियर्सन के अनुसार भारत में कुल ........ बोलियाँ हैं।",
+      "options": [
+        "400",
+        "179",
+        "544",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "ग्रियर्सन के भाषा सर्वेक्षण में भारत की 179 भाषाएँ और 544 बोलियाँ बताई गईं। (Q62 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "हिन्दी वर्णमाला में (मूल) व्यंजन वर्णों की कुल संख्या ........ है।",
+      "options": [
+        "11",
+        "36",
+        "31",
+        "33"
+      ],
+      "answer": 3,
+      "explanation": "हिन्दी वर्णमाला में मूल व्यंजन 33 हैं (क से ह तक)। (Q63 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "शुद्ध शब्द का चयन करें:",
+      "options": [
+        "संन्यासी",
+        "सन्यासी",
+        "सण्यासी",
+        "संण्यासी"
+      ],
+      "answer": 0,
+      "explanation": "शुद्ध वर्तनी 'संन्यासी' है (सम् + न्यासी)। (Q64 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "शुद्ध शब्द का चयन कीजिए:",
+      "options": [
+        "साहित्यीक",
+        "साहीत्यीक",
+        "साहत्यिक",
+        "साहित्यिक"
+      ],
+      "answer": 3,
+      "explanation": "शुद्ध वर्तनी 'साहित्यिक' है (साहित्य + इक)। (Q65 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "घर बसाकर रहने वाले को ........ कहते हैं।",
+      "options": [
+        "गृहस्थ",
+        "घरहस्थ",
+        "गृहस्त",
+        "घरेलू"
+      ],
+      "answer": 0,
+      "explanation": "घर बसाकर रहने वाले को गृहस्थ कहते हैं। (Q66 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "\"उसका अम्बर फट गया\" में 'अम्बर ' का क्या अर्थ है?",
+      "options": [
+        "आकाश",
+        "कपड़ा",
+        "दोनों",
+        "इनमे से कोई नहीं ।"
+      ],
+      "answer": 1,
+      "explanation": "यहाँ 'अम्बर' का अर्थ वस्त्र (कपड़ा) है; आकाश वाला अर्थ इस वाक्य में नहीं बैठता। (Q67 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "अ + इ =?",
+      "options": [
+        "ऐ",
+        "ए",
+        "ओ",
+        "इनमे से कोई नहीं ।"
+      ],
+      "answer": 1,
+      "explanation": "अ + इ = ए (गुण संधि), जैसे देव + इन्द्र = देवेन्द्र। (Q68 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'कभी' का संधि-विच्छेद होगा:",
+      "options": [
+        "क + भी",
+        "कभ + ई",
+        "कब + ही",
+        "इनमें से कोई नही ।"
+      ],
+      "answer": 2,
+      "explanation": "कभी = कब + ही। (Q69 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'जिसका' किस सर्वनाम का यौगिक रूप है?",
+      "options": [
+        "वह",
+        "ये",
+        "जो",
+        "सो"
+      ],
+      "answer": 2,
+      "explanation": "'जिसका' संबंधवाचक सर्वनाम 'जो' का विकारी (यौगिक) रूप है। (Q70 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'सुन्दर' विशेषण का स्त्रीलिंग रूप होगा:",
+      "options": [
+        "सुन्दरी",
+        "सुन्दरा",
+        "सुन्दर",
+        "इनमें से कोई नही ।"
+      ],
+      "answer": 0,
+      "explanation": "'सुन्दर' का स्त्रीलिंग 'सुन्दरी' है। (Q71 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'पवित्रता' से विशेषण बनेगा:",
+      "options": [
+        "पवित्र",
+        "पवित्रात्मा",
+        "दोनों",
+        "कोई नहीं ।"
+      ],
+      "answer": 0,
+      "explanation": "'पवित्रता' (भाववाचक संज्ञा) का विशेषण 'पवित्र' है। (Q72 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "भविष्यत् काल से किस समय का बोध होता है?",
+      "options": [
+        "बीते हुए समय का",
+        "चल रहे समय का",
+        "आने वाले समय का",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "भविष्यत् काल आने वाले समय का बोध कराता है। (Q73 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'इंदिरा जी एक बार पटना आई थीं' में 'जी' कौन-सा निपात है?",
+      "options": [
+        "स्वीकारार्थक",
+        "बलदायक",
+        "सीमाबोधक",
+        "आदर बोधक"
+      ],
+      "answer": 3,
+      "explanation": "नाम के साथ 'जी' आदर प्रकट करता है, अतः आदरबोधक निपात। (Q74 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'अनपढ़' का शाब्दिक अर्थ है:",
+      "options": [
+        "जो पढ़ने योग्य न हो",
+        "जो पढ़ा न गया हो",
+        "जिसका पढ़ना मना हो",
+        "जो पढ़ा-लिखा न हो।"
+      ],
+      "answer": 3,
+      "explanation": "अनपढ़ = जो पढ़ा-लिखा न हो। (Q75 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'ओजस्वी' का विलोम क्या होगा?",
+      "options": [
+        "यशस्वी",
+        "तेजस्वी",
+        "निस्तेज",
+        "निरभिमानी"
+      ],
+      "answer": 2,
+      "explanation": "ओजस्वी (तेज से युक्त) का विलोम निस्तेज है। (Q76 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'ताजमहल क्या ही सुन्दर है!' यह कैसा वाक्य है?",
+      "options": [
+        "इच्छार्थक",
+        "विधानार्थक",
+        "विस्मयार्थक",
+        "इनमें से कोई नही ।"
+      ],
+      "answer": 2,
+      "explanation": "इस वाक्य में आश्चर्य का भाव है, अतः विस्मयादिबोधक (विस्मयार्थक) वाक्य। (Q77 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'न तीन में न तेरह में' लोकोक्ति का अर्थ है:",
+      "options": [
+        "बहुत उपयोगी होना",
+        "नष्ट कर देना",
+        "बुद्धिहीन होना",
+        "किसी काम का न होना ।"
+      ],
+      "answer": 3,
+      "explanation": "'न तीन में न तेरह में' = किसी गिनती में न होना, किसी काम का न होना। (Q78 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'काठ का उल्लू' मुहावरे का अर्थ है:",
+      "options": [
+        "निर्जीव",
+        "अडिग",
+        "मूर्ख",
+        "अत्यधिक सरल"
+      ],
+      "answer": 2,
+      "explanation": "'काठ का उल्लू' = महामूर्ख। (Q79 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'ब्रह्मराक्षस' कविता के रचनाकार हैं:",
+      "options": [
+        "नागार्जुन",
+        "अज्ञेय",
+        "नवीन",
+        "मुक्तिबोध"
+      ],
+      "answer": 3,
+      "explanation": "'ब्रह्मराक्षस' गजानन माधव मुक्तिबोध की प्रसिद्ध कविता है। (Q80 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'महाभारत' के रचयिता हैं:",
+      "options": [
+        "वेदव्यास",
+        "तुलसीदास",
+        "वाल्मीकि",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "महाभारत के रचयिता महर्षि वेदव्यास हैं। (Q81 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "शब्द और अर्थ द्वारा काव्य की शोभा बढ़ाने वाले साधन को क्या कहते हैं?",
+      "options": [
+        "छन्द",
+        "समास",
+        "कारक",
+        "अलंकार"
+      ],
+      "answer": 3,
+      "explanation": "काव्य में शब्द और अर्थ का सौंदर्य बढ़ाने वाले तत्व अलंकार कहलाते हैं। (Q82 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "हिन्दू रीति के अनुसार कुल कितने संस्कार हैं?",
+      "options": [
+        "4",
+        "6",
+        "16",
+        "इनमें से कोई नही ।"
+      ],
+      "answer": 2,
+      "explanation": "हिन्दू परंपरा में सोलह (16) संस्कार माने गए हैं। (Q83 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "रीतिकाल में वीर रस के कवि हैं:",
+      "options": [
+        "भूषण",
+        "देव",
+        "घनानन्द",
+        "नीरजा"
+      ],
+      "answer": 0,
+      "explanation": "भूषण रीतिकाल के प्रमुख वीर रस के कवि हैं (शिवाबावनी, छत्रसाल दशक)। (Q84 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "निम्न में से कौन-सी पुस्तक महादेवी वर्मा द्वारा लिखित नहीं है?",
+      "options": [
+        "उर्वशी",
+        "स्मृति की रेखाएँ",
+        "यामा",
+        "पथ के साथी ।"
+      ],
+      "answer": 1,
+      "explanation": "'उर्वशी' रामधारी सिंह 'दिनकर' की रचना है; शेष महादेवी वर्मा की हैं। (Q85 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "खड़ी बोली का प्रथम महाकाव्य है:",
+      "options": [
+        "कामायनी",
+        "प्रियप्रवास",
+        "साकेत",
+        "नीरजा"
+      ],
+      "answer": 1,
+      "explanation": "अयोध्यासिंह उपाध्याय 'हरिऔध' का 'प्रियप्रवास' खड़ी बोली का प्रथम महाकाव्य माना जाता है। (Q89 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "विश्वामित्र की तपस्या किसने भंग की?",
+      "options": [
+        "द्रौपदी",
+        "मेनका",
+        "उर्वशी",
+        "इनमें से कोई नही ।"
+      ],
+      "answer": 1,
+      "explanation": "अप्सरा मेनका ने विश्वामित्र की तपस्या भंग की। (Q90 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-9.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The number which is neither prime nor composite is",
+      "options": [
+        "2",
+        "1",
+        "4",
+        "3"
+      ],
+      "answer": 1,
+      "textHi": "वह संख्या जो न तो अभाज्य है और न ही भाज्य (संयुक्त) है:",
+      "optionsHi": [
+        "2",
+        "1",
+        "4",
+        "3"
+      ],
+      "explanation": "1 has only one factor, so it is neither prime nor composite. (Q91 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The reciprocal of −8/9 is",
+      "options": [
+        "7/8",
+        "8/9",
+        "9/−8",
+        "−9/−8"
+      ],
+      "answer": 2,
+      "textHi": "−8/9 का व्युत्क्रम है",
+      "optionsHi": [
+        "7/8",
+        "8/9",
+        "9/−8",
+        "−9/−8"
+      ],
+      "explanation": "The reciprocal of −8/9 is −9/8, i.e. 9/−8. (Q92 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the product of 3897 and 355?",
+      "options": [
+        "1383435",
+        "1338453",
+        "1384353",
+        "1384335"
+      ],
+      "answer": 0,
+      "textHi": "3897 को 355 से गुणा करने पर क्या प्राप्त होगा?",
+      "optionsHi": [
+        "1383435",
+        "1338453",
+        "1384353",
+        "1384335"
+      ],
+      "explanation": "3897 × 355 = 3897 × 300 + 3897 × 55 = 1,169,100 + 214,335 = 1,383,435. (Q94 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "If the difference between 7/8 and 3/8 of a property is 112, what is the whole property worth?",
+      "options": [
+        "242",
+        "224",
+        "422",
+        "244"
+      ],
+      "answer": 1,
+      "textHi": "यदि किसी संपत्ति के 7/8वें भाग और 3/8वें भाग के बीच का अंतर 112 है, तो पूरी संपत्ति क्या है?",
+      "optionsHi": [
+        "242",
+        "224",
+        "422",
+        "244"
+      ],
+      "explanation": "(7/8 − 3/8) = 1/2 of the property = 112, so the whole is 224. (Q95 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find: 8.014 + 7.7 + 14.05",
+      "options": [
+        "29.764",
+        "29.674",
+        "28.764",
+        "28.647"
+      ],
+      "answer": 0,
+      "textHi": "ज्ञात कीजिए: 8.014 + 7.7 + 14.05",
+      "optionsHi": [
+        "29.764",
+        "29.674",
+        "28.764",
+        "28.647"
+      ],
+      "explanation": "8.014 + 7.700 + 14.050 = 29.764. (Q96 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find the difference between 40 hours 07 minutes and 38 hours 09 minutes.",
+      "options": [
+        "1 hour 58 minutes",
+        "2 hours 58 minutes",
+        "1 hour 59 minutes",
+        "1 hour 57 minutes"
+      ],
+      "answer": 0,
+      "textHi": "40 घंटे 07 मिनट और 38 घंटे 09 मिनट के बीच का अंतर ज्ञात कीजिए:",
+      "optionsHi": [
+        "1 घंटा 58 मिनट",
+        "2 घंटे 58 मिनट",
+        "1 घंटा 59 मिनट",
+        "1 घंटा 57 मिनट"
+      ],
+      "explanation": "40 h 07 min − 38 h 09 min = 1 h 58 min. (Q97 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The perimeter of an equilateral triangle is 192 cm. Find the length of one side.",
+      "options": [
+        "44 cm",
+        "64 cm",
+        "32 cm",
+        "66 cm"
+      ],
+      "answer": 1,
+      "textHi": "एक समबाहु त्रिभुज का परिमाप 192 सेमी है। इसकी एक भुजा की लम्बाई ज्ञात कीजिए।",
+      "optionsHi": [
+        "44 सेमी",
+        "64 सेमी",
+        "32 सेमी",
+        "66 सेमी"
+      ],
+      "explanation": "Side = 192 ÷ 3 = 64 cm. (Q98 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find the missing number: 8, 64, 216, ?, 1000",
+      "options": [
+        "864",
+        "649",
+        "710",
+        "512"
+      ],
+      "answer": 3,
+      "textHi": "लुप्त संख्या ज्ञात कीजिए: 8, 64, 216, ?, 1000",
+      "optionsHi": [
+        "864",
+        "649",
+        "710",
+        "512"
+      ],
+      "explanation": "The terms are cubes of even numbers: 2³, 4³, 6³, 8³ = 512, 10³. (Q99 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find the value of 5/6 + 6/5.",
+      "options": [
+        "61/30",
+        "11/30",
+        "1",
+        "64/30"
+      ],
+      "answer": 0,
+      "textHi": "5/6 + 6/5 का मान ज्ञात कीजिए।",
+      "optionsHi": [
+        "61/30",
+        "11/30",
+        "1",
+        "64/30"
+      ],
+      "explanation": "5/6 + 6/5 = (25 + 36)/30 = 61/30. (Q100 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find the value of √(√4096 + √1296).",
+      "options": [
+        "10",
+        "12",
+        "71",
+        "42"
+      ],
+      "answer": 0,
+      "textHi": "√(√4096 + √1296) का मान ज्ञात कीजिए।",
+      "optionsHi": [
+        "10",
+        "12",
+        "71",
+        "42"
+      ],
+      "explanation": "√4096 = 64 and √1296 = 36; √(64 + 36) = √100 = 10. (Q101 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find the compound interest on Rs 12600 for 2 years at 10% per annum.",
+      "options": [
+        "Rs 2142",
+        "Rs 2687",
+        "Rs 2646",
+        "Rs 2146"
+      ],
+      "answer": 2,
+      "textHi": "10% प्रति वर्ष की दर से 2 वर्ष के लिए 12600 रुपये पर चक्रवृद्धि ब्याज ज्ञात कीजिए।",
+      "optionsHi": [
+        "2142 रुपये",
+        "2687 रुपये",
+        "2646 रुपये",
+        "2146 रुपये"
+      ],
+      "explanation": "Amount = 12600 × 1.1 × 1.1 = 15246; CI = 15246 − 12600 = Rs 2646. (Q102 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find the value of (2x + 5)² − (2x − 5)².",
+      "options": [
+        "40x",
+        "8x² + 50",
+        "8x² + 40x + 50",
+        "−40x"
+      ],
+      "answer": 0,
+      "textHi": "(2x + 5)² − (2x − 5)² का मान ज्ञात कीजिए।",
+      "optionsHi": [
+        "40x",
+        "8x² + 50",
+        "8x² + 40x + 50",
+        "−40x"
+      ],
+      "explanation": "(a + b)² − (a − b)² = 4ab = 4 × 2x × 5 = 40x. (Q103 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The marked price of an article is Rs 840. It was sold for Rs 714. Find the discount and the discount per cent.",
+      "options": [
+        "Rs 296 and 27%",
+        "Rs 325 and 32%",
+        "Rs 85 and 12%",
+        "Rs 126 and 15%"
+      ],
+      "answer": 3,
+      "textHi": "एक वस्तु का अंकित मूल्य 840 रुपये है। इसे 714 रुपये में बेचा गया। छूट और छूट प्रतिशत ज्ञात कीजिए।",
+      "optionsHi": [
+        "296 रुपये और 27%",
+        "325 रुपये और 32%",
+        "85 रुपये और 12%",
+        "126 रुपये और 15%"
+      ],
+      "explanation": "Discount = 840 − 714 = Rs 126; 126/840 × 100 = 15%. (Q104 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Which of the following has the largest value?",
+      "options": [
+        "0.0001",
+        "1/1000",
+        "(0.100)²",
+        "1/10 ÷ 0.1"
+      ],
+      "answer": 3,
+      "textHi": "निम्नलिखित में से किसका मूल्य सबसे बड़ा है?",
+      "optionsHi": [
+        "0.0001",
+        "1/1000",
+        "(0.100)²",
+        "1/10 ÷ 0.1"
+      ],
+      "explanation": "1/10 ÷ 0.1 = 1, larger than 0.0001, 0.001 and 0.01. (Q105 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The range of the data 21, 6, 17, 18, 12, 8, 4, 13 is",
+      "options": [
+        "17",
+        "12",
+        "8",
+        "15"
+      ],
+      "answer": 0,
+      "textHi": "आँकड़ों 21, 6, 17, 18, 12, 8, 4, 13 का परिसर (परास) है",
+      "optionsHi": [
+        "17",
+        "12",
+        "8",
+        "15"
+      ],
+      "explanation": "Range = 21 − 4 = 17. (Q106 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The length of a rectangle is 5/3 of its breadth. If its perimeter is 80 m, its area is",
+      "options": [
+        "48 m²",
+        "66.6 m²",
+        "375 m²",
+        "400 m²"
+      ],
+      "answer": 2,
+      "textHi": "एक आयत की लंबाई उसकी चौड़ाई का (5/3) भाग है। यदि आयत का परिमाप 80 मीटर है, तो आयत का क्षेत्रफल है:",
+      "optionsHi": [
+        "48 m²",
+        "66.6 m²",
+        "375 m²",
+        "400 m²"
+      ],
+      "explanation": "2(5b/3 + b) = 80 gives b = 15 m, l = 25 m; area = 375 m². (Q107 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "10 men or 12 women complete a job in 10 days. In how many days will 5 men and 6 women together complete it?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "answer": 1,
+      "textHi": "10 पुरुष या 12 महिलाएं एक कार्य को 10 दिनों में पूरा करते हैं। 5 पुरुष और 6 महिलाएं मिलकर कार्य को कितने दिनों में पूरा करेंगे?",
+      "optionsHi": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "explanation": "10 men = 12 women, so 5 men = 6 women; together they equal 12 women, who need 10 days. (Q108 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "(25% of 50% of 100%) ÷ (25 × 50) is equal to",
+      "options": [
+        "1.1%",
+        "0.1%",
+        "0.01%",
+        "1%"
+      ],
+      "answer": 2,
+      "textHi": "(100% के 50% का 25%) ÷ (25 × 50) बराबर है",
+      "optionsHi": [
+        "1.1%",
+        "0.1%",
+        "0.01%",
+        "1%"
+      ],
+      "explanation": "25% × 50% × 100% = 0.125; 0.125 ÷ 1250 = 0.0001 = 0.01%. (Q109 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Simplify: (13/11) × (−14/5) + (13/11) × (−7/5) + (−13/11) × (34/5)",
+      "options": [
+        "-13",
+        "-34",
+        "-11",
+        "52"
+      ],
+      "answer": 0,
+      "textHi": "सरल कीजिए: (13/11) × (−14/5) + (13/11) × (−7/5) + (−13/11) × (34/5)",
+      "optionsHi": [
+        "-13",
+        "-34",
+        "-11",
+        "52"
+      ],
+      "explanation": "Take 13/11 common: 13/11 × (−14 − 7 − 34)/5 = 13/11 × (−11) = −13. (Q111 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A wire is bent to form a square of side 22 cm. If it is rebent to form a circle, its radius will be",
+      "options": [
+        "22 cm",
+        "14 cm",
+        "11 cm",
+        "7 cm"
+      ],
+      "answer": 1,
+      "textHi": "एक तार को मोड़कर 22 सेमी भुजा का एक वर्ग बनाया जाता है। यदि तार को फिर से मोड़कर वृत्त बनाया जाए, तो उसकी त्रिज्या होगी",
+      "optionsHi": [
+        "22 cm",
+        "14 cm",
+        "11 cm",
+        "7 cm"
+      ],
+      "explanation": "Wire length = 4 × 22 = 88 cm = 2πr, so r = 88 × 7/44 = 14 cm. (Q112 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The value of (10²² + 10²⁰) / 10²⁰ is",
+      "options": [
+        "10",
+        "100",
+        "101",
+        "1000"
+      ],
+      "answer": 2,
+      "textHi": "(10²² + 10²⁰) / 10²⁰ का मान है",
+      "optionsHi": [
+        "10",
+        "100",
+        "101",
+        "1000"
+      ],
+      "explanation": "(10²² + 10²⁰)/10²⁰ = 10² + 1 = 101. (Q113 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "If 1 m² = x mm², then the value of x is",
+      "options": [
+        "1000",
+        "10000",
+        "100000",
+        "1000000"
+      ],
+      "answer": 3,
+      "textHi": "यदि 1 m² = x mm² हो, तो x का मान है",
+      "optionsHi": [
+        "1000",
+        "10000",
+        "100000",
+        "1000000"
+      ],
+      "explanation": "1 m = 1000 mm, so 1 m² = 1000 × 1000 = 1,000,000 mm². (Q114 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A girl is 28 years younger than her father and the sum of their ages is 50 years. The age of the girl is",
+      "options": [
+        "22 years",
+        "11 years",
+        "12 years",
+        "20 years"
+      ],
+      "answer": 1,
+      "textHi": "एक लड़की अपने पिता से 28 वर्ष छोटी है और उनकी आयु का योग 50 वर्ष है, तो लड़की की आयु है:",
+      "optionsHi": [
+        "22 वर्ष",
+        "11 वर्ष",
+        "12 वर्ष",
+        "20 वर्ष"
+      ],
+      "explanation": "x + (x + 28) = 50 gives x = 11 years. (Q115 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The circumference of a circle whose area is 81πr² is",
+      "options": [
+        "3πr",
+        "9πr",
+        "18πr",
+        "81πr"
+      ],
+      "answer": 2,
+      "textHi": "उस वृत्त की परिधि जिसका क्षेत्रफल 81πr² है",
+      "optionsHi": [
+        "3πr",
+        "9πr",
+        "18πr",
+        "81πr"
+      ],
+      "explanation": "πR² = 81πr² gives R = 9r; circumference = 2π × 9r = 18πr. (Q116 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Out of 200 students in a school, 3 out of every 5 like to play cricket. How many students do not like to play cricket?",
+      "options": [
+        "60",
+        "80",
+        "100",
+        "120"
+      ],
+      "answer": 1,
+      "textHi": "एक विद्यालय के 200 विद्यार्थियों में से प्रत्येक 5 में से 3 क्रिकेट खेलना पसंद करते हैं। कितने विद्यार्थी क्रिकेट खेलना पसंद नहीं करते?",
+      "optionsHi": [
+        "60",
+        "80",
+        "100",
+        "120"
+      ],
+      "explanation": "2/5 of 200 = 80 students do not like cricket. (Q117 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A speed of 72 km/h expressed in m/s is",
+      "options": [
+        "(72 × 1000)/3600",
+        "(72 × 3600) × 1000",
+        "(72 × 36)/100",
+        "(72 × 3600)/100"
+      ],
+      "answer": 0,
+      "textHi": "72 किमी/घंटा की गति को मीटर/सेकंड में व्यक्त करने पर",
+      "optionsHi": [
+        "(72 × 1000)/3600",
+        "(72 × 3600) × 1000",
+        "(72 × 36)/100",
+        "(72 × 3600)/100"
+      ],
+      "explanation": "1 km/h = 1000/3600 m/s, so 72 km/h = (72 × 1000)/3600 = 20 m/s. (Q119 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "2.001 ÷ 0.003 is equal to :",
+      "options": [
+        "667",
+        "7000",
+        "0.7",
+        "376"
+      ],
+      "answer": 0,
+      "textHi": "2.001 ÷ 0.003 बराबर है :",
+      "optionsHi": [
+        "667",
+        "7000",
+        "0.7",
+        "376"
+      ],
+      "explanation": "2.001 ÷ 0.003 = 2001 ÷ 3 = 667. (Q120 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-12.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which of the following is not matter?",
+      "options": [
+        "Air",
+        "Feeling of cold",
+        "Dust",
+        "Humidity"
+      ],
+      "answer": 1,
+      "textHi": "निम्न में से कौन-सा पदार्थ नहीं है?",
+      "optionsHi": [
+        "वायु",
+        "ठंडक का अहसास",
+        "धूल",
+        "नमी"
+      ],
+      "explanation": "Matter has mass and occupies space; a feeling of cold is a sensation, not matter. (Q121 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "A temperature of 10°C is equal to",
+      "options": [
+        "163 K",
+        "10 K",
+        "183 K",
+        "283 K"
+      ],
+      "answer": 3,
+      "textHi": "10°C तापमान बराबर होता है",
+      "optionsHi": [
+        "163 K",
+        "10 K",
+        "183 K",
+        "283 K"
+      ],
+      "explanation": "K = °C + 273, so 10°C = 283 K. (Q122 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which of the following is not a compound?",
+      "options": [
+        "Marble",
+        "Washing soda",
+        "Quick Lime",
+        "Brass"
+      ],
+      "answer": 3,
+      "textHi": "निम्नलिखित में से कौन सा यौगिक नहीं है?",
+      "optionsHi": [
+        "संगमरमर",
+        "धावन सोडा",
+        "बिना बुझा चूना",
+        "पीतल"
+      ],
+      "explanation": "Brass is an alloy (mixture) of copper and zinc, not a compound. (Q124 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The state of water at 100°C (its boiling point) is",
+      "options": [
+        "Solid",
+        "Vapours",
+        "Liquid",
+        "Liquid and vapour"
+      ],
+      "answer": 3,
+      "textHi": "100°C (क्वथनांक) पर जल की अवस्था होती है",
+      "optionsHi": [
+        "ठोस",
+        "वाष्प",
+        "तरल",
+        "द्रव और वाष्प"
+      ],
+      "explanation": "At 100°C water boils, so liquid water and vapour coexist. (Q125 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The indivisibility of the atom (matter) was proposed by",
+      "options": [
+        "Rutherford",
+        "Dalton",
+        "Bohr",
+        "Einstein"
+      ],
+      "answer": 1,
+      "textHi": "परमाणु (पदार्थ) की अविभाज्यता किसने प्रस्तावित की थी?",
+      "optionsHi": [
+        "रदरफोर्ड",
+        "डाल्टन",
+        "बोर",
+        "आइंस्टीन"
+      ],
+      "explanation": "John Dalton's atomic theory (1808) held that atoms are indivisible. (Q126 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The correct formula of ferric sulphate is",
+      "options": [
+        "FeSO₄",
+        "Fe(SO₄)₂",
+        "Fe₃(SO₄)₂",
+        "Fe₂(SO₄)₃"
+      ],
+      "answer": 3,
+      "textHi": "फेरिक सल्फेट का सही सूत्र है",
+      "optionsHi": [
+        "FeSO₄",
+        "Fe(SO₄)₂",
+        "Fe₃(SO₄)₂",
+        "Fe₂(SO₄)₃"
+      ],
+      "explanation": "Ferric is Fe³⁺ and sulphate is SO₄²⁻, giving Fe₂(SO₄)₃. (Q127 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The percentage of calcium in calcium carbonate is",
+      "options": [
+        "40%",
+        "30%",
+        "48%",
+        "36%"
+      ],
+      "answer": 0,
+      "textHi": "कैल्शियम कार्बोनेट में कैल्शियम का प्रतिशत है:",
+      "optionsHi": [
+        "40%",
+        "30%",
+        "48%",
+        "36%"
+      ],
+      "explanation": "CaCO₃ = 100 g/mol, of which Ca = 40 g, i.e. 40%. (Q128 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "In which medium does sound travel fastest?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "None of these"
+      ],
+      "answer": 0,
+      "textHi": "ध्वनि किस माध्यम में सबसे तेज चलती है?",
+      "optionsHi": [
+        "ठोस",
+        "तरल",
+        "गैस",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "Sound travels fastest in solids, then liquids, then gases. (Q129 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "One light year is equal to",
+      "options": [
+        "9.46 × 10¹⁵ m",
+        "9.46 × 10¹² km",
+        "9.46 × 10¹⁷ cm",
+        "All the above"
+      ],
+      "answer": 3,
+      "textHi": "एक प्रकाश वर्ष बराबर होता है",
+      "optionsHi": [
+        "9.46 × 10¹⁵ m",
+        "9.46 × 10¹² km",
+        "9.46 × 10¹⁷ cm",
+        "उपरोक्त सभी"
+      ],
+      "explanation": "1 light year ≈ 9.46 × 10¹⁵ m = 9.46 × 10¹² km = 9.46 × 10¹⁷ cm. (Q130 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Tuber crops are a source of",
+      "options": [
+        "Starch",
+        "Sugar",
+        "Proteins",
+        "Vitamins"
+      ],
+      "answer": 0,
+      "textHi": "कंद फसलें किसका स्रोत हैं?",
+      "optionsHi": [
+        "स्टार्च",
+        "शर्करा",
+        "प्रोटीन",
+        "विटामिन"
+      ],
+      "explanation": "Tubers like potato store food mainly as starch. (Q131 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The first fully synthetic fibre is",
+      "options": [
+        "Rayon",
+        "Polyester",
+        "Nylon",
+        "Acrylic"
+      ],
+      "answer": 2,
+      "textHi": "पहला पूर्णतः संश्लेषित रेशा है",
+      "optionsHi": [
+        "रेयॉन",
+        "पॉलिएस्टर",
+        "नायलॉन",
+        "ऐक्रिलिक"
+      ],
+      "explanation": "Nylon (1935) was the first fully synthetic fibre; rayon is semi-synthetic (regenerated cellulose). (Q132 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The lightest metal is",
+      "options": [
+        "Gold",
+        "Lithium",
+        "Calcium",
+        "Mercury"
+      ],
+      "answer": 1,
+      "textHi": "सबसे हल्की धातु है :",
+      "optionsHi": [
+        "सोना",
+        "लिथियम",
+        "कैल्शियम",
+        "पारा"
+      ],
+      "explanation": "Lithium is the lightest metal (density about 0.53 g/cm³). (Q133 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "In a candle flame, complete combustion takes place in the",
+      "options": [
+        "Inner zone",
+        "Middle zone",
+        "Outer Zone",
+        "All the above"
+      ],
+      "answer": 2,
+      "textHi": "मोमबत्ती की ज्वाला में पूर्ण दहन किस भाग में होता है?",
+      "optionsHi": [
+        "भीतरी क्षेत्र",
+        "मध्य क्षेत्र",
+        "बाहरी क्षेत्र",
+        "उपरोक्त सभी"
+      ],
+      "explanation": "The outer (non-luminous, blue) zone gets enough oxygen for complete combustion and is the hottest. (Q134 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which of the following fuels has the highest calorific value?",
+      "options": [
+        "Methane",
+        "LPG",
+        "Petrol",
+        "Hydrogen"
+      ],
+      "answer": 3,
+      "textHi": "निम्नलिखित में से किस ईंधन का कैलोरी मान सबसे अधिक है?",
+      "optionsHi": [
+        "मीथेन",
+        "एलपीजी",
+        "पेट्रोल",
+        "हाइड्रोजन"
+      ],
+      "explanation": "Hydrogen has the highest calorific value (about 150 kJ/g). (Q135 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Napoleon was associated with which country?",
+      "options": [
+        "France",
+        "Spain",
+        "Italy",
+        "England"
+      ],
+      "answer": 0,
+      "textHi": "नेपोलियन का सम्बन्ध किस देश से था?",
+      "optionsHi": [
+        "फ्रांस",
+        "स्पेन",
+        "इटली",
+        "इंग्लैंड"
+      ],
+      "explanation": "Napoleon Bonaparte was Emperor of France. (Q136 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "In which year was the Suez Canal opened for trade?",
+      "options": [
+        "1859",
+        "1869",
+        "1845",
+        "1679"
+      ],
+      "answer": 1,
+      "textHi": "स्वेज नहर को व्यापार के लिए किस वर्ष खोला गया था?",
+      "optionsHi": [
+        "1859",
+        "1869",
+        "1845",
+        "1679"
+      ],
+      "explanation": "The Suez Canal opened in 1869. (Q137 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Central Research Institute (CRI) is situated at",
+      "options": [
+        "Shimla",
+        "Dharamshala",
+        "Kasauli",
+        "Mashobra"
+      ],
+      "answer": 2,
+      "textHi": "केंद्रीय अनुसंधान संस्थान (CRI) कहाँ स्थित है?",
+      "optionsHi": [
+        "शिमला",
+        "धर्मशाला",
+        "कसौली",
+        "मशोबरा"
+      ],
+      "explanation": "The Central Research Institute, which makes vaccines and sera, is at Kasauli (Solan). (Q138 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Vivekananda Medical Institute is located at",
+      "options": [
+        "Tanda",
+        "Shimla",
+        "Solan",
+        "Palampur"
+      ],
+      "answer": 3,
+      "textHi": "विवेकानंद मेडिकल इंस्टीट्यूट कहाँ स्थित है?",
+      "optionsHi": [
+        "टांडा",
+        "शिमला",
+        "सोलन",
+        "पालमपुर"
+      ],
+      "explanation": "The Vivekananda Medical Institute (Vivekananda Medical Research Trust) is at Palampur, Kangra. (Q139 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The state of India associated with saffron production is",
+      "options": [
+        "Assam",
+        "West Bengal",
+        "Jammu and Kashmir",
+        "Punjab"
+      ],
+      "answer": 2,
+      "textHi": "केसर उत्पादन से जुड़ा भारत का राज्य है :",
+      "optionsHi": [
+        "असम",
+        "पश्चिम बंगाल",
+        "जम्मू और कश्मीर",
+        "पंजाब"
+      ],
+      "explanation": "Kashmir (Pampore) is famous for saffron. (Q140 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who was the Speaker of the Lok Sabha at the time of the exam (2021)?",
+      "options": [
+        "Sumitra Mahajan",
+        "Sushma Swaraj",
+        "Balram Jakhar",
+        "Om Birla"
+      ],
+      "answer": 3,
+      "textHi": "परीक्षा के समय (2021) लोकसभा अध्यक्ष कौन थे?",
+      "optionsHi": [
+        "सुमित्रा महाजन",
+        "सुषमा स्वराज",
+        "बलराम जाखड़",
+        "ओम बिरला"
+      ],
+      "explanation": "Om Birla has been Lok Sabha Speaker since 2019. (Q141 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who was the Union Finance Minister at the time of the exam (2021)?",
+      "options": [
+        "Jagat Prakash Nadda",
+        "Arun Jaitley",
+        "Prakash Javadekar",
+        "Nirmala Sitharaman"
+      ],
+      "answer": 3,
+      "textHi": "परीक्षा के समय (2021) केंद्रीय वित्त मंत्री कौन थीं?",
+      "optionsHi": [
+        "जगत प्रकाश नड्डा",
+        "अरुण जेटली",
+        "प्रकाश जावड़ेकर",
+        "निर्मला सीतारमण"
+      ],
+      "explanation": "Nirmala Sitharaman became Union Finance Minister in 2019. (Q142 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which of the following awards is given for excellence in sports coaching?",
+      "options": [
+        "Sahitya Akademi Award",
+        "Dronacharya Award",
+        "Arjun Award",
+        "Dada Saheb Phalke Award"
+      ],
+      "answer": 1,
+      "textHi": "निम्नलिखित में से कौन सा पुरस्कार खेल कोचिंग में उत्कृष्टता के लिए दिया जाता है?",
+      "optionsHi": [
+        "साहित्य अकादमी पुरस्कार",
+        "द्रोणाचार्य पुरस्कार",
+        "अर्जुन पुरस्कार",
+        "दादा साहेब फाल्के पुरस्कार"
+      ],
+      "explanation": "The Dronacharya Award honours excellence in sports coaching. (Q143 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which programme was launched by the Government in 2015 keeping female foeticide in mind?",
+      "options": [
+        "Beti Bachao Naam Kamao",
+        "Beti Bachao Desh Bachao",
+        "Beti Bachao Beti Padhao",
+        "Beti Bachao Desh Banao"
+      ],
+      "answer": 2,
+      "textHi": "कन्या भ्रूण हत्या को ध्यान में रखते हुए सरकार द्वारा 2015 में कौन-सा कार्यक्रम शुरू किया गया?",
+      "optionsHi": [
+        "बेटी बचाओ नाम कमाओ",
+        "बेटी बचाओ देश बचाओ",
+        "बेटी बचाओ बेटी पढ़ाओ",
+        "बेटी बचाओ देश बनाओ"
+      ],
+      "explanation": "Beti Bachao Beti Padhao was launched at Panipat on 22 January 2015. (Q144 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which of these states has the largest number of sugar mills?",
+      "options": [
+        "Bihar",
+        "Haryana",
+        "Punjab",
+        "Uttar Pradesh"
+      ],
+      "answer": 3,
+      "textHi": "इनमें से किस राज्य में सबसे अधिक चीनी मिलें हैं?",
+      "optionsHi": [
+        "बिहार",
+        "हरियाणा",
+        "पंजाब",
+        "उत्तर प्रदेश"
+      ],
+      "explanation": "Among the options, Uttar Pradesh has the most sugar mills. (Q145 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The AgustaWestland deal was associated with",
+      "options": [
+        "Submarine",
+        "Aircraft",
+        "Helicopter",
+        "Tank"
+      ],
+      "answer": 2,
+      "textHi": "अगस्ता वेस्टलैंड सौदा किससे जुड़ा था?",
+      "optionsHi": [
+        "पनडुब्बी",
+        "हवाई जहाज",
+        "हेलीकॉप्टर",
+        "टैंक"
+      ],
+      "explanation": "The AgustaWestland case concerned the purchase of VVIP helicopters. (Q146 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Sriharikota is situated in",
+      "options": [
+        "Karnataka",
+        "Odisha",
+        "Andhra Pradesh",
+        "Madhya Pradesh"
+      ],
+      "answer": 2,
+      "textHi": "श्रीहरिकोटा कहाँ स्थित है?",
+      "optionsHi": [
+        "कर्नाटक",
+        "ओडिशा",
+        "आंध्र प्रदेश",
+        "मध्य प्रदेश"
+      ],
+      "explanation": "Sriharikota (Satish Dhawan Space Centre) is in Andhra Pradesh's Tirupati district. (Q147 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "From which city of China did the coronavirus (COVID-19) outbreak start?",
+      "options": [
+        "Shanghai",
+        "Wuhan",
+        "Beijing",
+        "Guangzhou"
+      ],
+      "answer": 1,
+      "textHi": "कोरोना वायरस (COVID-19) का प्रकोप चीन के किस शहर से शुरू हुआ?",
+      "optionsHi": [
+        "शंघाई",
+        "वुहान",
+        "बीजिंग",
+        "ग्वांगझोउ"
+      ],
+      "explanation": "The COVID-19 outbreak was first reported in Wuhan, Hubei province, in December 2019. (Q148 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "How many Rajya Sabha seats does Himachal Pradesh have?",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "answer": 2,
+      "textHi": "राज्यसभा में हिमाचल प्रदेश की कितनी सीटें हैं?",
+      "optionsHi": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "explanation": "Himachal Pradesh has 3 Rajya Sabha seats (and 4 Lok Sabha seats). (Q149 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Where is the Amazon rainforest located?",
+      "options": [
+        "Asia",
+        "North America",
+        "South America",
+        "Africa"
+      ],
+      "answer": 2,
+      "textHi": "अमेज़न वर्षा वन कहाँ स्थित है?",
+      "optionsHi": [
+        "एशिया",
+        "उत्तरी अमेरिका",
+        "दक्षिण अमेरिका",
+        "अफ्रीका"
+      ],
+      "explanation": "The Amazon rainforest is in South America, mostly in Brazil. (Q150 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-june-2021-paper-part-15.html"
+    }
+  ]
+}

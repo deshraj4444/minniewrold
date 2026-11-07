@@ -1,0 +1,1964 @@
+{
+  "slug": "hp-tet-jbt-pyq-2019-november",
+  "version": 1,
+  "title": "HP TET JBT · November 2019 (previous year questions)",
+  "description": "Questions asked in the HP TET JBT exam of the November 2019 session (held 24 November 2019), with answers checked against a published solved paper and independently verified. Not the complete paper: passage-based, garbled or doubtful questions were left out.",
+  "category": "HP TET JBT",
+  "kind": "Previous year",
+  "year": 2019,
+  "durationMinutes": 120,
+  "price": 10,
+  "questions": [
+    {
+      "section": "Mathematics",
+      "text": "√(110¼) is equal to",
+      "options": [
+        "19.5",
+        "10.25",
+        "10.5",
+        "11.5"
+      ],
+      "answer": 2,
+      "textHi": "√(110¼) बराबर है",
+      "optionsHi": [
+        "19.5",
+        "10.25",
+        "10.5",
+        "11.5"
+      ],
+      "explanation": "110¼ = 441/4, and √(441/4) = 21/2 = 10.5. (Q2 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-1.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find the difference between 24% and 36% of Rs 475.",
+      "options": [
+        "Rs 67",
+        "Rs 57",
+        "Rs 75",
+        "Rs 64"
+      ],
+      "answer": 1,
+      "textHi": "475 रुपये के 24% तथा 36% में अंतर ज्ञात कीजिए।",
+      "optionsHi": [
+        "67 रुपये",
+        "57 रुपये",
+        "75 रुपये",
+        "64 रुपये"
+      ],
+      "explanation": "Difference = 12% of 475 = Rs 57. (Q4 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-1.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The price of sugar increases by 10%. By what per cent should a housewife reduce her consumption so that her expenditure does not change?",
+      "options": [
+        "11 1/9%",
+        "9 1/11%",
+        "9 1/10%",
+        "10 1/9%"
+      ],
+      "answer": 1,
+      "textHi": "चीनी का भाव 10% बढ़ गया है। एक गृहिणी चीनी की खपत में कितने प्रतिशत कमी करे कि उसका खर्च न बढ़े?",
+      "optionsHi": [
+        "11 1/9%",
+        "9 1/11%",
+        "9 1/10%",
+        "10 1/9%"
+      ],
+      "explanation": "Reduction = 10/(100 + 10) × 100 = 100/11 = 9 1/11%. (Q5 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-1.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Simplify: (1/64)^(−6/4)",
+      "options": [
+        "512",
+        "343",
+        "169",
+        "228"
+      ],
+      "answer": 0,
+      "textHi": "(1/64)^(−6/4) को सरल कीजिए:",
+      "optionsHi": [
+        "512",
+        "343",
+        "169",
+        "228"
+      ],
+      "explanation": "(1/64)^(−6/4) = 64^(3/2) = 8³ = 512. (Q6 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-1.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The average of 10 numbers is 7. If each number is multiplied by 12, what will be the average of the new numbers?",
+      "options": [
+        "7",
+        "19",
+        "82",
+        "84"
+      ],
+      "answer": 3,
+      "textHi": "10 संख्याओं का औसत 7 है। यदि प्रत्येक संख्या को 12 से गुणा करे तो नयी संख्याओं का औसत क्या होगा?",
+      "optionsHi": [
+        "7",
+        "19",
+        "82",
+        "84"
+      ],
+      "explanation": "Multiplying every number by 12 multiplies the average by 12: 7 × 12 = 84. (Q7 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-1.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A's salary is 20% more than B's. By what per cent is B's salary less than A's?",
+      "options": [
+        "20%",
+        "25%",
+        "16 2/3%",
+        "16 3/2%"
+      ],
+      "answer": 2,
+      "textHi": "A का वेतन B के वेतन से 20% अधिक है, तो B का वेतन A के वेतन से कितने प्रतिशत कम है?",
+      "optionsHi": [
+        "20%",
+        "25%",
+        "16 2/3%",
+        "16 3/2%"
+      ],
+      "explanation": "If B = 100, A = 120; B is 20/120 × 100 = 16 2/3% less. (Q8 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-1.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find the average of all even numbers from 1 to 42.",
+      "options": [
+        "22",
+        "24",
+        "28",
+        "26"
+      ],
+      "answer": 0,
+      "textHi": "1 से 42 तक की सभी सम संख्याओं का औसत ज्ञात कीजिए।",
+      "optionsHi": [
+        "22",
+        "24",
+        "28",
+        "26"
+      ],
+      "explanation": "Even numbers 2, 4, ..., 42 form an AP; average = (2 + 42)/2 = 22. (Q9 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-1.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A person buys 12 mangoes for Rs 10 and sells them at 10 mangoes for Rs 12. What is his profit or loss per cent?",
+      "options": [
+        "40% Loss",
+        "30% Gain",
+        "44% Gain",
+        "35% Loss"
+      ],
+      "answer": 2,
+      "textHi": "कोई व्यक्ति 10 रुपये में 12 आम खरीदकर उन्हें 12 रुपये में 10 की दर से बेचता है। इस लेन-देन में उसका लाभ या हानि प्रतिशत ज्ञात कीजिए।",
+      "optionsHi": [
+        "40% हानि",
+        "30% लाभ",
+        "44% लाभ",
+        "35% हानि"
+      ],
+      "explanation": "CP of 1 mango = 10/12, SP = 12/10; profit = (1.2 − 0.833)/0.833 = 44% gain. (Q10 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-1.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "If the cost price of 24 oranges equals the selling price of 18 oranges, find the profit per cent.",
+      "options": [
+        "33 1/4%",
+        "33 1/3%",
+        "33 1/2%",
+        "34 1/4%"
+      ],
+      "answer": 1,
+      "textHi": "यदि 24 संतरों का क्रय मूल्य 18 संतरों के विक्रय मूल्य के बराबर हो, तो लाभ प्रतिशत ज्ञात कीजिए।",
+      "optionsHi": [
+        "33 1/4%",
+        "33 1/3%",
+        "33 1/2%",
+        "34 1/4%"
+      ],
+      "explanation": "Profit = (24 − 18)/18 × 100 = 33 1/3%. (Q11 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-2.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A bag contains 25 paise, 10 paise and 5 paise coins in the ratio 1 : 2 : 3. If the total amount is Rs 60, the number of 25 paise coins is",
+      "options": [
+        "10",
+        "120",
+        "100",
+        "20"
+      ],
+      "answer": 2,
+      "textHi": "एक थैले में 25 पैसे, 10 पैसे व 5 पैसे के सिक्कों का अनुपात 1 : 2 : 3 है। यदि थैले में कुल धन 60 रुपये है, तो 25 पैसे के सिक्कों की संख्या है",
+      "optionsHi": [
+        "10",
+        "120",
+        "100",
+        "20"
+      ],
+      "explanation": "Value per set = 25 + 20 + 15 = 60 paise; Rs 60 = 6000 paise gives 100 sets, i.e. 100 coins of 25 paise. (Q12 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-2.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "36 people working 7 hours a day can finish a work in 32 days. How many people will be required to finish it in 24 days working 6 hours a day?",
+      "options": [
+        "64",
+        "56",
+        "49",
+        "27"
+      ],
+      "answer": 1,
+      "textHi": "36 आदमी प्रतिदिन 7 घंटे काम करके एक काम को 32 दिन में पूरा कर सकते हैं, तो 6 घंटे प्रतिदिन काम करके उसी काम को 24 दिन में पूरा करने के लिए कितने आदमियों की आवश्यकता होगी?",
+      "optionsHi": [
+        "64",
+        "56",
+        "49",
+        "27"
+      ],
+      "explanation": "36 × 7 × 32 = x × 6 × 24, so x = 8064/144 = 56. (Q13 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-2.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "In how many years will a sum double itself at 12% per annum simple interest?",
+      "options": [
+        "5 years",
+        "6 1/3 years",
+        "8 1/3 years",
+        "7 years"
+      ],
+      "answer": 2,
+      "textHi": "कितने वर्षों में कोई राशि 12% वार्षिक साधारण ब्याज की दर से दुगुनी हो जाएगी?",
+      "optionsHi": [
+        "5 वर्ष",
+        "6 1/3 वर्ष",
+        "8 1/3 वर्ष",
+        "7 वर्ष"
+      ],
+      "explanation": "Doubling means SI = P: T = 100/12 = 8 1/3 years. (Q14 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-2.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A sum becomes three times itself in 10 years at simple interest. In how many years will it become seven times?",
+      "options": [
+        "30 years",
+        "20 years",
+        "25 years",
+        "35 years"
+      ],
+      "answer": 0,
+      "textHi": "कोई धन साधारण ब्याज पर 10 वर्षों में तीन गुना हो जाता है। वह कितने वर्षों में सात गुना हो जाएगा?",
+      "optionsHi": [
+        "30 वर्ष",
+        "20 वर्ष",
+        "25 वर्ष",
+        "35 वर्ष"
+      ],
+      "explanation": "Tripling: SI = 2P in 10 years, so rate = 20%; seven times needs SI = 6P, i.e. 30 years. (Q15 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-2.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The sum of the first n natural numbers is",
+      "options": [
+        "n(n + 1)",
+        "n²",
+        "n(n + 1)/2",
+        "(n² + 1)/2"
+      ],
+      "answer": 2,
+      "textHi": "प्रथम n प्राकृत संख्याओं का योग है",
+      "optionsHi": [
+        "n(n + 1)",
+        "n²",
+        "n(n + 1)/2",
+        "(n² + 1)/2"
+      ],
+      "explanation": "1 + 2 + ... + n = n(n + 1)/2. (Q16 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-2.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "If x + 1/x = 5, then the value of x² + 1/x² is",
+      "options": [
+        "27",
+        "25",
+        "23",
+        "21"
+      ],
+      "answer": 2,
+      "textHi": "यदि x + 1/x = 5 हो, तो x² + 1/x² का मान होगा",
+      "optionsHi": [
+        "27",
+        "25",
+        "23",
+        "21"
+      ],
+      "explanation": "x² + 1/x² = (x + 1/x)² − 2 = 25 − 2 = 23. (Q17 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-2.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The solutions of the equation x² − 7x + 12 = 0 are",
+      "options": [
+        "3, 5",
+        "3, 4",
+        "2, 1",
+        "1, 3"
+      ],
+      "answer": 1,
+      "textHi": "समीकरण x² − 7x + 12 = 0 के हल हैं",
+      "optionsHi": [
+        "3, 5",
+        "3, 4",
+        "2, 1",
+        "1, 3"
+      ],
+      "explanation": "x² − 7x + 12 = (x − 3)(x − 4) = 0, so x = 3 or 4. (Q18 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-2.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What should be added to a³ + b³ − 3ab to get 3a³ + 4b³ + 4c³?",
+      "options": [
+        "a³ + b³ + 4c³ + 3ab",
+        "2a³ + 3b³ + 4c³ + 3ab",
+        "2a³ + b³ + 4c³ + 2ab",
+        "None of the above"
+      ],
+      "answer": 1,
+      "textHi": "a³ + b³ − 3ab में क्या जोड़ें कि 3a³ + 4b³ + 4c³ प्राप्त हो?",
+      "optionsHi": [
+        "a³ + b³ + 4c³ + 3ab",
+        "2a³ + 3b³ + 4c³ + 3ab",
+        "2a³ + b³ + 4c³ + 2ab",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "(3a³ + 4b³ + 4c³) − (a³ + b³ − 3ab) = 2a³ + 3b³ + 4c³ + 3ab. (Q19 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-2.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Divide 12 − 14x² − 13x by 2x + 3.",
+      "options": [
+        "7x + 4",
+        "7x − 4",
+        "−7x + 4",
+        "−7x − 4"
+      ],
+      "answer": 2,
+      "textHi": "12 − 14x² − 13x को 2x + 3 से भाग दीजिए।",
+      "optionsHi": [
+        "7x + 4",
+        "7x − 4",
+        "−7x + 4",
+        "−7x − 4"
+      ],
+      "explanation": "(2x + 3)(−7x + 4) = −14x² + 8x − 21x + 12 = −14x² − 13x + 12. (Q20 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-2.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Simplify: (3⁰ − 5⁰) × (3⁰ − 5⁰)",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "−1"
+      ],
+      "answer": 2,
+      "textHi": "सरल कीजिए: (3⁰ − 5⁰) × (3⁰ − 5⁰)",
+      "optionsHi": [
+        "1",
+        "2",
+        "0",
+        "−1"
+      ],
+      "explanation": "3⁰ = 5⁰ = 1, so (1 − 1) × (1 − 1) = 0. (Q21 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-3.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The cost of 8 dozen bananas is Rs 180. How many bananas can be bought for Rs 30?",
+      "options": [
+        "16",
+        "24",
+        "14",
+        "22"
+      ],
+      "answer": 0,
+      "textHi": "8 दर्जन केलों का मूल्य 180 रु. है। रु. 30 में कितने केले खरीदे जाएंगे?",
+      "optionsHi": [
+        "16",
+        "24",
+        "14",
+        "22"
+      ],
+      "explanation": "8 dozen = 96 bananas for Rs 180; Rs 30 buys 96 × 30/180 = 16. (Q22 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-3.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A 135 m long train is moving at 54 km/h. How much time will it take to pass a telegraph pole?",
+      "options": [
+        "8 s",
+        "9 s",
+        "10 s",
+        "12 s"
+      ],
+      "answer": 1,
+      "textHi": "135 मीटर लम्बी एक रेलगाड़ी 54 किमी/घंटा की चाल से चल रही है। यह एक टेलीग्राफ के खम्भे को पार करने में कितना समय लेगी?",
+      "optionsHi": [
+        "8 सेकंड",
+        "9 सेकंड",
+        "10 सेकंड",
+        "12 सेकंड"
+      ],
+      "explanation": "54 km/h = 15 m/s; time = 135/15 = 9 s. (Q23 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-3.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The ratio of the present ages of Daya and her daughter is 4 : 1. After 4 years it will be 14 : 5. What is the present age of the daughter?",
+      "options": [
+        "8 years",
+        "6 years",
+        "10 years",
+        "7 years"
+      ],
+      "answer": 1,
+      "textHi": "दया और उसकी पुत्री की वर्तमान आयु का अनुपात 4 : 1 है। 4 वर्ष बाद यह अनुपात 14 : 5 हो जाएगा। पुत्री की वर्तमान आयु कितनी है?",
+      "optionsHi": [
+        "8 वर्ष",
+        "6 वर्ष",
+        "10 वर्ष",
+        "7 वर्ष"
+      ],
+      "explanation": "(4x + 4)/(x + 4) = 14/5 gives 20x + 20 = 14x + 56, so x = 6 years. (Q24 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-3.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "a³ − b³ is equal to",
+      "options": [
+        "(a³ + b³) − 3ab(a − b)",
+        "(a − b)³ + 3ab(a − b)",
+        "(a − b)³ − 3ab(a − b)",
+        "None of the above"
+      ],
+      "answer": 1,
+      "textHi": "a³ − b³ बराबर है",
+      "optionsHi": [
+        "(a³ + b³) − 3ab(a − b)",
+        "(a − b)³ + 3ab(a − b)",
+        "(a − b)³ − 3ab(a − b)",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "(a − b)³ = a³ − b³ − 3ab(a − b), so a³ − b³ = (a − b)³ + 3ab(a − b). (Q25 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-3.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find the largest five-digit number which is exactly divisible by 91.",
+      "options": [
+        "92130",
+        "99210",
+        "99918",
+        "94827"
+      ],
+      "answer": 2,
+      "textHi": "5 अंकों की सबसे बड़ी संख्या ज्ञात कीजिए जो 91 से पूर्णतः विभाज्य हो।",
+      "optionsHi": [
+        "92130",
+        "99210",
+        "99918",
+        "94827"
+      ],
+      "explanation": "99999 = 91 × 1098 + 81, so the largest multiple is 99999 − 81 = 99918. (Q26 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-3.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The total number of prime numbers between 1 and 100 is",
+      "options": [
+        "10",
+        "15",
+        "25",
+        "20"
+      ],
+      "answer": 2,
+      "textHi": "1 से 100 के बीच अभाज्य संख्याओं की कुल संख्या है",
+      "optionsHi": [
+        "10",
+        "15",
+        "25",
+        "20"
+      ],
+      "explanation": "There are 25 prime numbers between 1 and 100. (Q27 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-3.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find the largest four-digit number which, when divided by 12, 18 and 35, leaves remainder 5 every time.",
+      "options": [
+        "8835",
+        "8820",
+        "8810",
+        "8825"
+      ],
+      "answer": 3,
+      "textHi": "चार अंकों की सबसे बड़ी संख्या ज्ञात कीजिए जिसे 12, 18 तथा 35 से भाग देने पर हर बार 5 शेष बचे।",
+      "optionsHi": [
+        "8835",
+        "8820",
+        "8810",
+        "8825"
+      ],
+      "explanation": "LCM(12, 18, 35) = 1260; largest four-digit multiple = 8820; add remainder 5 to get 8825. (Q28 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-3.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Four bells ring at intervals of 3, 7, 12 and 14 minutes. If they start ringing together at 10 a.m., when will they next ring together?",
+      "options": [
+        "11:20 a.m.",
+        "11:24 a. m.",
+        "10:30 a.m.",
+        "None of the above"
+      ],
+      "answer": 1,
+      "textHi": "चार घंटियाँ क्रमशः 3, 7, 12 तथा 14 मिनट के अंतराल पर बजती हैं। यदि वे प्रातः 10 बजे एक साथ बजना आरम्भ करें, तो पुनः कब एक साथ बजेंगी?",
+      "optionsHi": [
+        "प्रातः 11 बजकर 20 मिनट",
+        "प्रातः 11 बजकर 24 मिनट",
+        "प्रातः 10 बजकर 30 मिनट",
+        "कोई नहीं"
+      ],
+      "explanation": "LCM(3, 7, 12, 14) = 84 minutes = 1 h 24 min after 10 a.m., i.e. 11:24 a.m. (Q29 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-3.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the LCM of 1/3, 2/9, 5/6 and 4/27?",
+      "options": [
+        "1/54",
+        "10/27",
+        "20/3",
+        "3/20"
+      ],
+      "answer": 2,
+      "textHi": "1/3, 2/9, 5/6 और 4/27 का लघुत्तम समापवर्त्य क्या होगा?",
+      "optionsHi": [
+        "1/54",
+        "10/27",
+        "20/3",
+        "3/20"
+      ],
+      "explanation": "LCM of fractions = LCM of numerators / HCF of denominators = LCM(1, 2, 5, 4)/HCF(3, 9, 6, 27) = 20/3. (Q30 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-3.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the appropriate conjunction: Catch me ________ you can.",
+      "options": [
+        "if",
+        "but",
+        "till",
+        "as"
+      ],
+      "answer": 0,
+      "explanation": "\"Catch me if you can\" uses the conditional conjunction \"if\". (Q31 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most opposite in meaning to: WORST",
+      "options": [
+        "good",
+        "bad",
+        "best",
+        "worse"
+      ],
+      "answer": 2,
+      "explanation": "Best is the opposite of worst. (Q33 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most opposite in meaning to: DISSATISFIED",
+      "options": [
+        "angry",
+        "satisfied",
+        "peaceful",
+        "sad"
+      ],
+      "answer": 1,
+      "explanation": "Satisfied is the opposite of dissatisfied. (Q34 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word nearest in meaning to: DIGNITY",
+      "options": [
+        "Disgrace",
+        "Smooth",
+        "Dishonour",
+        "Glory"
+      ],
+      "answer": 3,
+      "explanation": "Dignity means honour or glory. (Q35 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the synonym of 'passion' in: Dr. A.P.J. Abdul Kalam did the job with great passion.",
+      "options": [
+        "destruction",
+        "climax",
+        "difficulty",
+        "zeal"
+      ],
+      "answer": 3,
+      "explanation": "Passion here means zeal, strong enthusiasm. (Q36 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Change into indirect speech: She said to me, 'Would you open the door, please?'",
+      "options": [
+        "She asked me to please open the door.",
+        "She requested me to open the door.",
+        "She requested me to please open the door.",
+        "She asked me to keep the door opened."
+      ],
+      "answer": 1,
+      "explanation": "A polite request is reported with \"requested\": She requested me to open the door. (Q47 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Change into indirect speech: They said, \"We have lived here for a long time.\"",
+      "options": [
+        "They said they have been living there for a long time.",
+        "They said they lived here for a long time.",
+        "They said that they had lived there for a long time.",
+        "They said they have lived for a long time."
+      ],
+      "answer": 2,
+      "explanation": "Present perfect becomes past perfect and \"here\" becomes \"there\". (Q48 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most nearly opposite in meaning to 'austere': The artist led a very austere life.",
+      "options": [
+        "luxurious",
+        "strict",
+        "simple",
+        "unembellished"
+      ],
+      "answer": 0,
+      "explanation": "Austere (simple, without comfort) is the opposite of luxurious. (Q51 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most nearly opposite in meaning to 'penchant': He has a penchant for satirical writing.",
+      "options": [
+        "inclination",
+        "taste",
+        "dislike",
+        "bias"
+      ],
+      "answer": 2,
+      "explanation": "A penchant is a strong liking; its opposite is dislike. (Q52 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most nearly opposite in meaning to 'turbid': He plunged into the turbid water of the stream.",
+      "options": [
+        "muddy",
+        "clear",
+        "deep",
+        "shallow"
+      ],
+      "answer": 2,
+      "explanation": "Turbid (muddy, cloudy) is the opposite of clear. (Q53 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most nearly opposite in meaning to 'obscure': An obscure traveller was found dead on the road.",
+      "options": [
+        "decent",
+        "indistinct",
+        "famous",
+        "out of sight"
+      ],
+      "answer": 2,
+      "explanation": "Obscure (unknown) is the opposite of famous. (Q54 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most nearly opposite in meaning to 'pragmatic': Only a pragmatic approach to these problems can solve them.",
+      "options": [
+        "practical",
+        "diplomatic",
+        "idealistic",
+        "theoretical"
+      ],
+      "answer": 2,
+      "explanation": "Pragmatic (practical, realistic) is opposite to idealistic. (Q55 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: The poet and novelist ________ dead.",
+      "options": [
+        "are",
+        "is",
+        "was",
+        "were"
+      ],
+      "answer": 1,
+      "explanation": "One article before both nouns means one person, so the verb is singular: is. (Q57 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: Honesty is the ________ policy.",
+      "options": [
+        "good",
+        "bad",
+        "best",
+        "better"
+      ],
+      "answer": 2,
+      "explanation": "The proverb is \"Honesty is the best policy\". (Q58 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the appropriate conjunction: He will not come ________ it rains.",
+      "options": [
+        "if",
+        "yet",
+        "and",
+        "as"
+      ],
+      "answer": 0,
+      "explanation": "\"If\" introduces the condition: He will not come if it rains. (Q59 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the appropriate conjunction: He is very rich ________ he is not happy.",
+      "options": [
+        "if",
+        "yet",
+        "and",
+        "as"
+      ],
+      "answer": 1,
+      "explanation": "\"Yet\" shows contrast: He is very rich, yet he is not happy. (Q60 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-6.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "बलाघात से क्या तात्पर्य है?",
+      "options": [
+        "एक प्रवाह में पढ़ना",
+        "शब्दों के बीच ठहरना",
+        "स्तब्धता",
+        "किसी खास शब्द या वर्ण पर बल देना"
+      ],
+      "answer": 3,
+      "explanation": "बलाघात का अर्थ है उच्चारण में किसी शब्द या वर्ण पर विशेष बल देना। (Q61 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'क्षणिक' का विलोम है:",
+      "options": [
+        "शाश्वत",
+        "अज्ञेय",
+        "दुःख",
+        "जीत"
+      ],
+      "answer": 0,
+      "explanation": "'क्षणिक' (थोड़ी देर का) का विलोम 'शाश्वत' (सदा रहने वाला) है। (Q62 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'वृक्ष से फल गिरा।' वाक्य में कौन-सा कारक प्रयुक्त हुआ है?",
+      "options": [
+        "अपादान",
+        "कर्ता",
+        "करण",
+        "अधिकरण"
+      ],
+      "answer": 0,
+      "explanation": "'से' अलग होने का भाव बता रहा है, अतः अपादान कारक। (Q63 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'मना' की भाववाचक संज्ञा है:",
+      "options": [
+        "मनाता",
+        "मनाव",
+        "मनाही",
+        "मनुता"
+      ],
+      "answer": 2,
+      "explanation": "'मना' से भाववाचक संज्ञा 'मनाही' बनती है। (Q64 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "वाक्यांश के लिए एक शब्द: गुरु के समीप अथवा साथ रहने वाला",
+      "options": [
+        "अंतेवासी",
+        "अनंत",
+        "अगोचर",
+        "अल्पज्ञ"
+      ],
+      "answer": 0,
+      "explanation": "गुरु के समीप रहकर पढ़ने वाला शिष्य अंतेवासी कहलाता है। (Q65 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'चरण-कमल बंदौं हरि राई' पंक्ति में कौन-सा अलंकार है?",
+      "options": [
+        "उत्प्रेक्षा",
+        "रूपक",
+        "श्लेष",
+        "अतिशयोक्ति"
+      ],
+      "answer": 1,
+      "explanation": "'चरण-कमल' में चरणों पर कमल का अभेद आरोप है, अतः रूपक अलंकार। (Q66 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'आजकल विभीषणों की कोई कमी नहीं है।' वाक्य में 'विभीषणों' कौन-सी संज्ञा है?",
+      "options": [
+        "जातिवाचक",
+        "व्यक्तिवाचक",
+        "भाववाचक",
+        "इनमे से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "'विभीषण' व्यक्तिवाचक संज्ञा है, पर यहाँ 'विश्वासघाती लोगों' के वर्ग के अर्थ में प्रयुक्त होने से जातिवाचक है। (Q67 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'कागा काको धन हरै, कोयल काको देय। मीठे वचन सुनाय कर, जग अपनो कर लेय॥' इन पंक्तियों में कौन-सा छन्द है?",
+      "options": [
+        "सोरठा",
+        "दोहा",
+        "बरवै",
+        "रोला"
+      ],
+      "answer": 1,
+      "explanation": "पहले-तीसरे चरण में 13 और दूसरे-चौथे में 11 मात्राएँ होने से यह दोहा छंद है। (Q68 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "अपने कथन की ________ प्रमाणित कीजिए।",
+      "options": [
+        "मिथ्या",
+        "सत्यता",
+        "भाषा",
+        "तार्किकता"
+      ],
+      "answer": 1,
+      "explanation": "कथन की सत्यता प्रमाणित की जाती है। (Q69 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "क्रिया के मूल रूप को क्या कहते हैं?",
+      "options": [
+        "क्रिया-विशेषण",
+        "धातु",
+        "भाव",
+        "संधि"
+      ],
+      "answer": 1,
+      "explanation": "क्रिया का मूल रूप धातु कहलाता है, जैसे पढ़, लिख। (Q70 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'चाय' किस भाषा का शब्द है?",
+      "options": [
+        "अरबी",
+        "फारसी",
+        "चीनी",
+        "पुर्तगाली"
+      ],
+      "answer": 2,
+      "explanation": "'चाय' चीनी भाषा से आया विदेशज शब्द है। (Q71 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'रामचरितमानस' के रचनाकार हैं:",
+      "options": [
+        "विद्यापति",
+        "तुलसीदास",
+        "वाल्मीकि",
+        "सूरदास"
+      ],
+      "answer": 1,
+      "explanation": "रामचरितमानस गोस्वामी तुलसीदास की रचना है। (Q73 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'उसका अम्बर फट गया' में 'अम्बर' का क्या अर्थ है?",
+      "options": [
+        "आकाश",
+        "कपड़ा",
+        "तीनों",
+        "नभ"
+      ],
+      "answer": 1,
+      "explanation": "यहाँ 'अम्बर' का अर्थ वस्त्र (कपड़ा) है। (Q74 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'चूहा' का पर्यायवाची शब्द है:",
+      "options": [
+        "आखु",
+        "खनक",
+        "रजनीचर",
+        "कोई भी नहीं"
+      ],
+      "answer": 0,
+      "explanation": "'आखु' चूहे का पर्यायवाची है (मूषक, मूसा भी)। (Q75 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "प्रेमचन्द किस उपन्यास के लेखक हैं?",
+      "options": [
+        "झूठा सच",
+        "मानस का हंस",
+        "कर्मभूमि",
+        "चित्रलेखा"
+      ],
+      "answer": 2,
+      "explanation": "'कर्मभूमि' प्रेमचन्द का उपन्यास है; झूठा सच यशपाल, मानस का हंस अमृतलाल नागर और चित्रलेखा भगवतीचरण वर्मा का है। (Q76 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'जहाँ न पहुँचे रवि, वहाँ पहुँचे कवि' में 'जहाँ न पहुँचे रवि' क्या है?",
+      "options": [
+        "उपवाक्य",
+        "पदबन्ध",
+        "मुहावरा",
+        "इनमे से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "'जहाँ न पहुँचे रवि' में अपनी क्रिया (पहुँचे) है और यह आश्रित है, अतः उपवाक्य। (Q77 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "अतीत के धूमिल चित्रों की साकार अभिव्यक्ति ही ________ है।",
+      "options": [
+        "रेखाचित्र",
+        "रिपोर्ताज",
+        "संस्मरण",
+        "इतिहास"
+      ],
+      "answer": 2,
+      "explanation": "स्मृति के आधार पर अतीत के चित्रों को साकार करने वाली विधा संस्मरण है। (Q78 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'काल' शब्द का अर्थ होता है:",
+      "options": [
+        "समय",
+        "मौत",
+        "दोनों",
+        "कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "'काल' के दो अर्थ हैं: समय और मृत्यु। (Q80 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "कवि नरेन्द्र शर्मा ने राष्ट्रपिता महात्मा गांधी के निधन से प्रभावित होकर कौन-सी रचना की?",
+      "options": [
+        "रक्तचंदन",
+        "हंसमाला",
+        "मिट्टी और फूल",
+        "उत्तरजय"
+      ],
+      "answer": 0,
+      "explanation": "नरेन्द्र शर्मा की 'रक्तचंदन' (1949) गांधी जी के निधन से प्रभावित रचना है। (Q81 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'मैं देख रहा था शांत सरोवर और उसमें तैरता हुआ हंस।' इस वाक्य में 'तैरता हुआ हंस' क्या है?",
+      "options": [
+        "उपवाक्य",
+        "पद",
+        "पदबंध",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "'तैरता हुआ हंस' पदों का समूह है जो संज्ञा का काम करता है, अतः पदबंध। (Q82 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'श्वान निद्रा' का सही अर्थ है:",
+      "options": [
+        "धोखे से शिकार करना",
+        "चतुर होना",
+        "दूसरे को धोखा देना",
+        "सजग निद्रा"
+      ],
+      "answer": 3,
+      "explanation": "'श्वान निद्रा' = कुत्ते जैसी सजग, हल्की नींद। (Q83 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'पद-पंकज' का समास-विग्रह है:",
+      "options": [
+        "पंकज के समान पद",
+        "पद और पंकज",
+        "पद का पंकज",
+        "इनमे से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "पद-पंकज = पंकज के समान पद (कर्मधारय समास)। (Q84 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'बूढ़ा' विशेषण से भाववाचक संज्ञा बनेगी:",
+      "options": [
+        "बुढ़वा",
+        "बुढ़ापा",
+        "बुढ़िया",
+        "कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "'बूढ़ा' से भाववाचक संज्ञा 'बुढ़ापा' बनती है। (Q85 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'संरक्षण' में कौन-सा उपसर्ग है?",
+      "options": [
+        "सम्",
+        "स",
+        "सन्",
+        "इनमे से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "संरक्षण = सम् + रक्षण; उपसर्ग \"सम्\" है। (Q87 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'विद्यार्थी' में कौन-सी संधि है?",
+      "options": [
+        "दीर्घ संधि",
+        "गुण संधि",
+        "व्यंजन संधि",
+        "वृद्धि संधि"
+      ],
+      "answer": 0,
+      "explanation": "विद्या + अर्थी = विद्यार्थी (आ + अ = आ), दीर्घ संधि। (Q88 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'कौए उड़ाना' मुहावरे का अर्थ है:",
+      "options": [
+        "निकृष्ट कार्य करना",
+        "व्यर्थ होकर रह जाना",
+        "दिन-रात परिश्रम करना",
+        "ध्यान न देना"
+      ],
+      "answer": 0,
+      "explanation": "'कौए उड़ाना' = तुच्छ/निकृष्ट काम करना। (Q89 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "एक जैसा अर्थ देने वाले शब्द क्या कहलाते हैं?",
+      "options": [
+        "एकार्थी",
+        "अनेकार्थी",
+        "पर्यायवाची",
+        "इनमे से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "समान अर्थ वाले शब्द पर्यायवाची कहलाते हैं। (Q90 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-9.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The disease jaundice is related to which organ of the body?",
+      "options": [
+        "Heart",
+        "Liver",
+        "Kidney",
+        "Lungs"
+      ],
+      "answer": 1,
+      "textHi": "पीलिया रोग किस अंग से सम्बन्धित है?",
+      "optionsHi": [
+        "हृदय",
+        "यकृत",
+        "गुर्दे",
+        "फेफड़े"
+      ],
+      "explanation": "Jaundice is a disorder of the liver (excess bilirubin). (Q91 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-10.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Dialysis is related to the",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Lungs",
+        "Heart"
+      ],
+      "answer": 1,
+      "textHi": "डायलिसिस का संबंध किससे है?",
+      "optionsHi": [
+        "यकृत",
+        "गुर्दे",
+        "फेफड़े",
+        "हृदय"
+      ],
+      "explanation": "Dialysis filters the blood when the kidneys fail. (Q92 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-10.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is the ratio of the length to the width of the Indian National Flag?",
+      "options": [
+        "4 : 3",
+        "5 : 4",
+        "3 : 2",
+        "2 : 1"
+      ],
+      "answer": 2,
+      "textHi": "भारतीय राष्ट्रीय झंडे की लम्बाई और चौड़ाई का अनुपात क्या है?",
+      "optionsHi": [
+        "4 : 3",
+        "5 : 4",
+        "3 : 2",
+        "2 : 1"
+      ],
+      "explanation": "The national flag has a length-to-width ratio of 3 : 2. (Q93 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-10.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who wrote the \"Arthashastra\"?",
+      "options": [
+        "Megasthenes",
+        "Adam Smith",
+        "Kautilya",
+        "Chandragupta"
+      ],
+      "answer": 2,
+      "textHi": "‘अर्थशास्त्र’ का लेखक कौन है?",
+      "optionsHi": [
+        "मेगस्थनीज",
+        "एडम स्मिथ",
+        "कौटिल्य",
+        "चन्द्रगुप्त"
+      ],
+      "explanation": "Kautilya (Chanakya) wrote the Arthashastra. (Q94 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-10.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who is called the father of the Indian Constitution?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Dr. K.M. Munshi"
+      ],
+      "answer": 2,
+      "textHi": "भारतीय संविधान का जनक किसे कहा जाता है?",
+      "optionsHi": [
+        "डॉ. राजेन्द्र प्रसाद",
+        "जवाहरलाल नेहरू",
+        "डॉ. भीमराव अम्बेडकर",
+        "डॉ. के.एम. मुंशी"
+      ],
+      "explanation": "Dr. B.R. Ambedkar, chairman of the Drafting Committee, is called the father of the Constitution. (Q96 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-10.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "How much time does the Moon take to complete one revolution around the Earth?",
+      "options": [
+        "27 days 8 hours",
+        "24 hours",
+        "30 days 8 hours",
+        "24 days 7 hours"
+      ],
+      "answer": 0,
+      "textHi": "चन्द्रमा पृथ्वी की एक परिक्रमा करने में कितना समय लेता है?",
+      "optionsHi": [
+        "27 दिन, 8 घण्टे",
+        "24 घण्टे",
+        "30 दिन, 8 घण्टे",
+        "24 दिन, 7 घण्टे"
+      ],
+      "explanation": "The Moon's sidereal period is about 27 days 8 hours (27.3 days). (Q97 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-10.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which of the following Indus Valley Civilization sites is in Pakistan?",
+      "options": [
+        "Kalibangan",
+        "Lothal",
+        "Alamgirpur",
+        "Harappa"
+      ],
+      "answer": 3,
+      "textHi": "निम्नलिखित में से सिन्धु घाटी सभ्यता का कौन-सा स्थल पाकिस्तान में है?",
+      "optionsHi": [
+        "कालीबंगा",
+        "लोथल",
+        "आलमगीरपुर",
+        "हड़प्पा"
+      ],
+      "explanation": "Harappa is in Punjab, Pakistan; Kalibangan, Lothal and Alamgirpur are in India. (Q98 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-10.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Enzymes help",
+      "options": [
+        "in digestion",
+        "in respiration",
+        "in breeding",
+        "None"
+      ],
+      "answer": 0,
+      "textHi": "एंजाइम सहायता करते हैं",
+      "optionsHi": [
+        "पाचन में",
+        "श्वसन में",
+        "प्रजनन में",
+        "कोई नहीं"
+      ],
+      "explanation": "Digestive enzymes (amylase, pepsin, lipase) break down food; the key answer is digestion. (Q99 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-10.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which UN organisation has its headquarters in Paris?",
+      "options": [
+        "FAO",
+        "ILO",
+        "UNESCO",
+        "IMO"
+      ],
+      "answer": 2,
+      "textHi": "UNO की किस संस्था का मुख्यालय पेरिस में है?",
+      "optionsHi": [
+        "FAO",
+        "ILO",
+        "UNESCO",
+        "IMO"
+      ],
+      "explanation": "UNESCO has its headquarters in Paris. (Q100 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-10.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is the main component of acid rain?",
+      "options": [
+        "Sulphur Dioxide",
+        "Carbon",
+        "Oxygen",
+        "Iron"
+      ],
+      "answer": 0,
+      "textHi": "अम्लीय वर्षा का मुख्य घटक क्या है?",
+      "optionsHi": [
+        "सल्फर डाइऑक्साइड",
+        "कार्बन",
+        "ऑक्सीजन",
+        "आयरन"
+      ],
+      "explanation": "Acid rain is caused mainly by sulphur dioxide (and nitrogen oxides). (Q101 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-11.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which is the longest river in Himachal Pradesh?",
+      "options": [
+        "Beas",
+        "Satluj",
+        "Ravi",
+        "Yamuna"
+      ],
+      "answer": 1,
+      "textHi": "हिमाचल प्रदेश की सबसे लम्बी नदी कौन-सी है?",
+      "optionsHi": [
+        "ब्यास",
+        "सतलुज",
+        "रावी",
+        "यमुना"
+      ],
+      "explanation": "The Satluj has the longest course in Himachal Pradesh (about 320 km). (Q102 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-11.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The birthplace of Lord Buddha is",
+      "options": [
+        "Lumbini",
+        "Terai",
+        "Kapilavastu",
+        "Kundagram"
+      ],
+      "answer": 0,
+      "textHi": "महात्मा बुद्ध का जन्म स्थान है",
+      "optionsHi": [
+        "लुम्बिनी",
+        "तराई",
+        "कपिलवस्तु",
+        "कुण्डग्राम"
+      ],
+      "explanation": "Gautama Buddha was born at Lumbini, Nepal. (Q103 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-11.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Vasco da Gama reached India in",
+      "options": [
+        "1486",
+        "1947",
+        "1598",
+        "1498"
+      ],
+      "answer": 3,
+      "textHi": "वास्को डी गामा भारत कब पहुँचा?",
+      "optionsHi": [
+        "1486 में",
+        "1947 में",
+        "1598 में",
+        "1498 में"
+      ],
+      "explanation": "Vasco da Gama reached Calicut in 1498. (Q104 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-11.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "When is National Science Day observed?",
+      "options": [
+        "25 February",
+        "28 February",
+        "26 February",
+        "24 February"
+      ],
+      "answer": 1,
+      "textHi": "राष्ट्रीय विज्ञान दिवस कब होता है?",
+      "optionsHi": [
+        "25 फरवरी",
+        "28 फरवरी",
+        "26 फरवरी",
+        "24 फरवरी"
+      ],
+      "explanation": "National Science Day (28 February) marks C.V. Raman's discovery of the Raman effect (1928). (Q105 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-11.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is Dakshin Gangotri?",
+      "options": [
+        "A river",
+        "A dam",
+        "A research station in Antarctica",
+        "A missile"
+      ],
+      "answer": 2,
+      "textHi": "दक्षिण गंगोत्री क्या है?",
+      "optionsHi": [
+        "नदी",
+        "बाँध",
+        "अंटार्कटिका में शोध केन्द्र",
+        "मिसाइल"
+      ],
+      "explanation": "Dakshin Gangotri was India's first research station in Antarctica (1983). (Q106 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-11.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is the order of colours in a rainbow?",
+      "options": [
+        "VYBGOIR",
+        "VOBGYIR",
+        "VIBGOYR",
+        "VIBGYOR"
+      ],
+      "answer": 3,
+      "textHi": "इंद्रधनुष में रंगों का क्रम क्या है?",
+      "optionsHi": [
+        "VYBGOIR",
+        "VOBGYIR",
+        "VIBGOYR",
+        "VIBGYOR"
+      ],
+      "explanation": "VIBGYOR: violet, indigo, blue, green, yellow, orange, red. (Q107 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-11.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "In which state is Onam celebrated?",
+      "options": [
+        "Karnataka",
+        "Kerala",
+        "Orissa",
+        "Assam"
+      ],
+      "answer": 1,
+      "textHi": "ओणम किस राज्य का त्योहार है?",
+      "optionsHi": [
+        "कर्नाटक",
+        "केरल",
+        "ओडिशा",
+        "असम"
+      ],
+      "explanation": "Onam is the harvest festival of Kerala. (Q108 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-11.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What do plants need to make food?",
+      "options": [
+        "CO₂ and H₂O",
+        "Sunlight",
+        "Chlorophyll",
+        "All of the above"
+      ],
+      "answer": 0,
+      "textHi": "पौधों को भोजन बनाने के लिए क्या आवश्यक है?",
+      "optionsHi": [
+        "CO₂ और H₂O",
+        "सूर्य का प्रकाश",
+        "क्लोरोफिल",
+        "उपरोक्त सभी"
+      ],
+      "explanation": "Photosynthesis needs CO₂, water, sunlight and chlorophyll. (Q109 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-11.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Where is Wular Lake?",
+      "options": [
+        "Rajasthan",
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Orissa"
+      ],
+      "answer": 2,
+      "textHi": "वुलर झील कहाँ है?",
+      "optionsHi": [
+        "राजस्थान",
+        "हिमाचल प्रदेश",
+        "जम्मू और कश्मीर",
+        "ओडिशा"
+      ],
+      "explanation": "Wular Lake is in Jammu and Kashmir, one of the largest freshwater lakes in Asia. (Q111 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-12.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "When was the World Parliament of Religions held in Chicago (addressed by Swami Vivekananda)?",
+      "options": [
+        "1892",
+        "1893",
+        "1894",
+        "1896"
+      ],
+      "answer": 1,
+      "textHi": "शिकागो में विश्व धर्म सम्मेलन (जिसे स्वामी विवेकानंद ने संबोधित किया) कब हुआ?",
+      "optionsHi": [
+        "1892",
+        "1893",
+        "1894",
+        "1896"
+      ],
+      "explanation": "The World Parliament of Religions was held in Chicago in 1893. (Q112 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-12.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which is the largest delta in the world?",
+      "options": [
+        "Mahanadi",
+        "Indus",
+        "Huang He",
+        "Sundarbans"
+      ],
+      "answer": 3,
+      "textHi": "विश्व का सबसे बड़ा डेल्टा कौन है?",
+      "optionsHi": [
+        "महानदी",
+        "सिंधु",
+        "हुआंग हो",
+        "सुंदरवन"
+      ],
+      "explanation": "The Ganga-Brahmaputra (Sundarbans) delta is the largest in the world. (Q113 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-12.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which player from Himachal Pradesh received the Padma Shri (2019)?",
+      "options": [
+        "Ajay Thakur",
+        "Deepak Thakur",
+        "Anita Thakur",
+        "Dilip Thakur"
+      ],
+      "answer": 0,
+      "textHi": "हिमाचल के किस खिलाड़ी को पद्मश्री (2019) पुरस्कार मिला?",
+      "optionsHi": [
+        "अजय ठाकुर",
+        "दीपक ठाकुर",
+        "अनीता ठाकुर",
+        "दिलीप ठाकुर"
+      ],
+      "explanation": "Kabaddi player Ajay Thakur of Himachal Pradesh received the Padma Shri in 2019. (Q114 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-12.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Blue Revolution is related to",
+      "options": [
+        "Milk",
+        "Rice",
+        "Fish",
+        "Cotton"
+      ],
+      "answer": 2,
+      "textHi": "नीली क्रांति किससे सम्बंधित है?",
+      "optionsHi": [
+        "दूध",
+        "चावल",
+        "मछली",
+        "कपास"
+      ],
+      "explanation": "The Blue Revolution relates to fish production. (Q115 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-12.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "When did passenger rail service start in India?",
+      "options": [
+        "1852",
+        "1856",
+        "1853",
+        "1854"
+      ],
+      "answer": 2,
+      "textHi": "भारत में यात्री रेल सेवा कब शुरू हुई?",
+      "optionsHi": [
+        "1852",
+        "1856",
+        "1853",
+        "1854"
+      ],
+      "explanation": "The first passenger train ran from Bombay to Thane on 16 April 1853. (Q116 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-12.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "When did Himachal Pradesh get full statehood?",
+      "options": [
+        "20 January 1971",
+        "26 January 1950",
+        "25 January 1972",
+        "25 January 1971"
+      ],
+      "answer": 3,
+      "textHi": "हिमाचल को पूर्ण राज्य का दर्जा कब मिला?",
+      "optionsHi": [
+        "20 जनवरी 1971",
+        "26 जनवरी 1950",
+        "25 जनवरी 1972",
+        "25 जनवरी 1971"
+      ],
+      "explanation": "Himachal Pradesh became the 18th state on 25 January 1971. (Q118 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-12.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Where is Kaziranga National Park located?",
+      "options": [
+        "Assam",
+        "Gujarat",
+        "Uttarakhand",
+        "Rajasthan"
+      ],
+      "answer": 0,
+      "textHi": "काजीरंगा राष्ट्रीय उद्यान कहाँ स्थित है?",
+      "optionsHi": [
+        "असम",
+        "गुजरात",
+        "उत्तराखंड",
+        "राजस्थान"
+      ],
+      "explanation": "Kaziranga National Park, home of the one-horned rhinoceros, is in Assam. (Q119 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-12.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Chipko movement was started to stop",
+      "options": [
+        "killing of wild animals",
+        "cutting down of trees",
+        "misuse of water",
+        "None"
+      ],
+      "answer": 1,
+      "textHi": "चिपको आंदोलन किसको रोकने के लिए शुरू किया गया",
+      "optionsHi": [
+        "जंगली जानवरों को मारने",
+        "पेड़ों को काटने",
+        "पानी के दुरुपयोग",
+        "कोई नहीं"
+      ],
+      "explanation": "The Chipko movement (1973) aimed to stop the felling of trees. (Q120 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-12.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The concept of mental age was given by",
+      "options": [
+        "Binet-Simon",
+        "Stern",
+        "Terman",
+        "Cyril Burt"
+      ],
+      "answer": 0,
+      "explanation": "Binet and Simon introduced mental age in their intelligence scale. (Q121 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-13.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of these is based on educational psychology?",
+      "options": [
+        "Kindergarten method",
+        "Montessori method",
+        "Play-way method",
+        "All of these"
+      ],
+      "answer": 3,
+      "explanation": "Kindergarten, Montessori and play-way methods all rest on psychological principles. (Q122 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-13.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which psychologist stressed reinforcement in his principle of learning?",
+      "options": [
+        "Lewin",
+        "B.F. Skinner",
+        "Pavlov",
+        "Köhler"
+      ],
+      "answer": 1,
+      "explanation": "B.F. Skinner's operant conditioning stresses reinforcement. (Q125 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-13.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Erikson's 'intimacy versus isolation' stage lies between",
+      "options": [
+        "12–19 years",
+        "11–12 years",
+        "30–65 years",
+        "20–30 years"
+      ],
+      "answer": 3,
+      "explanation": "Erikson's intimacy vs isolation stage is young adulthood (roughly 20–30/40 years). (Q126 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-13.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The hormone of which gland affects growth in height?",
+      "options": [
+        "Pituitary gland",
+        "Pancreas",
+        "Pineal gland",
+        "None of the above"
+      ],
+      "answer": 0,
+      "textHi": "किस ग्रंथि का हार्मोन लम्बाई की वृद्धि को प्रभावित करता है?",
+      "optionsHi": [
+        "पीयूष ग्रंथि",
+        "अग्न्याशय",
+        "पीनियल ग्रंथि",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "Growth hormone from the pituitary gland controls growth in height. (Q131 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-14.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "When a person takes new information into his existing knowledge, it is called",
+      "options": [
+        "Assimilation",
+        "Accommodation",
+        "Dec-entering",
+        "None of the above"
+      ],
+      "answer": 0,
+      "textHi": "किसी व्यक्ति द्वारा अपने वर्तमान ज्ञान में नई सूचनाओं को ग्रहण करना क्या कहलाता है?",
+      "optionsHi": [
+        "समावेशन",
+        "समायोजन",
+        "विकेंद्रण",
+        "इनमे से कोई नहीं"
+      ],
+      "explanation": "Fitting new information into existing schemas is assimilation (Piaget). (Q132 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-14.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The branch of psychology which deals with biological factors is called :",
+      "options": [
+        "Bio psychology",
+        "Counseling Psychology",
+        "Clinical Psychology",
+        "Social Psychology"
+      ],
+      "answer": 0,
+      "textHi": "मनोविज्ञान की वह शाखा जो जैव कारको के प्रभाव से संबंधित है, क्या कहलाती है",
+      "optionsHi": [
+        "जैविक मनोविज्ञान",
+        "परामर्श मनोविज्ञान",
+        "नैदानिक मनोविज्ञान",
+        "समाज मनोविज्ञान"
+      ],
+      "explanation": "Biopsychology studies the biological basis of behaviour. (Q133 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-14.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What is the basic unit of all living beings?",
+      "options": [
+        "Cell",
+        "Synapse",
+        "Glands",
+        "Nerve fiber"
+      ],
+      "answer": 0,
+      "textHi": "किसी जीवित प्राणी की सबसे आधारभूत इकाई क्या कहलाती है",
+      "optionsHi": [
+        "कोशिका",
+        "सिनैप्स (संधि-स्थल)",
+        "ग्रंथियाँ",
+        "तंत्रिका तंतु"
+      ],
+      "explanation": "The cell is the basic structural and functional unit of life. (Q134 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-14.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What is the loss of a learned response called?",
+      "options": [
+        "Generalisation",
+        "Discrimination",
+        "Extinction",
+        "Spontaneous Recovery"
+      ],
+      "answer": 2,
+      "textHi": "सीखी हुई अनुक्रिया का लुप्त होना क्या कहलाता है?",
+      "optionsHi": [
+        "सामान्यीकरण",
+        "विभेदन",
+        "विलोप",
+        "स्वतः पुनः प्राप्ति"
+      ],
+      "explanation": "The fading of a learned response when not reinforced is extinction. (Q135 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-14.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What is another name for short-term memory?",
+      "options": [
+        "Sensory Memory",
+        "Working Memory",
+        "Echoic Memory",
+        "None of the above"
+      ],
+      "answer": 1,
+      "textHi": "अल्पकालिक स्मृति को और किस नाम से जानते हैं?",
+      "optionsHi": [
+        "सांवेदिक स्मृति",
+        "सक्रिय स्मृति",
+        "इकोइक स्मृति",
+        "इनमे से कोई नहीं"
+      ],
+      "explanation": "Short-term memory is also called working memory. (Q136 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-14.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What is the approximate weight of an adult human brain?",
+      "options": [
+        "1.69 kg",
+        "1.36 kg",
+        "2.30 kg",
+        "3.00 kg"
+      ],
+      "answer": 1,
+      "textHi": "एक वयस्क व्यक्ति के मस्तिष्क का भार लगभग कितना होता है?",
+      "optionsHi": [
+        "1.69 कि.ग्रा",
+        "1.36 कि.ग्रा",
+        "2.30 कि.ग्रा",
+        "3.00 कि.ग्रा"
+      ],
+      "explanation": "An adult brain weighs about 1.3–1.4 kg. (Q137 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-14.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What is the set of genes a person inherits from the parents called?",
+      "options": [
+        "Genotype",
+        "Phenotype",
+        "Behavior genetic",
+        "None of the above"
+      ],
+      "answer": 0,
+      "textHi": "माता-पिता से प्राप्त जीनों के पूरे समूह को क्या कहते हैं?",
+      "optionsHi": [
+        "जेनोटाइप",
+        "फेनोटाइप",
+        "व्यवहारगत आनुवंशिकी",
+        "इनमे से कोई नहीं"
+      ],
+      "explanation": "The genotype is an individual's inherited set of genes; the phenotype is the observable traits. (Q138 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-14.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who founded behaviourism in 1913?",
+      "options": [
+        "Pavlov",
+        "Skinner",
+        "Watson",
+        "Woodworth"
+      ],
+      "answer": 2,
+      "textHi": "1913 में व्यवहारवाद की स्थापना किसके द्वारा की गई?",
+      "optionsHi": [
+        "पैवलव",
+        "स्किनर",
+        "वाटसन",
+        "वुडवर्थ"
+      ],
+      "explanation": "J.B. Watson founded behaviourism with his 1913 paper \"Psychology as the Behaviorist Views It\". (Q139 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-14.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What is learning by observation called?",
+      "options": [
+        "Conditioning",
+        "Modelling",
+        "Operant Learning",
+        "None of the above"
+      ],
+      "answer": 1,
+      "textHi": "प्रेक्षण द्वारा सीखने को क्या कहते हैं?",
+      "optionsHi": [
+        "अनुबन्धन",
+        "मॉडलिंग",
+        "क्रियाप्रसूत अधिगम",
+        "इनमे से कोई नहीं"
+      ],
+      "explanation": "Learning by observing and imitating a model is called modelling (Bandura). (Q140 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-14.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who gave the first three laws of learning?",
+      "options": [
+        "Kohler",
+        "Thorndike",
+        "Skinner",
+        "Hull"
+      ],
+      "answer": 1,
+      "textHi": "सीखने के प्रथम तीन नियमों का प्रतिपादन किसने किया?",
+      "optionsHi": [
+        "कोहलर",
+        "थॉर्नडाइक",
+        "स्किनर",
+        "हल"
+      ],
+      "explanation": "Thorndike gave the laws of readiness, exercise and effect. (Q141 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-15.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A child has an IQ of 150. The child will be called",
+      "options": [
+        "Dull",
+        "Normal",
+        "Genius",
+        "Imbecile"
+      ],
+      "answer": 2,
+      "textHi": "एक बालक की बुद्धि-लब्धि 150 है, वह बालक क्या कहलाएगा?",
+      "optionsHi": [
+        "मन्द बुद्धि",
+        "सामान्य बुद्धि",
+        "प्रतिभाशाली",
+        "मूढ़ बुद्धि"
+      ],
+      "explanation": "On Terman's scale an IQ of 140 and above is genius. (Q142 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-15.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who first gave the concept of intelligence quotient in 1912?",
+      "options": [
+        "Binet",
+        "Terman",
+        "Hull",
+        "Stern"
+      ],
+      "answer": 3,
+      "textHi": "1912 में सर्वप्रथम बुद्धि-लब्धि का सम्प्रत्यय किसने दिया?",
+      "optionsHi": [
+        "बिने",
+        "टर्मन",
+        "हल",
+        "स्टर्न"
+      ],
+      "explanation": "William Stern proposed the intelligence quotient (MA/CA) in 1912. (Q143 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-15.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What are psychophysical differences between people called?",
+      "options": [
+        "Personality",
+        "Adjustment",
+        "Individual Difference",
+        "Anxiety"
+      ],
+      "answer": 2,
+      "textHi": "व्यक्तियों के बीच मनोशारीरिक असमानताओं को क्या कहा जाता है?",
+      "optionsHi": [
+        "व्यक्तित्व",
+        "समायोजन",
+        "व्यक्तिगत भिन्नता",
+        "चिंता"
+      ],
+      "explanation": "Psychophysical differences among people are individual differences. (Q144 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-15.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "In which type of memory can information be stored for a maximum of about 20 to 30 seconds?",
+      "options": [
+        "Sensory memory",
+        "Short term Memory",
+        "Long Term Memory",
+        "Episodic Memory"
+      ],
+      "answer": 1,
+      "textHi": "किस स्मृति में सूचनाओं को अधिकतम लगभग 20-30 सेकंड तक संचित रखा जा सकता है?",
+      "optionsHi": [
+        "संवेदी स्मृति",
+        "अल्पकालिक स्मृति",
+        "दीर्घकालिक स्मृति",
+        "प्रासंगिक स्मृति"
+      ],
+      "explanation": "Short-term memory holds information for about 20–30 seconds. (Q145 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-15.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Erikson's psychosocial theory has ........ stages.",
+      "options": [
+        "Four",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "answer": 3,
+      "textHi": "एरिक्सन के मनोसामाजिक सिद्धांत में ........ सोपान हैं।",
+      "optionsHi": [
+        "चार",
+        "छ:",
+        "सात",
+        "आठ"
+      ],
+      "explanation": "Erikson proposed eight psychosocial stages. (Q146 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-15.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The principle of classical conditioning was given by",
+      "options": [
+        "B.F. Skinner",
+        "Ivan Pavlov",
+        "Thorndike",
+        "Watson"
+      ],
+      "answer": 1,
+      "textHi": "प्राचीन (शास्त्रीय) अनुबंधन का सिद्धांत किसने प्रतिपादित किया?",
+      "optionsHi": [
+        "बी.एफ. स्किनर",
+        "इवान पावलव",
+        "थॉर्नडाइक",
+        "वॉटसन"
+      ],
+      "explanation": "Ivan Pavlov gave classical conditioning. (Q148 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-15.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Terman, the IQ of an average person lies between",
+      "options": [
+        "120-140",
+        "110-120",
+        "90-110",
+        "80-90"
+      ],
+      "answer": 2,
+      "textHi": "टर्मन के अनुसार सामान्य व्यक्ति की बुद्धि-लब्धि होती है",
+      "optionsHi": [
+        "120-140",
+        "110-120",
+        "90-110",
+        "80-90"
+      ],
+      "explanation": "On Terman's classification, average IQ is 90–110. (Q150 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-jbt-tet-nov-2019-paper-part-15.html"
+    }
+  ]
+}

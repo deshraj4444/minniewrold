@@ -1,0 +1,2533 @@
+{
+  "slug": "hp-tet-jbt-mock-1",
+  "version": 1,
+  "title": "HP TET JBT · Full Mock Test 1",
+  "description": "Full-length 150-question mock test on the HP TET JBT (classes I–V) pattern: Child Development & Pedagogy, English, Hindi, Mathematics and General Awareness with Himachal GK and EVS. 150 minutes, no negative marking.",
+  "category": "HP TET JBT",
+  "kind": "Mock test",
+  "year": null,
+  "durationMinutes": 150,
+  "price": 10,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which principle of development states that development proceeds from the head towards the feet?",
+      "textHi": "विकास का कौन-सा सिद्धांत बताता है कि विकास सिर से पैरों की ओर होता है?",
+      "options": [
+        "Proximodistal principle",
+        "Principle of individual differences",
+        "Principle of integration",
+        "Cephalocaudal principle"
+      ],
+      "optionsHi": [
+        "निकट-दूर (समीप-दूराभिमुख) सिद्धांत",
+        "वैयक्तिक भिन्नता का सिद्धांत",
+        "एकीकरण का सिद्धांत",
+        "मस्तकाधोमुखी (शिर-पुच्छ) सिद्धांत"
+      ],
+      "answer": 3,
+      "explanation": "In the cephalocaudal pattern, control of the head develops first and control of the legs and feet last.",
+      "explanationHi": "मस्तकाधोमुखी क्रम में पहले सिर पर नियंत्रण आता है और अंत में पैरों पर।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A child who believes that the moon follows her when she walks is showing which feature of pre-operational thought?",
+      "textHi": "जो बच्ची मानती है कि चलते समय चाँद उसके पीछे-पीछे आता है, वह पूर्व-संक्रियात्मक चिंतन की किस विशेषता को दर्शाती है?",
+      "options": [
+        "Egocentrism",
+        "Conservation",
+        "Reversibility",
+        "Hypothetico-deductive reasoning"
+      ],
+      "optionsHi": [
+        "आत्मकेंद्रितता",
+        "संरक्षण",
+        "उत्क्रमणीयता",
+        "परिकल्पनात्मक-निगमनात्मक तर्क"
+      ],
+      "answer": 0,
+      "explanation": "Egocentric children interpret events only from their own point of view, as if the world revolves around them.",
+      "explanationHi": "आत्मकेंद्रित बच्चे घटनाओं को केवल अपने दृष्टिकोण से देखते हैं, मानो सब कुछ उन्हीं के इर्द-गिर्द घटता हो।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Vygotsky, the gap between what a child can do alone and what she can do with the help of a more capable person is called the",
+      "textHi": "वायगोत्स्की के अनुसार, बच्चा अकेले जो कर सकता है और किसी अधिक सक्षम व्यक्ति की सहायता से जो कर सकता है, उनके बीच के अंतर को कहते हैं",
+      "options": [
+        "Schema",
+        "Zone of Proximal Development",
+        "Mental age",
+        "Critical period"
+      ],
+      "optionsHi": [
+        "स्कीमा",
+        "समीपस्थ विकास का क्षेत्र",
+        "मानसिक आयु",
+        "क्रांतिक अवधि"
+      ],
+      "answer": 1,
+      "explanation": "The Zone of Proximal Development (ZPD) is where learning happens best with guidance (scaffolding).",
+      "explanationHi": "समीपस्थ विकास का क्षेत्र (ZPD) वह स्थिति है जहाँ मार्गदर्शन (पाड़/स्कैफोल्डिंग) से सबसे अच्छा अधिगम होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A teacher gives hints and partial support that she gradually withdraws as the learner becomes able to do the task alone. This is known as",
+      "textHi": "शिक्षिका संकेत और आंशिक सहायता देती है जिसे शिक्षार्थी के सक्षम होने पर धीरे-धीरे हटा लेती है। इसे कहा जाता है",
+      "options": [
+        "Rote learning",
+        "Negative reinforcement",
+        "Scaffolding",
+        "Chaining"
+      ],
+      "optionsHi": [
+        "रटंत अधिगम",
+        "नकारात्मक पुनर्बलन",
+        "पाड़ (स्कैफोल्डिंग)",
+        "श्रृंखलन"
+      ],
+      "answer": 2,
+      "explanation": "Scaffolding (a term linked with Vygotsky and Bruner) is temporary support that is removed as competence grows.",
+      "explanationHi": "पाड़ (स्कैफोल्डिंग) अस्थायी सहायता है जो दक्षता बढ़ने पर हटा ली जाती है; यह वायगोत्स्की और ब्रूनर से जुड़ी है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "At Kohlberg's pre-conventional level, a child judges an action as right or wrong mainly on the basis of",
+      "textHi": "कोहलबर्ग के पूर्व-पारम्परिक स्तर पर बच्चा किसी कार्य को सही या गलत मुख्यतः किस आधार पर आँकता है?",
+      "options": [
+        "Universal ethical principles",
+        "Social contract and individual rights",
+        "Its consequences, such as punishment or reward",
+        "Approval of society and the law"
+      ],
+      "optionsHi": [
+        "सार्वभौमिक नैतिक सिद्धांत",
+        "सामाजिक अनुबंध और व्यक्तिगत अधिकार",
+        "उसके परिणाम, जैसे दंड या पुरस्कार",
+        "समाज और कानून की स्वीकृति"
+      ],
+      "answer": 2,
+      "explanation": "At the pre-conventional level morality is driven by avoiding punishment and gaining rewards.",
+      "explanationHi": "पूर्व-पारम्परिक स्तर पर नैतिकता दंड से बचने और पुरस्कार पाने पर आधारित होती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Erikson, children of primary school age (about 6 to 12 years) face the psychosocial crisis of",
+      "textHi": "एरिक्सन के अनुसार प्राथमिक विद्यालय आयु (लगभग 6 से 12 वर्ष) के बच्चे किस मनोसामाजिक संकट का सामना करते हैं?",
+      "options": [
+        "Trust vs Mistrust",
+        "Identity vs Role confusion",
+        "Intimacy vs Isolation",
+        "Industry vs Inferiority"
+      ],
+      "optionsHi": [
+        "विश्वास बनाम अविश्वास",
+        "पहचान बनाम भूमिका भ्रम",
+        "आत्मीयता बनाम अलगाव",
+        "परिश्रम बनाम हीनता"
+      ],
+      "answer": 3,
+      "explanation": "During the school years children feel competent (industry) when they succeed, or inferior when they repeatedly fail.",
+      "explanationHi": "विद्यालयी वर्षों में सफलता से बच्चे में परिश्रम/सक्षमता की भावना और बार-बार असफलता से हीनता आती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Howard Gardner is associated with the theory of",
+      "textHi": "हॉवर्ड गार्डनर किस सिद्धांत से जुड़े हैं?",
+      "options": [
+        "Two-factor theory of intelligence",
+        "Multiple intelligences",
+        "Classical conditioning",
+        "Hierarchy of needs"
+      ],
+      "optionsHi": [
+        "बुद्धि का द्वि-कारक सिद्धांत",
+        "बहु-बुद्धि",
+        "प्राचीन अनुबंधन",
+        "आवश्यकताओं का पदानुक्रम"
+      ],
+      "answer": 1,
+      "explanation": "Gardner (1983) proposed several relatively independent intelligences such as linguistic, logical-mathematical and musical.",
+      "explanationHi": "गार्डनर (1983) ने भाषायी, तार्किक-गणितीय, संगीतात्मक आदि अनेक अपेक्षाकृत स्वतंत्र बुद्धियों की बात कही।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A Class III child reads \"was\" as \"saw\" and confuses \"b\" with \"d\" despite normal intelligence. The child most likely has",
+      "textHi": "कक्षा III का एक बच्चा सामान्य बुद्धि होते हुए भी \"was\" को \"saw\" पढ़ता है और \"b\" तथा \"d\" में भ्रमित होता है। बच्चे को संभवतः है",
+      "options": [
+        "Dyslexia",
+        "Dyscalculia",
+        "Dysgraphia",
+        "Dyspraxia"
+      ],
+      "optionsHi": [
+        "डिस्लेक्सिया (पठन विकार)",
+        "डिस्कैलकुलिया (गणना विकार)",
+        "डिस्ग्राफिया (लेखन विकार)",
+        "डिस्प्रैक्सिया (गति-समन्वय विकार)"
+      ],
+      "answer": 0,
+      "explanation": "Dyslexia is a specific learning disability in reading, often with reversals of letters and words.",
+      "explanationHi": "डिस्लेक्सिया पढ़ने से जुड़ी विशिष्ट अधिगम अक्षमता है, जिसमें प्रायः अक्षर और शब्द उलट जाते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Difficulty in understanding numbers, counting and doing simple calculations is a sign of",
+      "textHi": "संख्याओं को समझने, गिनने और सरल गणना करने में कठिनाई किसका लक्षण है?",
+      "options": [
+        "Dyscalculia",
+        "Dyslexia",
+        "Aphasia",
+        "Dysgraphia"
+      ],
+      "optionsHi": [
+        "डिस्कैलकुलिया",
+        "डिस्लेक्सिया",
+        "अफेज़िया (वाचाघात)",
+        "डिस्ग्राफिया"
+      ],
+      "answer": 0,
+      "explanation": "Dyscalculia is a specific learning disability affecting number sense and arithmetic.",
+      "explanationHi": "डिस्कैलकुलिया संख्या-बोध और अंकगणित को प्रभावित करने वाली विशिष्ट अधिगम अक्षमता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Inclusive education means",
+      "textHi": "समावेशी शिक्षा का अर्थ है",
+      "options": [
+        "Separate schools for children with disabilities",
+        "Admitting only bright children to good schools",
+        "Teaching only through the mother tongue",
+        "Educating children with diverse needs, including those with disabilities, together in regular classrooms"
+      ],
+      "optionsHi": [
+        "दिव्यांग बच्चों के लिए अलग विद्यालय",
+        "अच्छे विद्यालयों में केवल मेधावी बच्चों को प्रवेश देना",
+        "केवल मातृभाषा के माध्यम से पढ़ाना",
+        "विविध आवश्यकताओं वाले बच्चों, जिनमें दिव्यांग बच्चे भी हैं, को नियमित कक्षाओं में साथ-साथ पढ़ाना"
+      ],
+      "answer": 3,
+      "explanation": "Inclusion adapts the regular school and classroom so that all children learn together.",
+      "explanationHi": "समावेशन में नियमित विद्यालय और कक्षा को इस तरह ढाला जाता है कि सभी बच्चे साथ सीखें।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Under the RTE Act, 2009, free and compulsory education is a right of every child in the age group of",
+      "textHi": "शिक्षा का अधिकार अधिनियम, 2009 के अंतर्गत निःशुल्क और अनिवार्य शिक्षा किस आयु वर्ग के प्रत्येक बच्चे का अधिकार है?",
+      "options": [
+        "3 to 10 years",
+        "6 to 14 years",
+        "5 to 15 years",
+        "6 to 18 years"
+      ],
+      "optionsHi": [
+        "3 से 10 वर्ष",
+        "6 से 14 वर्ष",
+        "5 से 15 वर्ष",
+        "6 से 18 वर्ष"
+      ],
+      "answer": 1,
+      "explanation": "Article 21A and the RTE Act, 2009 (in force from 1 April 2010) cover children aged 6 to 14.",
+      "explanationHi": "अनुच्छेद 21क और RTE अधिनियम, 2009 (1 अप्रैल 2010 से लागू) 6 से 14 वर्ष के बच्चों पर लागू है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The RTE Act, 2009 prohibits which of the following in schools?",
+      "textHi": "RTE अधिनियम, 2009 विद्यालयों में निम्नलिखित में से किसका निषेध करता है?",
+      "options": [
+        "Group work",
+        "Use of the mother tongue",
+        "Physical punishment and mental harassment of children",
+        "Continuous assessment"
+      ],
+      "optionsHi": [
+        "समूह कार्य",
+        "मातृभाषा का प्रयोग",
+        "बच्चों को शारीरिक दंड और मानसिक उत्पीड़न",
+        "सतत आकलन"
+      ],
+      "answer": 2,
+      "explanation": "Section 17 of the RTE Act bans physical punishment and mental harassment.",
+      "explanationHi": "RTE अधिनियम की धारा 17 शारीरिक दंड और मानसिक उत्पीड़न पर रोक लगाती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "National Curriculum Framework (NCF) 2005 recommends that",
+      "textHi": "राष्ट्रीय पाठ्यचर्या की रूपरेखा (NCF) 2005 अनुशंसा करती है कि",
+      "options": [
+        "Knowledge should be connected to life outside the school",
+        "Learning should be shifted towards rote methods",
+        "Textbooks should be the only source of learning",
+        "Examinations should test memory alone"
+      ],
+      "optionsHi": [
+        "ज्ञान को विद्यालय के बाहर के जीवन से जोड़ा जाए",
+        "अधिगम को रटंत पद्धति की ओर ले जाया जाए",
+        "पाठ्यपुस्तक ही सीखने का एकमात्र स्रोत हो",
+        "परीक्षाएँ केवल स्मृति की जाँच करें"
+      ],
+      "answer": 0,
+      "explanation": "NCF 2005 lists connecting knowledge to life outside school and moving away from rote learning as guiding principles.",
+      "explanationHi": "NCF 2005 के मार्गदर्शी सिद्धांतों में ज्ञान को विद्यालय के बाहर के जीवन से जोड़ना और रटंत से दूर जाना शामिल है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Under NEP 2020, the Foundational Stage covers",
+      "textHi": "राष्ट्रीय शिक्षा नीति 2020 के अंतर्गत आधारभूत (फाउंडेशनल) चरण में शामिल है",
+      "options": [
+        "Classes 3 to 5",
+        "Ages 3 to 8 years (three years of pre-school and Classes 1–2)",
+        "Classes 6 to 8",
+        "Ages 6 to 10 years only"
+      ],
+      "optionsHi": [
+        "कक्षा 3 से 5",
+        "3 से 8 वर्ष की आयु (तीन वर्ष पूर्व-प्राथमिक तथा कक्षा 1–2)",
+        "कक्षा 6 से 8",
+        "केवल 6 से 10 वर्ष की आयु"
+      ],
+      "answer": 1,
+      "explanation": "NEP 2020 uses a 5+3+3+4 structure; the 5-year Foundational Stage spans ages 3–8.",
+      "explanationHi": "NEP 2020 की 5+3+3+4 संरचना में 5 वर्ष का आधारभूत चरण 3–8 वर्ष की आयु को समेटता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The NIPUN Bharat Mission, launched in 2021, aims to ensure that",
+      "textHi": "2021 में शुरू किए गए निपुण भारत मिशन का लक्ष्य यह सुनिश्चित करना है कि",
+      "options": [
+        "Every child learns coding by Class 5",
+        "All schools get smart classrooms",
+        "Every child attains foundational literacy and numeracy by the end of Class 3",
+        "Board examinations are held in Class 5"
+      ],
+      "optionsHi": [
+        "प्रत्येक बच्चा कक्षा 5 तक कोडिंग सीख ले",
+        "सभी विद्यालयों में स्मार्ट कक्षाएँ हों",
+        "प्रत्येक बच्चा कक्षा 3 के अंत तक आधारभूत साक्षरता और संख्या-ज्ञान प्राप्त कर ले",
+        "कक्षा 5 में बोर्ड परीक्षा हो"
+      ],
+      "answer": 2,
+      "explanation": "NIPUN Bharat targets foundational literacy and numeracy for all children by the end of Grade 3 (target year 2026–27).",
+      "explanationHi": "निपुण भारत का लक्ष्य सभी बच्चों में कक्षा 3 के अंत तक आधारभूत साक्षरता और संख्या-ज्ञान है (लक्ष्य वर्ष 2026–27)।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Assessment for learning mainly helps the teacher to",
+      "textHi": "अधिगम के लिए आकलन मुख्यतः शिक्षक की सहायता करता है",
+      "options": [
+        "Rank students at the end of the year",
+        "Declare students pass or fail",
+        "Compare schools with one another",
+        "Identify learning gaps and improve teaching during the course"
+      ],
+      "optionsHi": [
+        "वर्ष के अंत में विद्यार्थियों को श्रेणीबद्ध करने में",
+        "विद्यार्थियों को उत्तीर्ण या अनुत्तीर्ण घोषित करने में",
+        "विद्यालयों की आपस में तुलना करने में",
+        "पढ़ाई के दौरान अधिगम की कमियों को पहचानने और शिक्षण सुधारने में"
+      ],
+      "answer": 3,
+      "explanation": "Assessment for learning is formative: it gives feedback while learning is still going on.",
+      "explanationHi": "अधिगम के लिए आकलन रचनात्मक होता है: यह सीखने के दौरान ही प्रतिपुष्टि देता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A portfolio in assessment is",
+      "textHi": "आकलन में पोर्टफोलियो क्या है?",
+      "options": [
+        "A single final examination",
+        "A purposeful collection of a learner's work showing progress over time",
+        "A list of school rules",
+        "A record of the teacher's attendance"
+      ],
+      "optionsHi": [
+        "एक अकेली अंतिम परीक्षा",
+        "शिक्षार्थी के कार्यों का उद्देश्यपूर्ण संग्रह जो समय के साथ प्रगति दिखाता है",
+        "विद्यालय के नियमों की सूची",
+        "शिक्षक की उपस्थिति का रिकॉर्ड"
+      ],
+      "answer": 1,
+      "explanation": "A portfolio gathers samples of a child's work to show growth and effort across time.",
+      "explanationHi": "पोर्टफोलियो में बच्चे के कार्यों के नमूने रखे जाते हैं जो समय के साथ उसकी प्रगति और प्रयास दिखाते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "In Bloom's taxonomy of the cognitive domain (original, 1956), the lowest level is",
+      "textHi": "ब्लूम के संज्ञानात्मक क्षेत्र के वर्गीकरण (मूल, 1956) में सबसे निचला स्तर है",
+      "options": [
+        "Knowledge",
+        "Application",
+        "Synthesis",
+        "Evaluation"
+      ],
+      "optionsHi": [
+        "ज्ञान",
+        "अनुप्रयोग",
+        "संश्लेषण",
+        "मूल्यांकन"
+      ],
+      "answer": 0,
+      "explanation": "The 1956 order is knowledge, comprehension, application, analysis, synthesis and evaluation.",
+      "explanationHi": "1956 का क्रम है: ज्ञान, बोध, अनुप्रयोग, विश्लेषण, संश्लेषण और मूल्यांकन।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Thorndike's Law of Effect states that",
+      "textHi": "थॉर्नडाइक का प्रभाव का नियम बताता है कि",
+      "options": [
+        "Learning occurs only through insight",
+        "Practice has no role in learning",
+        "Responses followed by satisfying results are strengthened",
+        "A neutral stimulus gets paired with a natural one"
+      ],
+      "optionsHi": [
+        "अधिगम केवल अंतर्दृष्टि से होता है",
+        "अभ्यास की अधिगम में कोई भूमिका नहीं है",
+        "संतोषजनक परिणाम वाली अनुक्रियाएँ सुदृढ़ होती हैं",
+        "तटस्थ उद्दीपक स्वाभाविक उद्दीपक के साथ जुड़ जाता है"
+      ],
+      "answer": 2,
+      "explanation": "By the Law of Effect, satisfying consequences stamp in a response and annoying ones weaken it.",
+      "explanationHi": "प्रभाव के नियम के अनुसार संतोषजनक परिणाम अनुक्रिया को दृढ़ करते हैं और असंतोषजनक परिणाम उसे कमजोर करते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is an example of intrinsic motivation?",
+      "textHi": "निम्नलिखित में से कौन आंतरिक अभिप्रेरणा का उदाहरण है?",
+      "options": [
+        "A child studies to get a prize",
+        "A child completes homework to avoid scolding",
+        "A child reads to get a star from the teacher",
+        "A child solves puzzles because she enjoys them"
+      ],
+      "optionsHi": [
+        "बच्चा पुरस्कार पाने के लिए पढ़ता है",
+        "बच्चा डाँट से बचने के लिए गृहकार्य पूरा करता है",
+        "बच्चा शिक्षक से स्टार पाने के लिए पढ़ता है",
+        "बच्ची पहेलियाँ इसलिए हल करती है क्योंकि उसे इसमें आनंद आता है"
+      ],
+      "answer": 3,
+      "explanation": "Intrinsic motivation comes from interest and enjoyment in the activity itself, not from external rewards.",
+      "explanationHi": "आंतरिक अभिप्रेरणा कार्य में स्वयं की रुचि और आनंद से आती है, बाहरी पुरस्कार से नहीं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Jerome Bruner's three modes of representation, in order, are",
+      "textHi": "जेरोम ब्रूनर के निरूपण के तीन चरण क्रम से हैं",
+      "options": [
+        "Iconic, enactive, symbolic",
+        "Symbolic, iconic, enactive",
+        "Enactive, iconic, symbolic",
+        "Sensory, motor, abstract"
+      ],
+      "optionsHi": [
+        "प्रतिमात्मक, क्रियात्मक, प्रतीकात्मक",
+        "प्रतीकात्मक, प्रतिमात्मक, क्रियात्मक",
+        "क्रियात्मक, प्रतिमात्मक, प्रतीकात्मक",
+        "संवेदी, गामक, अमूर्त"
+      ],
+      "answer": 2,
+      "explanation": "Children first represent knowledge through action (enactive), then images (iconic), then symbols such as language (symbolic).",
+      "explanationHi": "बच्चे पहले क्रिया (क्रियात्मक), फिर चित्र/प्रतिमा (प्रतिमात्मक) और फिर भाषा जैसे प्रतीकों (प्रतीकात्मक) से ज्ञान को निरूपित करते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is the best way to make learning meaningful for young children?",
+      "textHi": "छोटे बच्चों के लिए अधिगम को सार्थक बनाने का सबसे अच्छा तरीका कौन-सा है?",
+      "options": [
+        "Asking them to memorise definitions",
+        "Linking new ideas with their everyday experiences",
+        "Giving long lectures",
+        "Copying from the blackboard"
+      ],
+      "optionsHi": [
+        "उनसे परिभाषाएँ रटवाना",
+        "नए विचारों को उनके दैनिक अनुभवों से जोड़ना",
+        "लम्बे व्याख्यान देना",
+        "श्यामपट्ट से नकल करवाना"
+      ],
+      "answer": 1,
+      "explanation": "Children learn meaningfully when new knowledge connects with what they already know and experience.",
+      "explanationHi": "जब नया ज्ञान बच्चों के पूर्व ज्ञान और अनुभव से जुड़ता है, तब अधिगम सार्थक होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Errors made by children while learning should be treated by the teacher as",
+      "textHi": "सीखते समय बच्चों द्वारा की गई त्रुटियों को शिक्षक को किस रूप में देखना चाहिए?",
+      "options": [
+        "Signs of carelessness to be punished",
+        "Things to be ignored completely",
+        "Proof of the child's low intelligence",
+        "Windows into the child's thinking that help plan teaching"
+      ],
+      "optionsHi": [
+        "लापरवाही के संकेत जिनके लिए दंड दिया जाए",
+        "ऐसी चीज़ें जिन्हें पूरी तरह अनदेखा किया जाए",
+        "बच्चे की कम बुद्धि का प्रमाण",
+        "बच्चे की सोच को समझने का माध्यम, जो शिक्षण की योजना में सहायक है"
+      ],
+      "answer": 3,
+      "explanation": "Constructivist pedagogy sees errors as natural and informative about how a child is reasoning.",
+      "explanationHi": "रचनावादी शिक्षाशास्त्र त्रुटियों को स्वाभाविक मानता है जो बताती हैं कि बच्चा कैसे सोच रहा है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Play is important for young children mainly because it",
+      "textHi": "छोटे बच्चों के लिए खेल मुख्यतः इसलिए महत्वपूर्ण है क्योंकि यह",
+      "options": [
+        "Supports their physical, social, emotional and cognitive development",
+        "Only helps them pass time",
+        "Keeps them away from studies",
+        "Is useful only for physical fitness"
+      ],
+      "optionsHi": [
+        "उनके शारीरिक, सामाजिक, संवेगात्मक और संज्ञानात्मक विकास में सहायक है",
+        "केवल समय बिताने में मदद करता है",
+        "उन्हें पढ़ाई से दूर रखता है",
+        "केवल शारीरिक स्वास्थ्य के लिए उपयोगी है"
+      ],
+      "answer": 0,
+      "explanation": "Play-based learning develops the whole child and is central to early-years pedagogy (NCF-FS 2022).",
+      "explanationHi": "खेल-आधारित अधिगम बच्चे का सर्वांगीण विकास करता है और प्रारंभिक वर्षों के शिक्षाशास्त्र का केंद्र है (NCF-FS 2022)।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Gender stereotyping in the classroom can be reduced by",
+      "textHi": "कक्षा में लैंगिक रूढ़िवादिता को कैसे कम किया जा सकता है?",
+      "options": [
+        "Assigning cleaning only to girls",
+        "Giving boys and girls equal opportunities in all activities",
+        "Making only boys class monitors",
+        "Seating boys and girls in separate rows always"
+      ],
+      "optionsHi": [
+        "सफाई का काम केवल लड़कियों को देकर",
+        "सभी गतिविधियों में लड़कों और लड़कियों को समान अवसर देकर",
+        "केवल लड़कों को कक्षा मॉनिटर बनाकर",
+        "लड़कों और लड़कियों को हमेशा अलग पंक्तियों में बैठाकर"
+      ],
+      "answer": 1,
+      "explanation": "Equal roles and opportunities challenge stereotypes about what boys and girls can do.",
+      "explanationHi": "समान भूमिकाएँ और अवसर इस रूढ़ि को तोड़ते हैं कि लड़के और लड़कियाँ क्या कर सकते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A teacher studies a recurring problem in her own class, tries a solution and evaluates it. This is called",
+      "textHi": "एक शिक्षिका अपनी ही कक्षा की एक बार-बार आने वाली समस्या का अध्ययन करती है, उसका समाधान आज़माती है और उसका मूल्यांकन करती है। इसे कहते हैं",
+      "options": [
+        "Fundamental research",
+        "Historical research",
+        "Action research",
+        "Census survey"
+      ],
+      "optionsHi": [
+        "मौलिक अनुसंधान",
+        "ऐतिहासिक अनुसंधान",
+        "क्रियात्मक अनुसंधान",
+        "जनगणना सर्वेक्षण"
+      ],
+      "answer": 2,
+      "explanation": "Action research (Stephen Corey popularised it in education) is done by practitioners to solve immediate classroom problems.",
+      "explanationHi": "क्रियात्मक अनुसंधान (शिक्षा में स्टीफन कोरे ने लोकप्रिय बनाया) कार्यरत शिक्षक तात्कालिक कक्षा-समस्याओं के समाधान हेतु करते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is a primary agency of socialisation for a young child?",
+      "textHi": "छोटे बच्चे के लिए समाजीकरण की प्राथमिक संस्था कौन-सी है?",
+      "options": [
+        "Television",
+        "Political party",
+        "Market",
+        "Family"
+      ],
+      "optionsHi": [
+        "टेलीविज़न",
+        "राजनीतिक दल",
+        "बाज़ार",
+        "परिवार"
+      ],
+      "answer": 3,
+      "explanation": "The family is the first and most influential agency of socialisation.",
+      "explanationHi": "परिवार समाजीकरण की पहली और सबसे प्रभावशाली संस्था है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following statements about heredity and environment is correct?",
+      "textHi": "आनुवंशिकता और वातावरण के बारे में कौन-सा कथन सही है?",
+      "options": [
+        "Development is the result of the interaction of both",
+        "Only heredity decides development",
+        "Only environment decides development",
+        "Neither affects development"
+      ],
+      "optionsHi": [
+        "विकास दोनों की अंतःक्रिया का परिणाम है",
+        "केवल आनुवंशिकता विकास तय करती है",
+        "केवल वातावरण विकास तय करता है",
+        "दोनों में से कोई विकास को प्रभावित नहीं करता"
+      ],
+      "answer": 0,
+      "explanation": "Heredity sets potential and environment shapes how far it is realised; they always interact.",
+      "explanationHi": "आनुवंशिकता क्षमता तय करती है और वातावरण उसे साकार करने की सीमा तय करता है; दोनों सदा परस्पर क्रिया करते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A teacher says \"Good!\" each time a child answers correctly, and the child's correct answers increase. In Skinner's terms, \"Good!\" is a",
+      "textHi": "हर सही उत्तर पर \"शाबाश!\" कहने से बच्चे के सही उत्तर बढ़ जाते हैं। स्किनर के अनुसार \"शाबाश!\" एक है",
+      "options": [
+        "Negative reinforcer",
+        "Positive reinforcer",
+        "Punishment",
+        "Neutral stimulus"
+      ],
+      "optionsHi": [
+        "नकारात्मक पुनर्बलक",
+        "सकारात्मक पुनर्बलक",
+        "दंड",
+        "तटस्थ उद्दीपक"
+      ],
+      "answer": 1,
+      "explanation": "Adding something pleasant after a response to increase it is positive reinforcement.",
+      "explanationHi": "अनुक्रिया के बाद कुछ सुखद जोड़कर उसे बढ़ाना सकारात्मक पुनर्बलन है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A child who can arrange sticks from shortest to longest is showing the concrete operational skill of",
+      "textHi": "जो बच्चा तीलियों को सबसे छोटी से सबसे लम्बी तक क्रम में लगा सकता है, वह किस मूर्त संक्रियात्मक कौशल को दर्शाता है?",
+      "options": [
+        "Animism",
+        "Object permanence",
+        "Centration",
+        "Seriation"
+      ],
+      "optionsHi": [
+        "जीववाद",
+        "वस्तु स्थायित्व",
+        "केंद्रीकरण",
+        "क्रमबद्धता (सीरिएशन)"
+      ],
+      "answer": 3,
+      "explanation": "Seriation, ordering objects along a dimension such as length, is mastered in the concrete operational stage.",
+      "explanationHi": "लम्बाई जैसे किसी आधार पर वस्तुओं को क्रम में लगाना (क्रमबद्धता) मूर्त संक्रियात्मक अवस्था में आता है।"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word nearest in meaning to: BRAVE",
+      "options": [
+        "Courageous",
+        "Cruel",
+        "Timid",
+        "Careless"
+      ],
+      "answer": 0,
+      "explanation": "Brave means courageous; timid is its opposite."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word nearest in meaning to: ANCIENT",
+      "options": [
+        "Modern",
+        "Beautiful",
+        "Very old",
+        "Broken"
+      ],
+      "answer": 2,
+      "explanation": "Ancient means belonging to the very distant past."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word nearest in meaning to: VANISH",
+      "options": [
+        "Appear",
+        "Shine",
+        "Travel",
+        "Disappear"
+      ],
+      "answer": 3,
+      "explanation": "To vanish is to disappear suddenly."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most opposite in meaning to: GENEROUS",
+      "options": [
+        "Miserly",
+        "Kind",
+        "Liberal",
+        "Noble"
+      ],
+      "answer": 0,
+      "explanation": "Generous means willing to give; miserly means unwilling to spend or give."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most opposite in meaning to: EXPAND",
+      "options": [
+        "Extend",
+        "Enlarge",
+        "Contract",
+        "Spread"
+      ],
+      "answer": 2,
+      "explanation": "Expand means to grow larger; contract means to become smaller."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most opposite in meaning to: TEMPORARY",
+      "options": [
+        "Brief",
+        "Permanent",
+        "Passing",
+        "Short"
+      ],
+      "answer": 1,
+      "explanation": "Temporary means lasting for a short time; permanent means lasting for ever."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: The sun ________ in the east.",
+      "options": [
+        "rises",
+        "rise",
+        "rose",
+        "is rise"
+      ],
+      "answer": 0,
+      "explanation": "Universal truths take the simple present: The sun rises in the east."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: She has been living in Shimla ________ 2015.",
+      "options": [
+        "for",
+        "from",
+        "since",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "'Since' is used with a point of time; 'for' with a period of time."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: Neither the teacher nor the students ________ present.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "has"
+      ],
+      "answer": 1,
+      "explanation": "With 'neither ... nor', the verb agrees with the nearer subject (students), so 'were'."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: He is ________ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "'Honest' begins with a vowel sound because the h is silent, so it takes 'an'."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: She is fond ________ music.",
+      "options": [
+        "for",
+        "with",
+        "of",
+        "in"
+      ],
+      "answer": 2,
+      "explanation": "The adjective 'fond' takes the preposition 'of'."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: If I ________ a bird, I would fly in the sky.",
+      "options": [
+        "were",
+        "am",
+        "will be",
+        "had"
+      ],
+      "answer": 0,
+      "explanation": "Imaginary present conditions use the subjunctive 'were' for all persons."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct passive form: The boy is writing a letter.",
+      "options": [
+        "A letter was written by the boy.",
+        "A letter is being written by the boy.",
+        "A letter is written by the boy.",
+        "A letter has been written by the boy."
+      ],
+      "answer": 1,
+      "explanation": "Present continuous passive: is/are being + past participle."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct passive form: Who wrote this poem?",
+      "options": [
+        "Who was this poem written?",
+        "By whom this poem was written?",
+        "Who has written this poem?",
+        "By whom was this poem written?"
+      ],
+      "answer": 3,
+      "explanation": "'Who' becomes 'By whom', and the question form of simple past passive is 'was ... written'."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct indirect speech: He said to me, \"I am busy.\"",
+      "options": [
+        "He told me that I was busy.",
+        "He said to me that he is busy.",
+        "He told me that he is being busy.",
+        "He told me that he was busy."
+      ],
+      "answer": 3,
+      "explanation": "'Said to' becomes 'told', 'I' becomes 'he' and the present 'am' becomes past 'was'."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct indirect speech: The teacher said, \"Sit down.\"",
+      "options": [
+        "The teacher ordered us to sit down.",
+        "The teacher said that sit down.",
+        "The teacher ordered that we sat down.",
+        "The teacher told sit down."
+      ],
+      "answer": 0,
+      "explanation": "Commands are reported with 'ordered/told + object + to-infinitive'."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correctly spelt word.",
+      "options": [
+        "Neccessary",
+        "Necessary",
+        "Necesary",
+        "Neccesary"
+      ],
+      "answer": 1,
+      "explanation": "'Necessary' has one c and double s."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correctly spelt word from this set.",
+      "options": [
+        "Beautifull",
+        "Beutiful",
+        "Beautiful",
+        "Beautyful"
+      ],
+      "answer": 2,
+      "explanation": "'Beautiful' is the correct spelling."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct meaning of the idiom 'a piece of cake'.",
+      "options": [
+        "A sweet dish",
+        "Something very easy",
+        "A small share",
+        "A difficult task"
+      ],
+      "answer": 1,
+      "explanation": "'A piece of cake' means something very easy to do."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct meaning of the idiom 'to turn a deaf ear'.",
+      "options": [
+        "To listen carefully",
+        "To become deaf",
+        "To ignore",
+        "To shout loudly"
+      ],
+      "answer": 2,
+      "explanation": "To turn a deaf ear is to refuse to listen or pay attention."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct meaning of the idiom 'once in a blue moon'.",
+      "options": [
+        "Every month",
+        "At night",
+        "Very often",
+        "Very rarely"
+      ],
+      "answer": 3,
+      "explanation": "'Once in a blue moon' means very rarely."
+    },
+    {
+      "section": "English",
+      "text": "Choose the one word for: A person who cannot read or write.",
+      "options": [
+        "Illiterate",
+        "Ignorant",
+        "Innocent",
+        "Illegible"
+      ],
+      "answer": 0,
+      "explanation": "An illiterate person is unable to read or write; illegible describes handwriting that cannot be read."
+    },
+    {
+      "section": "English",
+      "text": "Choose the one word for: A place where orphans live.",
+      "options": [
+        "Asylum",
+        "Hostel",
+        "Orphanage",
+        "Monastery"
+      ],
+      "answer": 2,
+      "explanation": "An orphanage is a home for children whose parents have died."
+    },
+    {
+      "section": "English",
+      "text": "Choose the one word for: One who writes poems.",
+      "options": [
+        "Novelist",
+        "Editor",
+        "Dramatist",
+        "Poet"
+      ],
+      "answer": 3,
+      "explanation": "A poet writes poems; a novelist writes novels and a dramatist writes plays."
+    },
+    {
+      "section": "English",
+      "text": "The plural of 'mouse' is",
+      "options": [
+        "mouses",
+        "mice",
+        "mices",
+        "meese"
+      ],
+      "answer": 1,
+      "explanation": "'Mouse' has an irregular plural, 'mice'."
+    },
+    {
+      "section": "English",
+      "text": "The feminine of 'nephew' is",
+      "options": [
+        "niece",
+        "aunt",
+        "nephewess",
+        "cousin"
+      ],
+      "answer": 0,
+      "explanation": "Nephew (brother's or sister's son) → niece."
+    },
+    {
+      "section": "English",
+      "text": "Identify the part of speech of the underlined word in: She sings 'beautifully'.",
+      "options": [
+        "Adjective",
+        "Adverb",
+        "Verb",
+        "Noun"
+      ],
+      "answer": 1,
+      "explanation": "'Beautifully' tells how she sings, so it modifies a verb and is an adverb."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct question tag: You are a teacher, ________?",
+      "options": [
+        "are you",
+        "don't you",
+        "isn't it",
+        "aren't you"
+      ],
+      "answer": 3,
+      "explanation": "A positive statement with \"are\" takes the negative tag \"aren't you?\"."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct degree of comparison: Mount Everest is the ________ peak in the world.",
+      "options": [
+        "highest",
+        "higher",
+        "high",
+        "most high"
+      ],
+      "answer": 0,
+      "explanation": "When one thing is compared with all others, the superlative 'highest' is used with 'the'."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct article: ________ Ganga is a holy river.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "No article"
+      ],
+      "answer": 2,
+      "explanation": "Names of rivers take the definite article 'the'."
+    },
+    {
+      "section": "Hindi",
+      "text": "'विद्यालय' शब्द का सही संधि-विच्छेद है:",
+      "options": [
+        "विद्या + आलय",
+        "विद्य + आलय",
+        "विद्या + लय",
+        "विद + आलय"
+      ],
+      "answer": 0,
+      "explanation": "विद्या + आलय = विद्यालय (आ + आ = आ), दीर्घ संधि।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'सूर्योदय' में कौन-सी संधि है?",
+      "options": [
+        "दीर्घ संधि",
+        "वृद्धि संधि",
+        "गुण संधि",
+        "यण संधि"
+      ],
+      "answer": 2,
+      "explanation": "सूर्य + उदय = सूर्योदय (अ + उ = ओ), गुण संधि।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'इत्यादि' का सही संधि-विच्छेद है:",
+      "options": [
+        "इत्य + आदि",
+        "इत + यादि",
+        "इति + यादि",
+        "इति + आदि"
+      ],
+      "answer": 3,
+      "explanation": "इति + आदि = इत्यादि (इ + आ = या), यण संधि।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'चौराहा' में कौन-सा समास है?",
+      "options": [
+        "द्वन्द्व",
+        "द्विगु",
+        "बहुव्रीहि",
+        "अव्ययीभाव"
+      ],
+      "answer": 1,
+      "explanation": "चौराहा = चार राहों का समूह; पहला पद संख्यावाचक होने से द्विगु समास।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'माता-पिता' में कौन-सा समास है?",
+      "options": [
+        "तत्पुरुष",
+        "द्वन्द्व",
+        "द्विगु",
+        "कर्मधारय"
+      ],
+      "answer": 1,
+      "explanation": "माता और पिता; दोनों पद प्रधान होने से द्वन्द्व समास।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'यथाशक्ति' में कौन-सा समास है?",
+      "options": [
+        "अव्ययीभाव",
+        "तत्पुरुष",
+        "बहुव्रीहि",
+        "द्विगु"
+      ],
+      "answer": 0,
+      "explanation": "यथाशक्ति = शक्ति के अनुसार; पहला पद 'यथा' अव्यय होने से अव्ययीभाव समास।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'पानी' का पर्यायवाची शब्द नहीं है:",
+      "options": [
+        "जल",
+        "नीर",
+        "अम्बु",
+        "अनल"
+      ],
+      "answer": 3,
+      "explanation": "'अनल' का अर्थ आग है; जल, नीर, अम्बु पानी के पर्याय हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'सूर्य' का पर्यायवाची शब्द है:",
+      "options": [
+        "सुधाकर",
+        "निशाकर",
+        "दिनकर",
+        "हिमांशु"
+      ],
+      "answer": 2,
+      "explanation": "दिनकर सूर्य का पर्याय है; सुधाकर, निशाकर और हिमांशु चन्द्रमा के पर्याय हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'आदान' का विलोम शब्द है:",
+      "options": [
+        "प्रदान",
+        "ग्रहण",
+        "स्वीकार",
+        "आगमन"
+      ],
+      "answer": 0,
+      "explanation": "आदान (लेना) का विलोम प्रदान (देना) है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'उन्नति' का विलोम शब्द है:",
+      "options": [
+        "प्रगति",
+        "विकास",
+        "अवनति",
+        "उत्थान"
+      ],
+      "answer": 2,
+      "explanation": "उन्नति का विलोम अवनति है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'आँखों का तारा' मुहावरे का अर्थ है:",
+      "options": [
+        "बहुत दुष्ट",
+        "बहुत प्यारा",
+        "आँखों का रोग",
+        "बहुत चालाक"
+      ],
+      "answer": 1,
+      "explanation": "'आँखों का तारा' = अत्यंत प्रिय व्यक्ति।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'नौ दो ग्यारह होना' मुहावरे का अर्थ है:",
+      "options": [
+        "गिनती करना",
+        "लाभ कमाना",
+        "झगड़ा करना",
+        "भाग जाना"
+      ],
+      "answer": 3,
+      "explanation": "'नौ दो ग्यारह होना' = चुपचाप भाग जाना।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'अधजल गगरी छलकत जाय' लोकोक्ति का अर्थ है:",
+      "options": [
+        "आधा घड़ा भरना",
+        "पानी की बर्बादी करना",
+        "ज्ञानी व्यक्ति शांत रहता है",
+        "कम ज्ञान वाला अधिक दिखावा करता है"
+      ],
+      "answer": 3,
+      "explanation": "जिसके पास थोड़ा ज्ञान या धन होता है, वह अधिक दिखावा करता है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'जिसका कोई शत्रु न हो' के लिए एक शब्द है:",
+      "options": [
+        "शत्रुघ्न",
+        "अजातशत्रु",
+        "मित्रवत्",
+        "निर्भय"
+      ],
+      "answer": 1,
+      "explanation": "जिसका कोई शत्रु पैदा ही न हुआ हो = अजातशत्रु।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'जो ईश्वर में विश्वास रखता हो' के लिए एक शब्द है:",
+      "options": [
+        "नास्तिक",
+        "धार्मिक",
+        "आस्तिक",
+        "भक्त"
+      ],
+      "answer": 2,
+      "explanation": "ईश्वर में विश्वास रखने वाला आस्तिक कहलाता है; न रखने वाला नास्तिक।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'लड़का पुस्तक पढ़ता है।' वाक्य में 'पुस्तक' किस कारक में है?",
+      "options": [
+        "कर्म कारक",
+        "कर्ता कारक",
+        "करण कारक",
+        "संप्रदान कारक"
+      ],
+      "answer": 0,
+      "explanation": "क्रिया 'पढ़ना' का फल 'पुस्तक' पर पड़ रहा है, अतः कर्म कारक।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'वह चाकू से फल काटता है।' वाक्य में 'चाकू से' कौन-सा कारक है?",
+      "options": [
+        "अपादान कारक",
+        "कर्म कारक",
+        "करण कारक",
+        "अधिकरण कारक"
+      ],
+      "answer": 2,
+      "explanation": "'से' साधन के अर्थ में होने से करण कारक है (अलग होने के अर्थ में अपादान होता)।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'घोड़ा' का स्त्रीलिंग है:",
+      "options": [
+        "घोड़िया",
+        "घोड़ी",
+        "घोड़न",
+        "घुड़िया"
+      ],
+      "answer": 1,
+      "explanation": "'घोड़ा' का स्त्रीलिंग 'घोड़ी' है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'नदी' का बहुवचन है:",
+      "options": [
+        "नदियाँ",
+        "नदीयाँ",
+        "नदियों",
+        "नदीएँ"
+      ],
+      "answer": 0,
+      "explanation": "ईकारांत स्त्रीलिंग 'नदी' का बहुवचन 'नदियाँ' है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "निम्नलिखित में से शुद्ध वर्तनी वाला शब्द है:",
+      "options": [
+        "उज्वल",
+        "उजवल",
+        "उज्जवल",
+        "उज्ज्वल"
+      ],
+      "answer": 3,
+      "explanation": "शुद्ध वर्तनी 'उज्ज्वल' है (उत् + ज्वल)।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'काली घटा' में 'काली' शब्द कौन-सा विशेषण है?",
+      "options": [
+        "संख्यावाचक",
+        "गुणवाचक",
+        "परिमाणवाचक",
+        "सार्वनामिक"
+      ],
+      "answer": 1,
+      "explanation": "रंग बताने वाले विशेषण गुणवाचक होते हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'मैं स्वयं चला जाऊँगा।' वाक्य में 'स्वयं' कौन-सा सर्वनाम है?",
+      "options": [
+        "पुरुषवाचक",
+        "निश्चयवाचक",
+        "निजवाचक",
+        "संबंधवाचक"
+      ],
+      "answer": 2,
+      "explanation": "'स्वयं', 'आप', 'खुद' निजवाचक सर्वनाम हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'वीर' रस का स्थायी भाव है:",
+      "options": [
+        "उत्साह",
+        "क्रोध",
+        "भय",
+        "रति"
+      ],
+      "answer": 0,
+      "explanation": "वीर रस का स्थायी भाव उत्साह है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'चरण कमल बंदौं हरि राई' में अलंकार है:",
+      "options": [
+        "उपमा",
+        "यमक",
+        "श्लेष",
+        "रूपक"
+      ],
+      "answer": 3,
+      "explanation": "चरणों पर कमल का अभेद आरोप होने से रूपक अलंकार।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'मुख चन्द्रमा के समान सुंदर है।' में अलंकार है:",
+      "options": [
+        "रूपक",
+        "अनुप्रास",
+        "उपमा",
+        "उत्प्रेक्षा"
+      ],
+      "answer": 2,
+      "explanation": "'के समान' वाचक शब्द से तुलना होने के कारण उपमा अलंकार।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'गोदान' उपन्यास के लेखक हैं:",
+      "options": [
+        "जयशंकर प्रसाद",
+        "जैनेन्द्र कुमार",
+        "फणीश्वरनाथ रेणु",
+        "प्रेमचन्द"
+      ],
+      "answer": 3,
+      "explanation": "'गोदान' (1936) मुंशी प्रेमचन्द का प्रसिद्ध उपन्यास है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'कामायनी' के रचयिता हैं:",
+      "options": [
+        "जयशंकर प्रसाद",
+        "सुमित्रानंदन पंत",
+        "मैथिलीशरण गुप्त",
+        "सूर्यकांत त्रिपाठी निराला"
+      ],
+      "answer": 0,
+      "explanation": "'कामायनी' जयशंकर प्रसाद का महाकाव्य है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'अनु' उपसर्ग से बना शब्द है:",
+      "options": [
+        "अनादर",
+        "अनुशासन",
+        "अनपढ़",
+        "अन्याय"
+      ],
+      "answer": 1,
+      "explanation": "अनु + शासन = अनुशासन; अनादर और अन्याय में 'अन्' तथा अनपढ़ में 'अन' उपसर्ग है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'मिठास' शब्द में प्रत्यय है:",
+      "options": [
+        "आस",
+        "स",
+        "इठास",
+        "मिठ"
+      ],
+      "answer": 0,
+      "explanation": "मीठा + आस = मिठास; 'आस' प्रत्यय है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'राम ने रावण को मारा।' वाक्य किस वाच्य में है?",
+      "options": [
+        "कर्मवाच्य",
+        "भाववाच्य",
+        "कर्तृवाच्य",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "वाक्य में कर्ता (राम) प्रधान है, अतः कर्तृवाच्य; कर्मवाच्य में यह 'राम द्वारा रावण मारा गया' होता।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The place value of 7 in 57,432 is",
+      "textHi": "57,432 में 7 का स्थानीय मान है",
+      "options": [
+        "7",
+        "700",
+        "70000",
+        "7000"
+      ],
+      "optionsHi": [
+        "7",
+        "700",
+        "70000",
+        "7000"
+      ],
+      "answer": 3,
+      "explanation": "7 is in the thousands place, so its place value is 7 × 1000 = 7000 (its face value is 7).",
+      "explanationHi": "7 हज़ार के स्थान पर है, अतः स्थानीय मान 7 × 1000 = 7000 (अंकित मान 7)।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The LCM of 12 and 18 is",
+      "textHi": "12 और 18 का ल.स.प. है",
+      "options": [
+        "6",
+        "36",
+        "72",
+        "216"
+      ],
+      "optionsHi": [
+        "6",
+        "36",
+        "72",
+        "216"
+      ],
+      "answer": 1,
+      "explanation": "12 = 2² × 3 and 18 = 2 × 3²; LCM = 2² × 3² = 36.",
+      "explanationHi": "12 = 2² × 3 और 18 = 2 × 3²; ल.स.प. = 2² × 3² = 36।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The HCF of 36 and 48 is",
+      "textHi": "36 और 48 का म.स.प. है",
+      "options": [
+        "6",
+        "4",
+        "12",
+        "144"
+      ],
+      "optionsHi": [
+        "6",
+        "4",
+        "12",
+        "144"
+      ],
+      "answer": 2,
+      "explanation": "36 = 2² × 3² and 48 = 2⁴ × 3; HCF = 2² × 3 = 12.",
+      "explanationHi": "36 = 2² × 3² और 48 = 2⁴ × 3; म.स.प. = 2² × 3 = 12।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The value of 3/4 + 1/8 is",
+      "textHi": "3/4 + 1/8 का मान है",
+      "options": [
+        "4/12",
+        "7/8",
+        "1/2",
+        "5/8"
+      ],
+      "optionsHi": [
+        "4/12",
+        "7/8",
+        "1/2",
+        "5/8"
+      ],
+      "answer": 1,
+      "explanation": "3/4 = 6/8, so 6/8 + 1/8 = 7/8.",
+      "explanationHi": "3/4 = 6/8, अतः 6/8 + 1/8 = 7/8।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "0.25 written as a fraction in its lowest terms is",
+      "textHi": "0.25 को सरलतम भिन्न के रूप में लिखने पर प्राप्त होता है",
+      "options": [
+        "25/10",
+        "1/25",
+        "2/5",
+        "1/4"
+      ],
+      "optionsHi": [
+        "25/10",
+        "1/25",
+        "2/5",
+        "1/4"
+      ],
+      "answer": 3,
+      "explanation": "0.25 = 25/100 = 1/4.",
+      "explanationHi": "0.25 = 25/100 = 1/4।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "15% of 240 is",
+      "textHi": "240 का 15% है",
+      "options": [
+        "36",
+        "24",
+        "30",
+        "40"
+      ],
+      "optionsHi": [
+        "36",
+        "24",
+        "30",
+        "40"
+      ],
+      "answer": 0,
+      "explanation": "240 × 15/100 = 36.",
+      "explanationHi": "240 × 15/100 = 36।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Simplify: 48 ÷ 6 × 2 + 5",
+      "textHi": "सरल कीजिए: 48 ÷ 6 × 2 + 5",
+      "options": [
+        "21",
+        "9",
+        "13",
+        "4"
+      ],
+      "optionsHi": [
+        "21",
+        "9",
+        "13",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "Division and multiplication from left to right: 48 ÷ 6 = 8, 8 × 2 = 16, 16 + 5 = 21.",
+      "explanationHi": "भाग और गुणा बाएँ से दाएँ: 48 ÷ 6 = 8, 8 × 2 = 16, 16 + 5 = 21।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The perimeter of a rectangle of length 12 cm and breadth 8 cm is",
+      "textHi": "12 सेमी लम्बे और 8 सेमी चौड़े आयत का परिमाप है",
+      "options": [
+        "96 cm",
+        "20 cm",
+        "40 cm",
+        "48 cm"
+      ],
+      "optionsHi": [
+        "96 सेमी",
+        "20 सेमी",
+        "40 सेमी",
+        "48 सेमी"
+      ],
+      "answer": 2,
+      "explanation": "Perimeter = 2(l + b) = 2(12 + 8) = 40 cm.",
+      "explanationHi": "परिमाप = 2(l + b) = 2(12 + 8) = 40 सेमी।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The area of a square of side 9 cm is",
+      "textHi": "9 सेमी भुजा वाले वर्ग का क्षेत्रफल है",
+      "options": [
+        "36 cm²",
+        "81 cm²",
+        "18 cm²",
+        "81 cm"
+      ],
+      "optionsHi": [
+        "36 सेमी²",
+        "81 सेमी²",
+        "18 सेमी²",
+        "81 सेमी"
+      ],
+      "answer": 1,
+      "explanation": "Area = side × side = 9 × 9 = 81 cm².",
+      "explanationHi": "क्षेत्रफल = भुजा × भुजा = 9 × 9 = 81 सेमी²।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many days are there in a leap year?",
+      "textHi": "एक अधिवर्ष (लीप वर्ष) में कितने दिन होते हैं?",
+      "options": [
+        "365",
+        "364",
+        "360",
+        "366"
+      ],
+      "optionsHi": [
+        "365",
+        "364",
+        "360",
+        "366"
+      ],
+      "answer": 3,
+      "explanation": "A leap year has 366 days because February has 29 days.",
+      "explanationHi": "अधिवर्ष में फरवरी 29 दिन की होती है, अतः 366 दिन।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "2.5 km is equal to",
+      "textHi": "2.5 किमी बराबर है",
+      "options": [
+        "250 m",
+        "25 m",
+        "25000 m",
+        "2500 m"
+      ],
+      "optionsHi": [
+        "250 मीटर",
+        "25 मीटर",
+        "25000 मीटर",
+        "2500 मीटर"
+      ],
+      "answer": 3,
+      "explanation": "1 km = 1000 m, so 2.5 km = 2500 m.",
+      "explanationHi": "1 किमी = 1000 मीटर, अतः 2.5 किमी = 2500 मीटर।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The Roman numeral XLIV stands for",
+      "textHi": "रोमन अंक XLIV किस संख्या को दर्शाता है?",
+      "options": [
+        "44",
+        "64",
+        "46",
+        "54"
+      ],
+      "optionsHi": [
+        "44",
+        "64",
+        "46",
+        "54"
+      ],
+      "answer": 0,
+      "explanation": "XL = 40 and IV = 4, so XLIV = 44.",
+      "explanationHi": "XL = 40 और IV = 4, अतः XLIV = 44।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The smallest prime number is",
+      "textHi": "सबसे छोटी अभाज्य संख्या है",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "optionsHi": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "answer": 1,
+      "explanation": "2 is the smallest and the only even prime number; 1 is neither prime nor composite.",
+      "explanationHi": "2 सबसे छोटी और एकमात्र सम अभाज्य संख्या है; 1 न अभाज्य है न भाज्य।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "An article bought for Rs 400 is sold for Rs 460. The profit per cent is",
+      "textHi": "400 रुपये में खरीदी गई वस्तु 460 रुपये में बेची जाती है। लाभ प्रतिशत है",
+      "options": [
+        "60%",
+        "12%",
+        "15%",
+        "13%"
+      ],
+      "optionsHi": [
+        "60%",
+        "12%",
+        "15%",
+        "13%"
+      ],
+      "answer": 2,
+      "explanation": "Profit = 60; profit % = 60/400 × 100 = 15%.",
+      "explanationHi": "लाभ = 60; लाभ % = 60/400 × 100 = 15%।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The simple interest on Rs 5000 at 8% per annum for 3 years is",
+      "textHi": "5000 रुपये पर 8% वार्षिक दर से 3 वर्ष का साधारण ब्याज है",
+      "options": [
+        "Rs 400",
+        "Rs 1500",
+        "Rs 1000",
+        "Rs 1200"
+      ],
+      "optionsHi": [
+        "400 रुपये",
+        "1500 रुपये",
+        "1000 रुपये",
+        "1200 रुपये"
+      ],
+      "answer": 3,
+      "explanation": "SI = P × R × T / 100 = 5000 × 8 × 3 / 100 = Rs 1200.",
+      "explanationHi": "साधारण ब्याज = P × R × T / 100 = 5000 × 8 × 3 / 100 = 1200 रुपये।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The average of 10, 20, 30, 40 and 50 is",
+      "textHi": "10, 20, 30, 40 और 50 का औसत है",
+      "options": [
+        "30",
+        "25",
+        "35",
+        "150"
+      ],
+      "optionsHi": [
+        "30",
+        "25",
+        "35",
+        "150"
+      ],
+      "answer": 0,
+      "explanation": "Sum = 150; average = 150 ÷ 5 = 30.",
+      "explanationHi": "योग = 150; औसत = 150 ÷ 5 = 30।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A bus covers 180 km in 3 hours. Its average speed is",
+      "textHi": "एक बस 3 घंटे में 180 किमी चलती है। उसकी औसत चाल है",
+      "options": [
+        "540 km/h",
+        "45 km/h",
+        "60 km/h",
+        "90 km/h"
+      ],
+      "optionsHi": [
+        "540 किमी/घंटा",
+        "45 किमी/घंटा",
+        "60 किमी/घंटा",
+        "90 किमी/घंटा"
+      ],
+      "answer": 2,
+      "explanation": "Speed = distance ÷ time = 180 ÷ 3 = 60 km/h.",
+      "explanationHi": "चाल = दूरी ÷ समय = 180 ÷ 3 = 60 किमी/घंटा।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The sum of the three angles of a triangle is",
+      "textHi": "त्रिभुज के तीनों कोणों का योग होता है",
+      "options": [
+        "90°",
+        "180°",
+        "360°",
+        "270°"
+      ],
+      "optionsHi": [
+        "90°",
+        "180°",
+        "360°",
+        "270°"
+      ],
+      "answer": 1,
+      "explanation": "The angle sum property: the interior angles of a triangle add up to 180°.",
+      "explanationHi": "कोण योग गुणधर्म: त्रिभुज के अंतःकोणों का योग 180° होता है।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Rs 50 is divided between Ravi and Sita in the ratio 2 : 3. Sita gets",
+      "textHi": "50 रुपये रवि और सीता में 2 : 3 के अनुपात में बाँटे जाते हैं। सीता को मिलते हैं",
+      "options": [
+        "Rs 20",
+        "Rs 25",
+        "Rs 30",
+        "Rs 35"
+      ],
+      "optionsHi": [
+        "20 रुपये",
+        "25 रुपये",
+        "30 रुपये",
+        "35 रुपये"
+      ],
+      "answer": 2,
+      "explanation": "Sita's share = 3/5 × 50 = Rs 30.",
+      "explanationHi": "सीता का हिस्सा = 3/5 × 50 = 30 रुपये।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The volume of a cube of edge 5 cm is",
+      "textHi": "5 सेमी किनारे वाले घन का आयतन है",
+      "options": [
+        "25 cm³",
+        "150 cm³",
+        "75 cm³",
+        "125 cm³"
+      ],
+      "optionsHi": [
+        "25 सेमी³",
+        "150 सेमी³",
+        "75 सेमी³",
+        "125 सेमी³"
+      ],
+      "answer": 3,
+      "explanation": "Volume = edge³ = 5 × 5 × 5 = 125 cm³ (150 cm² would be its surface area).",
+      "explanationHi": "आयतन = किनारा³ = 5 × 5 × 5 = 125 सेमी³ (150 सेमी² इसका पृष्ठीय क्षेत्रफल होगा)।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The sum of the interior angles of a quadrilateral is",
+      "textHi": "चतुर्भुज के अंतःकोणों का योग होता है",
+      "options": [
+        "360°",
+        "180°",
+        "540°",
+        "270°"
+      ],
+      "optionsHi": [
+        "360°",
+        "180°",
+        "540°",
+        "270°"
+      ],
+      "answer": 0,
+      "explanation": "A quadrilateral can be split into two triangles, so its angles add to 2 × 180° = 360°.",
+      "explanationHi": "चतुर्भुज को दो त्रिभुजों में बाँटा जा सकता है, अतः कोणों का योग 2 × 180° = 360°।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The successor of 99,999 is",
+      "textHi": "99,999 का परवर्ती है",
+      "options": [
+        "99,998",
+        "1,00,000",
+        "1,00,001",
+        "9,99,999"
+      ],
+      "optionsHi": [
+        "99,998",
+        "1,00,000",
+        "1,00,001",
+        "9,99,999"
+      ],
+      "answer": 1,
+      "explanation": "Successor = number + 1 = 1,00,000 (one lakh).",
+      "explanationHi": "परवर्ती = संख्या + 1 = 1,00,000 (एक लाख)।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The circumference of a circle of radius 7 cm is (take π = 22/7)",
+      "textHi": "7 सेमी त्रिज्या वाले वृत्त की परिधि है (π = 22/7 लें)",
+      "options": [
+        "154 cm",
+        "22 cm",
+        "44 cm",
+        "88 cm"
+      ],
+      "optionsHi": [
+        "154 सेमी",
+        "22 सेमी",
+        "44 सेमी",
+        "88 सेमी"
+      ],
+      "answer": 2,
+      "explanation": "Circumference = 2πr = 2 × 22/7 × 7 = 44 cm (154 cm² is the area).",
+      "explanationHi": "परिधि = 2πr = 2 × 22/7 × 7 = 44 सेमी (154 सेमी² क्षेत्रफल है)।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "If 5 pens cost Rs 60, then 8 pens will cost",
+      "textHi": "यदि 5 पेनों का मूल्य 60 रुपये है, तो 8 पेनों का मूल्य होगा",
+      "options": [
+        "Rs 80",
+        "Rs 100",
+        "Rs 104",
+        "Rs 96"
+      ],
+      "optionsHi": [
+        "80 रुपये",
+        "100 रुपये",
+        "104 रुपये",
+        "96 रुपये"
+      ],
+      "answer": 3,
+      "explanation": "One pen costs 60 ÷ 5 = Rs 12, so 8 pens cost 8 × 12 = Rs 96 (unitary method).",
+      "explanationHi": "एक पेन = 60 ÷ 5 = 12 रुपये, अतः 8 पेन = 8 × 12 = 96 रुपये (ऐकिक नियम)।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The value of 3² + 4² is",
+      "textHi": "3² + 4² का मान है",
+      "options": [
+        "25",
+        "49",
+        "14",
+        "7"
+      ],
+      "optionsHi": [
+        "25",
+        "49",
+        "14",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "9 + 16 = 25 (note that (3 + 4)² = 49 is different).",
+      "explanationHi": "9 + 16 = 25 (ध्यान दें, (3 + 4)² = 49 अलग है)।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Which of the following numbers is divisible by 9?",
+      "textHi": "निम्नलिखित में से कौन-सी संख्या 9 से विभाज्य है?",
+      "options": [
+        "7235",
+        "7245",
+        "8243",
+        "6542"
+      ],
+      "optionsHi": [
+        "7235",
+        "7245",
+        "8243",
+        "6542"
+      ],
+      "answer": 1,
+      "explanation": "A number is divisible by 9 if its digit sum is; 7 + 2 + 4 + 5 = 18, while the others sum to 17.",
+      "explanationHi": "अंकों का योग 9 से विभाज्य हो तो संख्या 9 से विभाज्य होती है; 7 + 2 + 4 + 5 = 18, बाकी का योग 17 है।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "1 hour 45 minutes is equal to",
+      "textHi": "1 घंटा 45 मिनट बराबर है",
+      "options": [
+        "105 minutes",
+        "145 minutes",
+        "75 minutes",
+        "115 minutes"
+      ],
+      "optionsHi": [
+        "105 मिनट",
+        "145 मिनट",
+        "75 मिनट",
+        "115 मिनट"
+      ],
+      "answer": 0,
+      "explanation": "1 hour = 60 minutes, so 60 + 45 = 105 minutes.",
+      "explanationHi": "1 घंटा = 60 मिनट, अतः 60 + 45 = 105 मिनट।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The most suitable way to introduce the idea of fractions to Class III children is",
+      "textHi": "कक्षा III के बच्चों को भिन्न की अवधारणा से परिचित कराने का सबसे उपयुक्त तरीका है",
+      "options": [
+        "Writing the definition of a fraction on the board",
+        "Dividing real objects such as a roti or a paper sheet into equal parts",
+        "Making them memorise fraction tables",
+        "Giving a written test first"
+      ],
+      "optionsHi": [
+        "श्यामपट्ट पर भिन्न की परिभाषा लिखना",
+        "रोटी या कागज़ जैसी वास्तविक वस्तुओं को बराबर भागों में बाँटना",
+        "भिन्न की तालिकाएँ रटवाना",
+        "पहले लिखित परीक्षा लेना"
+      ],
+      "answer": 1,
+      "explanation": "Young children move from concrete experiences to abstract symbols, so equal sharing of real objects comes first.",
+      "explanationHi": "छोटे बच्चे मूर्त अनुभवों से अमूर्त प्रतीकों की ओर बढ़ते हैं, अतः पहले वास्तविक वस्तुओं का बराबर बँटवारा कराया जाए।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "According to the van Hiele model of geometric thinking, the first level at which children recognise shapes by their overall appearance is",
+      "textHi": "ज्यामितीय चिंतन के वैन हील मॉडल के अनुसार पहला स्तर, जिसमें बच्चे आकृतियों को उनके समग्र रूप से पहचानते हैं, है",
+      "options": [
+        "Analysis",
+        "Informal deduction",
+        "Visualisation",
+        "Rigour"
+      ],
+      "optionsHi": [
+        "विश्लेषण",
+        "अनौपचारिक निगमन",
+        "दृश्यीकरण (विज़ुअलाइज़ेशन)",
+        "दृढ़ता (रिगर)"
+      ],
+      "answer": 2,
+      "explanation": "At level 0 (visualisation) a child calls a shape a square because \"it looks like a square\", without noticing its properties.",
+      "explanationHi": "स्तर 0 (दृश्यीकरण) पर बच्चा आकृति को इसलिए वर्ग कहता है कि \"वह वर्ग जैसी दिखती है\", उसके गुणों पर ध्यान दिए बिना।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "An abacus is most useful in primary classes for teaching",
+      "textHi": "प्राथमिक कक्षाओं में गिनतारा (अबेकस) सबसे अधिक किसे पढ़ाने में उपयोगी है?",
+      "options": [
+        "Area of shapes",
+        "Measurement of time",
+        "Data handling",
+        "Place value"
+      ],
+      "optionsHi": [
+        "आकृतियों का क्षेत्रफल",
+        "समय का मापन",
+        "आँकड़ों का प्रबंधन",
+        "स्थानीय मान"
+      ],
+      "answer": 3,
+      "explanation": "Beads on separate rods for ones, tens and hundreds make place value concrete.",
+      "explanationHi": "इकाई, दहाई, सैकड़ा की अलग-अलग छड़ों पर मोतियाँ स्थानीय मान को मूर्त बना देती हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Himachal Pradesh became a full-fledged state of India on",
+      "textHi": "हिमाचल प्रदेश भारत का पूर्ण राज्य कब बना?",
+      "options": [
+        "25 January 1971",
+        "15 April 1948",
+        "1 November 1966",
+        "26 January 1950"
+      ],
+      "optionsHi": [
+        "25 जनवरी 1971",
+        "15 अप्रैल 1948",
+        "1 नवम्बर 1966",
+        "26 जनवरी 1950"
+      ],
+      "answer": 0,
+      "explanation": "HP became the 18th state on 25 January 1971 (celebrated as Statehood Day); 15 April 1948 is Himachal Day.",
+      "explanationHi": "हिमाचल 25 जनवरी 1971 को देश का 18वाँ राज्य बना (पूर्ण राज्यत्व दिवस); 15 अप्रैल 1948 हिमाचल दिवस है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The highest peak of Himachal Pradesh is",
+      "textHi": "हिमाचल प्रदेश की सबसे ऊँची चोटी है",
+      "options": [
+        "Kinner Kailash",
+        "Reo Purgyil",
+        "Deo Tibba",
+        "Hanuman Tibba"
+      ],
+      "optionsHi": [
+        "किन्नर कैलाश",
+        "रियो पुरग्याल",
+        "देव टिब्बा",
+        "हनुमान टिब्बा"
+      ],
+      "answer": 1,
+      "explanation": "Reo Purgyil (about 6,816 m) in Kinnaur is the highest peak of Himachal Pradesh.",
+      "explanationHi": "किन्नौर में स्थित रियो पुरग्याल (लगभग 6,816 मीटर) हिमाचल की सबसे ऊँची चोटी है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The largest district of Himachal Pradesh by area is",
+      "textHi": "क्षेत्रफल की दृष्टि से हिमाचल प्रदेश का सबसे बड़ा जिला है",
+      "options": [
+        "Kangra",
+        "Chamba",
+        "Kinnaur",
+        "Lahaul and Spiti"
+      ],
+      "optionsHi": [
+        "कांगड़ा",
+        "चम्बा",
+        "किन्नौर",
+        "लाहौल-स्पीति"
+      ],
+      "answer": 3,
+      "explanation": "Lahaul and Spiti (about 13,841 sq km) is the largest district; it is also the least populated.",
+      "explanationHi": "लाहौल-स्पीति (लगभग 13,841 वर्ग किमी) सबसे बड़ा जिला है और सबसे कम जनसंख्या वाला भी।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The smallest district of Himachal Pradesh by area is",
+      "textHi": "क्षेत्रफल की दृष्टि से हिमाचल प्रदेश का सबसे छोटा जिला है",
+      "options": [
+        "Bilaspur",
+        "Una",
+        "Hamirpur",
+        "Solan"
+      ],
+      "optionsHi": [
+        "बिलासपुर",
+        "ऊना",
+        "हमीरपुर",
+        "सोलन"
+      ],
+      "answer": 2,
+      "explanation": "Hamirpur (about 1,118 sq km) is the smallest district by area, slightly smaller than Bilaspur.",
+      "explanationHi": "हमीरपुर (लगभग 1,118 वर्ग किमी) क्षेत्रफल में सबसे छोटा जिला है, बिलासपुर से थोड़ा छोटा।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Gobind Sagar reservoir has been formed by the Bhakra Dam on which river?",
+      "textHi": "गोविंद सागर जलाशय किस नदी पर बने भाखड़ा बाँध से बना है?",
+      "options": [
+        "Satluj",
+        "Beas",
+        "Ravi",
+        "Yamuna"
+      ],
+      "optionsHi": [
+        "सतलुज",
+        "ब्यास",
+        "रावी",
+        "यमुना"
+      ],
+      "answer": 0,
+      "explanation": "The Bhakra Dam on the Satluj created Gobind Sagar, mostly in Bilaspur district.",
+      "explanationHi": "सतलुज पर बने भाखड़ा बाँध से गोविंद सागर बना, जो अधिकतर बिलासपुर जिले में है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Pong Dam (Maharana Pratap Sagar) in Kangra district is built on the river",
+      "textHi": "कांगड़ा जिले में पौंग बाँध (महाराणा प्रताप सागर) किस नदी पर बना है?",
+      "options": [
+        "Satluj",
+        "Chenab",
+        "Ravi",
+        "Beas"
+      ],
+      "optionsHi": [
+        "सतलुज",
+        "चिनाब",
+        "रावी",
+        "ब्यास"
+      ],
+      "answer": 3,
+      "explanation": "The Pong Dam on the Beas forms Maharana Pratap Sagar, a Ramsar wetland.",
+      "explanationHi": "ब्यास पर बने पौंग बाँध से महाराणा प्रताप सागर बना है, जो रामसर आर्द्रभूमि है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The famous Minjar fair is held in which district of Himachal Pradesh?",
+      "textHi": "प्रसिद्ध मिंजर मेला हिमाचल प्रदेश के किस जिले में लगता है?",
+      "options": [
+        "Mandi",
+        "Kullu",
+        "Chamba",
+        "Sirmaur"
+      ],
+      "optionsHi": [
+        "मंडी",
+        "कुल्लू",
+        "चम्बा",
+        "सिरमौर"
+      ],
+      "answer": 2,
+      "explanation": "The Minjar fair is held in Chamba town in July-August.",
+      "explanationHi": "मिंजर मेला जुलाई-अगस्त में चम्बा नगर में लगता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which district of Himachal Pradesh is famous for its international Dussehra festival held at Dhalpur ground?",
+      "textHi": "ढालपुर मैदान में होने वाले अंतरराष्ट्रीय दशहरा उत्सव के लिए हिमाचल का कौन-सा जिला प्रसिद्ध है?",
+      "options": [
+        "Shimla",
+        "Kullu",
+        "Mandi",
+        "Kangra"
+      ],
+      "optionsHi": [
+        "शिमला",
+        "कुल्लू",
+        "मंडी",
+        "कांगड़ा"
+      ],
+      "answer": 1,
+      "explanation": "Kullu Dussehra begins on Vijayadashami at Dhalpur and continues for a week; Mandi is known for its Shivratri fair.",
+      "explanationHi": "कुल्लू दशहरा विजयादशमी से ढालपुर मैदान में शुरू होकर सप्ताह भर चलता है; मंडी शिवरात्रि मेले के लिए प्रसिद्ध है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Great Himalayan National Park, a UNESCO World Heritage Site since 2014, is in which district?",
+      "textHi": "ग्रेट हिमालयन नेशनल पार्क, जो 2014 से यूनेस्को विश्व धरोहर स्थल है, किस जिले में है?",
+      "options": [
+        "Kullu",
+        "Chamba",
+        "Lahaul and Spiti",
+        "Shimla"
+      ],
+      "optionsHi": [
+        "कुल्लू",
+        "चम्बा",
+        "लाहौल-स्पीति",
+        "शिमला"
+      ],
+      "answer": 0,
+      "explanation": "The Great Himalayan National Park in Kullu was inscribed as a World Heritage Site in 2014.",
+      "explanationHi": "कुल्लू स्थित ग्रेट हिमालयन नेशनल पार्क 2014 में विश्व धरोहर सूची में शामिल हुआ।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Kalka–Shimla Railway was added to the UNESCO World Heritage list in",
+      "textHi": "कालका-शिमला रेलवे को यूनेस्को की विश्व धरोहर सूची में कब शामिल किया गया?",
+      "options": [
+        "1999",
+        "2014",
+        "2005",
+        "2008"
+      ],
+      "optionsHi": [
+        "1999",
+        "2014",
+        "2005",
+        "2008"
+      ],
+      "answer": 3,
+      "explanation": "It was added in 2008 as part of the \"Mountain Railways of India\" (Darjeeling in 1999, Nilgiri in 2005).",
+      "explanationHi": "इसे 2008 में \"भारत की पर्वतीय रेलें\" के अंतर्गत जोड़ा गया (दार्जिलिंग 1999, नीलगिरि 2005)।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who was the first Chief Minister of Himachal Pradesh?",
+      "textHi": "हिमाचल प्रदेश के प्रथम मुख्यमंत्री कौन थे?",
+      "options": [
+        "Thakur Ram Lal",
+        "Shanta Kumar",
+        "Dr. Yashwant Singh Parmar",
+        "Virbhadra Singh"
+      ],
+      "optionsHi": [
+        "ठाकुर राम लाल",
+        "शांता कुमार",
+        "डॉ. यशवंत सिंह परमार",
+        "वीरभद्र सिंह"
+      ],
+      "answer": 2,
+      "explanation": "Dr. Y.S. Parmar, called the architect of Himachal, was the first Chief Minister.",
+      "explanationHi": "हिमाचल निर्माता कहे जाने वाले डॉ. वाई.एस. परमार प्रदेश के पहले मुख्यमंत्री थे।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The state bird of Himachal Pradesh is",
+      "textHi": "हिमाचल प्रदेश का राज्य पक्षी है",
+      "options": [
+        "Monal",
+        "Western Tragopan (Jujurana)",
+        "Peacock",
+        "Golden Eagle"
+      ],
+      "optionsHi": [
+        "मोनाल",
+        "पश्चिमी ट्रैगोपैन (जुजुराना)",
+        "मोर",
+        "सुनहरा गरुड़"
+      ],
+      "answer": 1,
+      "explanation": "The Western Tragopan (Jujurana) replaced the Monal as the state bird in 2007.",
+      "explanationHi": "जुजुराना (पश्चिमी ट्रैगोपैन) 2007 में मोनाल के स्थान पर राज्य पक्षी बना।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The largest natural lake of Himachal Pradesh, Renuka lake, is located in",
+      "textHi": "हिमाचल प्रदेश की सबसे बड़ी प्राकृतिक झील, रेणुका झील, कहाँ स्थित है?",
+      "options": [
+        "Mandi district",
+        "Chamba district",
+        "Sirmaur district",
+        "Kangra district"
+      ],
+      "optionsHi": [
+        "मंडी जिला",
+        "चम्बा जिला",
+        "सिरमौर जिला",
+        "कांगड़ा जिला"
+      ],
+      "answer": 2,
+      "explanation": "Renuka lake in Sirmaur is the largest natural lake in the state and a Ramsar site.",
+      "explanationHi": "सिरमौर की रेणुका झील प्रदेश की सबसे बड़ी प्राकृतिक झील और रामसर स्थल है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Atal Tunnel, opened in October 2020, connects Manali with",
+      "textHi": "अक्टूबर 2020 में खुली अटल सुरंग मनाली को किससे जोड़ती है?",
+      "options": [
+        "Kinnaur",
+        "Lahaul-Spiti valley",
+        "Chamba",
+        "Shimla"
+      ],
+      "optionsHi": [
+        "किन्नौर",
+        "लाहौल-स्पीति घाटी",
+        "चम्बा",
+        "शिमला"
+      ],
+      "answer": 1,
+      "explanation": "The 9.02 km Atal Tunnel under the Rohtang Pass links Manali with the Lahaul-Spiti valley all year round.",
+      "explanationHi": "रोहतांग दर्रे के नीचे बनी 9.02 किमी लम्बी अटल सुरंग मनाली को वर्षभर लाहौल-स्पीति घाटी से जोड़ती है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The river Satluj enters India from Tibet near which pass?",
+      "textHi": "सतलुज नदी तिब्बत से किस दर्रे के पास भारत में प्रवेश करती है?",
+      "options": [
+        "Shipki La",
+        "Rohtang Pass",
+        "Baralacha La",
+        "Kunzum Pass"
+      ],
+      "optionsHi": [
+        "शिपकी ला",
+        "रोहतांग दर्रा",
+        "बारालाचा ला",
+        "कुंजुम दर्रा"
+      ],
+      "answer": 0,
+      "explanation": "The Satluj enters India near Shipki La in Kinnaur district.",
+      "explanationHi": "सतलुज किन्नौर जिले में शिपकी ला के पास भारत में प्रवेश करती है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The ancient Tabo monastery, founded in 996 CE, is located in",
+      "textHi": "996 ई. में स्थापित प्राचीन ताबो मठ कहाँ स्थित है?",
+      "options": [
+        "Kullu valley",
+        "Kangra valley",
+        "Pangi valley",
+        "Spiti valley"
+      ],
+      "optionsHi": [
+        "कुल्लू घाटी",
+        "कांगड़ा घाटी",
+        "पांगी घाटी",
+        "स्पीति घाटी"
+      ],
+      "answer": 3,
+      "explanation": "Tabo monastery in the Spiti valley was founded by Rinchen Zangpo in 996 CE.",
+      "explanationHi": "स्पीति घाटी का ताबो मठ 996 ई. में रिनचेन जांगपो ने स्थापित किया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Khajjiar, often called the \"Mini Switzerland of India\", is in which district?",
+      "textHi": "\"भारत का मिनी स्विट्ज़रलैंड\" कहा जाने वाला खज्जियार किस जिले में है?",
+      "options": [
+        "Kullu",
+        "Chamba",
+        "Shimla",
+        "Mandi"
+      ],
+      "optionsHi": [
+        "कुल्लू",
+        "चम्बा",
+        "शिमला",
+        "मंडी"
+      ],
+      "answer": 1,
+      "explanation": "Khajjiar, a meadow near Dalhousie, is in Chamba district.",
+      "explanationHi": "डलहौज़ी के पास स्थित खज्जियार का मैदान चम्बा जिले में है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which town was declared the second (winter) capital of Himachal Pradesh in 2017?",
+      "textHi": "2017 में किस नगर को हिमाचल प्रदेश की दूसरी (शीतकालीन) राजधानी घोषित किया गया?",
+      "options": [
+        "Mandi",
+        "Solan",
+        "Palampur",
+        "Dharamshala"
+      ],
+      "optionsHi": [
+        "मंडी",
+        "सोलन",
+        "पालमपुर",
+        "धर्मशाला"
+      ],
+      "answer": 3,
+      "explanation": "Dharamshala in Kangra was declared the second capital in January 2017; Shimla is the capital.",
+      "explanationHi": "जनवरी 2017 में कांगड़ा का धर्मशाला दूसरी राजधानी घोषित हुआ; राजधानी शिमला है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The \"Chamba Rumal\" is famous as a form of",
+      "textHi": "\"चम्बा रुमाल\" किस रूप में प्रसिद्ध है?",
+      "options": [
+        "Folk dance",
+        "Wooden toy",
+        "Embroidery",
+        "Metal craft"
+      ],
+      "optionsHi": [
+        "लोक नृत्य",
+        "लकड़ी का खिलौना",
+        "कढ़ाई",
+        "धातु शिल्प"
+      ],
+      "answer": 2,
+      "explanation": "The Chamba Rumal is a hand-embroidered cloth with double-satin stitch, so the picture looks alike on both sides.",
+      "explanationHi": "चम्बा रुमाल दोहरे साटन टाँके से कढ़ा कपड़ा है, जिससे चित्र दोनों ओर एक जैसा दिखता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which is the largest planet of the solar system?",
+      "textHi": "सौरमंडल का सबसे बड़ा ग्रह कौन-सा है?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Earth",
+        "Neptune"
+      ],
+      "optionsHi": [
+        "बृहस्पति",
+        "शनि",
+        "पृथ्वी",
+        "वरुण"
+      ],
+      "answer": 0,
+      "explanation": "Jupiter is the largest planet; its mass is more than twice that of all other planets combined.",
+      "explanationHi": "बृहस्पति सबसे बड़ा ग्रह है; इसका द्रव्यमान बाकी सभी ग्रहों के कुल द्रव्यमान के दोगुने से भी अधिक है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Scurvy is caused by the deficiency of",
+      "textHi": "स्कर्वी रोग किसकी कमी से होता है?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "optionsHi": [
+        "विटामिन A",
+        "विटामिन C",
+        "विटामिन D",
+        "विटामिन K"
+      ],
+      "answer": 1,
+      "explanation": "Lack of vitamin C (found in citrus fruits and amla) causes scurvy with bleeding gums.",
+      "explanationHi": "विटामिन C (खट्टे फल, आँवला) की कमी से स्कर्वी होता है जिसमें मसूड़ों से खून आता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which gas do green plants release during photosynthesis?",
+      "textHi": "प्रकाश-संश्लेषण के दौरान हरे पौधे कौन-सी गैस छोड़ते हैं?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "optionsHi": [
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन",
+        "ऑक्सीजन",
+        "हाइड्रोजन"
+      ],
+      "answer": 2,
+      "explanation": "Plants take in carbon dioxide and water and, using sunlight, make glucose and release oxygen.",
+      "explanationHi": "पौधे सूर्य के प्रकाश में कार्बन डाइऑक्साइड और जल से ग्लूकोज़ बनाते हैं और ऑक्सीजन छोड़ते हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "At sea level, pure water boils at",
+      "textHi": "समुद्र तल पर शुद्ध जल किस तापमान पर उबलता है?",
+      "options": [
+        "100 °C",
+        "0 °C",
+        "90 °C",
+        "120 °C"
+      ],
+      "optionsHi": [
+        "100 °C",
+        "0 °C",
+        "90 °C",
+        "120 °C"
+      ],
+      "answer": 0,
+      "explanation": "At normal atmospheric pressure water boils at 100 °C; at higher altitudes it boils at a lower temperature.",
+      "explanationHi": "सामान्य वायुमंडलीय दाब पर जल 100 °C पर उबलता है; ऊँचाई पर यह कम तापमान पर उबलता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The national aquatic animal of India is the",
+      "textHi": "भारत का राष्ट्रीय जलीय जीव है",
+      "options": [
+        "Blue whale",
+        "Crocodile",
+        "Olive ridley turtle",
+        "Gangetic river dolphin"
+      ],
+      "optionsHi": [
+        "नीली व्हेल",
+        "मगरमच्छ",
+        "ओलिव रिडले कछुआ",
+        "गंगा नदी डॉल्फ़िन"
+      ],
+      "answer": 3,
+      "explanation": "The Gangetic river dolphin was declared the national aquatic animal in 2009.",
+      "explanationHi": "गंगा नदी डॉल्फ़िन को 2009 में राष्ट्रीय जलीय जीव घोषित किया गया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The ozone layer protects life on Earth from",
+      "textHi": "ओज़ोन परत पृथ्वी पर जीवन की किससे रक्षा करती है?",
+      "options": [
+        "Harmful ultraviolet rays of the Sun",
+        "Earthquakes",
+        "Acid rain",
+        "Meteor showers only"
+      ],
+      "optionsHi": [
+        "सूर्य की हानिकारक पराबैंगनी किरणों से",
+        "भूकंप से",
+        "अम्लीय वर्षा से",
+        "केवल उल्का वर्षा से"
+      ],
+      "answer": 0,
+      "explanation": "The stratospheric ozone layer absorbs most of the Sun's harmful UV radiation.",
+      "explanationHi": "समताप मंडल की ओज़ोन परत सूर्य की अधिकांश हानिकारक पराबैंगनी किरणों को सोख लेती है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Constitution of India came into force on",
+      "textHi": "भारत का संविधान कब लागू हुआ?",
+      "options": [
+        "15 August 1947",
+        "26 January 1950",
+        "26 November 1949",
+        "30 January 1948"
+      ],
+      "optionsHi": [
+        "15 अगस्त 1947",
+        "26 जनवरी 1950",
+        "26 नवम्बर 1949",
+        "30 जनवरी 1948"
+      ],
+      "answer": 1,
+      "explanation": "It was adopted on 26 November 1949 and came into force on 26 January 1950 (Republic Day).",
+      "explanationHi": "संविधान 26 नवम्बर 1949 को अंगीकृत हुआ और 26 जनवरी 1950 (गणतंत्र दिवस) को लागू हुआ।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The national anthem \"Jana Gana Mana\" was written by",
+      "textHi": "राष्ट्रगान \"जन गण मन\" किसने लिखा?",
+      "options": [
+        "Bankim Chandra Chatterjee",
+        "Muhammad Iqbal",
+        "Rabindranath Tagore",
+        "Sarojini Naidu"
+      ],
+      "optionsHi": [
+        "बंकिम चन्द्र चटर्जी",
+        "मुहम्मद इक़बाल",
+        "रवीन्द्रनाथ टैगोर",
+        "सरोजिनी नायडू"
+      ],
+      "answer": 2,
+      "explanation": "Rabindranath Tagore wrote it; \"Vande Mataram\" (the national song) is by Bankim Chandra Chatterjee.",
+      "explanationHi": "इसे रवीन्द्रनाथ टैगोर ने लिखा; राष्ट्रगीत \"वन्दे मातरम्\" बंकिम चन्द्र चटर्जी का है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Right to Education was made a fundamental right by inserting which Article in the Constitution?",
+      "textHi": "संविधान में कौन-सा अनुच्छेद जोड़कर शिक्षा के अधिकार को मौलिक अधिकार बनाया गया?",
+      "options": [
+        "Article 14",
+        "Article 45",
+        "Article 51A",
+        "Article 21A"
+      ],
+      "optionsHi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 45",
+        "अनुच्छेद 51क",
+        "अनुच्छेद 21क"
+      ],
+      "answer": 3,
+      "explanation": "The 86th Amendment (2002) inserted Article 21A, giving children aged 6–14 the right to free and compulsory education.",
+      "explanationHi": "86वें संशोधन (2002) से अनुच्छेद 21क जोड़ा गया, जिससे 6–14 वर्ष के बच्चों को निःशुल्क और अनिवार्य शिक्षा का अधिकार मिला।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Constitutional status was given to Panchayati Raj institutions by the",
+      "textHi": "पंचायती राज संस्थाओं को संवैधानिक दर्जा किसके द्वारा दिया गया?",
+      "options": [
+        "42nd Constitutional Amendment",
+        "61st Constitutional Amendment",
+        "86th Constitutional Amendment",
+        "73rd Constitutional Amendment"
+      ],
+      "optionsHi": [
+        "42वें संविधान संशोधन",
+        "61वें संविधान संशोधन",
+        "86वें संविधान संशोधन",
+        "73वें संविधान संशोधन"
+      ],
+      "answer": 3,
+      "explanation": "The 73rd Amendment Act, 1992 (in force from 24 April 1993) added Part IX on Panchayats.",
+      "explanationHi": "73वें संशोधन अधिनियम, 1992 (24 अप्रैल 1993 से लागू) ने पंचायतों पर भाग IX जोड़ा।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which is the largest state of India by area?",
+      "textHi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन-सा है?",
+      "options": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "optionsHi": [
+        "मध्य प्रदेश",
+        "महाराष्ट्र",
+        "राजस्थान",
+        "उत्तर प्रदेश"
+      ],
+      "answer": 2,
+      "explanation": "Rajasthan (about 3.42 lakh sq km) is the largest state by area.",
+      "explanationHi": "राजस्थान (लगभग 3.42 लाख वर्ग किमी) क्षेत्रफल में सबसे बड़ा राज्य है।"
+    }
+  ]
+}

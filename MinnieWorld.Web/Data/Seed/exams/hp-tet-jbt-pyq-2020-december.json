@@ -1,0 +1,2195 @@
+{
+  "slug": "hp-tet-jbt-pyq-2020-december",
+  "version": 1,
+  "title": "HP TET JBT · December 2020 (previous year questions)",
+  "description": "Questions asked in the HP TET JBT exam of the November 2020 session (held 14 December 2020), with answers checked against a published solved paper and independently verified. Not the complete paper: garbled, outdated or doubtful questions were left out.",
+  "category": "HP TET JBT",
+  "kind": "Previous year",
+  "year": 2020,
+  "durationMinutes": 134,
+  "price": 10,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "IQ of an 8 year old student, whose Mental Age is 6 years, will be",
+      "options": [
+        "80",
+        "75",
+        "70",
+        "65"
+      ],
+      "answer": 1,
+      "textHi": "8 वर्षीय विद्यार्थी, जिसको मानसिक आयु 6 वर्ष है, को बुद्धि-लब्धि होगी-",
+      "optionsHi": [
+        "80",
+        "75",
+        "70",
+        "65"
+      ],
+      "explanation": "IQ = (MA/CA) × 100 = (6/8) × 100 = 75. (Q1 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The part of personality which develops last is",
+      "options": [
+        "Ego",
+        "Super Ego",
+        "Id",
+        "Unconscious"
+      ],
+      "answer": 1,
+      "textHi": "सबसे अन्त में विकसित होने वाला व्यक्तित्व का भाग है-",
+      "optionsHi": [
+        "अहम्",
+        "पराहम्",
+        "इदम्",
+        "अचेतन"
+      ],
+      "explanation": "In Freud's structure of personality the super-ego (conscience) develops last, after the id and ego. (Q2 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Stage during which psycho-sexual energy is directed towards developing peer group social relations is",
+      "options": [
+        "Oral",
+        "Anal",
+        "Latency",
+        "Genital"
+      ],
+      "answer": 2,
+      "textHi": "वह अवस्था जिसमें काम उर्जा साथी-समूह के साथ सामाजिक सम्बन्ध विकसित करने में निर्देशित होती है-",
+      "optionsHi": [
+        "मुखीय",
+        "गुदीय",
+        "कामप्रसुप्ति",
+        "जननांगीय"
+      ],
+      "explanation": "In the latency stage (about 6 to 12 years) sexual energy is channelled into school work and same-sex peer relations. (Q3 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Morality is decided on the basis of personal norms during the",
+      "options": [
+        "Post-Conventional level",
+        "Conventional level",
+        "Pre-Conventional Level",
+        "None of the above"
+      ],
+      "answer": 0,
+      "textHi": "व्यक्तिगत मानकों के आधार पर नैतिकता निर्धारण किया जाता है-",
+      "optionsHi": [
+        "उत्तर - पारम्परिक स्तर में",
+        "पारम्परिक स्तर में",
+        "पूर्व - पारम्परिक स्तर में",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "At Kohlberg's post-conventional level, morality is judged by self-chosen personal and universal principles. (Q4 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The ability to produce diverse thoughts on a subject is",
+      "options": [
+        "Perception",
+        "Intelligence",
+        "Creativity",
+        "Sensation"
+      ],
+      "answer": 2,
+      "textHi": "एक विषय पर विविध बिचार उत्पन्न करने की क्षमता है-",
+      "optionsHi": [
+        "प्रत्यक्षीकरण",
+        "बुद्धि",
+        "सृजनात्मकता",
+        "संवेदना"
+      ],
+      "explanation": "Creativity involves divergent thinking: producing many varied ideas on a topic. (Q5 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who gave the stimulus substitution theory of learning?",
+      "options": [
+        "Thorndike",
+        "Skinner",
+        "Pavlov",
+        "None of above"
+      ],
+      "answer": 2,
+      "textHi": "अधिगम का उद्दीपन प्रतिस्थापन सिद्धान्त किसने दिया?",
+      "optionsHi": [
+        "थॉर्नडाइक",
+        "स्किनर",
+        "पावलव",
+        "उपरोक्त में से कोई नहीं"
+      ],
+      "explanation": "Pavlov's classical conditioning is called stimulus substitution: the conditioned stimulus substitutes for the natural one. (Q6 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Low IQ of children brought up in orphanages is mainly due to",
+      "options": [
+        "Deprived Environment",
+        "Heredity",
+        "Biological Deprivation",
+        "None of the above"
+      ],
+      "answer": 0,
+      "textHi": "अनाथालयों में पलने वाले बालकों की कम बुद्धि-लब्धि का प्रमुख कारण है-",
+      "optionsHi": [
+        "वंचित वातावरण",
+        "आनुवंशिक कारक",
+        "जैविक वंचितता",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "Children in orphanages often lack stimulation and care; this deprived environment lowers measured IQ. (Q7 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Erikson's developmental task for elementary school students is",
+      "options": [
+        "Knowledge and skill acquisition",
+        "Autonomy acquisition",
+        "Trust acquisition",
+        "Identity acquisition"
+      ],
+      "answer": 0,
+      "textHi": "प्रारम्भिक विद्यार्थियों के लिए एरिक्सन का मुख्य विकासात्मक कार्य है-",
+      "optionsHi": [
+        "ज्ञान व कौशल अर्जन",
+        "स्वायत्तता अर्जन",
+        "विश्वास अर्जन",
+        "पहचान अर्जन"
+      ],
+      "explanation": "Erikson's school-age stage is industry vs inferiority, when children acquire knowledge and skills. (Q8 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "As a science, Educational Psychology emphasises",
+      "options": [
+        "Measurement",
+        "Past events",
+        "Internal factors",
+        "None of the above"
+      ],
+      "answer": 0,
+      "textHi": "एक विज्ञान के रूप में शिक्षा मनोविज्ञान बल देता है-",
+      "optionsHi": [
+        "मापन पर",
+        "पूर्व घटनाओं पर",
+        "आन्तरिक कारकों पर",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "As a science, educational psychology relies on objective measurement and observation. (Q9 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The approximate percentage of the population having IQ above 130 is",
+      "options": [
+        "50",
+        "16",
+        "6.5",
+        "2.2"
+      ],
+      "answer": 3,
+      "textHi": "जनसंख्या में 130 से अधिक बुद्धि-लब्धि वाले व्यक्तियों का प्रतिशत (लगभग) होगा-",
+      "optionsHi": [
+        "50",
+        "16",
+        "6.5",
+        "2.2"
+      ],
+      "explanation": "IQ above 130 is two standard deviations above the mean; about 2.2% of people fall there. (Q10 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-1.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "First stage of development is",
+      "options": [
+        "Infancy",
+        "Pre-Natal",
+        "Childhood",
+        "None of the above"
+      ],
+      "answer": 1,
+      "textHi": "विकास की प्रथम अवस्था है-",
+      "optionsHi": [
+        "शैशवावस्था",
+        "जन्म पूर्व (गर्भावस्था)",
+        "बाल्यावस्था",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "Development begins at conception, so the prenatal stage comes first. (Q11 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Semantic Memory is mainly associated with",
+      "options": [
+        "Skill Learning",
+        "Important Events",
+        "General Knowledge",
+        "None of the above"
+      ],
+      "answer": 2,
+      "textHi": "अर्थगत स्मृति (सिमेंटिक मेमोरी) मुख्यतः सम्बंधित है-",
+      "optionsHi": [
+        "कौशल अधिगम से",
+        "महत्त्वपूर्ण घटनाओं से",
+        "सामान्य ज्ञान से",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "Semantic memory stores general knowledge and facts (meanings, concepts). (Q12 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Concept of mental age was given by :",
+      "options": [
+        "Terman",
+        "Simon",
+        "Binet",
+        "Stanford"
+      ],
+      "answer": 2,
+      "textHi": "मानसिक आयु का सम्प्रत्यय दिया गया है",
+      "optionsHi": [
+        "टर्मन द्वारा",
+        "साइमन द्वारा",
+        "बिने द्वारा",
+        "स्टैनफोर्ड द्वारा"
+      ],
+      "explanation": "Alfred Binet introduced the concept of mental age in the Binet-Simon scale (1905/1908). (Q13 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Multidimensional ability is :",
+      "options": [
+        "Mechanical Aptitude",
+        "Attitude",
+        "Intelligence",
+        "Numerical Ability"
+      ],
+      "answer": 2,
+      "textHi": "बहुआयामी योग्यता है-",
+      "optionsHi": [
+        "यान्त्रिकी अभिक्षमता",
+        "अभिवृत्ति",
+        "बुद्धि",
+        "अंकगणितीय क्षमता"
+      ],
+      "explanation": "Intelligence is regarded as a multidimensional ability (Thurstone, Gardner, Guilford). (Q14 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to ........, the self is the central point of personality.",
+      "options": [
+        "Constructivism",
+        "Behaviourism",
+        "Humanism",
+        "None of the above"
+      ],
+      "answer": 2,
+      "textHi": "........ के अनुसार स्व (आत्म) व्यक्तित्व का केन्द्र बिन्दु है।",
+      "optionsHi": [
+        "संरचनावाद",
+        "व्यवहारवाद",
+        "मानवतावाद",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "Humanistic psychology (Carl Rogers) treats the self as the core of personality. (Q15 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What types of tests are army alpha and army beta?",
+      "options": [
+        "Individual intelligence tests",
+        "Group intelligence tests",
+        "Creativity tests",
+        "Personality tests"
+      ],
+      "answer": 1,
+      "textHi": "आर्मी अल्फा और आर्मी बीटा किस प्रकार के परीक्षण हैं?",
+      "optionsHi": [
+        "व्यक्तिगत बुद्धि परीक्षण",
+        "सामूहिक बुद्धि परीक्षण",
+        "सृजनात्मकता परीक्षण",
+        "व्यक्तित्व परीक्षण"
+      ],
+      "explanation": "Army Alpha (verbal) and Army Beta (non-verbal) were group intelligence tests used in World War I. (Q17 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Freud the basic human motivation is :",
+      "options": [
+        "Aggression",
+        "Sex",
+        "Hunger",
+        "Both (A) and (B)"
+      ],
+      "answer": 3,
+      "textHi": "फ्रायड के अनुसार मूल मानव प्रेरणा है -",
+      "optionsHi": [
+        "आक्रामकता",
+        "काम (लिंग)",
+        "भूख",
+        "(A) और (B) दोनों"
+      ],
+      "explanation": "Freud saw sex (Eros) and aggression (Thanatos) as the two basic human drives. (Q18 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Most people with Down syndrome (formerly called \"Mongolism\") have ........ chromosomes instead of 46.",
+      "options": [
+        "45",
+        "48",
+        "47",
+        "44"
+      ],
+      "answer": 2,
+      "textHi": "डाउन सिंड्रोम (पहले \"मंगोलिज़्म\" कहा जाता था) वाले अधिकांश व्यक्तियों में 46 के स्थान पर ........ गुणसूत्र होते हैं।",
+      "optionsHi": [
+        "45",
+        "48",
+        "47",
+        "44"
+      ],
+      "explanation": "Down syndrome results from trisomy 21, giving 47 chromosomes instead of 46. (Q19 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-2.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Span of attention is ……………",
+      "options": [
+        "Limited",
+        "Unlimited",
+        "Unknown",
+        "None of the above"
+      ],
+      "answer": 0,
+      "textHi": "अवधान का विस्तार ................ हैं।",
+      "optionsHi": [
+        "सीमित",
+        "असीमित",
+        "अज्ञात",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "Attention span is limited: we can attend to only a few things at a time. (Q21 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Retrieval is the process involved in ……………..",
+      "options": [
+        "Sensation",
+        "Perception",
+        "Attention",
+        "Memory"
+      ],
+      "answer": 3,
+      "textHi": "पुनःप्राप्ति (Retrieval) ........ में शामिल एक प्रक्रिया है।",
+      "optionsHi": [
+        "संवेदना",
+        "प्रत्यक्षीकरण",
+        "अवधान",
+        "स्मृति"
+      ],
+      "explanation": "Memory involves encoding, storage and retrieval; retrieval is recalling stored information. (Q22 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "WISC is used to measure the intelligence of",
+      "options": [
+        "Children",
+        "Infants",
+        "Adults",
+        "None of the above"
+      ],
+      "answer": 0,
+      "textHi": "WISC द्वारा ............ बुद्धि का मापन किया जाता है।",
+      "optionsHi": [
+        "बालकों की",
+        "शिशुओं की",
+        "वयस्कों की",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "WISC is the Wechsler Intelligence Scale for Children. (Q23 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "........ categorised the stages of personality development on the basis of the resolution of social conflicts.",
+      "options": [
+        "Freud",
+        "Erikson",
+        "Maslow",
+        "Piaget"
+      ],
+      "answer": 1,
+      "textHi": ".................. ने सामाजिक संघर्ष के समाधन के आधार पर व्यक्तित्व विकास की अवस्थाओं का वर्गीकरण किया है।",
+      "optionsHi": [
+        "फ्रायड",
+        "एरिक्सन",
+        "मास्लो",
+        "पियाजे"
+      ],
+      "explanation": "Erikson's eight psychosocial stages are each defined by a social conflict (crisis) to be resolved. (Q24 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "To select some information for processing and to relegate others to periphery is",
+      "options": [
+        "Learning",
+        "Memory",
+        "Attention",
+        "Sensation"
+      ],
+      "answer": 2,
+      "textHi": "सूचना प्रक्रमण के लिए कुछ सूचनाओं को चयनित कर अन्य को परिधि में धकेलने की प्रक्रिया है-",
+      "optionsHi": [
+        "अधिगम",
+        "स्मृति",
+        "अवधान",
+        "संवेदना"
+      ],
+      "explanation": "Attention selects some information for processing and pushes the rest to the periphery (margin) of consciousness. (Q25 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who said, \"The process of education is entirely at the mercy of psychology\"?",
+      "options": [
+        "Skinner",
+        "B.N.Jha",
+        "Davis",
+        "Crow and Crow"
+      ],
+      "answer": 1,
+      "textHi": "यह किसने कहा - \"शिक्षा की प्रक्रिया पूर्णतया मनोविज्ञान की कृपा पर निर्भर है\"?",
+      "optionsHi": [
+        "स्किनर",
+        "बी. एन. झा",
+        "डेविस",
+        "क्रो एवं क्रो"
+      ],
+      "explanation": "This statement is attributed to B.N. Jha. (Q26 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Area of physical development is",
+      "options": [
+        "Nervous system",
+        "Growth of muscles",
+        "Endocrine gland",
+        "All of the above"
+      ],
+      "answer": 3,
+      "textHi": "शारीरिक विकास का क्षेत्र है-",
+      "optionsHi": [
+        "स्नायुमण्डल",
+        "मांसपेशियों की वृद्धि",
+        "अंतः स्रावी ग्रंथियाँ",
+        "उपरोक्त सभी"
+      ],
+      "explanation": "Physical development includes the nervous system, muscles and endocrine glands. (Q27 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Strong motivation is an effective factor of learning. Under it the child",
+      "options": [
+        "becomes healthy",
+        "meditates",
+        "feels happy",
+        "learns rapidly"
+      ],
+      "answer": 3,
+      "textHi": "सशक्त अभिप्रेरणा सीखनें का प्रभावशाली घटक है। इसमें बालक",
+      "optionsHi": [
+        "स्वस्थ रहता है",
+        "ध्यान करता है",
+        "प्रसन्न रहता है",
+        "शीघ्र सीखता है"
+      ],
+      "explanation": "A strongly motivated child learns quickly and effectively. (Q28 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who said, \"Social development means the attaining of maturity in social relationships\"?",
+      "options": [
+        "Sorenson",
+        "Hurlock",
+        "Ross",
+        "Alice Crow"
+      ],
+      "answer": 1,
+      "textHi": "यह किसने कहा - “सामाजिक विकास का अर्थ सामाजिक सम्बन्धों में परिपक्वता प्राप्त करना है”?",
+      "optionsHi": [
+        "सोरेनसन",
+        "हरलॉक",
+        "रॉस",
+        "ऐलिस क्रो"
+      ],
+      "explanation": "Hurlock defined social development as the attaining of maturity in social relationships. (Q29 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-3.html"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who propounded the Dalton method?",
+      "options": [
+        "Froebel",
+        "Maria Montessori",
+        "Armstrong",
+        "Helen Parkhurst"
+      ],
+      "answer": 3,
+      "textHi": "डाल्टन पद्धति के प्रतिपादक कौन थे?",
+      "optionsHi": [
+        "फ्रोबेल",
+        "मारिया मॉन्टेसरी",
+        "आर्मस्ट्रांग",
+        "हेलेन पार्कहर्स्ट"
+      ],
+      "explanation": "Helen Parkhurst developed the Dalton Plan (Dalton, Massachusetts, 1920). (Q30 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-3.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct plural: Calf",
+      "options": [
+        "Calfs",
+        "Calfes",
+        "Calv",
+        "Calves"
+      ],
+      "answer": 3,
+      "explanation": "Nouns ending in -f often change to -ves: calf → calves. (Q31 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct plural: Child",
+      "options": [
+        "Childs",
+        "Childes",
+        "Children",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "Child → children (irregular plural). (Q32 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct plural: Man",
+      "options": [
+        "Mans",
+        "Manes",
+        "Men",
+        "Mens"
+      ],
+      "answer": 2,
+      "explanation": "Man → men (irregular plural). (Q33 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct passive form: I know her.",
+      "options": [
+        "She is known to me.",
+        "She is known by me.",
+        "She is known by her.",
+        "She is know by me."
+      ],
+      "answer": 0,
+      "explanation": "'Know' takes 'to' in the passive: She is known to me. (Q34 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct passive form: I can do it.",
+      "options": [
+        "It can done by me.",
+        "It can do by me.",
+        "It can be done.",
+        "It can be done by me."
+      ],
+      "answer": 3,
+      "explanation": "Modal passive: modal + be + past participle: It can be done by me. (Q35 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct passive form: Children are flying kites.",
+      "options": [
+        "Children are flying kites.",
+        "Children flying kite.",
+        "Kites are flown by children.",
+        "Kites are being flown by children."
+      ],
+      "answer": 3,
+      "explanation": "Present continuous passive: are being + past participle: Kites are being flown by children. (Q36 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: Seema was absent ........ the class.",
+      "options": [
+        "from",
+        "in",
+        "to",
+        "for"
+      ],
+      "answer": 0,
+      "explanation": "We are 'absent from' a place. (Q37 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: My ........ brother is coming today.",
+      "options": [
+        "big",
+        "elder",
+        "older",
+        "small"
+      ],
+      "answer": 1,
+      "explanation": "'Elder' is used for family seniority (elder brother). (Q38 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: Here is ........ egg.",
+      "options": [
+        "an",
+        "the",
+        "a",
+        "None of these"
+      ],
+      "answer": 0,
+      "explanation": "'Egg' begins with a vowel sound, so it takes 'an'. (Q39 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: Why are you so angry ........ me?",
+      "options": [
+        "at",
+        "on",
+        "with",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "We are angry 'with' a person and 'at' a thing. (Q40 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most opposite in meaning to: BOLD",
+      "options": [
+        "Slow",
+        "Forward",
+        "Lay",
+        "Timid"
+      ],
+      "answer": 3,
+      "explanation": "Timid (shy, lacking courage) is the opposite of bold. (Q41 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most opposite in meaning to: LOVE",
+      "options": [
+        "Sad",
+        "Hurt",
+        "Hatred",
+        "Anger"
+      ],
+      "answer": 2,
+      "explanation": "Hatred is the opposite of love. (Q42 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most opposite in meaning to: HOPE",
+      "options": [
+        "Dislike",
+        "Disappointment",
+        "Despair",
+        "Disagree"
+      ],
+      "answer": 2,
+      "explanation": "Despair is the complete loss of hope. (Q43 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the one word for: Words with the same meaning.",
+      "options": [
+        "Same",
+        "Similar",
+        "Synonyms",
+        "Real"
+      ],
+      "answer": 2,
+      "explanation": "Synonyms are words with the same or similar meaning. (Q44 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the one word for: Happening every year.",
+      "options": [
+        "Annual",
+        "Quarterly",
+        "Monthly",
+        "None of these"
+      ],
+      "answer": 0,
+      "explanation": "Annual means happening once every year. (Q45 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the one word for: A small thin piece of potato.",
+      "options": [
+        "Chunk",
+        "Bit",
+        "Piece",
+        "Chip"
+      ],
+      "answer": 3,
+      "explanation": "A chip is a small thin piece (as in potato chips). (Q47 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct feminine form: Sir",
+      "options": [
+        "Madem",
+        "Madum",
+        "Madam",
+        "Mesdame"
+      ],
+      "answer": 2,
+      "explanation": "The feminine of Sir is Madam. (Q48 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct feminine form: Lord",
+      "options": [
+        "Lords",
+        "Lady",
+        "Less",
+        "Lordess"
+      ],
+      "answer": 1,
+      "explanation": "The feminine of Lord is Lady. (Q49 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct feminine form: Duke",
+      "options": [
+        "Dukess",
+        "Lady Duke",
+        "Duchess",
+        "Sheduke"
+      ],
+      "answer": 2,
+      "explanation": "The feminine of Duke is Duchess. (Q50 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correctly spelt word. (i)",
+      "options": [
+        "Elephent",
+        "Elephnt",
+        "Elephant",
+        "Elefant"
+      ],
+      "answer": 2,
+      "explanation": "'Elephant' is the correct spelling. (Q52 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correctly spelt word. (ii)",
+      "options": [
+        "Weather",
+        "Weathar",
+        "Wheather",
+        "Weathor"
+      ],
+      "answer": 0,
+      "explanation": "'Weather' is the correct spelling. (Q53 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word nearest in meaning to: RARE",
+      "options": [
+        "Uncommon",
+        "Special",
+        "Particular",
+        "Difficult"
+      ],
+      "answer": 0,
+      "explanation": "Rare means uncommon. (Q54 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word nearest in meaning to: MEETING",
+      "options": [
+        "Conference",
+        "Assembly",
+        "Gathering",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "A meeting can be called a conference, an assembly or a gathering. (Q55 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word nearest in meaning to: HANDSOME",
+      "options": [
+        "Good looking",
+        "Cute",
+        "Far",
+        "None of these"
+      ],
+      "answer": 0,
+      "explanation": "Handsome means good-looking. (Q56 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the right word to complete the idiom: A white ........",
+      "options": [
+        "car",
+        "elephant",
+        "job",
+        "man"
+      ],
+      "answer": 1,
+      "explanation": "A white elephant is a costly possession that is of little use. (Q57 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Complete the proverb: Money makes the mare ........",
+      "options": [
+        "do",
+        "go",
+        "work",
+        "thing"
+      ],
+      "answer": 1,
+      "explanation": "The proverb is \"Money makes the mare go\". (Q59 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Complete the proverb: Much cry and little ........",
+      "options": [
+        "cotton",
+        "sugar",
+        "wool",
+        "happy"
+      ],
+      "answer": 2,
+      "explanation": "The proverb is \"Much cry and little wool\": a lot of fuss with little result. (Q60 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-6.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "उत्थान शब्द में कौन सा उपसर्ग प्रयुक्त हुआ है?",
+      "options": [
+        "उत्",
+        "अन",
+        "अत",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "उत्थान = उत् + स्थान; उपसर्ग \"उत्\" है। (Q61 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'धीरे-धीरे चलो नहीं तो थक जाओगे।' वाक्य में कौन-सा अव्यय प्रयुक्त हुआ है?",
+      "options": [
+        "कालवाचक क्रिया विशेषण",
+        "रीतिवाचक क्रिया विशेषण",
+        "स्थानवाचक क्रिया विशेषण",
+        "परिमाणवाचक क्रिया विशेषण"
+      ],
+      "answer": 1,
+      "explanation": "'धीरे-धीरे' क्रिया के होने की रीति बताता है, अतः रीतिवाचक क्रियाविशेषण है। (Q62 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "सरल, पीला, घरेलू, बीमार, मीठा शब्द कौन से विशेषण के अंतर्गत आते हैं?",
+      "options": [
+        "गुणवाचक",
+        "परिमाणवाचक",
+        "संख्यावाचक",
+        "सार्वनामिक"
+      ],
+      "answer": 0,
+      "explanation": "ये शब्द संज्ञा के गुण, रंग, दशा, स्वाद बताते हैं, अतः गुणवाचक विशेषण हैं। (Q63 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "नम: + ते = नमस्ते शब्द में कौन सी संधि है?",
+      "options": [
+        "वृद्धि संधि",
+        "गुण संधि",
+        "यण संधि",
+        "विसर्ग संधि"
+      ],
+      "answer": 3,
+      "explanation": "नमः + ते = नमस्ते; विसर्ग का स् में बदलना विसर्ग संधि है। (Q64 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "निज की भाववाचक संज्ञा है :-",
+      "options": [
+        "निजी",
+        "नित्यता",
+        "निजत्व",
+        "निकाय"
+      ],
+      "answer": 2,
+      "explanation": "'निज' की भाववाचक संज्ञा 'निजत्व' है। (Q65 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "वह कौन-सा वाचन है जो गद्य में तो प्रयुक्त होता है परन्तु पद्य में नहीं?",
+      "options": [
+        "मौन वाचन",
+        "आदर्श वाचन",
+        "स्वर वाचन",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "मौन वाचन गद्य के लिए उपयुक्त है; कविता लय और भाव के कारण सस्वर पढ़ी जाती है। (Q66 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "ड़, ढ़ व्यंजन हैं:",
+      "options": [
+        "कंठ्य",
+        "दंत्य",
+        "उत्क्षिप्त",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "ड़ और ढ़ उत्क्षिप्त (द्विगुण/ताड़नजात) व्यंजन हैं, जिनमें जीभ ऊपर उठकर झटके से नीचे गिरती है। (Q67 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "तुलसीदास द्वारा रचित \"रामचरितमानस\" को किस भाषा में लिखा गया?",
+      "options": [
+        "हिन्दी",
+        "फारसी",
+        "अवधी",
+        "अपभ्रंश"
+      ],
+      "answer": 2,
+      "explanation": "तुलसीदास ने रामचरितमानस अवधी भाषा में लिखा। (Q68 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'नीलकंठ' शब्द में कौन-सा समास है?",
+      "options": [
+        "द्विगु",
+        "द्वन्द्व",
+        "तत्पुरुष",
+        "बहुव्रीहि"
+      ],
+      "answer": 3,
+      "explanation": "नीलकंठ = नीला है कंठ जिसका अर्थात् शिव; अन्य पद प्रधान होने से बहुव्रीहि समास। (Q69 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "किस विधि में पहले उदाहरण और बाद में परिभाषा दी जाती है?",
+      "options": [
+        "निगमन विधि",
+        "आगमन बोध विधि",
+        "वर्ण बोध विधि",
+        "वाक्य बोध विधि"
+      ],
+      "answer": 1,
+      "explanation": "आगमन विधि में पहले उदाहरण दिए जाते हैं और उनसे नियम/परिभाषा निकाली जाती है। (Q70 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-7.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'गुरु जी ने कहा कि कल छुट्टी रहेगी' वाक्य है:",
+      "options": [
+        "सरल",
+        "संयुक्त",
+        "मिश्र",
+        "प्रश्नवाचक"
+      ],
+      "answer": 2,
+      "explanation": "प्रधान उपवाक्य के साथ 'कि' से जुड़ा आश्रित उपवाक्य होने से यह मिश्र वाक्य है। (Q73 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "निम्नलिखित में से कौन-सा शब्द 'आत्मा' का पर्यायवाची नहीं है?",
+      "options": [
+        "चैतन्य",
+        "ब्रह्म",
+        "विभु",
+        "वैभव"
+      ],
+      "answer": 3,
+      "explanation": "'वैभव' का अर्थ धन-संपत्ति है; चैतन्य, ब्रह्म, विभु आत्मा के पर्याय हैं। (Q74 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'जिसकी लाठी उसकी भैंस' वाक्य में कौन-सा सर्वनाम प्रयुक्त हुआ है?",
+      "options": [
+        "संबंधवाचक",
+        "निजवाचक",
+        "पुरुषवाचक",
+        "प्रश्नवाचक"
+      ],
+      "answer": 0,
+      "explanation": "'जिसकी...उसकी' दो उपवाक्यों का संबंध जोड़ते हैं, अतः संबंधवाचक सर्वनाम। (Q75 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'हे भगवान! रक्षा करो।' वाक्य में कौन-सा कारक प्रयुक्त हुआ है?",
+      "options": [
+        "अधिकरण",
+        "अपादान",
+        "संबोधन",
+        "करण"
+      ],
+      "answer": 2,
+      "explanation": "'हे भगवान!' में किसी को पुकारा गया है, अतः संबोधन कारक। (Q78 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'हिन्दी की चिन्दी निकालना' मुहावरे का अर्थ है:",
+      "options": [
+        "किसी बात की तह तक पहुँचना",
+        "हिन्दी को बिन्दी लगाना",
+        "बात का बतंगड़ बनाना",
+        "घुलमिल जाना"
+      ],
+      "answer": 0,
+      "explanation": "इस मुहावरे का अर्थ है किसी बात की बारीकी से छानबीन करना, उसकी तह तक पहुँचना। (Q79 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'आप चाय पिएँगे या कॉफी?' वाक्य है:",
+      "options": [
+        "सरल",
+        "संयुक्त",
+        "मिश्र",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "'या' समानाधिकरण योजक से दो स्वतंत्र उपवाक्य जुड़े हैं, अतः संयुक्त वाक्य। (Q80 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-paper-part-8.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'लड़कियाँ शतरंज का खेल देख रही हैं।' वाक्य में क्रिया 'देख रही हैं' का भेद है:",
+      "options": [
+        "अकर्मक",
+        "सकर्मक",
+        "संयुक्त",
+        "प्रेरणार्थक"
+      ],
+      "answer": 1,
+      "explanation": "'देखना' क्रिया का कर्म 'खेल' है, अतः सकर्मक क्रिया। (Q81 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'बंदउँ गुरु पद पदुम परागा। सुरुचि सुबास सरस अनुरागा॥' उपर्युक्त पंक्तियों में कौन-सा छन्द प्रयुक्त हुआ है?",
+      "options": [
+        "दोहा",
+        "चौपाई",
+        "सोरठा",
+        "घनाक्षरी"
+      ],
+      "answer": 1,
+      "explanation": "रामचरितमानस की यह अर्धाली चौपाई छंद (16-16 मात्राएँ) में है। (Q82 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "वाक्यांश के लिए एक शब्द: 'अमृत के समान वचन'",
+      "options": [
+        "अमृतवचन",
+        "अमृतवाणी",
+        "चरणामृत",
+        "वचनामृत"
+      ],
+      "answer": 3,
+      "explanation": "अमृत के समान वचन = वचनामृत। (Q83 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "निम्नलिखित में से कौन-सा विराम चिह्न उद्धरण चिह्न है?",
+      "options": [
+        "।",
+        "( )",
+        "\" \"",
+        ";"
+      ],
+      "answer": 2,
+      "explanation": "उद्धरण चिह्न \" \" किसी के कथन को ज्यों का त्यों लिखने में प्रयुक्त होता है। (Q84 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'काली घटा का घमंड घटा' पंक्ति में कौन-सा अलंकार है?",
+      "options": [
+        "यमक",
+        "अनुप्रास",
+        "श्लेष",
+        "रूपक"
+      ],
+      "answer": 0,
+      "explanation": "'घटा' शब्द दो बार भिन्न अर्थों (बादल, कम होना) में आया है, अतः यमक अलंकार। (Q85 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'कविता हमारे परिपूर्ण क्षणों की वाणी है।' यह किसका कथन है?",
+      "options": [
+        "प्रेमचन्द",
+        "सुमित्रानन्दन पंत",
+        "निराला",
+        "महादेवी वर्मा"
+      ],
+      "answer": 1,
+      "explanation": "यह परिभाषा सुमित्रानंदन पंत की मानी जाती है। (Q86 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'वह पढ़ता तो पास हो जाता।' वाक्य में कौन-सा काल है?",
+      "options": [
+        "सामान्य भूत",
+        "हेतुहेतुमद् भूत",
+        "अपूर्ण भूत",
+        "आसन्न भूत"
+      ],
+      "answer": 1,
+      "explanation": "एक क्रिया का होना दूसरी पर निर्भर हो और दोनों भूतकाल में न हुई हों तो हेतुहेतुमद् भूत होता है। (Q87 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'अंदर छूत नहीं, बाहर दूर-दूर' लोकोक्ति का अर्थ है:",
+      "options": [
+        "जिसका कोई न हो",
+        "मन में कुछ, बाहर कुछ",
+        "मन की बात",
+        "निरोग रहना"
+      ],
+      "answer": 1,
+      "explanation": "यह लोकोक्ति दिखावे या पाखंड के लिए है: मन में कुछ, बाहर कुछ। (Q88 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-9.html"
+    },
+    {
+      "section": "Hindi",
+      "text": "'लाख का घर राख होना' मुहावरे का अर्थ है:",
+      "options": [
+        "धनी का निर्धन होना",
+        "धनवान होना",
+        "समृद्धि आना",
+        "धूल चाटना"
+      ],
+      "answer": 0,
+      "explanation": "लाख का घर राख होना = धनी व्यक्ति का निर्धन हो जाना (सब कुछ नष्ट हो जाना)। (Q90 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-9.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "If the freezing point of a gas at sea level is −435°F, its freezing point in °C is (approximately)",
+      "options": [
+        "−403°C",
+        "−540°C",
+        "−259°C",
+        "−306°C"
+      ],
+      "answer": 2,
+      "textHi": "यदि किसी गैस का जमाव बिन्दु समुद्र तल पर −435°F हो, तो °C में उसका जमाव बिन्दु (लगभग) होगा",
+      "optionsHi": [
+        "−403°C",
+        "−540°C",
+        "−259°C",
+        "−306°C"
+      ],
+      "explanation": "°C = (°F − 32) × 5/9 = (−435 − 32) × 5/9 ≈ −259.4°C. (Q91 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "For a circle, the value of π is",
+      "options": [
+        "Area/Circumference",
+        "Area/Diameter",
+        "Circumference/Diameter",
+        "Circumference/Radius"
+      ],
+      "answer": 2,
+      "textHi": "वृत्त के संदर्भ में π का मान है-",
+      "optionsHi": [
+        "क्षेत्रफल/परिधि",
+        "क्षेत्रफल/व्यास",
+        "परिधि/व्यास",
+        "परिधि/त्रिज्या"
+      ],
+      "explanation": "π = circumference ÷ diameter for every circle. (Q92 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The difference of two complementary angles is 30°. The angles are",
+      "options": [
+        "20°, 50°",
+        "60°, 30°",
+        "70°, 40°",
+        "75°, 105°"
+      ],
+      "answer": 1,
+      "textHi": "दो पूरक कोणों का अंतर 30° है। कोण हैं :-",
+      "optionsHi": [
+        "20°, 50°",
+        "60°, 30°",
+        "70°, 40°",
+        "75°, 105°"
+      ],
+      "explanation": "x + y = 90 and x − y = 30 give 60° and 30°. (Q93 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "If 45 is added to half of a number, the result is triple the number. The number is",
+      "options": [
+        "48",
+        "64",
+        "18",
+        "32"
+      ],
+      "answer": 2,
+      "textHi": "यदि किसी संख्या के आधे में 45 जोड़ा जाए तो परिणाम उस संख्या का तिगुना हो जाता है। संख्या है",
+      "optionsHi": [
+        "48",
+        "64",
+        "18",
+        "32"
+      ],
+      "explanation": "x/2 + 45 = 3x gives 2.5x = 45, so x = 18. (Q94 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A speed of 72 km/h expressed in metres/second is",
+      "options": [
+        "(72 × 3600)/1000",
+        "(72 × 1000)/3600",
+        "(72 × 36)/100",
+        "(72 × 3600)/100"
+      ],
+      "answer": 1,
+      "textHi": "72 किमी/घंटा की गति को मीटर/सेकंड में व्यक्त करने पर प्राप्त होता है",
+      "optionsHi": [
+        "(72 × 3600)/1000",
+        "(72 × 1000)/3600",
+        "(72 × 36)/100",
+        "(72 × 3600)/100"
+      ],
+      "explanation": "1 km/h = 1000/3600 m/s, so 72 km/h = (72 × 1000)/3600 = 20 m/s. (Q95 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Which of the following has the largest value?",
+      "options": [
+        "3.2/50",
+        "3.2/0.05",
+        "0.320/50",
+        "32/0.05"
+      ],
+      "answer": 3,
+      "textHi": "निम्नलिखित में से किसका मूल्य सबसे बड़ा है?",
+      "optionsHi": [
+        "3.2/50",
+        "3.2/0.05",
+        "0.320/50",
+        "32/0.05"
+      ],
+      "explanation": "32/0.05 = 640, larger than 64, 0.064 and 0.0064. (Q96 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Two supplementary angles are in the ratio 1 : 2. The bigger angle is",
+      "options": [
+        "90°",
+        "110°",
+        "120°",
+        "125°"
+      ],
+      "answer": 2,
+      "textHi": "दो संपूरक कोण 1 : 2 के अनुपात में हैं, तो बड़ा कोण है",
+      "optionsHi": [
+        "90°",
+        "110°",
+        "120°",
+        "125°"
+      ],
+      "explanation": "x + 2x = 180°, so x = 60° and the bigger angle is 120°. (Q97 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Suresh bought 20 kg of apples at Rs 50 per kg. 5% of the apples were found rotten. If he sells the rest at Rs 60 per kg, find his profit per cent.",
+      "options": [
+        "24%",
+        "14%",
+        "9%",
+        "20%"
+      ],
+      "answer": 1,
+      "textHi": "सुरेश ने 20 किग्रा सेब 50 रुपये प्रति किग्रा की दर से खरीदे। इनमें से 5% सेब सड़े हुए पाए गए। यदि वह बाकी सेब 60 रुपये प्रति किग्रा बेचता है, तो लाभ प्रतिशत ज्ञात कीजिए।",
+      "optionsHi": [
+        "24%",
+        "14%",
+        "9%",
+        "20%"
+      ],
+      "explanation": "CP = 20 × 50 = Rs 1000; 19 kg sold at Rs 60 = Rs 1140; profit = 140/1000 = 14%. (Q98 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "25 ml out of 5 litres is equal to",
+      "options": [
+        "0.05%",
+        "0.5%",
+        "5%",
+        "25%"
+      ],
+      "answer": 1,
+      "textHi": "5 लीटर का 25 मिली बराबर है :-",
+      "optionsHi": [
+        "0.05%",
+        "0.5%",
+        "5%",
+        "25%"
+      ],
+      "explanation": "25 ml / 5000 ml × 100 = 0.5%. (Q99 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A shopkeeper has 48 litres of oil. He sold 5/8 of the oil to one family and 3 litres to another family. How many litres must he add to the remaining oil to make it 20 litres?",
+      "options": [
+        "3 litres",
+        "5 litres",
+        "6 litres",
+        "7 litres"
+      ],
+      "answer": 1,
+      "textHi": "एक दुकानदार के पास 48 लीटर तेल है। उसने एक परिवार को 5/8 तेल और दूसरे परिवार को 3 लीटर तेल बेचा। शेष तेल में वह कितने लीटर तेल मिलाए कि वह 20 लीटर हो जाए?",
+      "optionsHi": [
+        "3 लीटर",
+        "5 लीटर",
+        "6 लीटर",
+        "7 लीटर"
+      ],
+      "explanation": "48 − 5/8 × 48 = 18 litres; 18 − 3 = 15 litres; 20 − 15 = 5 litres to be added. (Q100 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-10.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The area of a semicircle of radius 4r is",
+      "options": [
+        "2πr²",
+        "4πr²",
+        "8πr²",
+        "12πr²"
+      ],
+      "answer": 2,
+      "textHi": "त्रिज्या 4r वाले अर्धवृत्त का क्षेत्रफल होगा",
+      "optionsHi": [
+        "2πr²",
+        "4πr²",
+        "8πr²",
+        "12πr²"
+      ],
+      "explanation": "Area = ½ π (4r)² = 8πr². (Q101 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The number 249636 is completely divisible by",
+      "options": [
+        "2, 3, 4",
+        "5, 2, 3",
+        "2, 3, 11",
+        "3, 4, 9"
+      ],
+      "answer": 0,
+      "textHi": "संख्या 249636 निम्न में से किससे पूर्णतया विभाज्य है?",
+      "optionsHi": [
+        "2, 3, 4",
+        "5, 2, 3",
+        "2, 3, 11",
+        "3, 4, 9"
+      ],
+      "explanation": "249636 is even, its digit sum 30 is divisible by 3 and its last two digits 36 are divisible by 4 (but 30 is not divisible by 9). (Q102 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Reeta's income is 25% more than Sita's. By what per cent is Sita's income less than Reeta's?",
+      "options": [
+        "75%",
+        "80%",
+        "25%",
+        "20%"
+      ],
+      "answer": 3,
+      "textHi": "यदि रीता की आय सीता की आय से 25% अधिक हो, तो सीता की आय रीता की आय से कितने प्रतिशत कम है?",
+      "optionsHi": [
+        "75%",
+        "80%",
+        "25%",
+        "20%"
+      ],
+      "explanation": "If Sita = 100, Reeta = 125; Sita is 25/125 = 20% less. (Q103 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "1/8 of a number is equal to (2/5) ÷ (1/20). The number is",
+      "options": [
+        "4",
+        "60",
+        "64",
+        "36"
+      ],
+      "answer": 2,
+      "textHi": "किसी संख्या का 1/8, (2/5) ÷ (1/20) के बराबर है। वह संख्या है",
+      "optionsHi": [
+        "4",
+        "60",
+        "64",
+        "36"
+      ],
+      "explanation": "(2/5) ÷ (1/20) = 8, so the number = 8 × 8 = 64. (Q104 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The simple interest on Rs 12000 at 10% per annum for one month is",
+      "options": [
+        "Rs 100",
+        "Rs 120",
+        "Rs 600",
+        "Rs 1200"
+      ],
+      "answer": 0,
+      "textHi": "10% वार्षिक की दर से ₹ 12000 पर एक महीने का साधारण ब्याज होगा",
+      "optionsHi": [
+        "₹ 100",
+        "₹ 120",
+        "₹ 600",
+        "₹ 1200"
+      ],
+      "explanation": "SI = 12000 × 10/100 × 1/12 = Rs 100. (Q105 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "10 men or 12 women can complete a job in 10 days. In how many days will 5 men and 6 women together complete it?",
+      "options": [
+        "15",
+        "12",
+        "10",
+        "8"
+      ],
+      "answer": 2,
+      "textHi": "यदि 10 आदमी या 12 औरतें एक काम को 10 दिन में करते हैं, तो 5 आदमी और 6 औरतें मिलकर उस काम को कितने दिनों में पूरा करेंगे?",
+      "optionsHi": [
+        "15",
+        "12",
+        "10",
+        "8"
+      ],
+      "explanation": "10 men = 12 women, so 5 men = 6 women; 5 men + 6 women = 12 women, who need 10 days. (Q106 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-11.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The perimeter of a rectangle is 40 m. Its length is 4 m less than 5 times its breadth. The length is",
+      "options": [
+        "16 m",
+        "64 m",
+        "24 m",
+        "20 m"
+      ],
+      "answer": 0,
+      "textHi": "एक आयत का परिमाप 40 m है। इसकी लम्बाई, चौड़ाई के 5 गुने से 4 m कम है। लम्बाई है",
+      "optionsHi": [
+        "16 m",
+        "64 m",
+        "24 m",
+        "20 m"
+      ],
+      "explanation": "2(l + b) = 40 and l = 5b − 4 give 6b − 4 = 20, b = 4 m, l = 16 m. (Q111 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A car covers 120 km in 4 hours. By how much should its speed be increased to cover the same distance in 3 hours?",
+      "options": [
+        "10 km/h",
+        "25 km/h",
+        "18 km/h",
+        "12 km/h"
+      ],
+      "answer": 0,
+      "textHi": "एक कार 4 घंटे में 120 किमी की दूरी तय करती है। 3 घंटे में समान दूरी तय करने के लिए कार की गति कितनी बढ़ाई जानी चाहिए?",
+      "optionsHi": [
+        "10 km/h",
+        "25 km/h",
+        "18 km/h",
+        "12 km/h"
+      ],
+      "explanation": "Speed needed = 120/3 = 40 km/h versus 30 km/h now, an increase of 10 km/h. (Q112 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The range of the data 6, 17, 18, 13, 21, 12, 4, 8 is",
+      "options": [
+        "12",
+        "17",
+        "8",
+        "15"
+      ],
+      "answer": 1,
+      "textHi": "आंकड़ों 6, 17, 18, 13, 21, 12, 4, 8 का परिसर है-",
+      "optionsHi": [
+        "12",
+        "17",
+        "8",
+        "15"
+      ],
+      "explanation": "Range = highest − lowest = 21 − 4 = 17. (Q113 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Which of the following cannot be the third side of a triangle whose other two sides are 18 cm and 14 cm?",
+      "options": [
+        "12 cm",
+        "8 cm",
+        "3 cm",
+        "21 cm"
+      ],
+      "answer": 2,
+      "textHi": "निम्नलिखित में से कौन-सी उस त्रिभुज की तीसरी भुजा नहीं हो सकती जिसकी दो भुजाएँ 18 सेमी और 14 सेमी हैं?",
+      "optionsHi": [
+        "12 सेमी",
+        "8 सेमी",
+        "3 सेमी",
+        "21 सेमी"
+      ],
+      "explanation": "The third side must lie between 18 − 14 = 4 cm and 18 + 14 = 32 cm, so 3 cm is impossible. (Q114 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "225% is equal to",
+      "options": [
+        "9 : 4",
+        "4 : 9",
+        "9 : 2",
+        "12 : 5"
+      ],
+      "answer": 0,
+      "textHi": "225% बराबर है",
+      "optionsHi": [
+        "9 : 4",
+        "4 : 9",
+        "9 : 2",
+        "12 : 5"
+      ],
+      "explanation": "225% = 225/100 = 9/4 = 9 : 4. (Q115 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The smallest four-digit number divisible by 18, 32 and 24 is",
+      "options": [
+        "1024",
+        "1096",
+        "1152",
+        "1056"
+      ],
+      "answer": 2,
+      "textHi": "चार अंकों की सबसे छोटी संख्या जो 18, 32 और 24 से पूर्णतः विभाज्य हो, है",
+      "optionsHi": [
+        "1024",
+        "1096",
+        "1152",
+        "1056"
+      ],
+      "explanation": "LCM(18, 32, 24) = 288; the first four-digit multiple is 288 × 4 = 1152. (Q117 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The LCM and HCF of two numbers are 280 and 14 respectively. If one number is 70, the other is",
+      "options": [
+        "40",
+        "100",
+        "144",
+        "56"
+      ],
+      "answer": 3,
+      "textHi": "दो संख्याओं का ल.स.प. तथा म.स.प. क्रमशः 280 व 14 है। यदि एक संख्या 70 हो, तो दूसरी संख्या होगी",
+      "optionsHi": [
+        "40",
+        "100",
+        "144",
+        "56"
+      ],
+      "explanation": "Other number = 280 × 14 ÷ 70 = 56. (Q118 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "If (13² − 5²)^(3/2) = 6³ × A, then the value of A is",
+      "options": [
+        "4",
+        "8",
+        "32",
+        "16"
+      ],
+      "answer": 1,
+      "textHi": "यदि (13² − 5²)^(3/2) = 6³ × A हो, तो A का मान है",
+      "optionsHi": [
+        "4",
+        "8",
+        "32",
+        "16"
+      ],
+      "explanation": "13² − 5² = 144; 144^(3/2) = 12³ = 1728 = 216 × 8, so A = 8. (Q119 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-12.html"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Which of the following is equal to 1?",
+      "options": [
+        "2⁰ + 3⁰ + 4⁰",
+        "2⁰ × 3⁰ × 4⁰",
+        "(3⁰ − 2⁰) × 4⁰",
+        "(3⁰ − 2⁰) × (3⁰ + 2⁰)"
+      ],
+      "answer": 1,
+      "textHi": "निम्न में से कौन-सा 1 के बराबर है?",
+      "optionsHi": [
+        "2⁰ + 3⁰ + 4⁰",
+        "2⁰ × 3⁰ × 4⁰",
+        "(3⁰ − 2⁰) × 4⁰",
+        "(3⁰ − 2⁰) × (3⁰ + 2⁰)"
+      ],
+      "explanation": "Any non-zero number to the power 0 is 1, so 2⁰ × 3⁰ × 4⁰ = 1 (the sum is 3 and the others are 0). (Q120 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-12.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Salar Jung Museum is located in which city?",
+      "options": [
+        "Delhi",
+        "Hyderabad",
+        "Kolkata",
+        "Ahmedabad"
+      ],
+      "answer": 1,
+      "textHi": "सालार जंग म्यूजियम कहाँ स्थित है?",
+      "optionsHi": [
+        "दिल्ली",
+        "हैदराबाद",
+        "कोलकाता",
+        "अहमदाबाद"
+      ],
+      "explanation": "The Salar Jung Museum is in Hyderabad. (Q121 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Child labour is dealt with in which Article of the Constitution of India?",
+      "options": [
+        "Article 24",
+        "Article 26",
+        "Article 30",
+        "Article 29"
+      ],
+      "answer": 0,
+      "textHi": "बाल श्रम का संबंध भारत के संविधान के किस अनुच्छेद से है?",
+      "optionsHi": [
+        "अनुच्छेद 24",
+        "अनुच्छेद 26",
+        "अनुच्छेद 30",
+        "अनुच्छेद 29"
+      ],
+      "explanation": "Article 24 prohibits employment of children below 14 in factories, mines and hazardous work. (Q122 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The first mega Food Park of Himachal Pradesh was started in which of the following district?",
+      "options": [
+        "Kangra",
+        "Chamba",
+        "Shimla",
+        "Una"
+      ],
+      "answer": 3,
+      "textHi": "हिमाचल प्रदेश का पहला मेगा फूड पार्क निम्नलिखित में से किस जिले में शुरू किया गया था?",
+      "optionsHi": [
+        "कांगड़ा",
+        "चंबा",
+        "शिमला",
+        "ऊना"
+      ],
+      "explanation": "HP's first Mega Food Park is at Singha, Haroli tehsil, Una district. (Q123 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which pass separates Lahaul from Spiti?",
+      "options": [
+        "Kunzum Pass",
+        "Rohtang Pass",
+        "Baralacha Pass",
+        "Shipkila Pass"
+      ],
+      "answer": 0,
+      "textHi": "निम्न में से कौन-सा दर्रा लाहौल और स्पीति को अलग करता है?",
+      "optionsHi": [
+        "कुंजुम दर्रा",
+        "रोहतांग दर्रा",
+        "बारालाचा दर्रा",
+        "शिपकिला दर्रा"
+      ],
+      "explanation": "Kunzum Pass (about 4,590 m) separates Lahaul from Spiti. (Q125 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is the name of the hills in Una district?",
+      "options": [
+        "Bhitri Shimla",
+        "Shivalik",
+        "Aravalli",
+        "Pir Panjal"
+      ],
+      "answer": 1,
+      "textHi": "ऊना जिले की पहाड़ियों का नाम क्या है?",
+      "optionsHi": [
+        "भीतरी शिमला",
+        "शिवालिक",
+        "अरावली",
+        "पीर पंजाल"
+      ],
+      "explanation": "Una lies in the Shivalik hills (the Sola Singhi range is part of them). (Q126 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Todar Mal was associated with",
+      "options": [
+        "Music",
+        "Literature",
+        "Land Revenue Reform",
+        "Law"
+      ],
+      "answer": 2,
+      "textHi": "टोडर मल किससे सम्बन्धित था?",
+      "optionsHi": [
+        "संगीत",
+        "साहित्य",
+        "भू-राजस्व सुधार",
+        "कानून"
+      ],
+      "explanation": "Raja Todar Mal was Akbar's finance minister and introduced the land revenue (Zabti/Dahsala) system. (Q127 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Whom did Ashoka send to Sri Lanka to spread Buddhism?",
+      "options": [
+        "Ashvaghosha",
+        "Sanghamitra and Mahendra",
+        "Moggaliputta Tissa",
+        "Vasumitra"
+      ],
+      "answer": 1,
+      "textHi": "अशोक ने बौद्ध धर्म के प्रचार के लिए किसे श्री लंका भेजा था?",
+      "optionsHi": [
+        "अश्वघोष",
+        "संघमित्रा एवं महेन्द्र",
+        "मोग्गलिपुत्त तिस्स",
+        "वसुमित्रा"
+      ],
+      "explanation": "Ashoka sent his son Mahendra and daughter Sanghamitra to Sri Lanka. (Q128 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which ruler of ancient India is depicted on his coins playing the lute (veena)?",
+      "options": [
+        "Ashoka the Great",
+        "Harshavardhana",
+        "Samudragupta",
+        "Kanishka"
+      ],
+      "answer": 2,
+      "textHi": "प्राचीन भारत के किस शासक को उसके सिक्कों पर वीणा बजाते हुए चित्रित किया गया है?",
+      "optionsHi": [
+        "अशोक महान",
+        "हर्षवर्धन",
+        "समुद्रगुप्त",
+        "कनिष्क"
+      ],
+      "explanation": "Samudragupta's lyrist-type gold coins show him playing the veena. (Q129 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Battle of Buxar was fought in the year",
+      "options": [
+        "1526",
+        "1556",
+        "1764",
+        "1757"
+      ],
+      "answer": 2,
+      "textHi": "बक्सर का युद्ध लड़ा गया था वर्ष -",
+      "optionsHi": [
+        "1526",
+        "1556",
+        "1764",
+        "1757"
+      ],
+      "explanation": "The Battle of Buxar was fought in 1764. (Q130 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-13.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The number of non-permanent members of the United Nations Security Council is",
+      "options": [
+        "8",
+        "10",
+        "5",
+        "14"
+      ],
+      "answer": 1,
+      "textHi": "संयुक्त राष्ट्र संघ सुरक्षा परिषद के अस्थाई सदस्यों की संख्या कितनी है?",
+      "optionsHi": [
+        "8",
+        "10",
+        "5",
+        "14"
+      ],
+      "explanation": "The UN Security Council has 5 permanent and 10 non-permanent members. (Q131 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The term \"Bull's Eye\" is related to which game?",
+      "options": [
+        "Boxing",
+        "Basketball",
+        "Polo",
+        "Shooting"
+      ],
+      "answer": 3,
+      "textHi": "'बुल्स आई' शब्द किस खेल से संबंधित है?",
+      "optionsHi": [
+        "बॉक्सिंग",
+        "बास्केटबॉल",
+        "पोलो",
+        "शूटिंग"
+      ],
+      "explanation": "The bull's eye is the centre of the target in shooting (and archery). (Q132 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "In which district of Himachal Pradesh is the Central University to be constructed?",
+      "options": [
+        "Bilaspur",
+        "Kangra",
+        "Chamba",
+        "Una"
+      ],
+      "answer": 1,
+      "textHi": "हिमाचल प्रदेश के किस जिले में केंद्रीय विश्वविद्यालय का निर्माण किया जाना है?",
+      "optionsHi": [
+        "बिलासपुर",
+        "कांगड़ा",
+        "चंबा",
+        "ऊना"
+      ],
+      "explanation": "The Central University of Himachal Pradesh is in Kangra district (Dharamshala and Dehra). (Q133 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who compiled the stories of the \"Panchatantra\"?",
+      "options": [
+        "Valmiki",
+        "Vedvyas",
+        "Vishnu Sharma",
+        "Tulsidas"
+      ],
+      "answer": 2,
+      "textHi": "\"पंचतंत्र\" की कहानियों का संकलन किसने किया?",
+      "optionsHi": [
+        "वाल्मीकि",
+        "वेद व्यास",
+        "विष्णु शर्मा",
+        "तुलसीदास"
+      ],
+      "explanation": "Vishnu Sharma compiled the Panchatantra. (Q134 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "In which field is the Jnanpith Award given?",
+      "options": [
+        "Literature",
+        "History",
+        "Drama",
+        "Dance"
+      ],
+      "answer": 0,
+      "textHi": "ज्ञानपीठ पुरस्कार किस क्षेत्र में दिया जाता है?",
+      "optionsHi": [
+        "साहित्य",
+        "इतिहास",
+        "नाटक",
+        "नृत्य"
+      ],
+      "explanation": "The Jnanpith Award is India's highest literary award. (Q135 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which of the following is transformed into marble?",
+      "options": [
+        "Granite",
+        "Limestone",
+        "Peat",
+        "Shale"
+      ],
+      "answer": 1,
+      "textHi": "निम्नलिखित में से कौन सा संगमरमर में परिवर्तित हो जाता है?",
+      "optionsHi": [
+        "ग्रेनाइट",
+        "चूना पत्थर",
+        "पीट",
+        "शेल"
+      ],
+      "explanation": "Limestone metamorphoses into marble. (Q136 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The normal body temperature of a human being is (as given in the paper)",
+      "options": [
+        "95.6 °F",
+        "99.2 °F",
+        "98.4 °F",
+        "100 °F"
+      ],
+      "answer": 2,
+      "textHi": "मनुष्य के शरीर का सामान्य तापमान होता है :-",
+      "optionsHi": [
+        "95.6 °F",
+        "99.2 °F",
+        "98.4 °F",
+        "100 °F"
+      ],
+      "explanation": "Normal body temperature is about 98.4–98.6°F (37°C); 98.4°F is the option given. (Q137 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Indian economy is a",
+      "options": [
+        "Socialist Economy",
+        "Capitalist Economy",
+        "Free Economy",
+        "Mixed Economy"
+      ],
+      "answer": 3,
+      "textHi": "भारतीय अर्थव्यवस्था है :-",
+      "optionsHi": [
+        "समाजवादी अर्थव्यवस्था",
+        "पूंजीवादी अर्थव्यवस्था",
+        "मुक्त अर्थव्यवस्था",
+        "मिश्रित अर्थव्यवस्था"
+      ],
+      "explanation": "India has a mixed economy with both public and private sectors. (Q138 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Deficiency of vitamin A causes",
+      "options": [
+        "Hair fall",
+        "Weakness",
+        "Night blindness",
+        "Dysentery"
+      ],
+      "answer": 2,
+      "textHi": "विटामिन 'ए' की कमी से होता है :-",
+      "optionsHi": [
+        "बाल झड़ना",
+        "कमज़ोरी",
+        "रतौंधी",
+        "पेचिश"
+      ],
+      "explanation": "Vitamin A deficiency causes night blindness. (Q139 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who was the first Chief Justice of the Supreme Court of India?",
+      "options": [
+        "H.J. Kania",
+        "M. Patanjali Sastri",
+        "Mehr Chand Mahajan",
+        "Bijan Kumar Mukherjea"
+      ],
+      "answer": 0,
+      "textHi": "भारत के सर्वोच्च न्यायालय के प्रथम मुख्य न्यायाधीश कौन थे?",
+      "optionsHi": [
+        "एचजे कानिया",
+        "एम. पतंजलि शास्त्री",
+        "मेहरचंद महाजन",
+        "बिजन कुमार मुखर्जी"
+      ],
+      "explanation": "Justice H.J. Kania was the first Chief Justice of India (1950). (Q140 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-14.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who is the author of the book \"Polyandry in the Himalayas\"?",
+      "options": [
+        "Shanta Kumar",
+        "Dr. Yashwant Singh Parmar",
+        "Dev Raj Sharma",
+        "Anand Chand"
+      ],
+      "answer": 1,
+      "textHi": "\"पॉलीएंड्री इन हिमालयाज\" पुस्तक के लेखक कौन हैं?",
+      "optionsHi": [
+        "शांता कुमार",
+        "डॉ. यशवंत सिंह परमार",
+        "देव राज शर्मा",
+        "आनंद चंद"
+      ],
+      "explanation": "Dr. Y.S. Parmar, first Chief Minister of HP, wrote \"Polyandry in the Himalayas\". (Q141 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is the average life span of human red blood cells?",
+      "options": [
+        "180 days",
+        "200 days",
+        "150 days",
+        "120 days"
+      ],
+      "answer": 3,
+      "textHi": "मानव लाल रक्त कोशिकाओं का औसत जीवन काल कितना होता है?",
+      "optionsHi": [
+        "180 दिन",
+        "200 दिन",
+        "150 दिन",
+        "120 दिन"
+      ],
+      "explanation": "Red blood cells live for about 120 days. (Q142 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Jhanjhar is a famous dance of which district?",
+      "options": [
+        "Chamba",
+        "Mandi",
+        "Kullu",
+        "Kangra"
+      ],
+      "answer": 0,
+      "textHi": "झांझर किस जिले का प्रसिद्ध नृत्य है?",
+      "optionsHi": [
+        "चंबा",
+        "मंडी",
+        "कुल्लू",
+        "कांगड़ा"
+      ],
+      "explanation": "Jhanjhar is a folk dance of Chamba. (Q143 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Pabbar and Giri are tributaries of the river",
+      "options": [
+        "Beas",
+        "Satluj",
+        "Chandrabhaga",
+        "Yamuna"
+      ],
+      "answer": 3,
+      "textHi": "पब्बर और गिरी नदी की सहायक नदियाँ हैं :-",
+      "optionsHi": [
+        "ब्यास",
+        "सतलुज",
+        "चंद्रभागा",
+        "यमुना"
+      ],
+      "explanation": "The Pabbar (via the Tons) and Giri are part of the Yamuna system. (Q144 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Fundamental Duties were added to the Constitution by which Constitutional Amendment?",
+      "options": [
+        "44th Amendment",
+        "42nd Amendment",
+        "73rd Amendment",
+        "86th Amendment"
+      ],
+      "answer": 1,
+      "textHi": "मौलिक कर्तव्यों को किस संविधान संशोधन द्वारा संविधान में शामिल किया गया था?",
+      "optionsHi": [
+        "44वां संशोधन",
+        "42वां संशोधन",
+        "73वां संशोधन",
+        "86वां संशोधन"
+      ],
+      "explanation": "The 42nd Amendment (1976) added Fundamental Duties (Part IV-A). (Q145 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who is considered the founder of the Slave dynasty?",
+      "options": [
+        "Balban",
+        "Iltutmish",
+        "Razia Sultan",
+        "Qutb-ud-din Aibak"
+      ],
+      "answer": 3,
+      "textHi": "गुलाम वंश का संस्थापक किसे माना जाता है?",
+      "optionsHi": [
+        "बलबन",
+        "इल्तुतमिश",
+        "रज़िया सुल्तान",
+        "कुतुबुद्दीन ऐबक"
+      ],
+      "explanation": "Qutb-ud-din Aibak founded the Slave (Mamluk) dynasty in 1206. (Q146 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who addresses the joint session of Parliament?",
+      "options": [
+        "The president",
+        "Prime Minister",
+        "Chairman Rajya Sabha",
+        "Lok Sabha Speaker"
+      ],
+      "answer": 0,
+      "textHi": "संसद के संयुक्त सत्र को कौन संबोधित करता है?",
+      "optionsHi": [
+        "राष्ट्रपति",
+        "प्रधानमंत्री",
+        "राज्यसभा के सभापति",
+        "लोकसभा अध्यक्ष"
+      ],
+      "explanation": "The President addresses the joint sitting of both Houses at the start of the first session each year (Article 87). (Q147 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which of the following is related to the \"Yellow Revolution\"?",
+      "options": [
+        "Fish",
+        "Pulses",
+        "Milk",
+        "None of these"
+      ],
+      "answer": 3,
+      "textHi": "निम्नलिखित में से कौन “पीली क्रांति” से संबंधित है?",
+      "optionsHi": [
+        "मछली",
+        "दाल",
+        "दूध",
+        "इनमें से कोई नहीं"
+      ],
+      "explanation": "The Yellow Revolution relates to oilseeds, which is not listed, so \"None of these\". (Q148 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which mountain range separates Asia and Europe?",
+      "options": [
+        "Ural",
+        "Alps",
+        "Rockies",
+        "Andes"
+      ],
+      "answer": 0,
+      "textHi": "कौन सी पर्वत श्रृंखला एशिया और यूरोप को अलग करती है?",
+      "optionsHi": [
+        "यूराल",
+        "आल्प्स",
+        "रॉकी",
+        "एंडीज़"
+      ],
+      "explanation": "The Ural Mountains form the conventional boundary between Europe and Asia. (Q149 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-15.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "National Voters' Day is observed on ........ every year.",
+      "options": [
+        "25 November",
+        "25 October",
+        "25 December",
+        "25 January"
+      ],
+      "answer": 3,
+      "textHi": "राष्ट्रीय मतदाता दिवस प्रत्येक वर्ष ………… को मनाया जाता है।",
+      "optionsHi": [
+        "25 नवंबर",
+        "25 अक्टूबर",
+        "25 दिसंबर",
+        "25 जनवरी"
+      ],
+      "explanation": "National Voters' Day is observed on 25 January, the foundation day of the Election Commission (1950). (Q150 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-jbt-nov-2020-part-15.html"
+    }
+  ]
+}

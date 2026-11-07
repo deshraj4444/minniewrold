@@ -1,6 +1,13 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+﻿# Build output and local state
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+node_modules/
+client/dist/
+MinnieWorld.Web/wwwroot/
+MinnieWorld.Web/App_Data/
+MinnieWorld.Web/appsettings.Production.json
 
-/MayaAstro/appsettings.json
-/MayaAstro/gserviceaccount.json
+# Real publish profiles name the hosting server and account: keep them on this machine only.
+MinnieWorld.Web/Properties/PublishProfiles/deshraj*

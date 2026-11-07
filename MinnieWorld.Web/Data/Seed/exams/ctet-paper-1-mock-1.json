@@ -1,0 +1,2533 @@
+{
+  "slug": "ctet-paper-1-mock-1",
+  "version": 1,
+  "title": "CTET Paper I · Full Mock Test 1",
+  "description": "Full-length 150-question CTET Paper I (Classes I–V) mock on the latest pattern: Child Development & Pedagogy, Hindi (Language I), English (Language II), Mathematics and EVS. No negative marking.",
+  "category": "CTET Paper I",
+  "kind": "Mock test",
+  "year": null,
+  "durationMinutes": 150,
+  "price": 10,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A four-year-old child uses a stick as if it were a horse while playing. According to Jean Piaget, this shows the development of",
+      "textHi": "चार वर्ष का एक बच्चा खेलते समय एक छड़ी को घोड़ा मानकर उस पर सवारी करता है। जीन पियाजे के अनुसार यह किसके विकास को दर्शाता है?",
+      "options": [
+        "Reversibility",
+        "Conservation",
+        "Hypothetico-deductive reasoning",
+        "Symbolic function"
+      ],
+      "optionsHi": [
+        "उत्क्रमणीयता",
+        "संरक्षण",
+        "परिकल्पनात्मक-निगमनात्मक तर्क",
+        "प्रतीकात्मक चिंतन (प्रतीकात्मक प्रकार्य)"
+      ],
+      "answer": 3,
+      "explanation": "In the pre-operational stage (about 2–7 years) children begin to use one object or symbol to stand for another, as seen in pretend play.",
+      "explanationHi": "पूर्व-संक्रियात्मक अवस्था (लगभग 2–7 वर्ष) में बच्चे एक वस्तु को दूसरी वस्तु के प्रतीक के रूप में प्रयोग करने लगते हैं, जो छद्म (नाटकीय) खेल में दिखता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Piaget, children in the concrete operational stage (about 7–11 years) can",
+      "textHi": "पियाजे के अनुसार मूर्त संक्रियात्मक अवस्था (लगभग 7–11 वर्ष) के बच्चे —",
+      "options": [
+        "not understand conservation of number",
+        "reason only about abstract hypotheses",
+        "think logically about concrete objects and events",
+        "act only through reflexes"
+      ],
+      "optionsHi": [
+        "संख्या के संरक्षण को नहीं समझ पाते",
+        "केवल अमूर्त परिकल्पनाओं पर तर्क कर सकते हैं",
+        "मूर्त वस्तुओं और घटनाओं के बारे में तार्किक रूप से सोच सकते हैं",
+        "केवल प्रतिवर्त क्रियाओं द्वारा व्यवहार करते हैं"
+      ],
+      "answer": 2,
+      "explanation": "Logical operations such as conservation, classification and seriation develop in this stage, but they are tied to concrete, real situations.",
+      "explanationHi": "इस अवस्था में संरक्षण, वर्गीकरण और क्रमबद्धता जैसी तार्किक संक्रियाएँ विकसित होती हैं, परंतु वे मूर्त, वास्तविक स्थितियों तक सीमित रहती हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "In Piaget's theory, modifying an existing schema to fit new information is called",
+      "textHi": "पियाजे के सिद्धांत में नई जानकारी के अनुरूप पहले से मौजूद स्कीमा (स्कीमा) में परिवर्तन करना कहलाता है —",
+      "options": [
+        "Accommodation",
+        "Assimilation",
+        "Centration",
+        "Egocentrism"
+      ],
+      "optionsHi": [
+        "समायोजन",
+        "आत्मसात्करण",
+        "केंद्रीकरण",
+        "आत्मकेंद्रिता"
+      ],
+      "answer": 0,
+      "explanation": "Accommodation changes an existing schema (or creates a new one) when new experiences do not fit; assimilation fits new experience into an existing schema.",
+      "explanationHi": "जब नया अनुभव मौजूदा स्कीमा में नहीं बैठता तो स्कीमा को बदलना समायोजन है; आत्मसात्करण में नया अनुभव पुराने स्कीमा में ही समा लिया जाता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Lev Vygotsky's 'Zone of Proximal Development' refers to the gap between",
+      "textHi": "लेव वायगोत्स्की का 'समीपस्थ विकास का क्षेत्र' (ZPD) किसके बीच के अंतर को दर्शाता है?",
+      "options": [
+        "a child's chronological age and mental age",
+        "what a child can do alone and what she can do with help from a more knowledgeable person",
+        "the abilities of two children of the same age",
+        "a child's heredity and environment"
+      ],
+      "optionsHi": [
+        "बच्चे की कालानुक्रमिक आयु और मानसिक आयु",
+        "बच्चा अकेले क्या कर सकता है और अधिक जानकार व्यक्ति की सहायता से क्या कर सकता है",
+        "समान आयु के दो बच्चों की क्षमताएँ",
+        "बच्चे का वंशानुक्रम और वातावरण"
+      ],
+      "answer": 1,
+      "explanation": "The ZPD is the range of tasks a learner cannot yet do independently but can achieve with guidance from an adult or a more capable peer.",
+      "explanationHi": "ZPD वह क्षेत्र है जिसमें आने वाले कार्य बच्चा अभी स्वयं नहीं कर पाता, किंतु किसी वयस्क या अधिक सक्षम साथी के मार्गदर्शन से कर सकता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A teacher gives hints and prompts to a child while she solves a puzzle and gradually withdraws them as the child becomes capable. This is known as",
+      "textHi": "पहेली हल करते समय शिक्षक बच्चे को संकेत और सुझाव देता है और जैसे-जैसे बच्चा सक्षम होता जाता है, उन्हें धीरे-धीरे हटा लेता है। इसे कहते हैं —",
+      "options": [
+        "Scaffolding",
+        "Reinforcement",
+        "Conditioning",
+        "Rote learning"
+      ],
+      "optionsHi": [
+        "पाड़ (स्कैफोल्डिंग)",
+        "पुनर्बलन",
+        "अनुबंधन",
+        "रटकर सीखना"
+      ],
+      "answer": 0,
+      "explanation": "Scaffolding is temporary, adjustable support within the child's ZPD that is reduced as competence grows.",
+      "explanationHi": "स्कैफोल्डिंग बच्चे के ZPD में दिया जाने वाला अस्थायी सहारा है, जिसे क्षमता बढ़ने के साथ कम कर दिया जाता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Vygotsky, a child talking aloud to herself while solving a problem",
+      "textHi": "वायगोत्स्की के अनुसार समस्या हल करते समय बच्चे का स्वयं से ज़ोर-ज़ोर से बात करना —",
+      "options": [
+        "has no role in cognitive development",
+        "is a sign of egocentrism that should be stopped",
+        "shows a delay in language development",
+        "helps her guide and regulate her own thinking"
+      ],
+      "optionsHi": [
+        "संज्ञानात्मक विकास में कोई भूमिका नहीं निभाता",
+        "आत्मकेंद्रिता का लक्षण है जिसे रोकना चाहिए",
+        "भाषा विकास में देरी को दर्शाता है",
+        "उसे अपने चिंतन को दिशा देने और नियंत्रित करने में सहायता करता है"
+      ],
+      "answer": 3,
+      "explanation": "Vygotsky saw private speech as a tool of self-regulation that later becomes silent inner speech.",
+      "explanationHi": "वायगोत्स्की निजी वाक् (प्राइवेट स्पीच) को आत्म-नियमन का साधन मानते थे, जो आगे चलकर आंतरिक वाक् बन जाता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A child says, 'I will not take my friend's pencil because the teacher will punish me.' According to Lawrence Kohlberg, the child is at which level of moral development?",
+      "textHi": "एक बच्चा कहता है, 'मैं अपने मित्र की पेंसिल नहीं लूँगा क्योंकि शिक्षक मुझे दंड देंगे।' लॉरेंस कोलबर्ग के अनुसार बच्चा नैतिक विकास के किस स्तर पर है?",
+      "options": [
+        "Conventional",
+        "Pre-conventional",
+        "Post-conventional",
+        "Formal operational"
+      ],
+      "optionsHi": [
+        "परंपरागत",
+        "पूर्व-परंपरागत",
+        "उत्तर-परंपरागत",
+        "औपचारिक संक्रियात्मक"
+      ],
+      "answer": 1,
+      "explanation": "Avoiding punishment is the punishment-and-obedience orientation, the first stage of Kohlberg's pre-conventional level.",
+      "explanationHi": "दंड से बचना 'दंड और आज्ञापालन अभिविन्यास' है, जो कोलबर्ग के पूर्व-परंपरागत स्तर की पहली अवस्था है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Kohlberg studied moral reasoning mainly by",
+      "textHi": "कोलबर्ग ने नैतिक तर्क का अध्ययन मुख्यतः किसके द्वारा किया?",
+      "options": [
+        "measuring IQ scores",
+        "observing children through a one-way mirror only",
+        "presenting moral dilemmas such as the Heinz dilemma",
+        "conducting experiments with animals"
+      ],
+      "optionsHi": [
+        "बुद्धि-लब्धि (IQ) मापकर",
+        "केवल एकतरफ़ा दर्पण से बच्चों का अवलोकन करके",
+        "हाइंज़ दुविधा जैसी नैतिक दुविधाएँ प्रस्तुत करके",
+        "पशुओं पर प्रयोग करके"
+      ],
+      "answer": 2,
+      "explanation": "Kohlberg asked children and adults to resolve moral dilemmas and analysed the reasoning behind their answers.",
+      "explanationHi": "कोलबर्ग ने बच्चों और वयस्कों से नैतिक दुविधाओं का हल पूछा और उनके उत्तरों के पीछे के तर्क का विश्लेषण किया।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Development of control over the head and neck before the legs illustrates which principle of development?",
+      "textHi": "पैरों से पहले सिर और गर्दन पर नियंत्रण का विकसित होना विकास के किस सिद्धांत को दर्शाता है?",
+      "options": [
+        "Cephalocaudal principle",
+        "Proximodistal principle",
+        "Principle of individual differences",
+        "Principle of discontinuity"
+      ],
+      "optionsHi": [
+        "शिरःपुच्छीय (सिर से पैर की ओर) सिद्धांत",
+        "निकट-दूर (समीप-दूराभिमुख) सिद्धांत",
+        "वैयक्तिक भिन्नता का सिद्धांत",
+        "असततता का सिद्धांत"
+      ],
+      "answer": 0,
+      "explanation": "Cephalocaudal development proceeds from head to toe; proximodistal development proceeds from the centre of the body outwards.",
+      "explanationHi": "शिरःपुच्छीय विकास सिर से पैर की ओर होता है; निकट-दूर विकास शरीर के केंद्र से बाहर की ओर होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following statements about development is correct?",
+      "textHi": "विकास के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+      "options": [
+        "Development is determined by heredity alone",
+        "Development is the result of interaction between heredity and environment",
+        "Development stops at the end of childhood",
+        "All children develop at exactly the same rate"
+      ],
+      "optionsHi": [
+        "विकास केवल वंशानुक्रम से निर्धारित होता है",
+        "विकास वंशानुक्रम और वातावरण की अंतःक्रिया का परिणाम है",
+        "बाल्यावस्था के अंत में विकास रुक जाता है",
+        "सभी बच्चे बिल्कुल एक ही गति से विकसित होते हैं"
+      ],
+      "answer": 1,
+      "explanation": "Development is lifelong and shaped jointly by nature (heredity) and nurture (environment); its rate varies from child to child.",
+      "explanationHi": "विकास जीवनपर्यंत चलता है, वंशानुक्रम और वातावरण दोनों से प्रभावित होता है तथा इसकी गति हर बच्चे में अलग होती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is the primary agent of socialisation for a young child?",
+      "textHi": "छोटे बच्चे के समाजीकरण का प्राथमिक अभिकरण निम्नलिखित में से कौन-सा है?",
+      "options": [
+        "Political parties",
+        "Mass media",
+        "Family",
+        "Workplace"
+      ],
+      "optionsHi": [
+        "राजनीतिक दल",
+        "जनसंचार माध्यम",
+        "परिवार",
+        "कार्यस्थल"
+      ],
+      "answer": 2,
+      "explanation": "The family is the first and most influential social group in which a child learns values, language and behaviour.",
+      "explanationHi": "परिवार पहला और सबसे प्रभावशाली सामाजिक समूह है जिसमें बच्चा मूल्य, भाषा और व्यवहार सीखता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Rani easily recognises different birds, leaves and insects and enjoys classifying them. According to Howard Gardner, she shows strength in which intelligence?",
+      "textHi": "रानी विभिन्न पक्षियों, पत्तियों और कीड़ों को आसानी से पहचान लेती है और उनका वर्गीकरण करने में आनंद लेती है। हावर्ड गार्डनर के अनुसार उसमें कौन-सी बुद्धि प्रबल है?",
+      "options": [
+        "Musical",
+        "Interpersonal",
+        "Linguistic",
+        "Naturalistic"
+      ],
+      "optionsHi": [
+        "संगीतात्मक",
+        "अंतर्वैयक्तिक",
+        "भाषिक",
+        "प्रकृतिवादी"
+      ],
+      "answer": 3,
+      "explanation": "Naturalistic intelligence is the ability to recognise and classify plants, animals and other features of the natural world.",
+      "explanationHi": "प्रकृतिवादी बुद्धि पौधों, जंतुओं और प्रकृति की अन्य वस्तुओं को पहचानने तथा वर्गीकृत करने की क्षमता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Inclusive education implies that",
+      "textHi": "समावेशी शिक्षा का तात्पर्य है कि —",
+      "options": [
+        "children are grouped strictly by ability",
+        "children with disabilities are taught in separate special schools",
+        "only academically bright children are admitted to regular schools",
+        "all children, including those with disabilities, learn together in regular classrooms with suitable support"
+      ],
+      "optionsHi": [
+        "बच्चों को सख़्ती से योग्यता के आधार पर समूहों में बाँटा जाए",
+        "दिव्यांग बच्चों को अलग विशेष विद्यालयों में पढ़ाया जाए",
+        "केवल मेधावी बच्चों को सामान्य विद्यालयों में प्रवेश दिया जाए",
+        "दिव्यांग बच्चों सहित सभी बच्चे उपयुक्त सहायता के साथ सामान्य कक्षाओं में साथ-साथ सीखें"
+      ],
+      "answer": 3,
+      "explanation": "Inclusion means the school adapts curriculum, pedagogy and environment so that every child can participate and learn alongside peers.",
+      "explanationHi": "समावेशन का अर्थ है कि विद्यालय पाठ्यचर्या, शिक्षण-विधि और वातावरण को इस प्रकार ढाले कि हर बच्चा साथियों के साथ भाग ले और सीख सके।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "How many types of disabilities are recognised under the Rights of Persons with Disabilities Act, 2016?",
+      "textHi": "दिव्यांगजन अधिकार अधिनियम, 2016 के अंतर्गत कितने प्रकार की दिव्यांगताओं को मान्यता दी गई है?",
+      "options": [
+        "7",
+        "21",
+        "14",
+        "19"
+      ],
+      "optionsHi": [
+        "7",
+        "21",
+        "14",
+        "19"
+      ],
+      "answer": 1,
+      "explanation": "The RPwD Act, 2016 increased the recognised disabilities from 7 (under the 1995 Act) to 21.",
+      "explanationHi": "दिव्यांगजन अधिकार अधिनियम, 2016 ने मान्य दिव्यांगताओं की संख्या 7 (1995 के अधिनियम) से बढ़ाकर 21 कर दी।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A child of normal intelligence has persistent difficulty in reading, often confusing letters such as 'b' and 'd'. This may be a sign of",
+      "textHi": "सामान्य बुद्धि वाले एक बच्चे को पढ़ने में लगातार कठिनाई होती है और वह अक्सर 'b' और 'd' जैसे अक्षरों में भ्रमित हो जाता है। यह किसका संकेत हो सकता है?",
+      "options": [
+        "Dyslexia",
+        "Dyscalculia",
+        "Dysgraphia",
+        "Dyspraxia"
+      ],
+      "optionsHi": [
+        "डिस्लेक्सिया (पठन-विकार)",
+        "डिस्कैलकुलिया (गणना-विकार)",
+        "डिस्ग्राफ़िया (लेखन-विकार)",
+        "डिस्प्रैक्सिया (गामक समन्वय विकार)"
+      ],
+      "answer": 0,
+      "explanation": "Dyslexia is a specific learning disability affecting reading and decoding of words; it is not related to low intelligence.",
+      "explanationHi": "डिस्लेक्सिया पढ़ने और शब्दों को पहचानने से जुड़ी एक विशिष्ट अधिगम अक्षमता है; इसका संबंध कम बुद्धि से नहीं है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is a characteristic of Attention Deficit Hyperactivity Disorder (ADHD)?",
+      "textHi": "निम्नलिखित में से कौन-सा अवधान अभाव अतिसक्रियता विकार (ADHD) का लक्षण है?",
+      "options": [
+        "Loss of hearing",
+        "Difficulty only in calculation",
+        "Inattention, hyperactivity and impulsivity",
+        "Very high creativity in art"
+      ],
+      "optionsHi": [
+        "श्रवण-शक्ति का ह्रास",
+        "केवल गणना में कठिनाई",
+        "असावधानी, अतिसक्रियता और आवेगशीलता",
+        "कला में अत्यधिक सृजनात्मकता"
+      ],
+      "answer": 2,
+      "explanation": "ADHD is marked by a persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning.",
+      "explanationHi": "ADHD में असावधानी तथा/या अतिसक्रियता-आवेगशीलता का स्थायी पैटर्न दिखता है जो दैनिक कार्यों में बाधा डालता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following best describes 'assessment for learning'?",
+      "textHi": "'सीखने के लिए आकलन' का सबसे उपयुक्त वर्णन निम्नलिखित में से कौन-सा है?",
+      "options": [
+        "A test held at the end of the year to declare pass or fail",
+        "Assessment used during teaching to give feedback and improve learning",
+        "Ranking students on the basis of marks",
+        "Assessment used only for school admission"
+      ],
+      "optionsHi": [
+        "उत्तीर्ण-अनुत्तीर्ण घोषित करने के लिए वर्ष के अंत में होने वाली परीक्षा",
+        "शिक्षण के दौरान प्रतिपुष्टि देने और अधिगम सुधारने के लिए किया जाने वाला आकलन",
+        "अंकों के आधार पर विद्यार्थियों को श्रेणीबद्ध करना",
+        "केवल विद्यालय-प्रवेश के लिए किया जाने वाला आकलन"
+      ],
+      "answer": 1,
+      "explanation": "Assessment for learning is formative: it is built into teaching so that both teacher and learner can adjust and improve.",
+      "explanationHi": "सीखने के लिए आकलन रचनात्मक (फ़ॉर्मेटिव) होता है; यह शिक्षण का अंग होता है ताकि शिक्षक और शिक्षार्थी दोनों सुधार कर सकें।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A portfolio, as a tool of assessment, is",
+      "textHi": "आकलन के एक उपकरण के रूप में पोर्टफोलियो —",
+      "options": [
+        "a list of marks in all subjects",
+        "a record of a child's attendance",
+        "a single end-term test paper",
+        "a purposeful collection of a child's work that shows progress over time"
+      ],
+      "optionsHi": [
+        "सभी विषयों के अंकों की सूची है",
+        "बच्चे की उपस्थिति का अभिलेख है",
+        "एक सत्रांत परीक्षा-पत्र है",
+        "बच्चे के कार्यों का उद्देश्यपूर्ण संग्रह है जो समय के साथ उसकी प्रगति दर्शाता है"
+      ],
+      "answer": 3,
+      "explanation": "Portfolios collect samples of work (drawings, writing, projects) so that growth and learning processes can be seen over a period.",
+      "explanationHi": "पोर्टफोलियो में चित्र, लेखन, परियोजनाएँ आदि कार्य-नमूने रखे जाते हैं जिससे एक अवधि में बच्चे की प्रगति दिखाई देती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The National Education Policy 2020 recommends that the report card of students should be",
+      "textHi": "राष्ट्रीय शिक्षा नीति 2020 के अनुसार विद्यार्थियों का प्रगति-पत्र (रिपोर्ट कार्ड) कैसा होना चाहिए?",
+      "options": [
+        "prepared only by the head of the school",
+        "based only on marks in written examinations",
+        "a holistic, 360-degree, multidimensional progress card",
+        "issued only at the end of Class V"
+      ],
+      "optionsHi": [
+        "केवल विद्यालय-प्रमुख द्वारा तैयार किया गया",
+        "केवल लिखित परीक्षा के अंकों पर आधारित",
+        "समग्र, 360-डिग्री, बहुआयामी प्रगति-पत्र",
+        "केवल कक्षा V के अंत में जारी किया जाने वाला"
+      ],
+      "answer": 2,
+      "explanation": "NEP 2020 calls for a holistic progress card reflecting cognitive, socio-emotional and psychomotor progress, including self- and peer-assessment.",
+      "explanationHi": "NEP 2020 समग्र प्रगति-पत्र की बात करती है जो संज्ञानात्मक, सामाजिक-भावात्मक और मनोगत्यात्मक प्रगति को, स्व-आकलन और सहपाठी-आकलन सहित, दर्शाए।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Under the 5+3+3+4 structure of NEP 2020, the Foundational Stage covers children of which age group?",
+      "textHi": "NEP 2020 की 5+3+3+4 संरचना में आधारभूत चरण (फ़ाउंडेशनल स्टेज) किस आयु-वर्ग के बच्चों के लिए है?",
+      "options": [
+        "3 to 8 years",
+        "6 to 10 years",
+        "3 to 6 years",
+        "8 to 11 years"
+      ],
+      "optionsHi": [
+        "3 से 8 वर्ष",
+        "6 से 10 वर्ष",
+        "3 से 6 वर्ष",
+        "8 से 11 वर्ष"
+      ],
+      "answer": 0,
+      "explanation": "The Foundational Stage is five years: three years of pre-school/Anganwadi/Balvatika plus Classes 1 and 2 (ages 3–8).",
+      "explanationHi": "आधारभूत चरण पाँच वर्ष का है: तीन वर्ष पूर्व-प्राथमिक/आंगनवाड़ी/बालवाटिका तथा कक्षा 1 और 2 (आयु 3–8 वर्ष)।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is the best example of intrinsic motivation?",
+      "textHi": "निम्नलिखित में से कौन-सा आंतरिक अभिप्रेरणा का सबसे अच्छा उदाहरण है?",
+      "options": [
+        "Meena reads storybooks because she enjoys them",
+        "Ravi studies to get a prize from his father",
+        "Asha completes homework to avoid scolding",
+        "Sohan answers questions to get a star from the teacher"
+      ],
+      "optionsHi": [
+        "मीना कहानी की किताबें इसलिए पढ़ती है क्योंकि उसे इसमें आनंद आता है",
+        "रवि अपने पिता से इनाम पाने के लिए पढ़ता है",
+        "आशा डाँट से बचने के लिए गृहकार्य पूरा करती है",
+        "सोहन शिक्षक से स्टार पाने के लिए प्रश्नों के उत्तर देता है"
+      ],
+      "answer": 0,
+      "explanation": "Intrinsic motivation comes from interest and enjoyment in the activity itself, not from external rewards or punishments.",
+      "explanationHi": "आंतरिक अभिप्रेरणा कार्य में रुचि और आनंद से उत्पन्न होती है, बाहरी पुरस्कार या दंड से नहीं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "From a constructivist point of view, errors made by children during learning",
+      "textHi": "रचनावादी दृष्टिकोण से सीखने के दौरान बच्चों द्वारा की गई त्रुटियाँ —",
+      "options": [
+        "show that the children cannot learn",
+        "should be punished so that they are not repeated",
+        "give insight into their thinking and are a natural part of learning",
+        "should be ignored completely"
+      ],
+      "optionsHi": [
+        "दर्शाती हैं कि बच्चे सीख नहीं सकते",
+        "दंडित की जानी चाहिए ताकि दोहराई न जाएँ",
+        "उनके चिंतन की झलक देती हैं और सीखने का स्वाभाविक हिस्सा हैं",
+        "पूरी तरह अनदेखी की जानी चाहिए"
+      ],
+      "answer": 2,
+      "explanation": "Errors reveal children's current understanding and alternative ideas, which the teacher can use to plan further learning.",
+      "explanationHi": "त्रुटियाँ बच्चों की वर्तमान समझ और वैकल्पिक धारणाओं को उजागर करती हैं, जिनका उपयोग शिक्षक आगे के शिक्षण की योजना में कर सकता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following practices best promotes gender equity in a primary classroom?",
+      "textHi": "प्राथमिक कक्षा में लैंगिक समता को सबसे अच्छी तरह कौन-सी प्रथा बढ़ावा देती है?",
+      "options": [
+        "Seating boys and girls in separate rows always",
+        "Asking only girls to decorate the classroom",
+        "Asking only boys to lift benches",
+        "Assigning classroom duties to children irrespective of gender"
+      ],
+      "optionsHi": [
+        "लड़के-लड़कियों को सदैव अलग पंक्तियों में बैठाना",
+        "केवल लड़कियों से कक्षा सजवाना",
+        "केवल लड़कों से बेंच उठवाना",
+        "लिंग का भेद किए बिना बच्चों को कक्षा के कार्य सौंपना"
+      ],
+      "answer": 3,
+      "explanation": "Distributing tasks without gender-based assumptions challenges stereotypes; gender roles are socially constructed.",
+      "explanationHi": "लिंग-आधारित धारणाओं के बिना कार्य बाँटने से रूढ़ियों को चुनौती मिलती है; लैंगिक भूमिकाएँ सामाजिक रूप से निर्मित होती हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Under Section 17 of the Right of Children to Free and Compulsory Education Act, 2009, which of the following is prohibited?",
+      "textHi": "नि:शुल्क और अनिवार्य बाल शिक्षा का अधिकार अधिनियम, 2009 की धारा 17 के अंतर्गत निम्नलिखित में से क्या प्रतिबंधित है?",
+      "options": [
+        "Continuous and comprehensive evaluation",
+        "Physical punishment and mental harassment of children",
+        "Mid-day meal in schools",
+        "Admission of children in age-appropriate classes"
+      ],
+      "optionsHi": [
+        "सतत और व्यापक मूल्यांकन",
+        "बच्चों को शारीरिक दंड और मानसिक उत्पीड़न",
+        "विद्यालयों में मध्याह्न भोजन",
+        "बच्चों का आयु-उपयुक्त कक्षा में प्रवेश"
+      ],
+      "answer": 1,
+      "explanation": "Section 17 of the RTE Act, 2009 states that no child shall be subjected to physical punishment or mental harassment.",
+      "explanationHi": "RTE अधिनियम, 2009 की धारा 17 के अनुसार किसी भी बच्चे को शारीरिक दंड या मानसिक उत्पीड़न नहीं दिया जाएगा।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Erik Erikson, children of primary school age (about 6–12 years) face which psychosocial crisis?",
+      "textHi": "एरिक एरिक्सन के अनुसार प्राथमिक विद्यालय आयु (लगभग 6–12 वर्ष) के बच्चे किस मनोसामाजिक संकट का सामना करते हैं?",
+      "options": [
+        "Trust vs. mistrust",
+        "Industry vs. inferiority",
+        "Identity vs. role confusion",
+        "Intimacy vs. isolation"
+      ],
+      "optionsHi": [
+        "विश्वास बनाम अविश्वास",
+        "परिश्रम बनाम हीनता",
+        "पहचान बनाम भूमिका-भ्रम",
+        "आत्मीयता बनाम अलगाव"
+      ],
+      "answer": 1,
+      "explanation": "In middle childhood children gain a sense of competence (industry) through mastering tasks; repeated failure can lead to feelings of inferiority.",
+      "explanationHi": "मध्य बाल्यावस्था में बच्चे कार्यों में दक्षता पाकर सक्षमता (परिश्रम) का भाव विकसित करते हैं; बार-बार असफलता हीनता की भावना ला सकती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A teacher asks, 'In how many different ways can we use an empty plastic bottle?' This question mainly encourages",
+      "textHi": "शिक्षक पूछता है, 'एक खाली प्लास्टिक की बोतल का हम कितने अलग-अलग तरीकों से उपयोग कर सकते हैं?' यह प्रश्न मुख्यतः किसे प्रोत्साहित करता है?",
+      "options": [
+        "Divergent thinking",
+        "Convergent thinking",
+        "Rote memory",
+        "Reflex action"
+      ],
+      "optionsHi": [
+        "अपसारी चिंतन",
+        "अभिसारी चिंतन",
+        "रटंत स्मृति",
+        "प्रतिवर्त क्रिया"
+      ],
+      "answer": 0,
+      "explanation": "Open-ended questions with many possible answers promote divergent thinking, which is linked to creativity.",
+      "explanationHi": "अनेक संभावित उत्तरों वाले मुक्त-अंत प्रश्न अपसारी चिंतन को बढ़ावा देते हैं, जो सृजनात्मकता से जुड़ा है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The best way to address individual differences among learners in a classroom is to",
+      "textHi": "कक्षा में शिक्षार्थियों के बीच वैयक्तिक भिन्नताओं को संबोधित करने का सबसे अच्छा तरीका है —",
+      "options": [
+        "give the same homework and test to all and compare marks",
+        "follow the textbook strictly in one way",
+        "teach only the brightest students",
+        "use a variety of teaching methods and learning materials"
+      ],
+      "optionsHi": [
+        "सबको एक-सा गृहकार्य व परीक्षा देकर अंकों की तुलना करना",
+        "पाठ्यपुस्तक का एक ही तरीके से सख़्ती से अनुसरण करना",
+        "केवल सबसे मेधावी विद्यार्थियों को पढ़ाना",
+        "विविध शिक्षण-विधियों और अधिगम-सामग्री का प्रयोग करना"
+      ],
+      "answer": 3,
+      "explanation": "Differentiated instruction with varied methods and materials allows learners with different abilities, interests and styles to learn.",
+      "explanationHi": "विविध विधियों और सामग्री वाला विभेदित शिक्षण भिन्न क्षमताओं, रुचियों और शैलियों वाले शिक्षार्थियों को सीखने का अवसर देता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The National Curriculum Framework 2005 recommends",
+      "textHi": "राष्ट्रीय पाठ्यचर्या की रूपरेखा 2005 अनुशंसा करती है —",
+      "options": [
+        "making textbooks the only source of knowledge",
+        "strict reliance on rote memorisation",
+        "connecting knowledge to life outside the school",
+        "increasing the importance of board examinations"
+      ],
+      "optionsHi": [
+        "पाठ्यपुस्तकों को ज्ञान का एकमात्र स्रोत बनाना",
+        "रटने पर सख़्त निर्भरता",
+        "ज्ञान को विद्यालय के बाहर के जीवन से जोड़ना",
+        "बोर्ड परीक्षाओं का महत्त्व बढ़ाना"
+      ],
+      "answer": 2,
+      "explanation": "One of NCF 2005's guiding principles is connecting knowledge to life outside school and shifting learning away from rote methods.",
+      "explanationHi": "NCF 2005 का एक मार्गदर्शक सिद्धांत ज्ञान को विद्यालय के बाहर के जीवन से जोड़ना और रटंत प्रणाली से हटना है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The National Curriculum Framework for Foundational Stage (NCF-FS) 2022 emphasises that children in the foundational stage learn best through",
+      "textHi": "आधारभूत चरण के लिए राष्ट्रीय पाठ्यचर्या की रूपरेखा (NCF-FS) 2022 के अनुसार आधारभूत चरण के बच्चे सबसे अच्छा किसके माध्यम से सीखते हैं?",
+      "options": [
+        "lengthy written tests",
+        "play-based and activity-based experiences",
+        "copying from the blackboard",
+        "memorising textbook answers"
+      ],
+      "optionsHi": [
+        "लंबी लिखित परीक्षाओं",
+        "खेल-आधारित और गतिविधि-आधारित अनुभवों",
+        "श्यामपट्ट से नकल करने",
+        "पाठ्यपुस्तक के उत्तर रटने"
+      ],
+      "answer": 1,
+      "explanation": "NCF-FS 2022 places play at the centre of learning for 3–8-year-olds, along with stories, toys, music and conversation.",
+      "explanationHi": "NCF-FS 2022 में 3–8 वर्ष के बच्चों के लिए खेल को सीखने के केंद्र में रखा गया है, साथ ही कहानियाँ, खिलौने, संगीत और बातचीत भी।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following statements about the relationship between emotions and learning is correct?",
+      "textHi": "भावनाओं और अधिगम के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+      "options": [
+        "Only negative emotions help learning",
+        "Emotions have no effect on learning",
+        "Emotions and cognition are closely interlinked",
+        "Emotions should be kept out of the classroom"
+      ],
+      "optionsHi": [
+        "केवल नकारात्मक भावनाएँ सीखने में मदद करती हैं",
+        "भावनाओं का अधिगम पर कोई प्रभाव नहीं पड़ता",
+        "भावनाएँ और संज्ञान आपस में घनिष्ठ रूप से जुड़े हैं",
+        "भावनाओं को कक्षा से बाहर रखना चाहिए"
+      ],
+      "answer": 2,
+      "explanation": "A safe, positive emotional climate supports attention, memory and learning, while fear and anxiety hinder it.",
+      "explanationHi": "सुरक्षित और सकारात्मक भावनात्मक वातावरण ध्यान, स्मृति और अधिगम में सहायक होता है, जबकि भय और चिंता बाधा डालते हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'सूर्य' का पर्यायवाची शब्द है —",
+      "options": [
+        "दिनकर",
+        "निशाकर",
+        "सुधाकर",
+        "जलधर"
+      ],
+      "answer": 0,
+      "explanation": "दिनकर (दिन करने वाला) सूर्य का पर्याय है; निशाकर और सुधाकर चंद्रमा के तथा जलधर बादल का पर्याय है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "निम्नलिखित में से कौन-सा शब्द 'कमल' का पर्यायवाची नहीं है?",
+      "options": [
+        "सरोज",
+        "पंकज",
+        "नीरज",
+        "जलद"
+      ],
+      "answer": 3,
+      "explanation": "जलद का अर्थ है जल देने वाला अर्थात् बादल; पंकज, नीरज और सरोज कमल के पर्याय हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'आस्तिक' का विलोम शब्द है —",
+      "options": [
+        "नास्तिक",
+        "अनास्तिक",
+        "अधार्मिक",
+        "निरास्तिक"
+      ],
+      "answer": 0,
+      "explanation": "ईश्वर में विश्वास रखने वाला आस्तिक और विश्वास न रखने वाला नास्तिक कहलाता है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'विद्यालय' का सही संधि-विच्छेद है —",
+      "options": [
+        "विद्य + लय",
+        "विद्य + आलय",
+        "विद्या + लय",
+        "विद्या + आलय"
+      ],
+      "answer": 3,
+      "explanation": "आ + आ = आ (दीर्घ स्वर संधि), अतः विद्या + आलय = विद्यालय।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'सूर्योदय' में कौन-सी संधि है?",
+      "options": [
+        "दीर्घ संधि",
+        "गुण संधि",
+        "यण संधि",
+        "वृद्धि संधि"
+      ],
+      "answer": 1,
+      "explanation": "सूर्य + उदय: अ + उ = ओ, यह गुण स्वर संधि है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'प्रत्येक' शब्द का सही संधि-विच्छेद है —",
+      "options": [
+        "प्रत्य + एक",
+        "प्रत् + एक",
+        "प्रति + एक",
+        "प्र + त्येक"
+      ],
+      "answer": 2,
+      "explanation": "इ + ए = ये (यण संधि), अतः प्रति + एक = प्रत्येक।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'नीलकंठ' (शिव) में कौन-सा समास है?",
+      "options": [
+        "बहुव्रीहि",
+        "कर्मधारय",
+        "द्विगु",
+        "द्वंद्व"
+      ],
+      "answer": 0,
+      "explanation": "नीला है कंठ जिसका, अर्थात् शिव — अन्य पद प्रधान होने से यहाँ बहुव्रीहि समास है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'माता-पिता' में कौन-सा समास है?",
+      "options": [
+        "बहुव्रीहि",
+        "तत्पुरुष",
+        "अव्ययीभाव",
+        "द्वंद्व"
+      ],
+      "answer": 3,
+      "explanation": "माता और पिता — दोनों पद प्रधान हैं और 'और' से जुड़े हैं, अतः द्वंद्व समास है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'यथाशक्ति' में कौन-सा समास है?",
+      "options": [
+        "कर्मधारय",
+        "द्विगु",
+        "अव्ययीभाव",
+        "द्वंद्व"
+      ],
+      "answer": 2,
+      "explanation": "शक्ति के अनुसार — पहला पद 'यथा' अव्यय है और प्रधान है, अतः अव्ययीभाव समास है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'अनुपस्थित' शब्द में उपसर्ग है —",
+      "options": [
+        "अनु",
+        "अन्",
+        "अ",
+        "उप"
+      ],
+      "answer": 1,
+      "explanation": "अन् + उपस्थित = अनुपस्थित; यहाँ 'अन्' उपसर्ग नकारात्मक अर्थ देता है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'ईमानदार' शब्द में प्रत्यय है —",
+      "options": [
+        "आर",
+        "दार",
+        "ईमान",
+        "र"
+      ],
+      "answer": 1,
+      "explanation": "ईमान + दार = ईमानदार; 'दार' प्रत्यय 'वाला' का अर्थ देता है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'बचपन' शब्द संज्ञा के किस भेद का उदाहरण है?",
+      "options": [
+        "द्रव्यवाचक संज्ञा",
+        "जातिवाचक संज्ञा",
+        "व्यक्तिवाचक संज्ञा",
+        "भाववाचक संज्ञा"
+      ],
+      "answer": 3,
+      "explanation": "बचपन एक अवस्था या भाव का बोध कराता है, इसलिए यह भाववाचक संज्ञा है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'मीठा आम' में 'मीठा' शब्द है —",
+      "options": [
+        "गुणवाचक विशेषण",
+        "संख्यावाचक विशेषण",
+        "परिमाणवाचक विशेषण",
+        "सार्वनामिक विशेषण"
+      ],
+      "answer": 0,
+      "explanation": "'मीठा' आम के गुण (स्वाद) को बताता है, अतः गुणवाचक विशेषण है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'पेड़ से पत्ता गिरा।' — इस वाक्य में 'पेड़ से' में कौन-सा कारक है?",
+      "options": [
+        "संप्रदान",
+        "करण",
+        "अपादान",
+        "अधिकरण"
+      ],
+      "answer": 2,
+      "explanation": "जहाँ से अलग होने का भाव हो, वहाँ अपादान कारक होता है; पत्ता पेड़ से अलग हुआ।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'राम ने पत्र लिखा।' — इस वाक्य में क्रिया है —",
+      "options": [
+        "संयुक्त",
+        "अकर्मक",
+        "प्रेरणार्थक",
+        "सकर्मक"
+      ],
+      "answer": 3,
+      "explanation": "'लिखा' क्रिया का कर्म 'पत्र' है, अतः यह सकर्मक क्रिया है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'कवि' शब्द का स्त्रीलिंग रूप है —",
+      "options": [
+        "कविनी",
+        "कवियत्री",
+        "कवयित्री",
+        "कवित्री"
+      ],
+      "answer": 2,
+      "explanation": "'कवि' का शुद्ध स्त्रीलिंग 'कवयित्री' है; 'कवियत्री' अशुद्ध वर्तनी है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "निम्नलिखित में से शुद्ध वर्तनी वाला शब्द है —",
+      "options": [
+        "उज्वल",
+        "उज्ज्वल",
+        "उज्जवल",
+        "ऊज्वल"
+      ],
+      "answer": 1,
+      "explanation": "उत् + ज्वल = उज्ज्वल; इसमें 'ज्' के बाद 'ज्व' आता है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'जिसका कोई शत्रु न हो' — इसके लिए एक शब्द है —",
+      "options": [
+        "अजातशत्रु",
+        "शत्रुघ्न",
+        "निरंकुश",
+        "मित्रवत्"
+      ],
+      "answer": 0,
+      "explanation": "जिसका कोई शत्रु पैदा ही न हुआ हो, उसे अजातशत्रु कहते हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'नौ दो ग्यारह होना' मुहावरे का अर्थ है —",
+      "options": [
+        "भाग जाना",
+        "हिसाब लगाना",
+        "धन कमाना",
+        "लड़ाई करना"
+      ],
+      "answer": 0,
+      "explanation": "'नौ दो ग्यारह होना' का अर्थ है चुपके से भाग जाना।"
+    },
+    {
+      "section": "Hindi",
+      "text": "हिंदी वर्णमाला में 'अं' और 'अः' को कहा जाता है —",
+      "options": [
+        "उत्क्षिप्त व्यंजन",
+        "संयुक्त व्यंजन",
+        "दीर्घ स्वर",
+        "अयोगवाह"
+      ],
+      "answer": 3,
+      "explanation": "अनुस्वार (अं) और विसर्ग (अः) न पूरी तरह स्वर हैं न व्यंजन, इन्हें अयोगवाह कहते हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "प्राथमिक स्तर पर बच्चों के लिए भाषा सीखने का सबसे सहज तरीका है —",
+      "options": [
+        "शब्दों की वर्तनी बार-बार लिखना",
+        "व्याकरण के नियम रटना",
+        "स्वाभाविक संदर्भों में भाषा का प्रयोग करते हुए सीखना",
+        "केवल पाठ्यपुस्तक का वाचन सुनना"
+      ],
+      "answer": 2,
+      "explanation": "बच्चे अर्थपूर्ण, स्वाभाविक संदर्भों में बातचीत, कहानी, खेल आदि के माध्यम से भाषा सहजता से सीखते हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "राष्ट्रीय पाठ्यचर्या की रूपरेखा 2005 के अनुसार कक्षा में बच्चों की बहुभाषिकता को —",
+      "options": [
+        "एक बाधा मानकर हतोत्साहित करना चाहिए",
+        "एक संसाधन के रूप में देखना चाहिए",
+        "केवल घर तक सीमित रखना चाहिए",
+        "दंड द्वारा समाप्त करना चाहिए"
+      ],
+      "answer": 1,
+      "explanation": "NCF 2005 बहुभाषिकता को कक्षा का संसाधन मानती है जिसका उपयोग सीखने को समृद्ध करने में किया जाना चाहिए।"
+    },
+    {
+      "section": "Hindi",
+      "text": "पढ़ना सिखाने का मुख्य उद्देश्य है —",
+      "options": [
+        "लिखित सामग्री का अर्थ ग्रहण करना",
+        "शब्दों का शुद्ध उच्चारण मात्र करना",
+        "तेज़ गति से अक्षर पहचानना मात्र",
+        "पाठ को कंठस्थ करना"
+      ],
+      "answer": 0,
+      "explanation": "पठन का मूल उद्देश्य अर्थ-निर्माण (समझ) है; डिकोडिंग और उच्चारण उसके साधन मात्र हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "पहली कक्षा के बच्चों में पढ़ने की रुचि जगाने के लिए सबसे उपयुक्त है —",
+      "options": [
+        "वर्णमाला को क्रम से रटवाना",
+        "कक्षा में चित्रयुक्त बाल-साहित्य और प्रिंट-समृद्ध वातावरण उपलब्ध कराना",
+        "कठिन शब्दों का श्रुतलेख देना",
+        "केवल पाठ्यपुस्तक के पाठ बार-बार पढ़वाना"
+      ],
+      "answer": 1,
+      "explanation": "चित्र-कहानियाँ, बाल-साहित्य, लेबल, चार्ट आदि से भरा वातावरण बच्चों को पढ़ने के लिए प्रेरित करता है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "बच्चों की भाषायी त्रुटियों के प्रति शिक्षक का दृष्टिकोण होना चाहिए कि वह —",
+      "options": [
+        "त्रुटियों को पूरी तरह अनदेखा करे",
+        "हर त्रुटि पर तुरंत टोके और दंड दे",
+        "त्रुटियों को सीखने की स्वाभाविक प्रक्रिया मानकर संवेदनशीलता से सुधार के अवसर दे",
+        "त्रुटि करने वाले बच्चों को बोलने से रोके"
+      ],
+      "answer": 2,
+      "explanation": "त्रुटियाँ बच्चे के भाषा-विकास की स्वाभाविक अवस्था हैं; उचित प्रतिपुष्टि से बच्चे स्वयं सुधार करते हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "नोम चॉम्स्की के अनुसार बच्चों में भाषा सीखने की जन्मजात क्षमता होती है, जिसे कहा जाता है —",
+      "options": [
+        "संज्ञानात्मक असंतुलन",
+        "समीपस्थ विकास का क्षेत्र",
+        "अनुबंधित अनुक्रिया",
+        "भाषा अर्जन उपकरण (LAD)"
+      ],
+      "answer": 3,
+      "explanation": "चॉम्स्की ने Language Acquisition Device (भाषा अर्जन उपकरण) की संकल्पना दी।"
+    },
+    {
+      "section": "Hindi",
+      "text": "निदानात्मक परीक्षण का मुख्य उद्देश्य है —",
+      "options": [
+        "बच्चों को श्रेणी प्रदान करना",
+        "बच्चों की सीखने संबंधी कठिनाइयों का पता लगाना",
+        "बच्चों को उत्तीर्ण या अनुत्तीर्ण करना",
+        "अभिभावकों को अंक बताना"
+      ],
+      "answer": 1,
+      "explanation": "निदानात्मक परीक्षण से कठिनाइयों के कारण पता चलते हैं, जिनके आधार पर उपचारात्मक शिक्षण किया जाता है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "प्राथमिक स्तर पर व्याकरण शिक्षण का सबसे उपयुक्त तरीका है —",
+      "options": [
+        "नियम लिखकर याद करवाना",
+        "परिभाषाएँ रटवाना",
+        "भाषा-प्रयोग के संदर्भ में व्याकरण सिखाना",
+        "व्याकरण की अलग परीक्षा लेना"
+      ],
+      "answer": 2,
+      "explanation": "प्राथमिक स्तर पर व्याकरण संदर्भ में, कहानियों और वाक्यों के प्रयोग के माध्यम से सहज रूप से सिखाया जाना चाहिए।"
+    },
+    {
+      "section": "Hindi",
+      "text": "कविता शिक्षण का प्रमुख उद्देश्य है —",
+      "options": [
+        "आनंदानुभूति और सौंदर्यबोध का विकास",
+        "कठिन शब्दों के अर्थ रटना",
+        "व्याकरण के नियम सिखाना",
+        "कविता की पंक्तियाँ गिनना"
+      ],
+      "answer": 0,
+      "explanation": "कविता का मूल उद्देश्य रसानुभूति, लय का आनंद और सौंदर्यबोध का विकास है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "भाषा में सतत और व्यापक आकलन के लिए सबसे उपयुक्त है —",
+      "options": [
+        "केवल रटे हुए उत्तरों की जाँच",
+        "केवल सत्र के अंत में लिखित परीक्षा",
+        "केवल श्रुतलेख",
+        "कक्षा में बच्चों के बोलने, पढ़ने और लिखने के विविध अवसरों का अवलोकन"
+      ],
+      "answer": 3,
+      "explanation": "भाषा-आकलन शिक्षण का अंग होना चाहिए; विविध गतिविधियों में बच्चों की भाषा का निरंतर अवलोकन उपयोगी है।"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word that is closest in meaning to 'brave'.",
+      "options": [
+        "Courageous",
+        "Timid",
+        "Careless",
+        "Polite"
+      ],
+      "answer": 0,
+      "explanation": "'Brave' means ready to face danger; 'courageous' is its synonym, while 'timid' is its opposite."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word that is closest in meaning to 'enormous'.",
+      "options": [
+        "Tiny",
+        "Huge",
+        "Ordinary",
+        "Narrow"
+      ],
+      "answer": 1,
+      "explanation": "'Enormous' means very large, the same as 'huge'."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word opposite in meaning to 'ancient'.",
+      "options": [
+        "Historic",
+        "Old",
+        "Modern",
+        "Antique"
+      ],
+      "answer": 2,
+      "explanation": "'Ancient' means very old; its antonym is 'modern'."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word opposite in meaning to 'generous'.",
+      "options": [
+        "Charitable",
+        "Kind",
+        "Liberal",
+        "Stingy"
+      ],
+      "answer": 3,
+      "explanation": "A generous person gives freely; a stingy person is unwilling to give or spend."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct article: She is ___ honest girl.",
+      "options": [
+        "an",
+        "a",
+        "the",
+        "no article"
+      ],
+      "answer": 0,
+      "explanation": "'Honest' begins with a vowel sound (the 'h' is silent), so 'an' is used."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: He has been living in this town ___ 2015.",
+      "options": [
+        "by",
+        "for",
+        "from",
+        "since"
+      ],
+      "answer": 3,
+      "explanation": "'Since' is used with a point of time in the perfect continuous tense; 'for' is used with a period of time."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: I ___ my homework already, so I can play now.",
+      "options": [
+        "finish",
+        "have finished",
+        "will finish",
+        "am finishing"
+      ],
+      "answer": 1,
+      "explanation": "'Already' with a past action that has a present result calls for the present perfect tense."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: Each of the students ___ a library card.",
+      "options": [
+        "are having",
+        "have",
+        "has",
+        "were having"
+      ],
+      "answer": 2,
+      "explanation": "'Each' is singular, so it takes the singular verb 'has'."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct passive form of: 'The boy kicked the ball.'",
+      "options": [
+        "The ball was kicked by the boy.",
+        "The ball is kicked by the boy.",
+        "The ball has been kicked by the boy.",
+        "The ball kicked the boy."
+      ],
+      "answer": 0,
+      "explanation": "Simple past active becomes 'was/were + past participle' in the passive voice."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct indirect speech: She said, 'I am tired.'",
+      "options": [
+        "She said that I am tired.",
+        "She said that she was tired.",
+        "She said that she is being tired.",
+        "She says that she was tired."
+      ],
+      "answer": 1,
+      "explanation": "With a past reporting verb, 'am' changes to 'was' and the pronoun 'I' changes to 'she'."
+    },
+    {
+      "section": "English",
+      "text": "What is the plural of 'child'?",
+      "options": [
+        "Childrens",
+        "Childs",
+        "Children",
+        "Childes"
+      ],
+      "answer": 2,
+      "explanation": "'Child' has an irregular plural form, 'children'."
+    },
+    {
+      "section": "English",
+      "text": "In the sentence 'Rohan ran quickly to the gate', the word 'quickly' is a/an",
+      "options": [
+        "preposition",
+        "adjective",
+        "noun",
+        "adverb"
+      ],
+      "answer": 3,
+      "explanation": "'Quickly' tells us how Rohan ran, so it modifies the verb and is an adverb."
+    },
+    {
+      "section": "English",
+      "text": "The idiom 'a piece of cake' means",
+      "options": [
+        "something very costly",
+        "a sweet dish",
+        "a small share",
+        "something very easy"
+      ],
+      "answer": 3,
+      "explanation": "'A piece of cake' is used for a task that is very easy to do."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correctly spelt word.",
+      "options": [
+        "Necessary",
+        "Neccessary",
+        "Necesary",
+        "Neccesary"
+      ],
+      "answer": 0,
+      "explanation": "The correct spelling is 'necessary' — one 'c' and double 's'."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: This box is ___ than that one.",
+      "options": [
+        "heaviest",
+        "heavy",
+        "heavier",
+        "more heavier"
+      ],
+      "answer": 2,
+      "explanation": "Two things are compared, so the comparative 'heavier' is used; 'more heavier' is a double comparative."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: I wanted to go out, ___ it was raining heavily.",
+      "options": [
+        "and",
+        "but",
+        "so",
+        "because"
+      ],
+      "answer": 1,
+      "explanation": "'But' joins two contrasting ideas."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct question tag: She can swim, ___?",
+      "options": [
+        "can't she",
+        "can she",
+        "doesn't she",
+        "isn't she"
+      ],
+      "answer": 0,
+      "explanation": "A positive statement takes a negative tag with the same auxiliary verb: 'can't she?'"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct collective noun: a ___ of cows",
+      "options": [
+        "flock",
+        "herd",
+        "swarm",
+        "pack"
+      ],
+      "answer": 1,
+      "explanation": "A group of cattle is a herd; 'flock' is used for sheep or birds, 'swarm' for bees and 'pack' for wolves."
+    },
+    {
+      "section": "English",
+      "text": "According to Stephen Krashen, a second language is acquired best when learners",
+      "options": [
+        "translate every sentence into their mother tongue",
+        "memorise grammar rules thoroughly",
+        "are corrected for every error",
+        "receive comprehensible input slightly beyond their current level"
+      ],
+      "answer": 3,
+      "explanation": "Krashen's input hypothesis (i+1) states that acquisition happens through understandable input a little above the learner's level."
+    },
+    {
+      "section": "English",
+      "text": "Phonemic awareness refers to the ability to",
+      "options": [
+        "spell long words correctly",
+        "write letters neatly",
+        "hear, identify and manipulate individual sounds in spoken words",
+        "read silently at a fast speed"
+      ],
+      "answer": 2,
+      "explanation": "Phonemic awareness is an oral skill: recognising and working with the smallest units of sound (phonemes)."
+    },
+    {
+      "section": "English",
+      "text": "Total Physical Response (TPR), a method in which learners respond to commands with actions, was developed by",
+      "options": [
+        "Jean Piaget",
+        "Noam Chomsky",
+        "B.F. Skinner",
+        "James Asher"
+      ],
+      "answer": 3,
+      "explanation": "James Asher developed TPR, linking language input to physical movement, which suits young learners."
+    },
+    {
+      "section": "English",
+      "text": "Reading a text quickly to get its general idea or main point is called",
+      "options": [
+        "intensive reading",
+        "scanning",
+        "skimming",
+        "loud reading"
+      ],
+      "answer": 2,
+      "explanation": "Skimming is for the gist; scanning is searching for specific information such as a name or date."
+    },
+    {
+      "section": "English",
+      "text": "A 'print-rich environment' in a primary classroom means",
+      "options": [
+        "displaying labels, charts, posters and children's writing around the classroom",
+        "giving children many printed worksheets as homework",
+        "using only printed textbooks for teaching",
+        "keeping a printer in the classroom"
+      ],
+      "answer": 0,
+      "explanation": "Exposure to meaningful print in the surroundings helps young children connect spoken and written language."
+    },
+    {
+      "section": "English",
+      "text": "The communicative approach to teaching English focuses mainly on",
+      "options": [
+        "memorising grammar rules",
+        "using language for meaningful interaction",
+        "translating texts word by word",
+        "mechanical drills of sentence patterns"
+      ],
+      "answer": 1,
+      "explanation": "Communicative Language Teaching treats real communication as both the means and the goal of learning."
+    },
+    {
+      "section": "English",
+      "text": "Which activity is most suitable for developing listening skills of Class II learners?",
+      "options": [
+        "Listening to a story read aloud and acting out parts of it",
+        "Copying sentences from the blackboard",
+        "Writing spellings ten times each",
+        "Silent reading of a long chapter"
+      ],
+      "answer": 0,
+      "explanation": "Purposeful listening tasks linked to stories and actions keep young learners engaged and check their understanding."
+    },
+    {
+      "section": "English",
+      "text": "At the primary level, English grammar should be taught",
+      "options": [
+        "as a separate subject with rules only",
+        "by memorising definitions of parts of speech",
+        "in context, through meaningful use of language",
+        "through translation exercises alone"
+      ],
+      "answer": 2,
+      "explanation": "Grammar learnt in context through stories, songs and conversation is better internalised by young learners."
+    },
+    {
+      "section": "English",
+      "text": "According to the National Curriculum Framework 2005, the use of the children's mother tongue in an English classroom",
+      "options": [
+        "shows that the teacher is weak",
+        "should be strictly banned",
+        "should be punished",
+        "can be used as a resource to support learning"
+      ],
+      "answer": 3,
+      "explanation": "NCF 2005 views children's home languages as a resource; they can scaffold the learning of a second language."
+    },
+    {
+      "section": "English",
+      "text": "The phonics method of teaching reading is based on",
+      "options": [
+        "memorising whole sentences",
+        "the relationship between letters and the sounds they represent",
+        "learning the alphabet in order only",
+        "guessing words from pictures only"
+      ],
+      "answer": 1,
+      "explanation": "Phonics teaches the correspondence between graphemes (letters) and phonemes (sounds) to help children decode words."
+    },
+    {
+      "section": "English",
+      "text": "Errors made by children while learning a second language should be seen as",
+      "options": [
+        "a natural part of the learning process",
+        "a sign of lack of intelligence",
+        "something to be punished",
+        "proof of poor teaching"
+      ],
+      "answer": 0,
+      "explanation": "Errors show the learner is forming and testing hypotheses about the new language."
+    },
+    {
+      "section": "English",
+      "text": "Remedial teaching in English is meant to",
+      "options": [
+        "prepare learners only for the final examination",
+        "teach advanced learners new topics",
+        "complete the syllabus quickly",
+        "help learners overcome specific difficulties identified through diagnosis"
+      ],
+      "answer": 3,
+      "explanation": "Remedial teaching follows diagnosis and targets the particular gaps or difficulties of learners."
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the place value of 7 in 47,358?",
+      "textHi": "47,358 में 7 का स्थानीय मान क्या है?",
+      "options": [
+        "700",
+        "7,000",
+        "70,000",
+        "7"
+      ],
+      "optionsHi": [
+        "700",
+        "7,000",
+        "70,000",
+        "7"
+      ],
+      "answer": 1,
+      "explanation": "7 is in the thousands place, so its place value is 7 × 1,000 = 7,000.",
+      "explanationHi": "7 हज़ार के स्थान पर है, अतः इसका स्थानीय मान 7 × 1,000 = 7,000 है।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the smallest 5-digit number that can be formed using each of the digits 0, 3, 5, 7 and 9 exactly once?",
+      "textHi": "अंकों 0, 3, 5, 7 और 9 में से प्रत्येक का केवल एक बार प्रयोग करके बनने वाली सबसे छोटी 5-अंकीय संख्या कौन-सी है?",
+      "options": [
+        "35079",
+        "03579",
+        "30579",
+        "30759"
+      ],
+      "optionsHi": [
+        "35079",
+        "03579",
+        "30579",
+        "30759"
+      ],
+      "answer": 2,
+      "explanation": "0 cannot be in the first place, so the smallest non-zero digit 3 comes first, followed by 0, 5, 7, 9.",
+      "explanationHi": "0 पहले स्थान पर नहीं आ सकता, इसलिए सबसे छोटा शून्येतर अंक 3 पहले और उसके बाद 0, 5, 7, 9 आते हैं।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the LCM of 12 and 18?",
+      "textHi": "12 और 18 का लघुत्तम समापवर्त्य (LCM) क्या है?",
+      "options": [
+        "216",
+        "72",
+        "6",
+        "36"
+      ],
+      "optionsHi": [
+        "216",
+        "72",
+        "6",
+        "36"
+      ],
+      "answer": 3,
+      "explanation": "12 = 2² × 3 and 18 = 2 × 3², so LCM = 2² × 3² = 36.",
+      "explanationHi": "12 = 2² × 3 तथा 18 = 2 × 3², अतः LCM = 2² × 3² = 36।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the HCF of 24 and 36?",
+      "textHi": "24 और 36 का महत्तम समापवर्तक (HCF) क्या है?",
+      "options": [
+        "6",
+        "12",
+        "72",
+        "4"
+      ],
+      "optionsHi": [
+        "6",
+        "12",
+        "72",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "24 = 2³ × 3 and 36 = 2² × 3², so HCF = 2² × 3 = 12.",
+      "explanationHi": "24 = 2³ × 3 तथा 36 = 2² × 3², अतः HCF = 2² × 3 = 12।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "3/4 + 1/8 = ?",
+      "textHi": "मान ज्ञात कीजिए: 3/4 + 1/8 = ?",
+      "options": [
+        "7/8",
+        "4/12",
+        "1/2",
+        "5/8"
+      ],
+      "optionsHi": [
+        "7/8",
+        "4/12",
+        "1/2",
+        "5/8"
+      ],
+      "answer": 0,
+      "explanation": "3/4 = 6/8, and 6/8 + 1/8 = 7/8.",
+      "explanationHi": "3/4 = 6/8, तथा 6/8 + 1/8 = 7/8।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "0.5 × 0.04 = ?",
+      "textHi": "मान ज्ञात कीजिए: 0.5 × 0.04 = ?",
+      "options": [
+        "0.002",
+        "0.2",
+        "0.02",
+        "2.0"
+      ],
+      "optionsHi": [
+        "0.002",
+        "0.2",
+        "0.02",
+        "2.0"
+      ],
+      "answer": 2,
+      "explanation": "5 × 4 = 20 and there are 3 decimal places in all, so the product is 0.020 = 0.02.",
+      "explanationHi": "5 × 4 = 20 और कुल 3 दशमलव स्थान हैं, अतः गुणनफल 0.020 = 0.02 है।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A train leaves a station at 10:45 p.m. and reaches its destination after 3 hours 30 minutes. At what time does it arrive?",
+      "textHi": "एक रेलगाड़ी रात 10:45 बजे (p.m.) स्टेशन से चलती है और 3 घंटे 30 मिनट बाद गंतव्य पर पहुँचती है। वह किस समय पहुँचेगी?",
+      "options": [
+        "1:45 a.m.",
+        "1:15 a.m.",
+        "2:15 p.m.",
+        "2:15 a.m."
+      ],
+      "optionsHi": [
+        "1:45 a.m.",
+        "1:15 a.m.",
+        "2:15 p.m.",
+        "2:15 a.m. (रात 2:15)"
+      ],
+      "answer": 3,
+      "explanation": "10:45 p.m. + 3 h = 1:45 a.m.; + 30 min = 2:15 a.m. the next day.",
+      "explanationHi": "10:45 p.m. + 3 घंटे = 1:45 a.m.; + 30 मिनट = अगले दिन 2:15 a.m.।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the perimeter of a square of side 7 cm?",
+      "textHi": "7 सेमी भुजा वाले वर्ग का परिमाप क्या है?",
+      "options": [
+        "28 cm",
+        "49 cm",
+        "14 cm",
+        "21 cm"
+      ],
+      "optionsHi": [
+        "28 सेमी",
+        "49 सेमी",
+        "14 सेमी",
+        "21 सेमी"
+      ],
+      "answer": 0,
+      "explanation": "Perimeter of a square = 4 × side = 4 × 7 = 28 cm (49 is the area in sq cm).",
+      "explanationHi": "वर्ग का परिमाप = 4 × भुजा = 4 × 7 = 28 सेमी (49 वर्ग सेमी उसका क्षेत्रफल है)।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A rectangular garden is 12 m long and 5 m wide. What is its area?",
+      "textHi": "एक आयताकार बगीचा 12 मी लंबा और 5 मी चौड़ा है। इसका क्षेत्रफल क्या है?",
+      "options": [
+        "34 sq m",
+        "60 sq m",
+        "17 sq m",
+        "120 sq m"
+      ],
+      "optionsHi": [
+        "34 वर्ग मी",
+        "60 वर्ग मी",
+        "17 वर्ग मी",
+        "120 वर्ग मी"
+      ],
+      "answer": 1,
+      "explanation": "Area = length × breadth = 12 × 5 = 60 sq m (34 m is the perimeter).",
+      "explanationHi": "क्षेत्रफल = लंबाई × चौड़ाई = 12 × 5 = 60 वर्ग मी (34 मी इसका परिमाप है)।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The Roman numeral XLIV stands for",
+      "textHi": "रोमन संख्यांक XLIV किस संख्या को दर्शाता है?",
+      "options": [
+        "46",
+        "64",
+        "44",
+        "56"
+      ],
+      "optionsHi": [
+        "46",
+        "64",
+        "44",
+        "56"
+      ],
+      "answer": 2,
+      "explanation": "XL = 50 − 10 = 40 and IV = 5 − 1 = 4, so XLIV = 44.",
+      "explanationHi": "XL = 50 − 10 = 40 तथा IV = 5 − 1 = 4, अतः XLIV = 44।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many lines of symmetry does a square have?",
+      "textHi": "एक वर्ग में सममिति की कितनी रेखाएँ होती हैं?",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "8"
+      ],
+      "optionsHi": [
+        "4",
+        "2",
+        "1",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "A square has 2 lines of symmetry through the midpoints of opposite sides and 2 along the diagonals — 4 in all.",
+      "explanationHi": "वर्ग में सम्मुख भुजाओं के मध्य-बिंदुओं से होकर 2 और विकर्णों के अनुदिश 2 — कुल 4 सममिति रेखाएँ होती हैं।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many edges does a cube have?",
+      "textHi": "एक घन में कितने किनारे (कोर) होते हैं?",
+      "options": [
+        "10",
+        "6",
+        "8",
+        "12"
+      ],
+      "optionsHi": [
+        "10",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": 3,
+      "explanation": "A cube has 6 faces, 8 vertices and 12 edges.",
+      "explanationHi": "घन में 6 फलक, 8 शीर्ष और 12 किनारे होते हैं।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find the next number in the pattern: 2, 6, 12, 20, 30, ___",
+      "textHi": "पैटर्न में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ___",
+      "options": [
+        "40",
+        "42",
+        "36",
+        "44"
+      ],
+      "optionsHi": [
+        "40",
+        "42",
+        "36",
+        "44"
+      ],
+      "answer": 1,
+      "explanation": "The differences are 4, 6, 8, 10, so the next difference is 12: 30 + 12 = 42 (each term is n × (n + 1)).",
+      "explanationHi": "अंतर 4, 6, 8, 10 हैं, अतः अगला अंतर 12 होगा: 30 + 12 = 42 (प्रत्येक पद n × (n + 1) है)।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A shopkeeper buys a pen for ₹40 and sells it for ₹50. What is his profit per cent?",
+      "textHi": "एक दुकानदार ₹40 में एक पेन खरीदकर ₹50 में बेचता है। उसका लाभ प्रतिशत क्या है?",
+      "options": [
+        "10%",
+        "20%",
+        "25%",
+        "50%"
+      ],
+      "optionsHi": [
+        "10%",
+        "20%",
+        "25%",
+        "50%"
+      ],
+      "answer": 2,
+      "explanation": "Profit = ₹10 on a cost price of ₹40; 10/40 × 100 = 25%.",
+      "explanationHi": "₹40 क्रय मूल्य पर लाभ ₹10 है; 10/40 × 100 = 25%।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "In a tally chart, a number is shown by two complete bundles of five tally marks and three single marks. What number is it?",
+      "textHi": "एक मिलान (टैली) चार्ट में किसी संख्या को पाँच-पाँच टैली चिह्नों के दो पूरे गट्ठर और तीन अकेले चिह्नों से दर्शाया गया है। वह संख्या क्या है?",
+      "options": [
+        "15",
+        "23",
+        "8",
+        "13"
+      ],
+      "optionsHi": [
+        "15",
+        "23",
+        "8",
+        "13"
+      ],
+      "answer": 3,
+      "explanation": "Each bundle stands for 5, so 5 + 5 + 3 = 13.",
+      "explanationHi": "प्रत्येक गट्ठर 5 को दर्शाता है, अतः 5 + 5 + 3 = 13।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Ravi had ₹500. He spent ₹237.50. How much money is left with him?",
+      "textHi": "रवि के पास ₹500 थे। उसने ₹237.50 खर्च किए। उसके पास कितने रुपये बचे?",
+      "options": [
+        "₹263.50",
+        "₹272.50",
+        "₹262.50",
+        "₹362.50"
+      ],
+      "optionsHi": [
+        "₹263.50",
+        "₹272.50",
+        "₹262.50",
+        "₹362.50"
+      ],
+      "answer": 2,
+      "explanation": "₹500.00 − ₹237.50 = ₹262.50.",
+      "explanationHi": "₹500.00 − ₹237.50 = ₹262.50।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many prime numbers are there between 1 and 20?",
+      "textHi": "1 और 20 के बीच कितनी अभाज्य संख्याएँ हैं?",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "10"
+      ],
+      "optionsHi": [
+        "8",
+        "7",
+        "9",
+        "10"
+      ],
+      "answer": 0,
+      "explanation": "They are 2, 3, 5, 7, 11, 13, 17 and 19 — eight primes.",
+      "explanationHi": "ये 2, 3, 5, 7, 11, 13, 17 और 19 हैं — कुल आठ अभाज्य संख्याएँ।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "1001 ÷ 7 = ?",
+      "textHi": "मान ज्ञात कीजिए: 1001 ÷ 7 = ?",
+      "options": [
+        "153",
+        "143",
+        "133",
+        "141"
+      ],
+      "optionsHi": [
+        "153",
+        "143",
+        "133",
+        "141"
+      ],
+      "answer": 1,
+      "explanation": "7 × 143 = 1001.",
+      "explanationHi": "7 × 143 = 1001।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many quarters (1/4) are there in 3?",
+      "textHi": "3 में कितने चौथाई (1/4) होते हैं?",
+      "options": [
+        "7",
+        "3/4",
+        "12",
+        "4"
+      ],
+      "optionsHi": [
+        "7",
+        "3/4",
+        "12",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "3 ÷ 1/4 = 3 × 4 = 12.",
+      "explanationHi": "3 ÷ 1/4 = 3 × 4 = 12।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "5 km 40 m is equal to",
+      "textHi": "5 किमी 40 मी बराबर है —",
+      "options": [
+        "5400 m",
+        "5040 m",
+        "540 m",
+        "50040 m"
+      ],
+      "optionsHi": [
+        "5400 मी",
+        "5040 मी",
+        "540 मी",
+        "50040 मी"
+      ],
+      "answer": 1,
+      "explanation": "1 km = 1000 m, so 5 km 40 m = 5000 m + 40 m = 5040 m.",
+      "explanationHi": "1 किमी = 1000 मी, अतः 5 किमी 40 मी = 5000 मी + 40 मी = 5040 मी।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "According to the van Hiele theory of geometric thinking, at the first level (Level 0) children",
+      "textHi": "ज्यामितीय चिंतन के वैन हील सिद्धांत के अनुसार पहले स्तर (स्तर 0) पर बच्चे —",
+      "options": [
+        "recognise shapes by their overall appearance (visualisation)",
+        "write formal geometric proofs",
+        "relate properties of different shapes logically",
+        "work with axioms of geometry"
+      ],
+      "optionsHi": [
+        "आकृतियों को उनके समग्र रूप से पहचानते हैं (दृश्यीकरण)",
+        "औपचारिक ज्यामितीय उपपत्तियाँ लिखते हैं",
+        "विभिन्न आकृतियों के गुणों को तार्किक रूप से जोड़ते हैं",
+        "ज्यामिति के अभिगृहीतों के साथ कार्य करते हैं"
+      ],
+      "answer": 0,
+      "explanation": "Level 0 is visualisation: a child calls a figure a 'square' because it looks like one, without reasoning about its properties.",
+      "explanationHi": "स्तर 0 दृश्यीकरण है: बच्चा किसी आकृति को 'वर्ग' इसलिए कहता है क्योंकि वह वैसी दिखती है, उसके गुणों पर तर्क नहीं करता।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The most appropriate sequence for teaching a new mathematical concept to young children is",
+      "textHi": "छोटे बच्चों को कोई नई गणितीय संकल्पना पढ़ाने का सबसे उपयुक्त क्रम है —",
+      "options": [
+        "abstract → concrete → pictorial",
+        "abstract → pictorial → concrete",
+        "pictorial → abstract → concrete",
+        "concrete → pictorial → abstract"
+      ],
+      "optionsHi": [
+        "अमूर्त → मूर्त → चित्रात्मक",
+        "अमूर्त → चित्रात्मक → मूर्त",
+        "चित्रात्मक → अमूर्त → मूर्त",
+        "मूर्त → चित्रात्मक → अमूर्त"
+      ],
+      "answer": 3,
+      "explanation": "Children first handle real objects, then pictures, and finally symbols — moving from concrete to abstract.",
+      "explanationHi": "बच्चे पहले वास्तविक वस्तुओं से, फिर चित्रों से और अंत में प्रतीकों से सीखते हैं — मूर्त से अमूर्त की ओर।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A child solves 25 + 18 and writes the answer as 313. The most likely reason is that the child",
+      "textHi": "एक बच्चा 25 + 18 हल करके उत्तर 313 लिखता है। इसका सबसे संभावित कारण है कि बच्चा —",
+      "options": [
+        "cannot read the numbers",
+        "does not know the addition facts",
+        "is careless while copying",
+        "does not understand place value and regrouping (carrying)"
+      ],
+      "optionsHi": [
+        "संख्याएँ पढ़ नहीं सकता",
+        "जोड़ के तथ्य नहीं जानता",
+        "नकल करते समय लापरवाह है",
+        "स्थानीय मान और पुनर्समूहन (हासिल) को नहीं समझता"
+      ],
+      "answer": 3,
+      "explanation": "The child added 5 + 8 = 13 and 2 + 1 = 3 correctly but wrote 13 in the ones place instead of regrouping 10 ones as 1 ten.",
+      "explanationHi": "बच्चे ने 5 + 8 = 13 और 2 + 1 = 3 सही जोड़ा, परंतु 10 इकाइयों को 1 दहाई में बदलने के बजाय 13 को इकाई के स्थान पर लिख दिया।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A student says that 0.125 is greater than 0.25 because 125 is greater than 25. This shows that the student",
+      "textHi": "एक विद्यार्थी कहता है कि 0.125, 0.25 से बड़ा है क्योंकि 125, 25 से बड़ा है। यह दर्शाता है कि विद्यार्थी —",
+      "options": [
+        "is treating decimals like whole numbers",
+        "has understood decimal place value well",
+        "is good at estimation",
+        "does not know how to read numbers"
+      ],
+      "optionsHi": [
+        "दशमलव संख्याओं को पूर्ण संख्याओं की तरह मान रहा है",
+        "दशमलव स्थानीय मान को भली-भाँति समझ चुका है",
+        "अनुमान लगाने में कुशल है",
+        "संख्याएँ पढ़ना नहीं जानता"
+      ],
+      "answer": 0,
+      "explanation": "This common misconception comes from comparing the digits after the decimal point as if they were whole numbers; 0.25 = 0.250 > 0.125.",
+      "explanationHi": "यह आम भ्रांति दशमलव के बाद के अंकों की तुलना पूर्ण संख्याओं की तरह करने से होती है; 0.25 = 0.250 > 0.125।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "According to the NCF 2005 position paper on teaching of Mathematics, the main goal of mathematics education in schools is",
+      "textHi": "गणित-शिक्षण पर NCF 2005 के आधार-पत्र के अनुसार विद्यालयों में गणित शिक्षा का मुख्य लक्ष्य है —",
+      "options": [
+        "solving more problems in less time",
+        "memorising formulae and tables",
+        "the mathematisation of the child's thinking",
+        "preparing children only for examinations"
+      ],
+      "optionsHi": [
+        "कम समय में अधिक प्रश्न हल करना",
+        "सूत्र और पहाड़े याद करना",
+        "बच्चे के चिंतन का गणितीकरण",
+        "बच्चों को केवल परीक्षाओं के लिए तैयार करना"
+      ],
+      "answer": 2,
+      "explanation": "The position paper states that developing children's ability to mathematise (think mathematically) is the main goal, not mere procedures.",
+      "explanationHi": "आधार-पत्र के अनुसार मुख्य लक्ष्य बच्चे में गणितीय रूप से सोचने (गणितीकरण) की क्षमता विकसित करना है, केवल प्रक्रियाएँ सिखाना नहीं।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A geoboard is most useful for teaching",
+      "textHi": "जियोबोर्ड किसे पढ़ाने के लिए सबसे उपयोगी है?",
+      "options": [
+        "multiplication tables",
+        "shapes, area and perimeter",
+        "Roman numerals",
+        "the concept of time"
+      ],
+      "optionsHi": [
+        "गुणा के पहाड़े",
+        "आकृतियाँ, क्षेत्रफल और परिमाप",
+        "रोमन संख्यांक",
+        "समय की संकल्पना"
+      ],
+      "answer": 1,
+      "explanation": "Children stretch rubber bands over the pegs to make shapes and explore their sides, area and perimeter.",
+      "explanationHi": "बच्चे कीलों पर रबर-बैंड लगाकर आकृतियाँ बनाते हैं और उनकी भुजाओं, क्षेत्रफल तथा परिमाप की खोज करते हैं।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Which of the following is a pre-number concept?",
+      "textHi": "निम्नलिखित में से कौन-सी पूर्व-संख्या संकल्पना है?",
+      "options": [
+        "Addition",
+        "Multiplication",
+        "Division",
+        "Seriation"
+      ],
+      "optionsHi": [
+        "जोड़",
+        "गुणा",
+        "भाग",
+        "क्रमबद्धता (सीरिएशन)"
+      ],
+      "answer": 3,
+      "explanation": "Classification, seriation, matching (one-to-one correspondence) and conservation are pre-number concepts that lay the foundation for counting.",
+      "explanationHi": "वर्गीकरण, क्रमबद्धता, एक-से-एक संगति और संरक्षण पूर्व-संख्या संकल्पनाएँ हैं जो गिनती की नींव बनाती हैं।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "According to George Polya, the first step in problem solving is to",
+      "textHi": "जॉर्ज पोल्या के अनुसार समस्या-समाधान का पहला चरण है —",
+      "options": [
+        "carry out the plan",
+        "devise a plan",
+        "understand the problem",
+        "look back and check"
+      ],
+      "optionsHi": [
+        "योजना को क्रियान्वित करना",
+        "योजना बनाना",
+        "समस्या को समझना",
+        "पीछे देखना और जाँचना"
+      ],
+      "answer": 2,
+      "explanation": "Polya's four steps are: understand the problem, devise a plan, carry out the plan, and look back.",
+      "explanationHi": "पोल्या के चार चरण हैं: समस्या को समझना, योजना बनाना, योजना क्रियान्वित करना और पीछे देखकर जाँचना।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Base-ten blocks (units, rods and flats) are mainly used to teach",
+      "textHi": "आधार-दस ब्लॉक (इकाई, छड़ और फ़्लैट) मुख्यतः किसे पढ़ाने के लिए प्रयोग किए जाते हैं?",
+      "options": [
+        "place value",
+        "symmetry",
+        "measurement of weight",
+        "data handling"
+      ],
+      "optionsHi": [
+        "स्थानीय मान",
+        "सममिति",
+        "भार का मापन",
+        "आँकड़ों का प्रबंधन"
+      ],
+      "answer": 0,
+      "explanation": "A unit is 1, a rod is 10 and a flat is 100, so children can physically see ones, tens and hundreds.",
+      "explanationHi": "इकाई 1, छड़ 10 और फ़्लैट 100 को दर्शाता है, जिससे बच्चे इकाई, दहाई और सैकड़ा को प्रत्यक्ष देख पाते हैं।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A child calculates 99 + 47 as 100 + 47 − 1 = 146. Which mental strategy has the child used?",
+      "textHi": "एक बच्चा 99 + 47 की गणना 100 + 47 − 1 = 146 के रूप में करता है। बच्चे ने कौन-सी मानसिक रणनीति अपनाई है?",
+      "options": [
+        "Repeated subtraction",
+        "Compensation",
+        "Skip counting",
+        "Doubling"
+      ],
+      "optionsHi": [
+        "बार-बार घटाना",
+        "क्षतिपूर्ति (समायोजन)",
+        "उछालकर गिनना",
+        "दुगना करना"
+      ],
+      "answer": 1,
+      "explanation": "The child rounded 99 up to 100 and then compensated by subtracting 1 — a sign of good number sense.",
+      "explanationHi": "बच्चे ने 99 को 100 मानकर फिर 1 घटाकर क्षतिपूर्ति की — यह अच्छे संख्या-बोध का संकेत है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Which of the following birds is active mainly at night?",
+      "textHi": "निम्नलिखित में से कौन-सा पक्षी मुख्यतः रात में सक्रिय रहता है?",
+      "options": [
+        "Crow",
+        "Sparrow",
+        "Owl",
+        "Pigeon"
+      ],
+      "optionsHi": [
+        "कौआ",
+        "गौरैया",
+        "उल्लू",
+        "कबूतर"
+      ],
+      "answer": 2,
+      "explanation": "The owl is nocturnal; its large eyes and sharp hearing help it hunt at night.",
+      "explanationHi": "उल्लू निशाचर है; उसकी बड़ी आँखें और तेज़ श्रवण-शक्ति रात में शिकार करने में मदद करती हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Which of the following is a mammal that can truly fly?",
+      "textHi": "निम्नलिखित में से कौन-सा स्तनधारी वास्तव में उड़ सकता है?",
+      "options": [
+        "Flying fish",
+        "Bat",
+        "Ostrich",
+        "Penguin"
+      ],
+      "optionsHi": [
+        "उड़न मछली",
+        "चमगादड़",
+        "शुतुरमुर्ग",
+        "पेंगुइन"
+      ],
+      "answer": 1,
+      "explanation": "Bats are the only mammals capable of true, sustained flight; they give birth to young ones and feed them milk.",
+      "explanationHi": "चमगादड़ ही एकमात्र स्तनधारी है जो वास्तविक उड़ान भर सकता है; वह बच्चों को जन्म देता है और उन्हें दूध पिलाता है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "In which of the following plants is food stored in the root?",
+      "textHi": "निम्नलिखित में से किस पौधे में भोजन जड़ में संग्रहित होता है?",
+      "options": [
+        "Carrot",
+        "Potato",
+        "Ginger",
+        "Onion"
+      ],
+      "optionsHi": [
+        "गाजर",
+        "आलू",
+        "अदरक",
+        "प्याज़"
+      ],
+      "answer": 0,
+      "explanation": "Carrot is a modified tap root; potato and ginger are underground stems and onion is a bulb made of fleshy leaves.",
+      "explanationHi": "गाजर रूपांतरित मूसला जड़ है; आलू और अदरक भूमिगत तने हैं तथा प्याज़ मांसल पत्तियों से बना शल्ककंद है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "The Kalbelia dance, associated with the snake-charmer community, belongs to which state?",
+      "textHi": "सँपेरा समुदाय से जुड़ा कालबेलिया नृत्य किस राज्य का है?",
+      "options": [
+        "Punjab",
+        "Kerala",
+        "Assam",
+        "Rajasthan"
+      ],
+      "optionsHi": [
+        "पंजाब",
+        "केरल",
+        "असम",
+        "राजस्थान"
+      ],
+      "answer": 3,
+      "explanation": "Kalbelia is a folk dance of the Kalbelia community of Rajasthan and is on UNESCO's intangible heritage list.",
+      "explanationHi": "कालबेलिया राजस्थान के कालबेलिया समुदाय का लोकनृत्य है और यूनेस्को की अमूर्त विरासत सूची में शामिल है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Kaziranga National Park in Assam is best known for the",
+      "textHi": "असम का काज़ीरंगा राष्ट्रीय उद्यान किसके लिए सबसे प्रसिद्ध है?",
+      "options": [
+        "one-horned rhinoceros",
+        "Asiatic lion",
+        "snow leopard",
+        "Great Indian Bustard"
+      ],
+      "optionsHi": [
+        "एक सींग वाला गैंडा",
+        "एशियाई सिंह",
+        "हिम तेंदुआ",
+        "गोडावण (ग्रेट इंडियन बस्टर्ड)"
+      ],
+      "answer": 0,
+      "explanation": "Kaziranga holds the largest population of the Indian one-horned rhinoceros; Asiatic lions live in Gir, Gujarat.",
+      "explanationHi": "काज़ीरंगा में भारतीय एक सींग वाले गैंडे की सबसे बड़ी आबादी है; एशियाई सिंह गुजरात के गिर में पाए जाते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Malaria is spread by the bite of the",
+      "textHi": "मलेरिया किसके काटने से फैलता है?",
+      "options": [
+        "housefly",
+        "female Aedes mosquito",
+        "female Anopheles mosquito",
+        "cockroach"
+      ],
+      "optionsHi": [
+        "घरेलू मक्खी",
+        "मादा एडीज़ मच्छर",
+        "मादा एनोफ़िलीज़ मच्छर",
+        "तिलचट्टा"
+      ],
+      "answer": 2,
+      "explanation": "The malaria parasite (Plasmodium) is carried by the female Anopheles mosquito; Aedes spreads dengue and chikungunya.",
+      "explanationHi": "मलेरिया परजीवी (प्लाज़्मोडियम) मादा एनोफ़िलीज़ मच्छर द्वारा फैलता है; एडीज़ मच्छर डेंगू और चिकनगुनिया फैलाता है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Bleeding gums and slow healing of wounds are signs of a deficiency of",
+      "textHi": "मसूड़ों से खून आना और घावों का देर से भरना किसकी कमी के लक्षण हैं?",
+      "options": [
+        "Iron",
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin C"
+      ],
+      "optionsHi": [
+        "लौह (आयरन)",
+        "विटामिन A",
+        "विटामिन D",
+        "विटामिन C"
+      ],
+      "answer": 3,
+      "explanation": "Lack of vitamin C causes scurvy; citrus fruits and amla are rich sources.",
+      "explanationHi": "विटामिन C की कमी से स्कर्वी रोग होता है; खट्टे फल और आँवला इसके अच्छे स्रोत हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Bamboo, which is used to make houses, baskets and furniture, is actually a type of",
+      "textHi": "घर, टोकरियाँ और फ़र्नीचर बनाने में प्रयुक्त बाँस वास्तव में किस प्रकार का पौधा है?",
+      "options": [
+        "tree",
+        "grass",
+        "creeper",
+        "shrub"
+      ],
+      "optionsHi": [
+        "वृक्ष",
+        "घास",
+        "बेल (लता)",
+        "झाड़ी"
+      ],
+      "answer": 1,
+      "explanation": "Bamboo belongs to the grass family (Poaceae) and is among the fastest-growing plants.",
+      "explanationHi": "बाँस घास कुल (पोएसी) का पौधा है और सबसे तेज़ी से बढ़ने वाले पौधों में से एक है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "The seeds of which of the following plants are dispersed mainly by wind?",
+      "textHi": "निम्नलिखित में से किस पौधे के बीज मुख्यतः हवा द्वारा बिखरते हैं?",
+      "options": [
+        "Coconut",
+        "Dandelion",
+        "Xanthium (gokhru)",
+        "Mango"
+      ],
+      "optionsHi": [
+        "नारियल",
+        "डैंडेलियन (सिंहपर्णी)",
+        "ज़ैंथियम (गोखरू)",
+        "आम"
+      ],
+      "answer": 1,
+      "explanation": "Dandelion seeds have light, feathery hairs that carry them in the wind; coconuts float on water and Xanthium sticks to animals.",
+      "explanationHi": "डैंडेलियन के बीजों पर हल्के, रोएँदार रेशे होते हैं जो उन्हें हवा में उड़ा ले जाते हैं; नारियल पानी में तैरता है और गोखरू जंतुओं से चिपक जाता है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Stepwells (baolis), found especially in Rajasthan and Gujarat, were built mainly to",
+      "textHi": "विशेषकर राजस्थान और गुजरात में पाई जाने वाली बावड़ियाँ (बावली) मुख्यतः किसलिए बनाई गई थीं?",
+      "options": [
+        "keep cattle",
+        "store grain",
+        "store and provide water",
+        "worship the Sun"
+      ],
+      "optionsHi": [
+        "पशु रखने के लिए",
+        "अनाज संग्रहित करने के लिए",
+        "पानी संग्रहित करने और उपलब्ध कराने के लिए",
+        "सूर्य की पूजा के लिए"
+      ],
+      "answer": 2,
+      "explanation": "Stepwells are a traditional water-harvesting structure with steps leading down to the water level.",
+      "explanationHi": "बावड़ियाँ पारंपरिक जल-संग्रहण संरचनाएँ हैं जिनमें पानी के स्तर तक सीढ़ियाँ बनी होती हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Pochampally, famous for its ikat-woven sarees, is in which state?",
+      "textHi": "इकत बुनाई वाली साड़ियों के लिए प्रसिद्ध पोचमपल्ली किस राज्य में है?",
+      "options": [
+        "Telangana",
+        "Odisha",
+        "Gujarat",
+        "West Bengal"
+      ],
+      "optionsHi": [
+        "तेलंगाना",
+        "ओडिशा",
+        "गुजरात",
+        "पश्चिम बंगाल"
+      ],
+      "answer": 0,
+      "explanation": "Bhoodan Pochampally in Telangana is known for ikat sarees, in which threads are tie-dyed before weaving.",
+      "explanationHi": "तेलंगाना का भूदान पोचमपल्ली इकत साड़ियों के लिए जाना जाता है, जिनमें बुनाई से पहले धागों को बाँधकर रंगा जाता है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Who was the first Indian woman to climb Mount Everest?",
+      "textHi": "माउंट एवरेस्ट पर चढ़ने वाली पहली भारतीय महिला कौन थीं?",
+      "options": [
+        "Santosh Yadav",
+        "Kalpana Chawla",
+        "Arunima Sinha",
+        "Bachendri Pal"
+      ],
+      "optionsHi": [
+        "संतोष यादव",
+        "कल्पना चावला",
+        "अरुणिमा सिन्हा",
+        "बछेंद्री पाल"
+      ],
+      "answer": 3,
+      "explanation": "Bachendri Pal reached the summit of Everest on 23 May 1984.",
+      "explanationHi": "बछेंद्री पाल 23 मई 1984 को एवरेस्ट के शिखर पर पहुँचीं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Which of the following animals lays eggs?",
+      "textHi": "निम्नलिखित में से कौन-सा जंतु अंडे देता है?",
+      "options": [
+        "Crocodile",
+        "Whale",
+        "Dog",
+        "Elephant"
+      ],
+      "optionsHi": [
+        "मगरमच्छ",
+        "व्हेल",
+        "कुत्ता",
+        "हाथी"
+      ],
+      "answer": 0,
+      "explanation": "The crocodile is a reptile and lays eggs; whales, dogs and elephants are mammals that give birth to young ones.",
+      "explanationHi": "मगरमच्छ सरीसृप है और अंडे देता है; व्हेल, कुत्ता और हाथी स्तनधारी हैं जो बच्चों को जन्म देते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Amrita Devi Bishnoi and many villagers of Khejarli (Rajasthan) gave their lives in 1730 to protect",
+      "textHi": "अमृता देवी बिश्नोई और खेजड़ली (राजस्थान) के अनेक ग्रामीणों ने 1730 में किसकी रक्षा के लिए अपने प्राण दिए?",
+      "options": [
+        "a water tank",
+        "Blackbucks",
+        "Khejri trees",
+        "their crops"
+      ],
+      "optionsHi": [
+        "एक जल-कुंड",
+        "काले हिरणों",
+        "खेजड़ी के पेड़ों",
+        "अपनी फ़सलों"
+      ],
+      "answer": 2,
+      "explanation": "They hugged the Khejri trees to stop them being cut for the Maharaja of Jodhpur; 363 Bishnois lost their lives.",
+      "explanationHi": "उन्होंने जोधपुर के महाराजा के लिए काटे जा रहे खेजड़ी के पेड़ों से चिपककर उनकी रक्षा की; 363 बिश्नोइयों ने प्राण दिए।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "The Chipko movement of the 1970s, in which villagers hugged trees to stop their felling, began in the region that is now",
+      "textHi": "1970 के दशक का चिपको आंदोलन, जिसमें ग्रामीणों ने पेड़ों को कटने से बचाने के लिए उनसे चिपककर विरोध किया, उस क्षेत्र में शुरू हुआ जो अब है —",
+      "options": [
+        "Kerala",
+        "Uttarakhand",
+        "Rajasthan",
+        "Odisha"
+      ],
+      "optionsHi": [
+        "केरल",
+        "उत्तराखंड",
+        "राजस्थान",
+        "ओडिशा"
+      ],
+      "answer": 1,
+      "explanation": "Chipko began in 1973 in the Garhwal Himalaya (then Uttar Pradesh, now Uttarakhand), with leaders like Gaura Devi and Sunderlal Bahuguna.",
+      "explanationHi": "चिपको आंदोलन 1973 में गढ़वाल हिमालय (तब उत्तर प्रदेश, अब उत्तराखंड) में शुरू हुआ; गौरा देवी और सुंदरलाल बहुगुणा इसके प्रमुख नेता थे।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "The hump of a camel stores",
+      "textHi": "ऊँट का कूबड़ किसका संग्रह करता है?",
+      "options": [
+        "air",
+        "water",
+        "blood",
+        "fat"
+      ],
+      "optionsHi": [
+        "वायु",
+        "पानी",
+        "रक्त",
+        "वसा"
+      ],
+      "answer": 3,
+      "explanation": "The hump stores fat, which the camel can use as a source of energy when food is scarce.",
+      "explanationHi": "कूबड़ में वसा जमा रहती है, जिसे भोजन की कमी होने पर ऊँट ऊर्जा के स्रोत के रूप में उपयोग करता है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "In a beehive, the eggs are laid by the",
+      "textHi": "मधुमक्खी के छत्ते में अंडे कौन देती है?",
+      "options": [
+        "queen bee",
+        "worker bees",
+        "drones",
+        "all the bees"
+      ],
+      "optionsHi": [
+        "रानी मक्खी",
+        "श्रमिक मक्खियाँ",
+        "नर मक्खियाँ (ड्रोन)",
+        "सभी मक्खियाँ"
+      ],
+      "answer": 0,
+      "explanation": "A hive has one egg-laying queen; worker bees collect nectar and build the comb, and drones mate with the queen.",
+      "explanationHi": "छत्ते में अंडे देने वाली एक रानी मक्खी होती है; श्रमिक मक्खियाँ मकरंद इकट्ठा करती हैं और छत्ता बनाती हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "The pitcher plant traps and digests insects mainly to obtain",
+      "textHi": "घटपर्णी (पिचर प्लांट) कीटों को पकड़कर मुख्यतः किसे प्राप्त करने के लिए पचाता है?",
+      "options": [
+        "water",
+        "oxygen",
+        "nitrogen",
+        "sunlight"
+      ],
+      "optionsHi": [
+        "पानी",
+        "ऑक्सीजन",
+        "नाइट्रोजन",
+        "सूर्य का प्रकाश"
+      ],
+      "answer": 2,
+      "explanation": "Insectivorous plants grow in nitrogen-poor soil and get nitrogen from insects, though they also make food by photosynthesis.",
+      "explanationHi": "कीटभक्षी पौधे नाइट्रोजन की कमी वाली मिट्टी में उगते हैं और कीटों से नाइट्रोजन लेते हैं, जबकि भोजन वे प्रकाश-संश्लेषण से भी बनाते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Green plants make their food in the presence of sunlight using",
+      "textHi": "हरे पौधे सूर्य के प्रकाश की उपस्थिति में किनका उपयोग करके अपना भोजन बनाते हैं?",
+      "options": [
+        "carbon dioxide and oxygen",
+        "oxygen and water",
+        "nitrogen and oxygen",
+        "carbon dioxide and water"
+      ],
+      "optionsHi": [
+        "कार्बन डाइऑक्साइड और ऑक्सीजन",
+        "ऑक्सीजन और पानी",
+        "नाइट्रोजन और ऑक्सीजन",
+        "कार्बन डाइऑक्साइड और पानी"
+      ],
+      "answer": 3,
+      "explanation": "In photosynthesis, chlorophyll uses sunlight to make glucose from carbon dioxide and water, releasing oxygen.",
+      "explanationHi": "प्रकाश-संश्लेषण में पर्णहरित सूर्य के प्रकाश से कार्बन डाइऑक्साइड और पानी से ग्लूकोज़ बनाता है तथा ऑक्सीजन मुक्त होती है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Which is the correct sequence in the life cycle of a frog?",
+      "textHi": "मेंढक के जीवन-चक्र का सही क्रम कौन-सा है?",
+      "options": [
+        "Egg → froglet → tadpole → adult frog",
+        "Egg → tadpole → froglet → adult frog",
+        "Tadpole → egg → froglet → adult frog",
+        "Egg → adult frog → tadpole → froglet"
+      ],
+      "optionsHi": [
+        "अंडा → नन्हा मेंढक → टैडपोल → वयस्क मेंढक",
+        "अंडा → टैडपोल → नन्हा मेंढक → वयस्क मेंढक",
+        "टैडपोल → अंडा → नन्हा मेंढक → वयस्क मेंढक",
+        "अंडा → वयस्क मेंढक → टैडपोल → नन्हा मेंढक"
+      ],
+      "answer": 1,
+      "explanation": "Frog eggs hatch into tadpoles that live in water; they grow legs and become froglets and then adult frogs (metamorphosis).",
+      "explanationHi": "मेंढक के अंडों से जल में रहने वाले टैडपोल निकलते हैं; उनमें पैर निकलते हैं, वे नन्हे मेंढक और फिर वयस्क बनते हैं (कायांतरण)।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Which of the following is a renewable source of energy?",
+      "textHi": "निम्नलिखित में से कौन-सा ऊर्जा का नवीकरणीय स्रोत है?",
+      "options": [
+        "Coal",
+        "Solar energy",
+        "Petroleum",
+        "Natural gas"
+      ],
+      "optionsHi": [
+        "कोयला",
+        "सौर ऊर्जा",
+        "पेट्रोलियम",
+        "प्राकृतिक गैस"
+      ],
+      "answer": 1,
+      "explanation": "Sunlight is replenished naturally and will not run out; coal, petroleum and natural gas are fossil fuels that take millions of years to form.",
+      "explanationHi": "सूर्य का प्रकाश प्राकृतिक रूप से निरंतर उपलब्ध रहता है; कोयला, पेट्रोलियम और प्राकृतिक गैस जीवाश्म ईंधन हैं जिन्हें बनने में लाखों वर्ष लगते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "According to NCF 2005, Environmental Studies in Classes I and II should be",
+      "textHi": "NCF 2005 के अनुसार कक्षा I और II में पर्यावरण अध्ययन —",
+      "options": [
+        "taught as science only",
+        "taught as a separate subject with its own textbook",
+        "integrated with language and mathematics",
+        "taught only through examinations"
+      ],
+      "optionsHi": [
+        "केवल विज्ञान के रूप में पढ़ाया जाना चाहिए",
+        "अलग पाठ्यपुस्तक के साथ अलग विषय के रूप में पढ़ाया जाना चाहिए",
+        "भाषा और गणित के साथ एकीकृत होना चाहिए",
+        "केवल परीक्षाओं के माध्यम से पढ़ाया जाना चाहिए"
+      ],
+      "answer": 2,
+      "explanation": "In Classes I–II there is no separate EVS textbook; EVS concerns are woven into language and mathematics.",
+      "explanationHi": "कक्षा I–II में पर्यावरण अध्ययन की अलग पाठ्यपुस्तक नहीं है; इसकी विषयवस्तु भाषा और गणित में समाहित की जाती है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "EVS for Classes III to V, as envisaged in NCF 2005, integrates concepts from",
+      "textHi": "NCF 2005 में परिकल्पित कक्षा III से V का पर्यावरण अध्ययन किनकी संकल्पनाओं को एकीकृत करता है?",
+      "options": [
+        "mathematics and languages only",
+        "only physics and chemistry",
+        "only history and geography",
+        "science, social science and environmental education"
+      ],
+      "optionsHi": [
+        "केवल गणित और भाषाएँ",
+        "केवल भौतिकी और रसायन",
+        "केवल इतिहास और भूगोल",
+        "विज्ञान, सामाजिक विज्ञान और पर्यावरण शिक्षा"
+      ],
+      "answer": 3,
+      "explanation": "EVS at the primary level is an integrated area drawing on science, social science and environmental education.",
+      "explanationHi": "प्राथमिक स्तर पर पर्यावरण अध्ययन विज्ञान, सामाजिक विज्ञान और पर्यावरण शिक्षा से जुड़ा एक एकीकृत क्षेत्र है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Which of the following is NOT one of the six themes of the NCERT EVS syllabus for Classes III–V?",
+      "textHi": "निम्नलिखित में से कौन-सा कक्षा III–V के NCERT पर्यावरण अध्ययन पाठ्यक्रम के छह विषयों (थीम) में से एक नहीं है?",
+      "options": [
+        "Health and Hygiene",
+        "Food",
+        "Shelter",
+        "Travel"
+      ],
+      "optionsHi": [
+        "स्वास्थ्य और स्वच्छता",
+        "भोजन",
+        "आश्रय",
+        "यात्रा"
+      ],
+      "answer": 0,
+      "explanation": "The six themes are Family and Friends, Food, Shelter, Water, Travel, and Things We Make and Do.",
+      "explanationHi": "छह विषय हैं: परिवार एवं मित्र, भोजन, आश्रय, पानी, यात्रा तथा हम चीज़ें बनाते और करते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "The main purpose of taking Class IV children on a field trip to a nearby pond is to",
+      "textHi": "कक्षा IV के बच्चों को पास के तालाब की क्षेत्र-यात्रा (फ़ील्ड ट्रिप) पर ले जाने का मुख्य उद्देश्य है —",
+      "options": [
+        "finish the syllabus quickly",
+        "give them a holiday from studies",
+        "give them first-hand experience and opportunities to observe",
+        "test their memory"
+      ],
+      "optionsHi": [
+        "पाठ्यक्रम जल्दी पूरा करना",
+        "उन्हें पढ़ाई से छुट्टी देना",
+        "उन्हें प्रत्यक्ष अनुभव और अवलोकन के अवसर देना",
+        "उनकी स्मृति की परीक्षा लेना"
+      ],
+      "answer": 2,
+      "explanation": "Field trips connect classroom learning with the real environment through direct observation, exploration and questioning.",
+      "explanationHi": "क्षेत्र-यात्राएँ प्रत्यक्ष अवलोकन, खोज और प्रश्न पूछने के माध्यम से कक्षा के अधिगम को वास्तविक परिवेश से जोड़ती हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "A child in Class III believes that plants do not need air. The teacher should",
+      "textHi": "कक्षा III का एक बच्चा मानता है कि पौधों को हवा की आवश्यकता नहीं होती। शिक्षक को चाहिए कि वह —",
+      "options": [
+        "build on the child's idea and give experiences that help him re-examine it",
+        "tell him he is wrong and move on",
+        "ask him to memorise the correct answer",
+        "ignore the idea as it is not in the textbook"
+      ],
+      "optionsHi": [
+        "बच्चे के विचार को आधार बनाकर ऐसे अनुभव दे जिससे वह उस पर पुनर्विचार कर सके",
+        "उसे गलत बताकर आगे बढ़ जाए",
+        "उसे सही उत्तर रटने को कहे",
+        "विचार को अनदेखा करे क्योंकि वह पाठ्यपुस्तक में नहीं है"
+      ],
+      "answer": 0,
+      "explanation": "Children's alternative conceptions are a starting point; activities, observation and discussion help them construct scientific ideas.",
+      "explanationHi": "बच्चों की वैकल्पिक धारणाएँ प्रारंभ-बिंदु हैं; गतिविधि, अवलोकन और चर्चा से वे वैज्ञानिक विचारों का निर्माण करते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Which is the most appropriate way of assessing Class III learners in EVS?",
+      "textHi": "पर्यावरण अध्ययन में कक्षा III के शिक्षार्थियों के आकलन का सबसे उपयुक्त तरीका कौन-सा है?",
+      "options": [
+        "Only a written test of definitions",
+        "Observing their participation, drawings, questions and oral expression during activities",
+        "Asking them to reproduce textbook answers",
+        "Only a term-end examination"
+      ],
+      "optionsHi": [
+        "केवल परिभाषाओं की लिखित परीक्षा",
+        "गतिविधियों के दौरान उनकी भागीदारी, चित्रों, प्रश्नों और मौखिक अभिव्यक्ति का अवलोकन",
+        "उनसे पाठ्यपुस्तक के उत्तर ज्यों-के-त्यों लिखवाना",
+        "केवल सत्रांत परीक्षा"
+      ],
+      "answer": 1,
+      "explanation": "EVS assessment should be continuous and use varied indicators such as observation, expression, questioning and drawing.",
+      "explanationHi": "पर्यावरण अध्ययन में आकलन सतत होना चाहिए और अवलोकन, अभिव्यक्ति, प्रश्न पूछना व चित्रांकन जैसे विविध संकेतकों का उपयोग करना चाहिए।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Children in Class V conduct a survey of the sources of water used by families in their neighbourhood. This activity mainly helps them to",
+      "textHi": "कक्षा V के बच्चे अपने पड़ोस के परिवारों द्वारा उपयोग किए जाने वाले जल-स्रोतों का सर्वेक्षण करते हैं। यह गतिविधि मुख्यतः उनकी किसमें सहायता करती है?",
+      "options": [
+        "complete the textbook exercises",
+        "memorise the names of rivers",
+        "improve their handwriting",
+        "observe, collect and record information and relate learning to their surroundings"
+      ],
+      "optionsHi": [
+        "पाठ्यपुस्तक के अभ्यास पूरे करने में",
+        "नदियों के नाम याद करने में",
+        "अपनी लिखावट सुधारने में",
+        "अवलोकन करने, जानकारी एकत्र व दर्ज करने और सीखने को अपने परिवेश से जोड़ने में"
+      ],
+      "answer": 3,
+      "explanation": "Surveys build process skills such as observing, recording and analysing, and connect EVS learning with real life.",
+      "explanationHi": "सर्वेक्षण अवलोकन, अभिलेखन और विश्लेषण जैसे प्रक्रिया-कौशल विकसित करते हैं तथा पर्यावरण अध्ययन को वास्तविक जीवन से जोड़ते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "NCERT EVS textbooks for Classes III–V include stories, poems, narratives and real-life accounts mainly to",
+      "textHi": "कक्षा III–V की NCERT पर्यावरण अध्ययन पुस्तकों में कहानियाँ, कविताएँ, वृत्तांत और वास्तविक जीवन के प्रसंग मुख्यतः किसलिए शामिल किए गए हैं?",
+      "options": [
+        "connect learning with children's lives and arouse their interest",
+        "make the books longer",
+        "teach grammar through EVS",
+        "replace activities and experiments"
+      ],
+      "optionsHi": [
+        "सीखने को बच्चों के जीवन से जोड़ने और उनकी रुचि जगाने के लिए",
+        "पुस्तकों को लंबा बनाने के लिए",
+        "पर्यावरण अध्ययन के माध्यम से व्याकरण पढ़ाने के लिए",
+        "गतिविधियों और प्रयोगों का स्थान लेने के लिए"
+      ],
+      "answer": 0,
+      "explanation": "Narratives make concepts relatable, help children empathise with others and encourage discussion.",
+      "explanationHi": "वृत्तांत संकल्पनाओं को सहज बनाते हैं, बच्चों में दूसरों के प्रति संवेदना जगाते हैं और चर्चा को प्रोत्साहित करते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Which of the following questions is most suitable for encouraging thinking in an EVS class on 'animals'?",
+      "textHi": "'जंतु' विषय पर पर्यावरण अध्ययन की कक्षा में चिंतन को प्रोत्साहित करने के लिए निम्नलिखित में से कौन-सा प्रश्न सबसे उपयुक्त है?",
+      "options": [
+        "What is the name of the national animal of India?",
+        "Why do you think some animals sleep during the day and stay awake at night?",
+        "How many legs does a spider have?",
+        "Write the names of five pet animals."
+      ],
+      "optionsHi": [
+        "भारत के राष्ट्रीय पशु का नाम क्या है?",
+        "आपके विचार से कुछ जंतु दिन में क्यों सोते हैं और रात में जागते हैं?",
+        "मकड़ी के कितने पैर होते हैं?",
+        "पाँच पालतू जंतुओं के नाम लिखिए।"
+      ],
+      "answer": 1,
+      "explanation": "An open-ended 'why' question invites reasoning and hypothesising, while the others only test recall of facts.",
+      "explanationHi": "मुक्त-अंत 'क्यों' वाला प्रश्न तर्क और परिकल्पना को आमंत्रित करता है, जबकि अन्य प्रश्न केवल तथ्यों के स्मरण की जाँच करते हैं।"
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "slug": "hp-tet-tgt-arts-sample-mini-mock",
+  "version": 2,
+  "title": "HP TET TGT Arts · Free Mini Mock Test",
+  "description": "A free 30-question sample of the full HP TET TGT (Arts) paper: all four sections in the real exam pattern, with instant results and explanations.",
+  "category": "HP TET TGT Arts",
+  "kind": "Sample test",
+  "year": null,
+  "durationMinutes": 30,
+  "price": 0,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "In a constructivist classroom, the teacher's main role is to",
+      "textHi": "रचनावादी कक्षा में शिक्षक की मुख्य भूमिका है:",
+      "options": [
+        "transmit ready-made knowledge for students to memorise",
+        "keep students silent so that they listen attentively throughout",
+        "facilitate learners in building their own understanding through exploration and discussion",
+        "test students frequently to rank them in order of merit"
+      ],
+      "optionsHi": [
+        "विद्यार्थियों को रटने के लिए बना-बनाया ज्ञान हस्तांतरित करना",
+        "विद्यार्थियों को शांत रखना ताकि वे पूरे समय ध्यान से सुनें",
+        "खोजबीन और चर्चा के माध्यम से शिक्षार्थियों को अपनी समझ स्वयं निर्मित करने में सुगमकर्ता बनना",
+        "योग्यता-क्रम में श्रेणी देने के लिए विद्यार्थियों की बार-बार परीक्षा लेना"
+      ],
+      "answer": 2,
+      "explanation": "Constructivism holds that learners actively construct knowledge, so the teacher acts as a facilitator who creates situations for exploration and dialogue.",
+      "explanationHi": "रचनावाद के अनुसार शिक्षार्थी सक्रिय रूप से ज्ञान का निर्माण करते हैं, इसलिए शिक्षक एक सुगमकर्ता के रूप में खोज और संवाद के अवसर उत्पन्न करता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Wolfgang Kohler's experiments, in which a chimpanzee named Sultan joined two sticks to reach a banana placed outside its cage, demonstrated learning by",
+      "textHi": "वोल्फगैंग कोहलर के प्रयोग, जिनमें सुल्तान नामक चिंपैंजी ने पिंजरे के बाहर रखे केले तक पहुँचने के लिए दो डंडियों को जोड़ा, किसके द्वारा अधिगम को दर्शाते हैं?",
+      "options": [
+        "insight",
+        "trial and error",
+        "classical conditioning",
+        "imitation of a model"
+      ],
+      "optionsHi": [
+        "अंतर्दृष्टि (सूझ)",
+        "प्रयास और त्रुटि",
+        "शास्त्रीय अनुबंधन",
+        "प्रतिरूप (मॉडल) का अनुकरण"
+      ],
+      "answer": 0,
+      "explanation": "Kohler, a Gestalt psychologist, showed that the chimpanzee suddenly perceived the relationship among the elements of the problem, which is called insight learning.",
+      "explanationHi": "गेस्टाल्ट मनोवैज्ञानिक कोहलर ने दिखाया कि चिंपैंजी ने समस्या के तत्वों के बीच संबंध को अचानक समझ लिया, जिसे अंतर्दृष्टि (सूझ) द्वारा अधिगम कहते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is regarded as the primary agent of a child's socialisation?",
+      "textHi": "निम्नलिखित में से किसे बच्चे के समाजीकरण का प्राथमिक अभिकरण माना जाता है?",
+      "options": [
+        "The school",
+        "The mass media",
+        "The peer group",
+        "The family"
+      ],
+      "optionsHi": [
+        "विद्यालय",
+        "जनसंचार माध्यम",
+        "सहपाठी/साथी समूह",
+        "परिवार"
+      ],
+      "answer": 3,
+      "explanation": "The family is the first and most lasting influence through which a child learns language, values and social behaviour, so it is the primary agent of socialisation.",
+      "explanationHi": "परिवार पहला और सबसे स्थायी प्रभाव है, जिसके माध्यम से बच्चा भाषा, मूल्य और सामाजिक व्यवहार सीखता है; इसलिए यह समाजीकरण का प्राथमिक अभिकरण है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A teacher asks students to list as many different uses of an empty plastic bottle as they can think of. This task mainly encourages",
+      "textHi": "एक शिक्षक विद्यार्थियों से खाली प्लास्टिक की बोतल के जितने संभव हो उतने अलग-अलग उपयोग सूचीबद्ध करने को कहता है। यह कार्य मुख्य रूप से किसे प्रोत्साहित करता है?",
+      "options": [
+        "convergent thinking",
+        "divergent thinking",
+        "rote memorisation",
+        "reflex action"
+      ],
+      "optionsHi": [
+        "अभिसारी चिंतन",
+        "अपसारी चिंतन",
+        "रटकर याद करना",
+        "प्रतिवर्ती क्रिया"
+      ],
+      "answer": 1,
+      "explanation": "Producing many varied answers to an open problem is divergent thinking, which J. P. Guilford linked closely with creativity.",
+      "explanationHi": "किसी मुक्त समस्या के अनेक विविध उत्तर देना अपसारी चिंतन है, जिसे जे. पी. गिलफोर्ड ने सृजनात्मकता से घनिष्ठ रूप से जोड़ा।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "If a test gives nearly the same scores when the same group of students takes it again under similar conditions, the test is said to have high",
+      "textHi": "यदि समान परिस्थितियों में विद्यार्थियों का वही समूह किसी परीक्षण को दोबारा देने पर लगभग समान अंक प्राप्त करता है, तो उस परीक्षण की कौन-सी विशेषता उच्च कही जाती है?",
+      "options": [
+        "validity",
+        "reliability",
+        "objectivity",
+        "usability"
+      ],
+      "optionsHi": [
+        "वैधता",
+        "विश्वसनीयता",
+        "वस्तुनिष्ठता",
+        "उपयोगिता"
+      ],
+      "answer": 1,
+      "explanation": "Reliability means consistency of results; validity, by contrast, refers to whether a test measures what it is meant to measure.",
+      "explanationHi": "विश्वसनीयता का अर्थ परिणामों की संगति है; जबकि वैधता का अर्थ है कि परीक्षण वही मापता है जिसे मापने के लिए वह बनाया गया है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The National Education Policy 2020 aims to raise the Gross Enrolment Ratio in higher education (including vocational education) to 50 per cent by the year",
+      "textHi": "राष्ट्रीय शिक्षा नीति 2020 का लक्ष्य उच्च शिक्षा (व्यावसायिक शिक्षा सहित) में सकल नामांकन अनुपात (GER) को किस वर्ष तक 50 प्रतिशत तक बढ़ाना है?",
+      "options": [
+        "2030",
+        "2040",
+        "2047",
+        "2035"
+      ],
+      "optionsHi": [
+        "2030",
+        "2040",
+        "2047",
+        "2035"
+      ],
+      "answer": 3,
+      "explanation": "NEP 2020 sets the target of increasing the GER in higher education from 26.3 per cent (2018) to 50 per cent by 2035.",
+      "explanationHi": "NEP 2020 ने उच्च शिक्षा में GER को 26.3 प्रतिशत (2018) से बढ़ाकर 2035 तक 50 प्रतिशत करने का लक्ष्य रखा है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Shimla Agreement of July 1972, signed after the India–Pakistan war of 1971, was signed by Indira Gandhi and",
+      "textHi": "1971 के भारत–पाकिस्तान युद्ध के बाद जुलाई 1972 में शिमला समझौते पर इंदिरा गांधी और किसने हस्ताक्षर किए?",
+      "options": [
+        "Zulfikar Ali Bhutto",
+        "Ayub Khan",
+        "Yahya Khan",
+        "Liaquat Ali Khan"
+      ],
+      "optionsHi": [
+        "ज़ुल्फ़िकार अली भुट्टो",
+        "अयूब ख़ान",
+        "याह्या ख़ान",
+        "लियाक़त अली ख़ान"
+      ],
+      "answer": 0,
+      "explanation": "Prime Minister Indira Gandhi and Pakistan's President Zulfikar Ali Bhutto signed the Shimla Agreement on 2 July 1972.",
+      "explanationHi": "प्रधानमंत्री इंदिरा गांधी और पाकिस्तान के राष्ट्रपति ज़ुल्फ़िकार अली भुट्टो ने 2 जुलाई 1972 को शिमला समझौते पर हस्ताक्षर किए।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Tabo Monastery, founded in 996 CE and often called the \"Ajanta of the Himalayas\" for its murals, is located in which valley of Himachal Pradesh?",
+      "textHi": "996 ई. में स्थापित तथा अपने भित्ति-चित्रों के कारण प्रायः 'हिमालय का अजंता' कहा जाने वाला ताबो मठ हिमाचल प्रदेश की किस घाटी में स्थित है?",
+      "options": [
+        "Kangra valley",
+        "Parvati valley",
+        "Spiti valley",
+        "Pangi valley"
+      ],
+      "optionsHi": [
+        "काँगड़ा घाटी",
+        "पार्वती घाटी",
+        "स्पीति घाटी",
+        "पांगी घाटी"
+      ],
+      "answer": 2,
+      "explanation": "Tabo Monastery, established by the translator Rinchen Zangpo, lies in the Spiti valley of Lahaul and Spiti district.",
+      "explanationHi": "अनुवादक रिनचेन ज़ांगपो द्वारा स्थापित ताबो मठ लाहौल-स्पीति ज़िले की स्पीति घाटी में स्थित है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Manikaran in Kullu district, famous for its hot springs and a gurdwara, is situated on the banks of which river?",
+      "textHi": "गर्म जल के स्रोतों और गुरुद्वारे के लिए प्रसिद्ध कुल्लू ज़िले का मणिकरण किस नदी के तट पर स्थित है?",
+      "options": [
+        "Ravi",
+        "Sutlej",
+        "Chenab",
+        "Parvati"
+      ],
+      "optionsHi": [
+        "रावी",
+        "सतलुज",
+        "चिनाब",
+        "पार्वती"
+      ],
+      "answer": 3,
+      "explanation": "Manikaran lies in the Parvati valley on the Parvati river, a tributary of the Beas.",
+      "explanationHi": "मणिकरण पार्वती घाटी में ब्यास की सहायक पार्वती नदी के तट पर स्थित है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The \"Chamba Rumal\", a traditional handicraft of Himachal Pradesh, is a form of",
+      "textHi": "हिमाचल प्रदेश का पारंपरिक हस्तशिल्प 'चंबा रुमाल' किसका एक रूप है?",
+      "options": [
+        "embroidery on fine cloth with silk threads, often showing Pahari themes",
+        "metal casting in brass and bronze",
+        "wood carving on temple doors",
+        "painted clay pottery"
+      ],
+      "optionsHi": [
+        "महीन कपड़े पर रेशमी धागों से की गई कढ़ाई, जिसमें प्रायः पहाड़ी विषय दर्शाए जाते हैं",
+        "पीतल और काँसे की धातु-ढलाई",
+        "मंदिरों के द्वारों पर लकड़ी की नक्काशी",
+        "चित्रित मिट्टी के बर्तन"
+      ],
+      "answer": 0,
+      "explanation": "The Chamba Rumal is an embroidered square cloth, worked with untwisted silk in a double-sided stitch, depicting themes similar to Pahari miniature paintings.",
+      "explanationHi": "चंबा रुमाल बिना बटे रेशम से दोरुखा टाँके में कढ़ा हुआ चौकोर वस्त्र है, जिस पर पहाड़ी लघुचित्रों जैसे विषय अंकित होते हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Jwalamukhi temple, known for natural flames that burn continuously from crevices in the rock, is located in which district of Himachal Pradesh?",
+      "textHi": "चट्टानों की दरारों से निरंतर जलने वाली प्राकृतिक ज्योतियों के लिए प्रसिद्ध ज्वालामुखी मंदिर हिमाचल प्रदेश के किस ज़िले में स्थित है?",
+      "options": [
+        "Hamirpur",
+        "Kangra",
+        "Una",
+        "Bilaspur"
+      ],
+      "optionsHi": [
+        "हमीरपुर",
+        "काँगड़ा",
+        "ऊना",
+        "बिलासपुर"
+      ],
+      "answer": 1,
+      "explanation": "The Jwalamukhi (Jwala Ji) temple is in Kangra district and is one of the important Shakti shrines of the state.",
+      "explanationHi": "ज्वालामुखी (ज्वाला जी) मंदिर काँगड़ा ज़िले में है और यह प्रदेश के प्रमुख शक्तिपीठों में से एक है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The headquarters of UNESCO (United Nations Educational, Scientific and Cultural Organization) is located in",
+      "textHi": "यूनेस्को (संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक और सांस्कृतिक संगठन) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Paris",
+        "Rome"
+      ],
+      "optionsHi": [
+        "जिनेवा",
+        "न्यूयॉर्क",
+        "पेरिस",
+        "रोम"
+      ],
+      "answer": 2,
+      "explanation": "UNESCO, founded in 1945, has its headquarters in Paris, France.",
+      "explanationHi": "1945 में स्थापित यूनेस्को का मुख्यालय पेरिस (फ्रांस) में है।"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct option to complete the sentence: If I had studied harder, I ______ the examination.",
+      "options": [
+        "would have passed",
+        "will pass",
+        "would pass",
+        "had passed"
+      ],
+      "answer": 0,
+      "explanation": "An \"if\" clause in the past perfect (third conditional) takes \"would have\" + past participle in the main clause."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word closest in meaning to METICULOUS.",
+      "options": [
+        "Careless",
+        "Hasty",
+        "Painstaking",
+        "Generous"
+      ],
+      "answer": 2,
+      "explanation": "Meticulous means showing great attention to detail, which is the meaning of painstaking."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most nearly opposite in meaning to LOQUACIOUS.",
+      "options": [
+        "Talkative",
+        "Garrulous",
+        "Cheerful",
+        "Taciturn"
+      ],
+      "answer": 3,
+      "explanation": "Loquacious means very talkative; taciturn means reserved and saying very little."
+    },
+    {
+      "section": "English",
+      "text": "What does the idiom \"to bite the bullet\" mean?",
+      "options": [
+        "To speak angrily to someone",
+        "To face a painful or difficult situation with courage",
+        "To eat food in a great hurry",
+        "To make a foolish mistake"
+      ],
+      "answer": 1,
+      "explanation": "\"To bite the bullet\" means to accept and face something unpleasant bravely."
+    },
+    {
+      "section": "English",
+      "text": "One-word substitution: A place where birds are kept.",
+      "options": [
+        "Apiary",
+        "Aquarium",
+        "Kennel",
+        "Aviary"
+      ],
+      "answer": 3,
+      "explanation": "An aviary is an enclosure for birds; an apiary is a place where bees are kept."
+    },
+    {
+      "section": "English",
+      "text": "Spot the part of the sentence that contains an error: He prevented me / to go / to the fair. / No error",
+      "options": [
+        "He prevented me",
+        "to go",
+        "to the fair.",
+        "No error"
+      ],
+      "answer": 1,
+      "explanation": "The verb \"prevent\" is followed by \"from\" + gerund, so the correct sentence is \"He prevented me from going to the fair.\""
+    },
+    {
+      "section": "Social Studies",
+      "text": "Gautama Buddha delivered his first sermon, known as \"Dharmachakra Pravartana\" (turning the wheel of law), at",
+      "textHi": "गौतम बुद्ध ने अपना पहला उपदेश, जिसे 'धर्मचक्र प्रवर्तन' कहा जाता है, कहाँ दिया था?",
+      "options": [
+        "Sarnath",
+        "Bodh Gaya",
+        "Kushinagar",
+        "Lumbini"
+      ],
+      "optionsHi": [
+        "सारनाथ",
+        "बोधगया",
+        "कुशीनगर",
+        "लुंबिनी"
+      ],
+      "answer": 0,
+      "explanation": "After attaining enlightenment at Bodh Gaya, the Buddha gave his first sermon at the deer park of Sarnath near Varanasi.",
+      "explanationHi": "बोधगया में ज्ञान प्राप्ति के बाद बुद्ध ने वाराणसी के निकट सारनाथ के मृगदाव (हिरण उद्यान) में पहला उपदेश दिया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which Chola ruler assumed the title \"Gangaikondachola\" after a successful military expedition to the Ganga region?",
+      "textHi": "गंगा क्षेत्र में सफल सैन्य अभियान के बाद किस चोल शासक ने 'गंगैकोंडचोल' की उपाधि धारण की?",
+      "options": [
+        "Rajaraja I",
+        "Karikala",
+        "Rajendra I",
+        "Kulottunga I"
+      ],
+      "optionsHi": [
+        "राजराज प्रथम",
+        "करिकाल",
+        "राजेंद्र प्रथम",
+        "कुलोत्तुंग प्रथम"
+      ],
+      "answer": 2,
+      "explanation": "Rajendra I took the title Gangaikondachola after his northern campaign and built the new capital Gangaikondacholapuram.",
+      "explanationHi": "राजेंद्र प्रथम ने अपने उत्तरी अभियान के बाद गंगैकोंडचोल की उपाधि ली और नई राजधानी गंगैकोंडचोलपुरम बसाई।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Permanent Settlement of land revenue was introduced in Bengal in 1793 by",
+      "textHi": "बंगाल में भू-राजस्व का स्थायी बंदोबस्त 1793 में किसने लागू किया?",
+      "options": [
+        "Warren Hastings",
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "Lord Dalhousie"
+      ],
+      "optionsHi": [
+        "वारेन हेस्टिंग्स",
+        "लॉर्ड कॉर्नवालिस",
+        "लॉर्ड वेलेज़ली",
+        "लॉर्ड डलहौज़ी"
+      ],
+      "answer": 1,
+      "explanation": "Governor-General Lord Cornwallis introduced the Permanent Settlement, which fixed the revenue to be paid by zamindars permanently.",
+      "explanationHi": "गवर्नर-जनरल लॉर्ड कॉर्नवालिस ने स्थायी बंदोबस्त लागू किया, जिसमें ज़मींदारों द्वारा दिया जाने वाला राजस्व स्थायी रूप से निश्चित कर दिया गया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The world's largest delta, known for the Sundarbans mangrove forests, is formed by which rivers?",
+      "textHi": "सुंदरबन मैंग्रोव वनों के लिए प्रसिद्ध विश्व का सबसे बड़ा डेल्टा किन नदियों द्वारा बनाया गया है?",
+      "options": [
+        "The Ganga and the Brahmaputra",
+        "The Mahanadi and the Godavari",
+        "The Indus and the Sutlej",
+        "The Krishna and the Kaveri"
+      ],
+      "optionsHi": [
+        "गंगा और ब्रह्मपुत्र",
+        "महानदी और गोदावरी",
+        "सिंधु और सतलुज",
+        "कृष्णा और कावेरी"
+      ],
+      "answer": 0,
+      "explanation": "The Ganga–Brahmaputra delta, shared by India and Bangladesh, is the largest delta in the world and contains the Sundarbans.",
+      "explanationHi": "भारत और बांग्लादेश में फैला गंगा–ब्रह्मपुत्र डेल्टा विश्व का सबसे बड़ा डेल्टा है और इसमें सुंदरबन स्थित है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which channel separates the Andaman Islands from the Nicobar Islands?",
+      "textHi": "कौन-सा चैनल अंडमान द्वीपसमूह को निकोबार द्वीपसमूह से अलग करता है?",
+      "options": [
+        "Nine Degree Channel",
+        "Eight Degree Channel",
+        "Palk Strait",
+        "Ten Degree Channel"
+      ],
+      "optionsHi": [
+        "नौ डिग्री चैनल",
+        "आठ डिग्री चैनल",
+        "पाक जलसंधि",
+        "दस डिग्री चैनल"
+      ],
+      "answer": 3,
+      "explanation": "The Ten Degree Channel lies between Little Andaman and Car Nicobar; the Nine and Eight Degree Channels are near Lakshadweep and the Maldives.",
+      "explanationHi": "दस डिग्री चैनल लिटिल अंडमान और कार निकोबार के बीच स्थित है; नौ और आठ डिग्री चैनल लक्षद्वीप और मालदीव के निकट हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Lines drawn on a map joining places that have equal atmospheric pressure are called",
+      "textHi": "मानचित्र पर समान वायुमंडलीय दाब वाले स्थानों को मिलाने वाली रेखाएँ कहलाती हैं:",
+      "options": [
+        "isotherms",
+        "isobars",
+        "isohyets",
+        "contours"
+      ],
+      "optionsHi": [
+        "समताप रेखाएँ",
+        "समदाब रेखाएँ",
+        "समवर्षा रेखाएँ",
+        "समोच्च रेखाएँ"
+      ],
+      "answer": 1,
+      "explanation": "Isobars join places of equal pressure, isotherms equal temperature, isohyets equal rainfall and contours equal height.",
+      "explanationHi": "समदाब रेखाएँ समान दाब, समताप रेखाएँ समान तापमान, समवर्षा रेखाएँ समान वर्षा और समोच्च रेखाएँ समान ऊँचाई वाले स्थानों को मिलाती हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Under which Article of the Constitution of India can President's Rule be imposed in a state when its constitutional machinery fails?",
+      "textHi": "भारत के संविधान के किस अनुच्छेद के अंतर्गत किसी राज्य में संवैधानिक तंत्र विफल होने पर राष्ट्रपति शासन लगाया जा सकता है?",
+      "options": [
+        "Article 352",
+        "Article 360",
+        "Article 356",
+        "Article 370"
+      ],
+      "optionsHi": [
+        "अनुच्छेद 352",
+        "अनुच्छेद 360",
+        "अनुच्छेद 356",
+        "अनुच्छेद 370"
+      ],
+      "answer": 2,
+      "explanation": "Article 356 deals with failure of constitutional machinery in a state; Article 352 covers national emergency and Article 360 financial emergency.",
+      "explanationHi": "अनुच्छेद 356 राज्य में संवैधानिक तंत्र की विफलता से संबंधित है; अनुच्छेद 352 राष्ट्रीय आपातकाल और अनुच्छेद 360 वित्तीय आपातकाल से संबंधित है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Governor of a state in India is appointed by the",
+      "textHi": "भारत में किसी राज्य के राज्यपाल की नियुक्ति कौन करता है?",
+      "options": [
+        "Chief Minister of the state",
+        "Prime Minister of India",
+        "President of India",
+        "Chief Justice of the High Court"
+      ],
+      "optionsHi": [
+        "राज्य का मुख्यमंत्री",
+        "भारत का प्रधानमंत्री",
+        "भारत का राष्ट्रपति",
+        "उच्च न्यायालय का मुख्य न्यायाधीश"
+      ],
+      "answer": 2,
+      "explanation": "Under Article 155, the Governor is appointed by the President by warrant under his hand and seal.",
+      "explanationHi": "अनुच्छेद 155 के अंतर्गत राज्यपाल की नियुक्ति राष्ट्रपति अपने हस्ताक्षर और मुद्रा सहित अधिपत्र द्वारा करता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "textHi": "राज्यसभा का पदेन सभापति कौन होता है?",
+      "options": [
+        "The Vice-President of India",
+        "The President of India",
+        "The Speaker of the Lok Sabha",
+        "The Prime Minister of India"
+      ],
+      "optionsHi": [
+        "भारत का उपराष्ट्रपति",
+        "भारत का राष्ट्रपति",
+        "लोकसभा का अध्यक्ष",
+        "भारत का प्रधानमंत्री"
+      ],
+      "answer": 0,
+      "explanation": "Article 89 provides that the Vice-President of India shall be the ex-officio Chairman of the Council of States.",
+      "explanationHi": "अनुच्छेद 89 के अनुसार भारत का उपराष्ट्रपति राज्यसभा का पदेन सभापति होता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The price announced by the government before the sowing season, at which it will buy certain crops from farmers, is called the",
+      "textHi": "बुआई के मौसम से पहले सरकार द्वारा घोषित वह मूल्य, जिस पर वह किसानों से कुछ फ़सलें खरीदेगी, कहलाता है:",
+      "options": [
+        "Issue Price",
+        "Maximum Retail Price",
+        "Buffer Price",
+        "Minimum Support Price"
+      ],
+      "optionsHi": [
+        "निर्गम मूल्य",
+        "अधिकतम खुदरा मूल्य",
+        "बफ़र मूल्य",
+        "न्यूनतम समर्थन मूल्य"
+      ],
+      "answer": 3,
+      "explanation": "The Minimum Support Price gives farmers an assured price for crops such as wheat and rice; the issue price is the price at which foodgrains are sold through the PDS.",
+      "explanationHi": "न्यूनतम समर्थन मूल्य (MSP) किसानों को गेहूँ और चावल जैसी फ़सलों का सुनिश्चित मूल्य देता है; निर्गम मूल्य वह है जिस पर सार्वजनिक वितरण प्रणाली (PDS) से अनाज बेचा जाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "India's New Economic Policy of liberalisation, privatisation and globalisation was introduced in the year",
+      "textHi": "उदारीकरण, निजीकरण और वैश्वीकरण की भारत की नई आर्थिक नीति किस वर्ष लागू की गई?",
+      "options": [
+        "1985",
+        "1991",
+        "1997",
+        "1980"
+      ],
+      "optionsHi": [
+        "1985",
+        "1991",
+        "1997",
+        "1980"
+      ],
+      "answer": 1,
+      "explanation": "Facing a severe balance of payments crisis, India launched the LPG reforms in 1991.",
+      "explanationHi": "गंभीर भुगतान-संतुलन संकट का सामना करते हुए भारत ने 1991 में LPG (उदारीकरण, निजीकरण, वैश्वीकरण) सुधार आरंभ किए।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "National Consumers' Day is observed in India every year on",
+      "textHi": "भारत में प्रतिवर्ष राष्ट्रीय उपभोक्ता दिवस कब मनाया जाता है?",
+      "options": [
+        "24 December",
+        "15 March",
+        "5 June",
+        "1 May"
+      ],
+      "optionsHi": [
+        "24 दिसंबर",
+        "15 मार्च",
+        "5 जून",
+        "1 मई"
+      ],
+      "answer": 0,
+      "explanation": "It marks the date in 1986 when the Consumer Protection Act received assent; 15 March is World Consumer Rights Day.",
+      "explanationHi": "यह 1986 में उपभोक्ता संरक्षण अधिनियम को स्वीकृति मिलने की तिथि की स्मृति में मनाया जाता है; 15 मार्च विश्व उपभोक्ता अधिकार दिवस है।"
+    }
+  ]
+}

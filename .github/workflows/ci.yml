@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: client/package-lock.json
+
+      - name: Build client
+        working-directory: client
+        run: |
+          npm ci
+          npm run build
+
+      - name: Test (astrology engine)
+        run: dotnet test MinnieWorld.Tests/MinnieWorld.Tests.csproj -p:SkipClientBuild=true
+
+      - name: Publish (builds client into wwwroot)
+        run: dotnet publish MinnieWorld.Web/MinnieWorld.Web.csproj -c Release -o publish

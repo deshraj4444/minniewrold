@@ -1,0 +1,1605 @@
+{
+  "slug": "jnvst-class-6-2022-pattern",
+  "version": 1,
+  "title": "JNVST Class 6 · 2022 Pattern Paper",
+  "description": "JNVST Class 6 practice paper on the 2022 pattern: Mental Ability (40 picture questions), Arithmetic (20) and Language (20: two English and two Hindi passages), 80 questions, 100 marks, 120 minutes, no negative marking. Original practice paper on the 2022 pattern (not the official paper). Free.",
+  "category": "JNVST Class 6",
+  "kind": "Year pattern",
+  "year": 2022,
+  "durationMinutes": 120,
+  "negativeMark": 0,
+  "price": 0,
+  "questions": [
+    {
+      "section": "Mental Ability",
+      "text": "Select the figure which is different from the others.",
+      "textHi": "उस आकृति को चुनिए जो अन्य से भिन्न है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "Three figures are the same flag, only turned around. In the odd figure the flag is on the other side of the pole, so it is a mirror image and cannot be got by turning. So the answer is (D).",
+      "explanationHi": "तीन आकृतियाँ एक ही झंडे को घुमाकर बनी हैं। भिन्न आकृति में झंडा डंडे की दूसरी ओर है, यानी वह दर्पण प्रतिबिंब है, घुमाकर नहीं बनती। अतः उत्तर (D) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 140\" width=\"490\" height=\"140\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><g transform=\"translate(15,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><line x1=\"50\" y1=\"15\" x2=\"50\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,15 80,26 50,37\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"36\" y1=\"85\" x2=\"64\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"128\" font-size=\"14\">(A)</text><g transform=\"translate(135,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(90 50 50)\"><line x1=\"50\" y1=\"15\" x2=\"50\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,15 80,26 50,37\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"36\" y1=\"85\" x2=\"64\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"185\" y=\"128\" font-size=\"14\">(B)</text><g transform=\"translate(255,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(180 50 50)\"><line x1=\"50\" y1=\"15\" x2=\"50\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,15 80,26 50,37\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"36\" y1=\"85\" x2=\"64\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"305\" y=\"128\" font-size=\"14\">(C)</text><g transform=\"translate(375,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(90 50 50)\"><g transform=\"translate(100,0) scale(-1,1)\"><line x1=\"50\" y1=\"15\" x2=\"50\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,15 80,26 50,37\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"36\" y1=\"85\" x2=\"64\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/></g></g></g><text x=\"425\" y=\"128\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the figure which is different from the others.",
+      "textHi": "उस आकृति को चुनिए जो अन्य से भिन्न है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "In each figure the number of dots equals the number of sides (triangle 3, square 4, pentagon 5). The hexagon has 6 sides but only 5 dots. So the answer is (A).",
+      "explanationHi": "हर आकृति में बिंदुओं की संख्या भुजाओं की संख्या के बराबर है (त्रिभुज 3, वर्ग 4, पंचभुज 5)। षट्भुज की 6 भुजाएँ हैं पर बिंदु केवल 5 हैं। अतः उत्तर (A) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 140\" width=\"490\" height=\"140\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><g transform=\"translate(15,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,12 84.6,32 84.6,72 50,92 15.4,72 15.4,32\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"38\" r=\"4\" fill=\"#111\"/><circle cx=\"63.3\" cy=\"47.7\" r=\"4\" fill=\"#111\"/><circle cx=\"58.2\" cy=\"63.3\" r=\"4\" fill=\"#111\"/><circle cx=\"41.8\" cy=\"63.3\" r=\"4\" fill=\"#111\"/><circle cx=\"36.7\" cy=\"47.7\" r=\"4\" fill=\"#111\"/></g><text x=\"65\" y=\"128\" font-size=\"14\">(A)</text><g transform=\"translate(135,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,18 84.6,78 15.4,78\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"52\" r=\"4\" fill=\"#111\"/><circle cx=\"58.7\" cy=\"67\" r=\"4\" fill=\"#111\"/><circle cx=\"41.3\" cy=\"67\" r=\"4\" fill=\"#111\"/></g><text x=\"185\" y=\"128\" font-size=\"14\">(B)</text><g transform=\"translate(255,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,12 90,52 50,92 10,52\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"38\" r=\"4\" fill=\"#111\"/><circle cx=\"64\" cy=\"52\" r=\"4\" fill=\"#111\"/><circle cx=\"50\" cy=\"66\" r=\"4\" fill=\"#111\"/><circle cx=\"36\" cy=\"52\" r=\"4\" fill=\"#111\"/></g><text x=\"305\" y=\"128\" font-size=\"14\">(C)</text><g transform=\"translate(375,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,12 88,39.6 73.5,84.4 26.5,84.4 12,39.6\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"38\" r=\"4\" fill=\"#111\"/><circle cx=\"63.3\" cy=\"47.7\" r=\"4\" fill=\"#111\"/><circle cx=\"58.2\" cy=\"63.3\" r=\"4\" fill=\"#111\"/><circle cx=\"41.8\" cy=\"63.3\" r=\"4\" fill=\"#111\"/><circle cx=\"36.7\" cy=\"47.7\" r=\"4\" fill=\"#111\"/></g><text x=\"425\" y=\"128\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the figure which is different from the others.",
+      "textHi": "उस आकृति को चुनिए जो अन्य से भिन्न है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "In three clocks the two hands make a right angle (90°). In the odd clock the hands make a much smaller angle. So the answer is (C).",
+      "explanationHi": "तीन घड़ियों में दोनों सुइयाँ समकोण (90°) बनाती हैं। भिन्न घड़ी में सुइयों के बीच का कोण बहुत छोटा है। अतः उत्तर (C) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 140\" width=\"490\" height=\"140\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><g transform=\"translate(15,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"20\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"50\" stroke=\"#111\" stroke-width=\"4\"/><circle cx=\"50\" cy=\"50\" r=\"4\" fill=\"#111\"/></g><text x=\"65\" y=\"128\" font-size=\"14\">(A)</text><g transform=\"translate(135,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"65\" y2=\"76\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"50\" y1=\"50\" x2=\"32.7\" y2=\"60\" stroke=\"#111\" stroke-width=\"4\"/><circle cx=\"50\" cy=\"50\" r=\"4\" fill=\"#111\"/></g><text x=\"185\" y=\"128\" font-size=\"14\">(B)</text><g transform=\"translate(255,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"65\" y2=\"24\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"50\" y1=\"50\" x2=\"69.3\" y2=\"44.8\" stroke=\"#111\" stroke-width=\"4\"/><circle cx=\"50\" cy=\"50\" r=\"4\" fill=\"#111\"/></g><text x=\"305\" y=\"128\" font-size=\"14\">(C)</text><g transform=\"translate(375,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"20\" y2=\"50\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"30\" stroke=\"#111\" stroke-width=\"4\"/><circle cx=\"50\" cy=\"50\" r=\"4\" fill=\"#111\"/></g><text x=\"425\" y=\"128\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the figure which is different from the others.",
+      "textHi": "उस आकृति को चुनिए जो अन्य से भिन्न है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "In three figures the inside shape is the same as the outside shape (circle in circle, triangle in triangle, pentagon in pentagon). In the odd figure a pentagon is inside a square. So the answer is (D).",
+      "explanationHi": "तीन आकृतियों में अंदर की आकृति बाहर की आकृति जैसी ही है (वृत्त में वृत्त, त्रिभुज में त्रिभुज, पंचभुज में पंचभुज)। भिन्न आकृति में वर्ग के अंदर पंचभुज है। अतः उत्तर (D) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 140\" width=\"490\" height=\"140\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><g transform=\"translate(15,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"50\" r=\"20\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"128\" font-size=\"14\">(A)</text><g transform=\"translate(135,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,14 88.1,80 11.9,80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,44 65.6,71 34.4,71\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"128\" font-size=\"14\">(B)</text><g transform=\"translate(255,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,11 89.9,40 74.7,87 25.3,87 10.1,40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,33 69,46.8 61.8,69.2 38.2,69.2 31,46.8\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"128\" font-size=\"14\">(C)</text><g transform=\"translate(375,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"12\" y=\"12\" width=\"76\" height=\"76\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,28 70.9,43.2 62.9,67.8 37.1,67.8 29.1,43.2\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"128\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which is exactly the same as the problem figure.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृति के बिल्कुल समान है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "Only one answer figure has the diagonal going the same way, the open circle in the lower-right part and the dot in the upper-left part, exactly like the problem figure. So the answer is (B).",
+      "explanationHi": "केवल एक उत्तर आकृति में विकर्ण उसी दिशा में है, खुला वृत्त नीचे-दाएँ भाग में और बिंदु ऊपर-बाएँ भाग में है, ठीक प्रश्न आकृति जैसा। अतः उत्तर (B) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"85\" x2=\"85\" y2=\"15\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"66\" cy=\"66\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#111\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"85\" x2=\"85\" y2=\"15\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"32\" cy=\"32\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"66\" cy=\"66\" r=\"5\" fill=\"#111\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"85\" x2=\"85\" y2=\"15\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"66\" cy=\"66\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#111\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(100,0) scale(-1,1)\"><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"85\" x2=\"85\" y2=\"15\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"66\" cy=\"66\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#111\"/></g></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"85\" x2=\"85\" y2=\"15\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"66\" cy=\"66\" r=\"9\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#111\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which is exactly the same as the problem figure.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृति के बिल्कुल समान है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "The problem figure has an open triangle pointing up, a line from its top to the circle and a dot at the bottom. Only one answer figure has all of these in the same places. So the answer is (A).",
+      "explanationHi": "प्रश्न आकृति में ऊपर की ओर खुला त्रिभुज, उसके शीर्ष से वृत्त तक एक रेखा और नीचे एक बिंदु है। केवल एक उत्तर आकृति में ये सब उसी स्थान पर हैं। अतः उत्तर (A) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,30 70.8,66 29.2,66\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"30\" x2=\"50\" y2=\"10\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"80\" r=\"5\" fill=\"#111\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,30 70.8,66 29.2,66\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"30\" x2=\"50\" y2=\"10\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"80\" r=\"5\" fill=\"#111\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,30 70.8,66 29.2,66\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"30\" x2=\"50\" y2=\"10\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"80\" r=\"5\" fill=\"#111\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(180 50 50)\"><circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,30 70.8,66 29.2,66\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"30\" x2=\"50\" y2=\"10\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"80\" r=\"5\" fill=\"#111\"/></g></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,30 70.8,66 29.2,66\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"30\" x2=\"50\" y2=\"10\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which is exactly the same as the problem figure.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृति के बिल्कुल समान है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "In the problem figure the shaded part is on the right and the dot is in the upper-left part of the hexagon. Only one answer figure matches exactly; the others are turned or reversed. So the answer is (A).",
+      "explanationHi": "प्रश्न आकृति में छायांकित भाग दाईं ओर और बिंदु षट्भुज के ऊपरी-बाएँ भाग में है। केवल एक उत्तर आकृति बिल्कुल मेल खाती है, बाकी घुमाई या उलटी गई हैं। अतः उत्तर (A) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,50 84.6,30 84.6,70 50,90\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,10 84.6,30 84.6,70 50,90 15.4,70 15.4,30\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"84.6\" y2=\"30\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"90\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"15.4\" y2=\"30\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"38\" cy=\"30\" r=\"4.5\" fill=\"#111\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,50 84.6,30 84.6,70 50,90\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,10 84.6,30 84.6,70 50,90 15.4,70 15.4,30\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"84.6\" y2=\"30\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"90\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"15.4\" y2=\"30\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"38\" cy=\"30\" r=\"4.5\" fill=\"#111\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(120 50 50)\"><polygon points=\"50,50 84.6,30 84.6,70 50,90\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,10 84.6,30 84.6,70 50,90 15.4,70 15.4,30\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"84.6\" y2=\"30\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"90\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"15.4\" y2=\"30\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"38\" cy=\"30\" r=\"4.5\" fill=\"#111\"/></g></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(240 50 50)\"><polygon points=\"50,50 84.6,30 84.6,70 50,90\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,10 84.6,30 84.6,70 50,90 15.4,70 15.4,30\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"84.6\" y2=\"30\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"90\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"15.4\" y2=\"30\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"38\" cy=\"30\" r=\"4.5\" fill=\"#111\"/></g></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(100,0) scale(-1,1)\"><polygon points=\"50,50 84.6,30 84.6,70 50,90\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,10 84.6,30 84.6,70 50,90 15.4,70 15.4,30\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"84.6\" y2=\"30\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"90\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"15.4\" y2=\"30\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"38\" cy=\"30\" r=\"4.5\" fill=\"#111\"/></g></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which is exactly the same as the problem figure.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृति के बिल्कुल समान है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "The problem house has an open door on the left, a square window with a cross on the right and a chimney on the right. Only one answer figure is the same in every part. So the answer is (B).",
+      "explanationHi": "प्रश्न आकृति के घर में बाईं ओर खुला दरवाज़ा, दाईं ओर क्रॉस वाली वर्गाकार खिड़की और दाईं ओर चिमनी है। केवल एक उत्तर आकृति हर भाग में समान है। अतः उत्तर (B) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"18,45 50,15 82,45 82,88 18,88\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"28\" y=\"62\" width=\"16\" height=\"26\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"56\" y=\"55\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"64\" y1=\"55\" x2=\"64\" y2=\"71\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"56\" y1=\"63\" x2=\"72\" y2=\"63\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"64\" y=\"22\" width=\"8\" height=\"14\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(100,0) scale(-1,1)\"><polygon points=\"18,45 50,15 82,45 82,88 18,88\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"28\" y=\"62\" width=\"16\" height=\"26\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"56\" y=\"55\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"64\" y1=\"55\" x2=\"64\" y2=\"71\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"56\" y1=\"63\" x2=\"72\" y2=\"63\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"64\" y=\"22\" width=\"8\" height=\"14\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"18,45 50,15 82,45 82,88 18,88\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"28\" y=\"62\" width=\"16\" height=\"26\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"56\" y=\"55\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"64\" y1=\"55\" x2=\"64\" y2=\"71\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"56\" y1=\"63\" x2=\"72\" y2=\"63\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"64\" y=\"22\" width=\"8\" height=\"14\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"18,45 50,15 82,45 82,88 18,88\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"28\" y=\"62\" width=\"16\" height=\"26\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"64\" cy=\"63\" r=\"8\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"64\" y=\"22\" width=\"8\" height=\"14\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"18,45 50,15 82,45 82,88 18,88\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"28\" y=\"62\" width=\"16\" height=\"26\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"56\" y=\"55\" width=\"16\" height=\"16\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"64\" y1=\"55\" x2=\"64\" y2=\"71\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"56\" y1=\"63\" x2=\"72\" y2=\"63\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"64\" y=\"22\" width=\"8\" height=\"14\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which will complete the pattern in the problem figure.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृति के पैटर्न को पूरा करेगी।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "The pattern is the same on both sides of the middle lines: each quarter is a mirror image of the quarter next to it. So the missing bottom-right quarter is the top-left quarter turned upside down and reversed: the arc curves round the top-left corner and the black triangle is in the bottom-right corner. So the answer is (B).",
+      "explanationHi": "पैटर्न बीच की रेखाओं के दोनों ओर एक जैसा है: हर चौथाई भाग पास वाले भाग का दर्पण प्रतिबिंब है। इसलिए नीचे-दाएँ का गायब भाग ऊपर-बाएँ भाग को उलटकर बनेगा: चाप ऊपर-बाएँ कोने के पास और काला त्रिभुज नीचे-दाएँ कोने में होगा। अतः उत्तर (B) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 388\" width=\"490\" height=\"388\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(145,26)\"><rect width=\"200\" height=\"200\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,0)\"><path d=\"M45,100 A55,55 0 0 1 100,45\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"10,10 38,10 10,38\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"22\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(100,0)\"><g transform=\"translate(100,0) scale(-1,1)\"><path d=\"M45,100 A55,55 0 0 1 100,45\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"10,10 38,10 10,38\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"22\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><g transform=\"translate(0,100)\"><g transform=\"translate(0,100) scale(1,-1)\"><path d=\"M45,100 A55,55 0 0 1 100,45\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"10,10 38,10 10,38\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"22\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><g transform=\"translate(100,100)\"><text x=\"50\" y=\"61\" font-size=\"30\">?</text></g><line x1=\"100\" y1=\"0\" x2=\"100\" y2=\"200\" stroke=\"#bbb\"/><line x1=\"0\" y1=\"100\" x2=\"200\" y2=\"100\" stroke=\"#bbb\"/></g><text x=\"15\" y=\"251\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M45,100 A55,55 0 0 1 100,45\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"10,10 38,10 10,38\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"22\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"378\" font-size=\"14\">(A)</text><g transform=\"translate(135,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(180 50 50)\"><path d=\"M45,100 A55,55 0 0 1 100,45\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"10,10 38,10 10,38\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"22\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"185\" y=\"378\" font-size=\"14\">(B)</text><g transform=\"translate(255,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(100,0) scale(-1,1)\"><path d=\"M45,100 A55,55 0 0 1 100,45\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"10,10 38,10 10,38\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"22\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"305\" y=\"378\" font-size=\"14\">(C)</text><g transform=\"translate(375,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,100) scale(1,-1)\"><path d=\"M45,100 A55,55 0 0 1 100,45\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"10,10 38,10 10,38\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"22\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"425\" y=\"378\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which will complete the pattern in the problem figure.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृति के पैटर्न को पूरा करेगी।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "Going clockwise, each quarter is the previous quarter turned 90° clockwise (like a pinwheel). The missing bottom-left quarter is the top-left quarter turned 90° anticlockwise: the black triangle lies along the right edge, pointing up. So the answer is (A).",
+      "explanationHi": "घड़ी की दिशा में चलने पर हर चौथाई भाग पिछले भाग को 90° घड़ी की दिशा में घुमाकर बना है (फिरकी जैसा)। नीचे-बाएँ का गायब भाग ऊपर-बाएँ भाग को 90° घड़ी की उलटी दिशा में घुमाकर बनेगा: काला त्रिभुज दाएँ किनारे के साथ ऊपर की ओर होगा। अतः उत्तर (A) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 388\" width=\"490\" height=\"388\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(145,26)\"><rect width=\"200\" height=\"200\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,0)\"><polygon points=\"100,100 30,100 30,76\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"36\" cy=\"32\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(100,0)\"><g transform=\"rotate(90 50 50)\"><polygon points=\"100,100 30,100 30,76\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"36\" cy=\"32\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><g transform=\"translate(0,100)\"><text x=\"50\" y=\"61\" font-size=\"30\">?</text></g><g transform=\"translate(100,100)\"><g transform=\"rotate(180 50 50)\"><polygon points=\"100,100 30,100 30,76\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"36\" cy=\"32\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><line x1=\"100\" y1=\"0\" x2=\"100\" y2=\"200\" stroke=\"#bbb\"/><line x1=\"0\" y1=\"100\" x2=\"200\" y2=\"100\" stroke=\"#bbb\"/></g><text x=\"15\" y=\"251\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(-90 50 50)\"><polygon points=\"100,100 30,100 30,76\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"36\" cy=\"32\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"65\" y=\"378\" font-size=\"14\">(A)</text><g transform=\"translate(135,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(90 50 50)\"><polygon points=\"100,100 30,100 30,76\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"36\" cy=\"32\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"185\" y=\"378\" font-size=\"14\">(B)</text><g transform=\"translate(255,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(100,0) scale(-1,1)\"><polygon points=\"100,100 30,100 30,76\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"36\" cy=\"32\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"305\" y=\"378\" font-size=\"14\">(C)</text><g transform=\"translate(375,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,100) scale(1,-1)\"><polygon points=\"100,100 30,100 30,76\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"36\" cy=\"32\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"425\" y=\"378\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which will complete the pattern in the problem figure.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृति के पैटर्न को पूरा करेगी।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "The left and right halves of the pattern are mirror images of each other. So the missing top-right quarter is the mirror image of the top-left quarter: the steps go down towards the right and the dot is at the bottom-left. So the answer is (D).",
+      "explanationHi": "पैटर्न का बायाँ और दायाँ आधा भाग एक-दूसरे के दर्पण प्रतिबिंब हैं। इसलिए ऊपर-दाएँ का गायब भाग ऊपर-बाएँ भाग का दर्पण प्रतिबिंब होगा: सीढ़ियाँ दाईं ओर नीचे उतरती हैं और बिंदु नीचे-बाईं ओर है। अतः उत्तर (D) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 388\" width=\"490\" height=\"388\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(145,26)\"><rect width=\"200\" height=\"200\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,0)\"><polyline points=\"12,88 12,64 36,64 36,40 60,40 60,16\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"76\" r=\"7\" fill=\"#111\"/></g><g transform=\"translate(100,0)\"><text x=\"50\" y=\"61\" font-size=\"30\">?</text></g><g transform=\"translate(0,100)\"><g transform=\"translate(0,100) scale(1,-1)\"><polyline points=\"12,88 12,64 36,64 36,40 60,40 60,16\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"76\" r=\"7\" fill=\"#111\"/></g></g><g transform=\"translate(100,100)\"><g transform=\"rotate(180 50 50)\"><polyline points=\"12,88 12,64 36,64 36,40 60,40 60,16\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"76\" r=\"7\" fill=\"#111\"/></g></g><line x1=\"100\" y1=\"0\" x2=\"100\" y2=\"200\" stroke=\"#bbb\"/><line x1=\"0\" y1=\"100\" x2=\"200\" y2=\"100\" stroke=\"#bbb\"/></g><text x=\"15\" y=\"251\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polyline points=\"12,88 12,64 36,64 36,40 60,40 60,16\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"76\" r=\"7\" fill=\"#111\"/></g><text x=\"65\" y=\"378\" font-size=\"14\">(A)</text><g transform=\"translate(135,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,100) scale(1,-1)\"><polyline points=\"12,88 12,64 36,64 36,40 60,40 60,16\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"76\" r=\"7\" fill=\"#111\"/></g></g><text x=\"185\" y=\"378\" font-size=\"14\">(B)</text><g transform=\"translate(255,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(180 50 50)\"><polyline points=\"12,88 12,64 36,64 36,40 60,40 60,16\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"76\" r=\"7\" fill=\"#111\"/></g></g><text x=\"305\" y=\"378\" font-size=\"14\">(C)</text><g transform=\"translate(375,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(100,0) scale(-1,1)\"><polyline points=\"12,88 12,64 36,64 36,40 60,40 60,16\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"76\" r=\"7\" fill=\"#111\"/></g></g><text x=\"425\" y=\"378\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which will complete the pattern in the problem figure.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृति के पैटर्न को पूरा करेगी।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "Each quarter is the quarter before it turned 90° clockwise (top-left → top-right → bottom-right → bottom-left). So the missing top-right quarter is the top-left quarter turned 90° clockwise: the corner of the bent line is at the top-right and the black dot is at the bottom-right. So the answer is (D).",
+      "explanationHi": "हर चौथाई भाग अपने पिछले भाग को 90° घड़ी की दिशा में घुमाकर बना है (ऊपर-बाएँ → ऊपर-दाएँ → नीचे-दाएँ → नीचे-बाएँ)। इसलिए ऊपर-दाएँ का गायब भाग ऊपर-बाएँ भाग को 90° घड़ी की दिशा में घुमाकर बनेगा: मुड़ी रेखा का कोना ऊपर-दाएँ और काला बिंदु नीचे-दाएँ होगा। अतः उत्तर (D) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 388\" width=\"490\" height=\"388\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(145,26)\"><rect width=\"200\" height=\"200\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,0)\"><polyline points=\"25,85 25,25 75,25\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"25\" r=\"7\" fill=\"#111\"/><circle cx=\"62\" cy=\"64\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(100,0)\"><text x=\"50\" y=\"61\" font-size=\"30\">?</text></g><g transform=\"translate(0,100)\"><g transform=\"rotate(-90 50 50)\"><polyline points=\"25,85 25,25 75,25\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"25\" r=\"7\" fill=\"#111\"/><circle cx=\"62\" cy=\"64\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><g transform=\"translate(100,100)\"><g transform=\"rotate(180 50 50)\"><polyline points=\"25,85 25,25 75,25\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"25\" r=\"7\" fill=\"#111\"/><circle cx=\"62\" cy=\"64\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><line x1=\"100\" y1=\"0\" x2=\"100\" y2=\"200\" stroke=\"#bbb\"/><line x1=\"0\" y1=\"100\" x2=\"200\" y2=\"100\" stroke=\"#bbb\"/></g><text x=\"15\" y=\"251\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(100,0) scale(-1,1)\"><polyline points=\"25,85 25,25 75,25\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"25\" r=\"7\" fill=\"#111\"/><circle cx=\"62\" cy=\"64\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"65\" y=\"378\" font-size=\"14\">(A)</text><g transform=\"translate(135,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,100) scale(1,-1)\"><polyline points=\"25,85 25,25 75,25\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"25\" r=\"7\" fill=\"#111\"/><circle cx=\"62\" cy=\"64\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"185\" y=\"378\" font-size=\"14\">(B)</text><g transform=\"translate(255,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(-90 50 50)\"><polyline points=\"25,85 25,25 75,25\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"25\" r=\"7\" fill=\"#111\"/><circle cx=\"62\" cy=\"64\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"305\" y=\"378\" font-size=\"14\">(C)</text><g transform=\"translate(375,260)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(90 50 50)\"><polyline points=\"25,85 25,25 75,25\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"25\" r=\"7\" fill=\"#111\"/><circle cx=\"62\" cy=\"64\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"425\" y=\"378\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which will continue the same series as shown by the problem figures.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृतियों की श्रृंखला को आगे बढ़ाएगी।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "The arrow turns 45° clockwise at every step: up, up-right, right, down-right. The next one points straight down. So the answer is (C).",
+      "explanationHi": "तीर हर बार 45° घड़ी की दिशा में घूमता है: ऊपर, ऊपर-दाएँ, दाएँ, नीचे-दाएँ। अगला तीर सीधा नीचे की ओर होगा। अतः उत्तर (C) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 578 288\" width=\"578\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figures</text><g transform=\"translate(15,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"14\" y=\"14\" width=\"72\" height=\"72\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"80\" x2=\"50\" y2=\"34\" stroke=\"#111\" stroke-width=\"3\"/><polygon points=\"50,20 58,34 42,34\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g><g transform=\"translate(127,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"14\" y=\"14\" width=\"72\" height=\"72\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(45 50 50)\"><line x1=\"50\" y1=\"80\" x2=\"50\" y2=\"34\" stroke=\"#111\" stroke-width=\"3\"/><polygon points=\"50,20 58,34 42,34\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g></g><g transform=\"translate(239,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"14\" y=\"14\" width=\"72\" height=\"72\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(90 50 50)\"><line x1=\"50\" y1=\"80\" x2=\"50\" y2=\"34\" stroke=\"#111\" stroke-width=\"3\"/><polygon points=\"50,20 58,34 42,34\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g></g><g transform=\"translate(351,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"14\" y=\"14\" width=\"72\" height=\"72\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(135 50 50)\"><line x1=\"50\" y1=\"80\" x2=\"50\" y2=\"34\" stroke=\"#111\" stroke-width=\"3\"/><polygon points=\"50,20 58,34 42,34\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g></g><g transform=\"translate(463,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><text x=\"50\" y=\"61\" font-size=\"30\">?</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(59,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"14\" y=\"14\" width=\"72\" height=\"72\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(225 50 50)\"><line x1=\"50\" y1=\"80\" x2=\"50\" y2=\"34\" stroke=\"#111\" stroke-width=\"3\"/><polygon points=\"50,20 58,34 42,34\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g></g><text x=\"109\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(179,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"14\" y=\"14\" width=\"72\" height=\"72\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(270 50 50)\"><line x1=\"50\" y1=\"80\" x2=\"50\" y2=\"34\" stroke=\"#111\" stroke-width=\"3\"/><polygon points=\"50,20 58,34 42,34\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g></g><text x=\"229\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(299,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"14\" y=\"14\" width=\"72\" height=\"72\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(180 50 50)\"><line x1=\"50\" y1=\"80\" x2=\"50\" y2=\"34\" stroke=\"#111\" stroke-width=\"3\"/><polygon points=\"50,20 58,34 42,34\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g></g><text x=\"349\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(419,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"14\" y=\"14\" width=\"72\" height=\"72\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(135 50 50)\"><line x1=\"50\" y1=\"80\" x2=\"50\" y2=\"34\" stroke=\"#111\" stroke-width=\"3\"/><polygon points=\"50,20 58,34 42,34\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g></g><text x=\"469\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which will continue the same series as shown by the problem figures.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृतियों की श्रृंखला को आगे बढ़ाएगी।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "The number of sides increases by one each time: 3, 4, 5, 6. The next figure has 7 sides. So the answer is (D).",
+      "explanationHi": "भुजाओं की संख्या हर बार एक बढ़ती है: 3, 4, 5, 6। अगली आकृति में 7 भुजाएँ होंगी। अतः उत्तर (D) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 578 288\" width=\"578\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figures</text><g transform=\"translate(15,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,18 82.9,75 17.1,75\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(127,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,13 88,51 50,89 12,51\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(239,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,13 86.1,39.3 72.3,81.7 27.7,81.7 13.9,39.3\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(351,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,13 82.9,32 82.9,70 50,89 17.1,70 17.1,32\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(463,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><text x=\"50\" y=\"61\" font-size=\"30\">?</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(59,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,13 76.9,24.1 88,51 76.9,77.9 50,89 23.1,77.9 12,51 23.1,24.1\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"109\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(179,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,13 86.1,39.3 72.3,81.7 27.7,81.7 13.9,39.3\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"229\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(299,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"38\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"349\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(419,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,13 79.7,27.3 87,59.5 66.5,85.2 33.5,85.2 13,59.5 20.3,27.3\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"469\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which will continue the same series as shown by the problem figures.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृतियों की श्रृंखला को आगे बढ़ाएगी।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "The black dot moves one corner clockwise each step and the triangle moves one corner anticlockwise. After the fourth figure the dot comes to the top-left corner and the triangle to the bottom-left corner. So the answer is (C).",
+      "explanationHi": "काला बिंदु हर बार एक कोना घड़ी की दिशा में और त्रिभुज एक कोना घड़ी की उलटी दिशा में चलता है। चौथी आकृति के बाद बिंदु ऊपर-बाएँ कोने में और त्रिभुज नीचे-बाएँ कोने में आएगा। अतः उत्तर (C) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 578 288\" width=\"578\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figures</text><g transform=\"translate(15,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"24\" cy=\"24\" r=\"7\" fill=\"#111\"/><polygon points=\"24,67 15,83 33,83\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(127,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"76\" cy=\"24\" r=\"7\" fill=\"#111\"/><polygon points=\"76,67 67,83 85,83\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(239,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"76\" cy=\"76\" r=\"7\" fill=\"#111\"/><polygon points=\"76,15 67,31 85,31\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(351,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"24\" cy=\"76\" r=\"7\" fill=\"#111\"/><polygon points=\"24,15 15,31 33,31\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(463,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><text x=\"50\" y=\"61\" font-size=\"30\">?</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(59,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"76\" cy=\"24\" r=\"7\" fill=\"#111\"/><polygon points=\"24,67 15,83 33,83\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"109\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(179,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"24\" cy=\"24\" r=\"7\" fill=\"#111\"/><polygon points=\"76,15 67,31 85,31\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"229\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(299,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"24\" cy=\"24\" r=\"7\" fill=\"#111\"/><polygon points=\"24,67 15,83 33,83\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"349\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(419,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"24\" cy=\"76\" r=\"7\" fill=\"#111\"/><polygon points=\"76,67 67,83 85,83\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"469\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which will continue the same series as shown by the problem figures.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृतियों की श्रृंखला को आगे बढ़ाएगी।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "One more triangle of the hexagon is shaded at each step, going clockwise. The fifth figure has five shaded triangles side by side, with only the last one left white. So the answer is (A).",
+      "explanationHi": "हर बार षट्भुज का एक और त्रिभुज घड़ी की दिशा में छायांकित होता है। पाँचवीं आकृति में लगातार पाँच त्रिभुज छायांकित होंगे और केवल आख़िरी सफ़ेद रहेगा। अतः उत्तर (A) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 578 288\" width=\"578\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figures</text><g transform=\"translate(15,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,50 50,10 84.6,30\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,30 84.6,70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,70 50,90\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 50,90 15.4,70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,70 15.4,30\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,30 50,10\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(127,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,50 50,10 84.6,30\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,30 84.6,70\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,70 50,90\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 50,90 15.4,70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,70 15.4,30\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,30 50,10\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(239,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,50 50,10 84.6,30\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,30 84.6,70\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,70 50,90\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 50,90 15.4,70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,70 15.4,30\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,30 50,10\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(351,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,50 50,10 84.6,30\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,30 84.6,70\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,70 50,90\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 50,90 15.4,70\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,70 15.4,30\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,30 50,10\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(463,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><text x=\"50\" y=\"61\" font-size=\"30\">?</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(59,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,50 50,10 84.6,30\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,30 84.6,70\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,70 50,90\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 50,90 15.4,70\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,70 15.4,30\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,30 50,10\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"109\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(179,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,50 50,10 84.6,30\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,30 84.6,70\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,70 50,90\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 50,90 15.4,70\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,70 15.4,30\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,30 50,10\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"229\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(299,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,50 50,10 84.6,30\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,30 84.6,70\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,70 50,90\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 50,90 15.4,70\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,70 15.4,30\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,30 50,10\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"349\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(419,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,50 50,10 84.6,30\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,30 84.6,70\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 84.6,70 50,90\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 50,90 15.4,70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,70 15.4,30\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,50 15.4,30 50,10\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"469\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "There is a certain relationship between the first two problem figures. The same relationship exists between the third figure and one of the answer figures. Select that answer figure.",
+      "textHi": "पहली दो प्रश्न आकृतियों में एक निश्चित संबंध है। वैसा ही संबंध तीसरी प्रश्न आकृति और किसी एक उत्तर आकृति में है। वह उत्तर आकृति चुनिए।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "The open triangle becomes a black triangle turned upside down. In the same way the open pentagon becomes a black pentagon turned upside down. So the answer is (D).",
+      "explanationHi": "खुला त्रिभुज उलटा होकर काला त्रिभुज बन जाता है। उसी प्रकार खुला पंचभुज उलटा होकर काला पंचभुज बनेगा। अतः उत्तर (D) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 532 288\" width=\"532\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figures</text><g transform=\"translate(15,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,20 82.9,77 17.1,77\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"132\" y=\"84\" font-size=\"24\" font-weight=\"bold\">:</text><g transform=\"translate(149,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,80 17.1,23 82.9,23\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"266\" y=\"84\" font-size=\"24\" font-weight=\"bold\">::</text><g transform=\"translate(283,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,17 84.2,41.9 71.2,82.1 28.8,82.1 15.8,41.9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"400\" y=\"84\" font-size=\"24\" font-weight=\"bold\">:</text><g transform=\"translate(417,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><text x=\"50\" y=\"61\" font-size=\"30\">?</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(36,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,17 84.2,41.9 71.2,82.1 28.8,82.1 15.8,41.9\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"86\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(156,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(180 50 50)\"><polygon points=\"50,17 84.2,41.9 71.2,82.1 28.8,82.1 15.8,41.9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"206\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(276,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,14 81.2,32 81.2,68 50,86 18.8,68 18.8,32\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"326\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(396,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(180 50 50)\"><polygon points=\"50,17 84.2,41.9 71.2,82.1 28.8,82.1 15.8,41.9\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"446\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "There is a certain relationship between the first two problem figures. The same relationship exists between the third figure and one of the answer figures. Select that answer figure.",
+      "textHi": "पहली दो प्रश्न आकृतियों में एक निश्चित संबंध है। वैसा ही संबंध तीसरी प्रश्न आकृति और किसी एक उत्तर आकृति में है। वह उत्तर आकृति चुनिए।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "The outer and inner shapes change places: circle inside square becomes square inside circle. So triangle inside hexagon becomes a small hexagon inside a big triangle. So the answer is (C).",
+      "explanationHi": "बाहरी और भीतरी आकृतियाँ आपस में जगह बदल लेती हैं: वर्ग के अंदर वृत्त, वृत्त के अंदर वर्ग बन जाता है। इसलिए षट्भुज के अंदर त्रिभुज, बड़े त्रिभुज के अंदर छोटा षट्भुज बनेगा। अतः उत्तर (C) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 532 288\" width=\"532\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figures</text><g transform=\"translate(15,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"12\" y=\"12\" width=\"76\" height=\"76\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"50\" r=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"132\" y=\"84\" font-size=\"24\" font-weight=\"bold\">:</text><g transform=\"translate(149,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"36\" y=\"36\" width=\"28\" height=\"28\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"266\" y=\"84\" font-size=\"24\" font-weight=\"bold\">::</text><g transform=\"translate(283,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,8 86.4,29 86.4,71 50,92 13.6,71 13.6,29\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,35 65.6,62 34.4,62\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"400\" y=\"84\" font-size=\"24\" font-weight=\"bold\">:</text><g transform=\"translate(417,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><text x=\"50\" y=\"61\" font-size=\"30\">?</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(36,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,8 86.4,29 86.4,71 50,92 13.6,71 13.6,29\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,32 65.6,41 65.6,59 50,68 34.4,59 34.4,41\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"86\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(156,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,14 89.8,83 10.2,83\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,54 63.9,78 36.1,78\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"206\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(276,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,14 89.8,83 10.2,83\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,54 62.1,61 62.1,75 50,82 37.9,75 37.9,61\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"326\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(396,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,35 65.6,62 34.4,62\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"50\" r=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"446\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "There is a certain relationship between the first two problem figures. The same relationship exists between the third figure and one of the answer figures. Select that answer figure.",
+      "textHi": "पहली दो प्रश्न आकृतियों में एक निश्चित संबंध है। वैसा ही संबंध तीसरी प्रश्न आकृति और किसी एक उत्तर आकृति में है। वह उत्तर आकृति चुनिए।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "The second figure is the first figure turned 90° clockwise. Turning the key 90° clockwise puts its ring at the top and its teeth pointing to the left. So the answer is (D).",
+      "explanationHi": "दूसरी आकृति पहली आकृति को 90° घड़ी की दिशा में घुमाकर बनी है। चाबी को 90° घड़ी की दिशा में घुमाने पर उसका छल्ला ऊपर और दाँते बाईं ओर होंगे। अतः उत्तर (D) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 532 288\" width=\"532\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figures</text><g transform=\"translate(15,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><line x1=\"15\" y1=\"55\" x2=\"73\" y2=\"55\" stroke=\"#111\" stroke-width=\"3\"/><polygon points=\"85,55 73,62 73,48\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"30\" r=\"7\" fill=\"#111\"/></g><text x=\"132\" y=\"84\" font-size=\"24\" font-weight=\"bold\">:</text><g transform=\"translate(149,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(90 50 50)\"><line x1=\"15\" y1=\"55\" x2=\"73\" y2=\"55\" stroke=\"#111\" stroke-width=\"3\"/><polygon points=\"85,55 73,62 73,48\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"30\" r=\"7\" fill=\"#111\"/></g></g><text x=\"266\" y=\"84\" font-size=\"24\" font-weight=\"bold\">::</text><g transform=\"translate(283,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"28\" cy=\"50\" r=\"13\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"41\" y1=\"50\" x2=\"88\" y2=\"50\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"72\" y1=\"50\" x2=\"72\" y2=\"64\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"84\" y1=\"50\" x2=\"84\" y2=\"64\" stroke=\"#111\" stroke-width=\"3\"/></g><text x=\"400\" y=\"84\" font-size=\"24\" font-weight=\"bold\">:</text><g transform=\"translate(417,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><text x=\"50\" y=\"61\" font-size=\"30\">?</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(36,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(-90 50 50)\"><circle cx=\"28\" cy=\"50\" r=\"13\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"41\" y1=\"50\" x2=\"88\" y2=\"50\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"72\" y1=\"50\" x2=\"72\" y2=\"64\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"84\" y1=\"50\" x2=\"84\" y2=\"64\" stroke=\"#111\" stroke-width=\"3\"/></g></g><text x=\"86\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(156,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(180 50 50)\"><circle cx=\"28\" cy=\"50\" r=\"13\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"41\" y1=\"50\" x2=\"88\" y2=\"50\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"72\" y1=\"50\" x2=\"72\" y2=\"64\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"84\" y1=\"50\" x2=\"84\" y2=\"64\" stroke=\"#111\" stroke-width=\"3\"/></g></g><text x=\"206\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(276,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,100) scale(1,-1)\"><circle cx=\"28\" cy=\"50\" r=\"13\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"41\" y1=\"50\" x2=\"88\" y2=\"50\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"72\" y1=\"50\" x2=\"72\" y2=\"64\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"84\" y1=\"50\" x2=\"84\" y2=\"64\" stroke=\"#111\" stroke-width=\"3\"/></g></g><text x=\"326\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(396,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(90 50 50)\"><circle cx=\"28\" cy=\"50\" r=\"13\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"41\" y1=\"50\" x2=\"88\" y2=\"50\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"72\" y1=\"50\" x2=\"72\" y2=\"64\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"84\" y1=\"50\" x2=\"84\" y2=\"64\" stroke=\"#111\" stroke-width=\"3\"/></g></g><text x=\"446\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "There is a certain relationship between the first two problem figures. The same relationship exists between the third figure and one of the answer figures. Select that answer figure.",
+      "textHi": "पहली दो प्रश्न आकृतियों में एक निश्चित संबंध है। वैसा ही संबंध तीसरी प्रश्न आकृति और किसी एक उत्तर आकृति में है। वह उत्तर आकृति चुनिए।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "The number of shapes becomes three times: 1 triangle → 3 triangles. So 2 squares → 6 squares. So the answer is (C).",
+      "explanationHi": "आकृतियों की संख्या तीन गुना हो जाती है: 1 त्रिभुज → 3 त्रिभुज। इसलिए 2 वर्ग → 6 वर्ग। अतः उत्तर (C) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 532 288\" width=\"532\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figures</text><g transform=\"translate(15,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,37 37,60 63,60\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"132\" y=\"84\" font-size=\"24\" font-weight=\"bold\">:</text><g transform=\"translate(149,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"30,21 17,44 43,44\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"70,21 57,44 83,44\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,59 37,82 63,82\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"266\" y=\"84\" font-size=\"24\" font-weight=\"bold\">::</text><g transform=\"translate(283,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"21\" y=\"41\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"61\" y=\"41\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"400\" y=\"84\" font-size=\"24\" font-weight=\"bold\">:</text><g transform=\"translate(417,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><text x=\"50\" y=\"61\" font-size=\"30\">?</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(36,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"21\" y=\"21\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"61\" y=\"21\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"21\" y=\"61\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"61\" y=\"61\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"86\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(156,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"16\" y=\"21\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"41\" y=\"21\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"66\" y=\"21\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"26\" y=\"61\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"56\" y=\"61\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"206\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(276,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"16\" y=\"21\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"41\" y=\"21\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"66\" y=\"21\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"16\" y=\"61\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"41\" y=\"61\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"66\" y=\"61\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"326\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(396,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"25\" cy=\"30\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"30\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"30\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"25\" cy=\"70\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"70\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"70\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"446\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which fits into the gap and completes the square.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो खाली स्थान में ठीक बैठकर वर्ग को पूरा करती है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "The gap at the top-right corner is a right-angled triangle whose top side is as long as half the square and whose right side is shorter. Only one triangle has exactly this shape and size. So the answer is (A).",
+      "explanationHi": "ऊपर-दाएँ कोने का खाली स्थान एक समकोण त्रिभुज है, जिसकी ऊपरी भुजा वर्ग की आधी भुजा जितनी लंबी है और दाईं भुजा उससे छोटी है। केवल एक त्रिभुज ठीक इसी आकार और माप का है। अतः उत्तर (A) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"10,10 50,10 90,40 90,90 10,90\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"76\" y=\"26\" font-size=\"14\">?</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"30,35 70,35 70,65\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"30,30 70,30 70,70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"30,40 70,40 70,60\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"30\" y=\"35\" width=\"40\" height=\"30\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which fits into the gap and completes the square.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो खाली स्थान में ठीक बैठकर वर्ग को पूरा करती है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "The missing piece at the bottom-left is a step shape: a tall part on the left joined to a lower part on the right. Only one piece has the step at exactly the right height and width. So the answer is (A).",
+      "explanationHi": "नीचे-बाईं ओर का गायब टुकड़ा सीढ़ी जैसा है: एक ऊँचा भाग और उससे जुड़ा एक नीचा, चौड़ा भाग। केवल एक टुकड़े में सीढ़ी सही ऊँचाई और चौड़ाई पर है। अतः उत्तर (A) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"10,10 90,10 90,90 70,90 70,70 40,70 40,50 10,50\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"30\" y=\"82\" font-size=\"14\">?</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"20,30 50,30 50,50 80,50 80,70 20,70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"20,30 40,30 40,50 80,50 80,70 20,70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"20\" y=\"30\" width=\"60\" height=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"20,30 50,30 50,60 80,60 80,70 20,70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which fits into the gap and completes the circle.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो खाली स्थान में ठीक बैठकर वृत्त को पूरा करती है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "One quarter of the circle (a right angle at the centre) is missing. Only one piece is exactly a quarter circle of the same size. So the answer is (B).",
+      "explanationHi": "वृत्त का एक चौथाई भाग (केंद्र पर समकोण) गायब है। केवल एक टुकड़ा उसी माप का ठीक चौथाई वृत्त है। अतः उत्तर (B) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M50,50 L50,12 A38,38 0 1 0 88,50 Z\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"64\" y=\"38\" font-size=\"14\">?</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M30,70 L49,37.1 A38,38 0 0 1 68,70 Z\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M30,70 L30,32 A38,38 0 0 1 68,70 Z\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M22,70 L3,37.1 A38,38 0 0 1 60,70 Z\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M12,62 A38,38 0 0 1 88,62 Z\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which fits into the gap and completes the square.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो खाली स्थान में ठीक बैठकर वर्ग को पूरा करती है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "The right edge of the given part has two V-shaped dents. The missing piece must have a matching zigzag edge with exactly two points sticking out to the left to fill those dents. So the answer is (A).",
+      "explanationHi": "दिए गए भाग के दाएँ किनारे पर V आकार के दो खाँचे हैं। गायब टुकड़े के बाएँ किनारे पर ठीक दो नुकीले उभार होने चाहिए जो इन खाँचों को भर दें। अतः उत्तर (A) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"10,10 55,10 40,30 55,50 40,70 55,90 10,90\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"72\" y=\"55\" font-size=\"16\">?</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(-25,0)\"><polygon points=\"90,10 90,90 55,90 40,70 55,50 40,30 55,10\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(-25,0)\"><polygon points=\"90,10 90,90 55,90 40,77 55,63 40,50 55,37 40,23 55,10\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(-25,0)\"><polygon points=\"90,10 90,90 55,90 40,50 55,10\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(-25,0)\"><rect x=\"55\" y=\"10\" width=\"35\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the correct mirror image of the problem figure when the mirror is placed along the line MN.",
+      "textHi": "MN रेखा पर दर्पण रखने पर प्रश्न आकृति का सही दर्पण प्रतिबिंब कौन-सा होगा? चुनिए।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "In a mirror placed on the right, left and right are swapped: the last character comes first and every letter and digit is reversed, but nothing turns upside down. So the answer is (B).",
+      "explanationHi": "दाईं ओर रखे दर्पण में बायाँ-दायाँ बदल जाता है: आख़िरी अक्षर सबसे पहले आता है और हर अक्षर व अंक उलटा दिखता है, पर कुछ भी ऊपर-नीचे नहीं होता। अतः उत्तर (B) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(175,26)\"><rect width=\"140\" height=\"100\" fill=\"none\" stroke=\"#999\"/><text x=\"15\" y=\"58\" font-size=\"22\" font-weight=\"bold\">P</text><text x=\"29\" y=\"58\" font-size=\"22\" font-weight=\"bold\">E</text><text x=\"43\" y=\"58\" font-size=\"22\" font-weight=\"bold\">N</text><text x=\"71\" y=\"58\" font-size=\"22\" font-weight=\"bold\">2</text><text x=\"85\" y=\"58\" font-size=\"22\" font-weight=\"bold\">6</text><line x1=\"120\" y1=\"16\" x2=\"120\" y2=\"84\" stroke=\"#111\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"120\" y=\"12\" font-size=\"12\">M</text><text x=\"120\" y=\"97\" font-size=\"12\">N</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,100) scale(1,-1)\"><text x=\"15\" y=\"58\" font-size=\"22\" font-weight=\"bold\">P</text><text x=\"29\" y=\"58\" font-size=\"22\" font-weight=\"bold\">E</text><text x=\"43\" y=\"58\" font-size=\"22\" font-weight=\"bold\">N</text><text x=\"71\" y=\"58\" font-size=\"22\" font-weight=\"bold\">2</text><text x=\"85\" y=\"58\" font-size=\"22\" font-weight=\"bold\">6</text></g></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(100,0) scale(-1,1)\"><text x=\"15\" y=\"58\" font-size=\"22\" font-weight=\"bold\">P</text><text x=\"29\" y=\"58\" font-size=\"22\" font-weight=\"bold\">E</text><text x=\"43\" y=\"58\" font-size=\"22\" font-weight=\"bold\">N</text><text x=\"71\" y=\"58\" font-size=\"22\" font-weight=\"bold\">2</text><text x=\"85\" y=\"58\" font-size=\"22\" font-weight=\"bold\">6</text></g></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(180 50 50)\"><text x=\"15\" y=\"58\" font-size=\"22\" font-weight=\"bold\">P</text><text x=\"29\" y=\"58\" font-size=\"22\" font-weight=\"bold\">E</text><text x=\"43\" y=\"58\" font-size=\"22\" font-weight=\"bold\">N</text><text x=\"71\" y=\"58\" font-size=\"22\" font-weight=\"bold\">2</text><text x=\"85\" y=\"58\" font-size=\"22\" font-weight=\"bold\">6</text></g></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(30,0) scale(-1,1)\"><text x=\"15\" y=\"58\" font-size=\"22\" font-weight=\"bold\">P</text></g><g transform=\"translate(58,0) scale(-1,1)\"><text x=\"29\" y=\"58\" font-size=\"22\" font-weight=\"bold\">E</text></g><g transform=\"translate(86,0) scale(-1,1)\"><text x=\"43\" y=\"58\" font-size=\"22\" font-weight=\"bold\">N</text></g><g transform=\"translate(142,0) scale(-1,1)\"><text x=\"71\" y=\"58\" font-size=\"22\" font-weight=\"bold\">2</text></g><g transform=\"translate(170,0) scale(-1,1)\"><text x=\"85\" y=\"58\" font-size=\"22\" font-weight=\"bold\">6</text></g></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the correct mirror image of the problem figure when the mirror is placed along the line MN.",
+      "textHi": "MN रेखा पर दर्पण रखने पर प्रश्न आकृति का सही दर्पण प्रतिबिंब कौन-सा होगा? चुनिए।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "A mirror on the right swaps left and right but keeps top and bottom. So the black corner moves to the top-left, the line goes to the right side and the small circle stays near the bottom, on the right. So the answer is (B).",
+      "explanationHi": "दाईं ओर का दर्पण बायाँ-दायाँ बदल देता है पर ऊपर-नीचे वैसा ही रखता है। इसलिए काला कोना ऊपर-बाएँ, रेखा दाईं ओर और छोटा वृत्त नीचे दाईं ओर आ जाएगा। अतः उत्तर (B) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(175,26)\"><rect width=\"140\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"60,15 85,15 85,40\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"15\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"50\" r=\"4\" fill=\"#111\"/><circle cx=\"36\" cy=\"70\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"120\" y1=\"16\" x2=\"120\" y2=\"84\" stroke=\"#111\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"120\" y=\"12\" font-size=\"12\">M</text><text x=\"120\" y=\"97\" font-size=\"12\">N</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"60,15 85,15 85,40\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"15\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"50\" r=\"4\" fill=\"#111\"/><circle cx=\"36\" cy=\"70\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(100,0) scale(-1,1)\"><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"60,15 85,15 85,40\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"15\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"50\" r=\"4\" fill=\"#111\"/><circle cx=\"36\" cy=\"70\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,100) scale(1,-1)\"><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"60,15 85,15 85,40\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"15\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"50\" r=\"4\" fill=\"#111\"/><circle cx=\"36\" cy=\"70\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(180 50 50)\"><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"60,15 85,15 85,40\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"15\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"50\" r=\"4\" fill=\"#111\"/><circle cx=\"36\" cy=\"70\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the correct mirror image of the problem figure when the mirror is placed along the line MN.",
+      "textHi": "MN रेखा पर दर्पण रखने पर प्रश्न आकृति का सही दर्पण प्रतिबिंब कौन-सा होगा? चुनिए।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "In the mirror image the circle with its black top half moves to the right, the arrow points up to the left, and the small square moves to the left. Top and bottom do not change. So the answer is (C).",
+      "explanationHi": "दर्पण प्रतिबिंब में ऊपर से काले आधे भाग वाला वृत्त दाईं ओर, तीर ऊपर-बाईं ओर और छोटा वर्ग बाईं ओर चला जाता है। ऊपर-नीचे नहीं बदलता। अतः उत्तर (C) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(175,26)\"><rect width=\"140\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M18,40 A18,18 0 0 1 54,40 Z\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><path d=\"M18,40 A18,18 0 0 0 54,40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"30\" y1=\"88\" x2=\"71.5\" y2=\"57.7\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"82,50 75.6,63.3 67.4,52\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/><rect x=\"66\" y=\"76\" width=\"14\" height=\"14\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"120\" y1=\"16\" x2=\"120\" y2=\"84\" stroke=\"#111\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"120\" y=\"12\" font-size=\"12\">M</text><text x=\"120\" y=\"97\" font-size=\"12\">N</text></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,100) scale(1,-1)\"><path d=\"M18,40 A18,18 0 0 1 54,40 Z\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><path d=\"M18,40 A18,18 0 0 0 54,40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"30\" y1=\"88\" x2=\"71.5\" y2=\"57.7\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"82,50 75.6,63.3 67.4,52\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/><rect x=\"66\" y=\"76\" width=\"14\" height=\"14\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(180 50 50)\"><path d=\"M18,40 A18,18 0 0 1 54,40 Z\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><path d=\"M18,40 A18,18 0 0 0 54,40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"30\" y1=\"88\" x2=\"71.5\" y2=\"57.7\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"82,50 75.6,63.3 67.4,52\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/><rect x=\"66\" y=\"76\" width=\"14\" height=\"14\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(100,0) scale(-1,1)\"><path d=\"M18,40 A18,18 0 0 1 54,40 Z\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><path d=\"M18,40 A18,18 0 0 0 54,40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"30\" y1=\"88\" x2=\"71.5\" y2=\"57.7\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"82,50 75.6,63.3 67.4,52\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/><rect x=\"66\" y=\"76\" width=\"14\" height=\"14\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M18,40 A18,18 0 0 1 54,40 Z\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><path d=\"M18,40 A18,18 0 0 0 54,40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"30\" y1=\"88\" x2=\"71.5\" y2=\"57.7\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"82,50 75.6,63.3 67.4,52\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/><rect x=\"66\" y=\"76\" width=\"14\" height=\"14\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the correct water image of the problem figure (the water surface is along the line MN).",
+      "textHi": "प्रश्न आकृति का सही जल प्रतिबिंब चुनिए (जल की सतह MN रेखा पर है)।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "In a water image top and bottom are swapped but left and right stay the same. So the flag hangs at the bottom, still pointing to the right, and the circle moves to the top-right. So the answer is (D).",
+      "explanationHi": "जल प्रतिबिंब में ऊपर-नीचे बदल जाता है पर बायाँ-दायाँ वैसा ही रहता है। इसलिए झंडा नीचे आ जाता है, पर उसकी नोक दाईं ओर ही रहती है, और वृत्त ऊपर-दाईं ओर चला जाता है। अतः उत्तर (D) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 318\" width=\"490\" height=\"318\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"130\" fill=\"none\" stroke=\"#999\"/><line x1=\"25\" y1=\"88\" x2=\"25\" y2=\"14\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"25,14 72,28 25,42\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"64\" cy=\"72\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"10\" y1=\"88\" x2=\"40\" y2=\"88\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"14\" y1=\"114\" x2=\"86\" y2=\"114\" stroke=\"#111\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"7\" y=\"118\" font-size=\"12\">M</text><text x=\"93\" y=\"118\" font-size=\"12\">N</text></g><text x=\"15\" y=\"181\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,190)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(100,0) scale(-1,1)\"><line x1=\"25\" y1=\"88\" x2=\"25\" y2=\"14\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"25,14 72,28 25,42\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"64\" cy=\"72\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"10\" y1=\"88\" x2=\"40\" y2=\"88\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"65\" y=\"308\" font-size=\"14\">(A)</text><g transform=\"translate(135,190)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(180 50 50)\"><line x1=\"25\" y1=\"88\" x2=\"25\" y2=\"14\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"25,14 72,28 25,42\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"64\" cy=\"72\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"10\" y1=\"88\" x2=\"40\" y2=\"88\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"185\" y=\"308\" font-size=\"14\">(B)</text><g transform=\"translate(255,190)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><line x1=\"25\" y1=\"88\" x2=\"25\" y2=\"14\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"25,14 72,28 25,42\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"64\" cy=\"72\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"10\" y1=\"88\" x2=\"40\" y2=\"88\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"308\" font-size=\"14\">(C)</text><g transform=\"translate(375,190)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,100) scale(1,-1)\"><line x1=\"25\" y1=\"88\" x2=\"25\" y2=\"14\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"25,14 72,28 25,42\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"64\" cy=\"72\" r=\"9\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"10\" y1=\"88\" x2=\"40\" y2=\"88\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"425\" y=\"308\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "A square sheet of paper is folded and punched as shown in the problem figures. Select how the sheet will look when it is opened.",
+      "textHi": "एक वर्गाकार कागज़ को प्रश्न आकृतियों में दिखाए अनुसार मोड़कर उसमें छेद किए गए हैं। खोलने पर कागज़ कैसा दिखेगा? चुनिए।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "The right half was folded onto the left half, so every hole also appears on the right half as a mirror image across the fold line: the top hole near the outer edge and the lower hole near the middle. So the answer is (C).",
+      "explanationHi": "दायाँ आधा भाग बाएँ आधे पर मोड़ा गया था, इसलिए हर छेद मोड़ की रेखा के पार दाएँ भाग में दर्पण की तरह बनेगा: ऊपर वाला छेद बाहरी किनारे के पास और नीचे वाला बीच के पास। अतः उत्तर (C) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figures</text><g transform=\"translate(139,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"10\" x2=\"50\" y2=\"90\" stroke=\"#111\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><path d=\"M75,40 Q60,24 38,36\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(155 34 38)\"><polygon points=\"34,38 24,32 24,44\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g></g><g transform=\"translate(251,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"35\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"50\" y=\"15\" width=\"35\" height=\"70\" fill=\"none\" stroke=\"#999\" stroke-dasharray=\"4 3\"/><circle cx=\"28\" cy=\"35\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"40\" cy=\"65\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"28\" cy=\"35\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"40\" cy=\"65\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"28\" cy=\"35\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"40\" cy=\"65\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"28\" cy=\"65\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"40\" cy=\"35\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"28\" cy=\"35\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"40\" cy=\"65\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"35\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"65\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"28\" cy=\"35\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"40\" cy=\"65\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"35\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"65\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "A square sheet of paper is folded and punched as shown in the problem figures. Select how the sheet will look when it is opened.",
+      "textHi": "एक वर्गाकार कागज़ को प्रश्न आकृतियों में दिखाए अनुसार मोड़कर उसमें छेद किए गए हैं। खोलने पर कागज़ कैसा दिखेगा? चुनिए।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "The top half was folded down onto the bottom half. On opening, each hole is copied in the top half, the same distance above the fold line: the hole near the fold stays near it and the hole near the bottom edge goes near the top edge. So the answer is (C).",
+      "explanationHi": "ऊपरी आधा भाग नीचे वाले आधे पर मोड़ा गया था। खोलने पर हर छेद ऊपरी भाग में मोड़ की रेखा से उतनी ही दूरी पर बनेगा: मोड़ के पास वाला छेद मोड़ के पास और नीचे के किनारे वाला छेद ऊपर के किनारे के पास। अतः उत्तर (C) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figures</text><g transform=\"translate(139,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"10\" y1=\"50\" x2=\"90\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><path d=\"M40,25 Q24,40 36,62\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(70 37 66)\"><polygon points=\"37,66 27,60 27,72\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g></g><g transform=\"translate(251,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"50\" width=\"70\" height=\"35\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"35\" fill=\"none\" stroke=\"#999\" stroke-dasharray=\"4 3\"/><circle cx=\"35\" cy=\"62\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"65\" cy=\"75\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"62\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"65\" cy=\"75\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"65\" cy=\"62\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"75\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"62\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"65\" cy=\"75\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"62\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"65\" cy=\"75\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"38\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"65\" cy=\"25\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"62\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"65\" cy=\"75\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"25\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"65\" cy=\"38\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "A square sheet of paper is folded and punched as shown in the problem figures. Select how the sheet will look when it is opened.",
+      "textHi": "एक वर्गाकार कागज़ को प्रश्न आकृतियों में दिखाए अनुसार मोड़कर उसमें छेद किए गए हैं। खोलने पर कागज़ कैसा दिखेगा? चुनिए।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "The paper was folded twice (four layers), so one punch makes 4 holes, one in each quarter. Each hole is the mirror image of its neighbour across the fold lines, so all four are near the outer corners. So the answer is (D).",
+      "explanationHi": "कागज़ दो बार मोड़ा गया (चार परतें), इसलिए एक छेद से 4 छेद बनेंगे, हर चौथाई भाग में एक। हर छेद मोड़ की रेखाओं के पार पास वाले छेद का दर्पण प्रतिबिंब है, इसलिए चारों छेद बाहरी कोनों के पास होंगे। अतः उत्तर (D) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figures</text><g transform=\"translate(83,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"10\" x2=\"50\" y2=\"90\" stroke=\"#111\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><path d=\"M75,40 Q60,24 38,36\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(155 34 38)\"><polygon points=\"34,38 24,32 24,44\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g></g><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"35\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"50\" y=\"15\" width=\"35\" height=\"70\" fill=\"none\" stroke=\"#999\" stroke-dasharray=\"4 3\"/><line x1=\"10\" y1=\"50\" x2=\"55\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><path d=\"M28,22 Q14,38 26,60\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(70 27 64)\"><polygon points=\"27,64 17,58 17,70\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g></g><g transform=\"translate(307,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"50\" width=\"35\" height=\"35\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#999\" stroke-dasharray=\"4 3\"/><circle cx=\"30\" cy=\"68\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"68\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"68\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"68\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"32\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"40\" cy=\"60\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"60\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"40\" cy=\"40\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"40\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"68\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"68\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"32\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"32\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "A square sheet of paper is folded and punched as shown in the problem figures. Select how the sheet will look when it is opened.",
+      "textHi": "एक वर्गाकार कागज़ को प्रश्न आकृतियों में दिखाए अनुसार मोड़कर उसमें छेद किए गए हैं। खोलने पर कागज़ कैसा दिखेगा? चुनिए।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "The paper was folded along the diagonal from the top-left to the bottom-right corner. On opening, each hole is copied across this diagonal, so the new holes appear in the top-right half, near the top-right side. So the answer is (C).",
+      "explanationHi": "कागज़ ऊपर-बाएँ से नीचे-दाएँ कोने वाले विकर्ण पर मोड़ा गया था। खोलने पर हर छेद इस विकर्ण के पार दूसरी ओर बनेगा, यानी नए छेद ऊपर-दाएँ आधे भाग में होंगे। अतः उत्तर (C) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figures</text><g transform=\"translate(139,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"10\" y1=\"10\" x2=\"90\" y2=\"90\" stroke=\"#111\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><path d=\"M68,26 Q66,48 40,58\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(160 36 60)\"><polygon points=\"36,60 26,54 26,66\" fill=\"#111\" stroke=\"#111\" stroke-width=\"1\"/></g></g><g transform=\"translate(251,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"15,15 15,85 85,85\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"15,15 85,15 85,85\" fill=\"none\" stroke=\"#999\" stroke-dasharray=\"4 3\"/><circle cx=\"28\" cy=\"58\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"42\" cy=\"74\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"28\" cy=\"58\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"42\" cy=\"74\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"58\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"58\" cy=\"74\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"28\" cy=\"58\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"42\" cy=\"74\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"28\" cy=\"58\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"42\" cy=\"74\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"58\" cy=\"28\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"74\" cy=\"42\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"28\" cy=\"58\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"42\" cy=\"74\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"58\" cy=\"42\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"74\" cy=\"28\" r=\"4.5\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which can be formed by joining the pieces given in the problem figure.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृति में दिए गए टुकड़ों को जोड़कर बनाई जा सकती है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "The two pieces are equal right-angled triangles with two equal short sides. Placed together along their long sides they make a square cut by one diagonal. So the answer is (A).",
+      "explanationHi": "दोनों टुकड़े बराबर समकोण त्रिभुज हैं जिनकी दो छोटी भुजाएँ बराबर हैं। इन्हें लंबी भुजा से जोड़ने पर एक विकर्ण वाला वर्ग बनता है। अतः उत्तर (A) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(115,26)\"><rect width=\"260\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"30,20 90,20 30,80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"230,20 230,80 170,80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"20\" y=\"20\" width=\"60\" height=\"60\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"20\" y1=\"80\" x2=\"80\" y2=\"20\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"25\" width=\"80\" height=\"50\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"10\" y1=\"75\" x2=\"90\" y2=\"25\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"20\" y=\"20\" width=\"60\" height=\"60\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"20\" y1=\"20\" x2=\"50\" y2=\"80\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"20\" y=\"20\" width=\"60\" height=\"60\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"20\" x2=\"50\" y2=\"80\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which can be formed by joining the pieces given in the problem figure.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृति में दिए गए टुकड़ों को जोड़कर बनाई जा सकती है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "There is one long rectangle and two small squares. The rectangle makes the top half of the square and the two small squares fill the bottom half side by side. So the answer is (B).",
+      "explanationHi": "एक लंबा आयत और दो छोटे वर्ग हैं। आयत बड़े वर्ग का ऊपरी आधा भाग बनाता है और दोनों छोटे वर्ग साथ-साथ निचला आधा भाग भरते हैं। अतः उत्तर (B) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(115,26)\"><rect width=\"260\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"30\" width=\"70\" height=\"35\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"120\" y=\"32\" width=\"35\" height=\"35\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"195\" y=\"32\" width=\"35\" height=\"35\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"50\" x2=\"85\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"15\" x2=\"50\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"50\" x2=\"85\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"50\" x2=\"85\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"50\" x2=\"85\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"85\" x2=\"85\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which can be formed by joining the pieces given in the problem figure.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृति में दिए गए टुकड़ों को जोड़कर बनाई जा सकती है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "Both pieces are half circles of the same size. Two half circles joined along their straight edges make a full circle with one diameter. So the answer is (A).",
+      "explanationHi": "दोनों टुकड़े एक ही माप के अर्धवृत्त हैं। दो अर्धवृत्तों को सीधी भुजा से जोड़ने पर एक व्यास वाला पूरा वृत्त बनता है। अतः उत्तर (A) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(115,26)\"><rect width=\"260\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M20,40 A35,35 0 0 1 90,40 Z\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><path d=\"M160,50 A35,35 0 0 0 230,50 Z\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"35\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"50\" x2=\"85\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"35\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"15\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"80.3\" y2=\"67.5\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"19.7\" y2=\"67.5\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"35\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"18\" y1=\"36\" x2=\"82\" y2=\"36\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><circle cx=\"50\" cy=\"50\" r=\"35\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"50\" x2=\"85\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure which can be formed by joining the pieces given in the problem figure.",
+      "textHi": "उस उत्तर आकृति को चुनिए जो प्रश्न आकृति में दिए गए टुकड़ों को जोड़कर बनाई जा सकती है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "There are four equal triangles, each with a right angle at the top point. Their long sides form the four sides of a square and their points meet at the centre, so the square has both diagonals. So the answer is (A).",
+      "explanationHi": "चार बराबर त्रिभुज हैं, हर एक के शीर्ष पर समकोण है। इनकी लंबी भुजाएँ वर्ग की चारों भुजाएँ बनाती हैं और शीर्ष केंद्र पर मिलते हैं, इसलिए वर्ग में दोनों विकर्ण होंगे। अतः उत्तर (A) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(115,26)\"><rect width=\"260\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"10,15 80,15 45,50\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><g transform=\"rotate(180 45 72)\"><polygon points=\"10,55 80,55 45,90\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"rotate(90 140 50)\"><polygon points=\"105,33 175,33 140,68\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"rotate(270 212 50)\"><polygon points=\"177,33 247,33 212,68\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"15\" x2=\"85\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"85\" y1=\"15\" x2=\"15\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"15\" x2=\"50\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"50\" x2=\"85\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"15\" x2=\"85\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"15\" x2=\"85\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"85\" y1=\"15\" x2=\"15\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"15\" x2=\"50\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"50\" x2=\"85\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure in which the problem figure is hidden (embedded) in the same size and direction.",
+      "textHi": "उस उत्तर आकृति को चुनिए जिसमें प्रश्न आकृति उसी आकार और दिशा में छिपी हुई है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "The problem figure is a shape with a short top, a long bottom and two slanting sides. It is formed in one figure by the line across the triangle at half its height together with the triangle's lower sides. So the answer is (B).",
+      "explanationHi": "प्रश्न आकृति की ऊपरी भुजा छोटी, निचली भुजा लंबी और दो तिरछी भुजाएँ हैं। यह एक आकृति में त्रिभुज की आधी ऊँचाई पर खिंची रेखा और त्रिभुज की निचली भुजाओं से बनती है। अतः उत्तर (B) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"35,35 65,35 80,65 20,65\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,5 20,65 80,65\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"30\" y1=\"45\" x2=\"70\" y2=\"45\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"20\" y=\"65\" width=\"60\" height=\"25\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"65\" x2=\"50\" y2=\"90\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,5 20,65 80,65\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"35\" y1=\"35\" x2=\"65\" y2=\"35\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"20\" y=\"65\" width=\"60\" height=\"25\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"65\" x2=\"50\" y2=\"90\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"20,15 80,15 50,75\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"35\" y1=\"45\" x2=\"65\" y2=\"45\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"20\" y=\"75\" width=\"60\" height=\"15\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"20\" y=\"20\" width=\"60\" height=\"60\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"20\" y1=\"20\" x2=\"80\" y2=\"80\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"80\" y1=\"20\" x2=\"20\" y2=\"80\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"20\" y1=\"50\" x2=\"80\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure in which the problem figure is hidden (embedded) in the same size and direction.",
+      "textHi": "उस उत्तर आकृति को चुनिए जिसमें प्रश्न आकृति उसी आकार और दिशा में छिपी हुई है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "The problem figure is a tall, narrow diamond. It is hidden in the tall rectangle whose side midpoints are joined. The other diamonds are too wide, and the last figure has only crossing diagonals. So the answer is (C).",
+      "explanationHi": "प्रश्न आकृति एक ऊँचा, पतला समचतुर्भुज है। यह उस ऊँचे आयत में छिपा है जिसकी भुजाओं के मध्य-बिंदु जुड़े हैं। बाकी समचतुर्भुज बहुत चौड़े हैं और आख़िरी आकृति में केवल कटते विकर्ण हैं। अतः उत्तर (C) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,15 70,50 50,85 30,50\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"15\" width=\"70\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,15 85,50 50,85 15,50\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"15\" y1=\"50\" x2=\"85\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"15\" y=\"30\" width=\"70\" height=\"40\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,30 85,50 50,70 15,50\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"30\" x2=\"50\" y2=\"70\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"30\" y=\"15\" width=\"40\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,15 70,50 50,85 30,50\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"30\" y1=\"50\" x2=\"70\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"30\" y=\"15\" width=\"40\" height=\"70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"30\" y1=\"15\" x2=\"70\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"70\" y1=\"15\" x2=\"30\" y2=\"85\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"30\" y1=\"50\" x2=\"70\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure in which the problem figure is hidden (embedded) in the same size and direction.",
+      "textHi": "उस उत्तर आकृति को चुनिए जिसमें प्रश्न आकृति उसी आकार और दिशा में छिपी हुई है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "The problem figure is a triangle pointing up. Only the six-pointed star contains a triangle of exactly this size pointing up; the others have a triangle pointing down or no such triangle. So the answer is (A).",
+      "explanationHi": "प्रश्न आकृति ऊपर की ओर नोक वाला त्रिभुज है। केवल छह कोनों वाले तारे में ठीक इसी माप का ऊपर की ओर त्रिभुज है; बाकी में त्रिभुज नीचे की ओर है या ऐसा त्रिभुज है ही नहीं। अतः उत्तर (A) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,18 79.4,69 20.6,69\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,18 79.4,69 20.6,69\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,86 20.6,35 79.4,35\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,86 20.6,35 79.4,35\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"52\" r=\"34\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50,16 86.1,42.3 72.3,84.7 27.7,84.7 13.9,42.3\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50.0,16.0 72.3,84.7 13.9,42.3 86.1,42.3 27.7,84.7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"18\" y=\"18\" width=\"64\" height=\"64\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"82,50 50,82 18,50 50,18\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Mental Ability",
+      "text": "Select the answer figure in which the problem figure is hidden (embedded) in the same size and direction.",
+      "textHi": "उस उत्तर आकृति को चुनिए जिसमें प्रश्न आकृति उसी आकार और दिशा में छिपी हुई है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "The problem figure is a house shape with a roof of a particular height. Only one answer figure has a house with exactly the same roof; the others have a taller roof, a flatter roof, or are upside down. So the answer is (C).",
+      "explanationHi": "प्रश्न आकृति एक घर जैसी आकृति है जिसकी छत एक निश्चित ऊँचाई की है। केवल एक उत्तर आकृति में ठीक वैसी ही छत वाला घर है; बाकी में छत ज़्यादा ऊँची, ज़्यादा चपटी या घर उलटा है। अतः उत्तर (C) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 288\" width=\"490\" height=\"288\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"17\" text-anchor=\"start\">Problem Figure</text><g transform=\"translate(195,26)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"25,45 50,20 75,45 75,80 25,80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"151\" text-anchor=\"start\">Answer Figures</text><g transform=\"translate(15,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"25,45 50,6 75,45 75,80 25,80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"10\" y1=\"80\" x2=\"90\" y2=\"80\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"6\" x2=\"50\" y2=\"80\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"25\" y1=\"45\" x2=\"75\" y2=\"45\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"65\" y=\"278\" font-size=\"14\">(A)</text><g transform=\"translate(135,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"25,45 50,34 75,45 75,80 25,80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"10\" y1=\"80\" x2=\"90\" y2=\"80\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"34\" x2=\"50\" y2=\"80\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"25\" y1=\"45\" x2=\"75\" y2=\"45\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"185\" y=\"278\" font-size=\"14\">(B)</text><g transform=\"translate(255,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"25,45 50,20 75,45 75,80 25,80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"10\" y1=\"80\" x2=\"90\" y2=\"80\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"20\" x2=\"50\" y2=\"80\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"25\" y1=\"45\" x2=\"75\" y2=\"45\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"305\" y=\"278\" font-size=\"14\">(C)</text><g transform=\"translate(375,160)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,100) scale(1,-1)\"><polygon points=\"25,45 50,20 75,45 75,80 25,80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><line x1=\"10\" y1=\"20\" x2=\"90\" y2=\"20\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"20\" x2=\"50\" y2=\"80\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"25\" y1=\"55\" x2=\"75\" y2=\"55\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"425\" y=\"278\" font-size=\"14\">(D)</text></g></svg>"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "What is the place value of 8 in the number 5,73,86,214?",
+      "textHi": "संख्या 5,73,86,214 में 8 का स्थानीय मान क्या है?",
+      "options": [
+        "80,000",
+        "8,000",
+        "8,00,000",
+        "8"
+      ],
+      "optionsHi": [
+        "80,000",
+        "8,000",
+        "8,00,000",
+        "8"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "Reading from the right: 4 ones, 1 ten, 2 hundreds, 6 thousands, 8 ten-thousands. So the place value of 8 is 80,000.",
+      "explanationHi": "दाईं ओर से: 4 इकाई, 1 दहाई, 2 सैकड़ा, 6 हज़ार, 8 दस हज़ार। अतः 8 का स्थानीय मान 80,000 है।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "A shopkeeper had 2,450 kg of rice. He sold 1,286 kg on Monday and 739 kg on Tuesday. How much rice is left?",
+      "textHi": "एक दुकानदार के पास 2,450 किग्रा चावल था। उसने सोमवार को 1,286 किग्रा और मंगलवार को 739 किग्रा चावल बेचा। कितना चावल बचा?",
+      "options": [
+        "425 kg",
+        "435 kg",
+        "525 kg",
+        "1,164 kg"
+      ],
+      "optionsHi": [
+        "425 किग्रा",
+        "435 किग्रा",
+        "525 किग्रा",
+        "1,164 किग्रा"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "Sold in all = 1,286 + 739 = 2,025 kg. Left = 2,450 − 2,025 = 425 kg.",
+      "explanationHi": "कुल बिका = 1,286 + 739 = 2,025 किग्रा। बचा = 2,450 − 2,025 = 425 किग्रा।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "One carton holds 24 packets of biscuits and each packet costs ₹15. What is the cost of 18 such cartons?",
+      "textHi": "एक डिब्बे में बिस्कुट के 24 पैकेट हैं और हर पैकेट ₹15 का है। ऐसे 18 डिब्बों का मूल्य कितना होगा?",
+      "options": [
+        "₹6,840",
+        "₹5,480",
+        "₹360",
+        "₹6,480"
+      ],
+      "optionsHi": [
+        "₹6,840",
+        "₹5,480",
+        "₹360",
+        "₹6,480"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "One carton costs 24 × 15 = ₹360. 18 cartons cost 360 × 18 = ₹6,480.",
+      "explanationHi": "एक डिब्बे का मूल्य 24 × 15 = ₹360। 18 डिब्बों का मूल्य 360 × 18 = ₹6,480।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "A fruit seller has 36 apples and 48 oranges. He wants to make baskets with the same number of fruits in each basket, and each basket has only one kind of fruit. What is the greatest number of fruits he can put in each basket?",
+      "textHi": "एक फलवाले के पास 36 सेब और 48 संतरे हैं। वह हर टोकरी में बराबर फल रखना चाहता है और हर टोकरी में एक ही प्रकार का फल हो। वह हर टोकरी में अधिक से अधिक कितने फल रख सकता है?",
+      "options": [
+        "6",
+        "18",
+        "12",
+        "24"
+      ],
+      "optionsHi": [
+        "6",
+        "18",
+        "12",
+        "24"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "We need the HCF of 36 and 48. 36 = 12 × 3 and 48 = 12 × 4, so the HCF is 12.",
+      "explanationHi": "36 और 48 का म.स. (HCF) चाहिए। 36 = 12 × 3 और 48 = 12 × 4, अतः म.स. 12 है।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "The clock in a shop shows exactly 4 o'clock. What is the smaller angle between its hour hand and minute hand?",
+      "textHi": "एक दुकान की घड़ी में ठीक 4 बजे हैं। घंटे की सुई और मिनट की सुई के बीच छोटा कोण कितना है?",
+      "options": [
+        "90°",
+        "120°",
+        "150°",
+        "240°"
+      ],
+      "optionsHi": [
+        "90°",
+        "120°",
+        "150°",
+        "240°"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "Each hour mark is 360° ÷ 12 = 30° apart. From 12 to 4 there are 4 gaps, so the angle is 4 × 30° = 120°.",
+      "explanationHi": "घड़ी में दो घंटे के निशानों के बीच 360° ÷ 12 = 30° होता है। 12 से 4 तक 4 भाग हैं, इसलिए कोण 4 × 30° = 120° है।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "Meena bought 3/4 kg of tomatoes and 2/3 kg of onions. What is the total weight of the vegetables?",
+      "textHi": "मीना ने 3/4 किग्रा टमाटर और 2/3 किग्रा प्याज़ ख़रीदे। सब्ज़ियों का कुल भार कितना है?",
+      "options": [
+        "5/7 kg",
+        "1 1/12 kg",
+        "1 1/4 kg",
+        "1 5/12 kg"
+      ],
+      "optionsHi": [
+        "5/7 किग्रा",
+        "1 1/12 किग्रा",
+        "1 1/4 किग्रा",
+        "1 5/12 किग्रा"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "3/4 + 2/3 = 9/12 + 8/12 = 17/12 = 1 5/12 kg.",
+      "explanationHi": "3/4 + 2/3 = 9/12 + 8/12 = 17/12 = 1 5/12 किग्रा।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "Ravi had ₹450. He spent 2/5 of it on a shirt. How much money is left with him?",
+      "textHi": "रवि के पास ₹450 थे। उसने इसका 2/5 भाग एक कमीज़ पर ख़र्च किया। उसके पास कितने रुपये बचे?",
+      "options": [
+        "₹180",
+        "₹270",
+        "₹250",
+        "₹300"
+      ],
+      "optionsHi": [
+        "₹180",
+        "₹270",
+        "₹250",
+        "₹300"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "Spent = 2/5 × 450 = ₹180. Left = 450 − 180 = ₹270.",
+      "explanationHi": "ख़र्च = 2/5 × 450 = ₹180। बचे = 450 − 180 = ₹270।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "At a grocery shop, Anita's bill has three items costing ₹45.75, ₹128.50 and ₹9.80. What is the total bill?",
+      "textHi": "किराने की दुकान पर अनीता के बिल में तीन चीज़ें हैं जिनका मूल्य ₹45.75, ₹128.50 और ₹9.80 है। कुल बिल कितना है?",
+      "options": [
+        "₹183.05",
+        "₹184.05",
+        "₹174.05",
+        "₹184.15"
+      ],
+      "optionsHi": [
+        "₹183.05",
+        "₹184.05",
+        "₹174.05",
+        "₹184.15"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "45.75 + 128.50 = 174.25, and 174.25 + 9.80 = ₹184.05.",
+      "explanationHi": "45.75 + 128.50 = 174.25, और 174.25 + 9.80 = ₹184.05।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "A cloth shop opens at 9:45 a.m. and closes at 8:30 p.m. For how long does it stay open?",
+      "textHi": "कपड़े की एक दुकान सुबह 9:45 बजे खुलती है और रात 8:30 बजे बंद होती है। दुकान कितने समय तक खुली रहती है?",
+      "options": [
+        "10 hours 45 minutes",
+        "11 hours 15 minutes",
+        "10 hours 15 minutes",
+        "11 hours 45 minutes"
+      ],
+      "optionsHi": [
+        "10 घंटे 45 मिनट",
+        "11 घंटे 15 मिनट",
+        "10 घंटे 15 मिनट",
+        "11 घंटे 45 मिनट"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "From 9:45 a.m. to 7:45 p.m. is 10 hours; from 7:45 p.m. to 8:30 p.m. is 45 minutes. Total = 10 hours 45 minutes.",
+      "explanationHi": "सुबह 9:45 से शाम 7:45 तक 10 घंटे, और 7:45 से 8:30 तक 45 मिनट। कुल = 10 घंटे 45 मिनट।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "Mother bought 2 kg 350 g of sugar and 1 kg 875 g of jaggery. What is the total weight?",
+      "textHi": "माँ ने 2 किग्रा 350 ग्राम चीनी और 1 किग्रा 875 ग्राम गुड़ ख़रीदा। कुल भार कितना है?",
+      "options": [
+        "4 kg 225 g",
+        "3 kg 225 g",
+        "4 kg 125 g",
+        "3 kg 1225 g"
+      ],
+      "optionsHi": [
+        "4 किग्रा 225 ग्राम",
+        "3 किग्रा 225 ग्राम",
+        "4 किग्रा 125 ग्राम",
+        "3 किग्रा 1225 ग्राम"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "350 g + 875 g = 1,225 g = 1 kg 225 g. Then 2 kg + 1 kg + 1 kg 225 g = 4 kg 225 g.",
+      "explanationHi": "350 ग्राम + 875 ग्राम = 1,225 ग्राम = 1 किग्रा 225 ग्राम। फिर 2 + 1 + 1 किग्रा 225 ग्राम = 4 किग्रा 225 ग्राम।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "An oil seller has 15 litres of mustard oil. He fills it in bottles of 750 mL each. How many bottles does he need?",
+      "textHi": "एक तेल विक्रेता के पास 15 लीटर सरसों का तेल है। वह इसे 750 मि.ली. की बोतलों में भरता है। उसे कितनी बोतलें चाहिए?",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "optionsHi": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "15 litres = 15,000 mL. 15,000 ÷ 750 = 20 bottles.",
+      "explanationHi": "15 लीटर = 15,000 मि.ली.। 15,000 ÷ 750 = 20 बोतलें।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "Simplify: 48 ÷ 6 × 3 + 12 − 5",
+      "textHi": "सरल कीजिए: 48 ÷ 6 × 3 + 12 − 5",
+      "options": [
+        "7",
+        "27",
+        "41",
+        "31"
+      ],
+      "optionsHi": [
+        "7",
+        "27",
+        "41",
+        "31"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "Division and multiplication first, from left to right: 48 ÷ 6 = 8, 8 × 3 = 24. Then 24 + 12 − 5 = 31.",
+      "explanationHi": "पहले बाएँ से दाएँ भाग और गुणा: 48 ÷ 6 = 8, 8 × 3 = 24। फिर 24 + 12 − 5 = 31।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "A shop gives a discount of 20% on a school bag marked ₹850. What is the price of the bag after the discount?",
+      "textHi": "एक दुकान ₹850 अंकित मूल्य वाले स्कूल बैग पर 20% छूट देती है। छूट के बाद बैग का मूल्य क्या है?",
+      "options": [
+        "₹170",
+        "₹830",
+        "₹680",
+        "₹650"
+      ],
+      "optionsHi": [
+        "₹170",
+        "₹830",
+        "₹680",
+        "₹650"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "Discount = 20% of 850 = 850 × 20 ÷ 100 = ₹170. Price = 850 − 170 = ₹680.",
+      "explanationHi": "छूट = 850 का 20% = 850 × 20 ÷ 100 = ₹170। मूल्य = 850 − 170 = ₹680।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "A shopkeeper buys a pen for ₹40 and sells it for ₹46. What is his profit per cent?",
+      "textHi": "एक दुकानदार ₹40 में एक पेन ख़रीदकर ₹46 में बेचता है। उसका लाभ प्रतिशत कितना है?",
+      "options": [
+        "15%",
+        "6%",
+        "12%",
+        "20%"
+      ],
+      "optionsHi": [
+        "15%",
+        "6%",
+        "12%",
+        "20%"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "Profit = 46 − 40 = ₹6. Profit % = 6 ÷ 40 × 100 = 15%.",
+      "explanationHi": "लाभ = 46 − 40 = ₹6। लाभ % = 6 ÷ 40 × 100 = 15%।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "Raju bought an old cycle for ₹3,200 and sold it at a loss of 12.5%. At what price did he sell it?",
+      "textHi": "राजू ने एक पुरानी साइकिल ₹3,200 में ख़रीदी और 12.5% हानि पर बेच दी। उसने साइकिल कितने में बेची?",
+      "options": [
+        "₹3,600",
+        "₹2,900",
+        "₹400",
+        "₹2,800"
+      ],
+      "optionsHi": [
+        "₹3,600",
+        "₹2,900",
+        "₹400",
+        "₹2,800"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "Loss = 12.5% of 3,200 = 3,200 × 12.5 ÷ 100 = ₹400. Selling price = 3,200 − 400 = ₹2,800.",
+      "explanationHi": "हानि = 3,200 का 12.5% = ₹400। विक्रय मूल्य = 3,200 − 400 = ₹2,800।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "A shopkeeper borrowed ₹6,000 from a bank at 8% per annum simple interest for 3 years. How much interest will he pay?",
+      "textHi": "एक दुकानदार ने बैंक से ₹6,000, 8% वार्षिक साधारण ब्याज की दर से 3 वर्ष के लिए उधार लिए। वह कितना ब्याज देगा?",
+      "options": [
+        "₹1,440",
+        "₹1,240",
+        "₹480",
+        "₹7,440"
+      ],
+      "optionsHi": [
+        "₹1,440",
+        "₹1,240",
+        "₹480",
+        "₹7,440"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "Simple interest = P × R × T ÷ 100 = 6,000 × 8 × 3 ÷ 100 = ₹1,440.",
+      "explanationHi": "साधारण ब्याज = मूलधन × दर × समय ÷ 100 = 6,000 × 8 × 3 ÷ 100 = ₹1,440।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "A truck carrying vegetables to the market covers 180 km in 4 hours. At the same speed, how far will it go in 7 hours?",
+      "textHi": "मंडी में सब्ज़ियाँ ले जाने वाला एक ट्रक 4 घंटे में 180 किमी चलता है। उसी चाल से वह 7 घंटे में कितनी दूरी तय करेगा?",
+      "options": [
+        "280 km",
+        "315 km",
+        "325 km",
+        "360 km"
+      ],
+      "optionsHi": [
+        "280 किमी",
+        "315 किमी",
+        "325 किमी",
+        "360 किमी"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "Speed = 180 ÷ 4 = 45 km per hour. In 7 hours: 45 × 7 = 315 km.",
+      "explanationHi": "चाल = 180 ÷ 4 = 45 किमी प्रति घंटा। 7 घंटे में: 45 × 7 = 315 किमी।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "A wheat seller sold 120 kg, 135 kg, 98 kg, 147 kg and 150 kg of wheat on five days. What was the average sale per day?",
+      "textHi": "एक गेहूँ विक्रेता ने पाँच दिनों में 120 किग्रा, 135 किग्रा, 98 किग्रा, 147 किग्रा और 150 किग्रा गेहूँ बेचा। प्रतिदिन औसत बिक्री कितनी थी?",
+      "options": [
+        "128 kg",
+        "135 kg",
+        "125 kg",
+        "130 kg"
+      ],
+      "optionsHi": [
+        "128 किग्रा",
+        "135 किग्रा",
+        "125 किग्रा",
+        "130 किग्रा"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "Total = 120 + 135 + 98 + 147 + 150 = 650 kg. Average = 650 ÷ 5 = 130 kg.",
+      "explanationHi": "कुल = 120 + 135 + 98 + 147 + 150 = 650 किग्रा। औसत = 650 ÷ 5 = 130 किग्रा।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "The floor of a shop is a rectangle 12 m long and 9 m wide. Tiles cost ₹50 per square metre. What is the cost of tiling the whole floor?",
+      "textHi": "एक दुकान का फ़र्श 12 मी लंबा और 9 मी चौड़ा आयत है। टाइल लगाने का ख़र्च ₹50 प्रति वर्ग मीटर है। पूरे फ़र्श पर टाइल लगाने का ख़र्च कितना होगा?",
+      "options": [
+        "₹2,100",
+        "₹4,500",
+        "₹5,040",
+        "₹5,400"
+      ],
+      "optionsHi": [
+        "₹2,100",
+        "₹4,500",
+        "₹5,040",
+        "₹5,400"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "Area = 12 × 9 = 108 square metres. Cost = 108 × 50 = ₹5,400.",
+      "explanationHi": "क्षेत्रफल = 12 × 9 = 108 वर्ग मीटर। ख़र्च = 108 × 50 = ₹5,400।"
+    },
+    {
+      "section": "Arithmetic",
+      "text": "The bar graph shows the number of fruits sold by a shopkeeper in one day. How many fruits did he sell in all?",
+      "textHi": "दंड आलेख में एक दुकानदार द्वारा एक दिन में बेचे गए फलों की संख्या दिखाई गई है। (Apples = सेब, Bananas = केले, Mangoes = आम, Grapes = अंगूर)। उसने कुल कितने फल बेचे?",
+      "options": [
+        "180",
+        "190",
+        "200",
+        "170"
+      ],
+      "optionsHi": [
+        "180",
+        "190",
+        "200",
+        "170"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "From the graph: apples 40, bananas 70, mangoes 55, grapes 25. Total = 40 + 70 + 55 + 25 = 190.",
+      "explanationHi": "आलेख से: सेब 40, केले 70, आम 55, अंगूर 25। कुल = 40 + 70 + 55 + 25 = 190।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 270\" width=\"470\" height=\"270\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"250\" y=\"18\">Fruits sold by a shopkeeper in one day</text><line x1=\"60\" y1=\"220\" x2=\"440\" y2=\"220\" stroke=\"#ddd\"/><text x=\"52\" y=\"225\" text-anchor=\"end\">0</text><line x1=\"60\" y1=\"196\" x2=\"440\" y2=\"196\" stroke=\"#ddd\"/><text x=\"52\" y=\"201\" text-anchor=\"end\">10</text><line x1=\"60\" y1=\"172\" x2=\"440\" y2=\"172\" stroke=\"#ddd\"/><text x=\"52\" y=\"177\" text-anchor=\"end\">20</text><line x1=\"60\" y1=\"148\" x2=\"440\" y2=\"148\" stroke=\"#ddd\"/><text x=\"52\" y=\"153\" text-anchor=\"end\">30</text><line x1=\"60\" y1=\"124\" x2=\"440\" y2=\"124\" stroke=\"#ddd\"/><text x=\"52\" y=\"129\" text-anchor=\"end\">40</text><line x1=\"60\" y1=\"100\" x2=\"440\" y2=\"100\" stroke=\"#ddd\"/><text x=\"52\" y=\"105\" text-anchor=\"end\">50</text><line x1=\"60\" y1=\"76\" x2=\"440\" y2=\"76\" stroke=\"#ddd\"/><text x=\"52\" y=\"81\" text-anchor=\"end\">60</text><line x1=\"60\" y1=\"52\" x2=\"440\" y2=\"52\" stroke=\"#ddd\"/><text x=\"52\" y=\"57\" text-anchor=\"end\">70</text><line x1=\"60\" y1=\"28\" x2=\"440\" y2=\"28\" stroke=\"#ddd\"/><text x=\"52\" y=\"33\" text-anchor=\"end\">80</text><rect x=\"90\" y=\"124\" width=\"50\" height=\"96\" fill=\"#111\"/><text x=\"115\" y=\"240\">Apples</text><rect x=\"180\" y=\"52\" width=\"50\" height=\"168\" fill=\"#111\"/><text x=\"205\" y=\"240\">Bananas</text><rect x=\"270\" y=\"88\" width=\"50\" height=\"132\" fill=\"#111\"/><text x=\"295\" y=\"240\">Mangoes</text><rect x=\"360\" y=\"160\" width=\"50\" height=\"60\" fill=\"#111\"/><text x=\"385\" y=\"240\">Grapes</text><line x1=\"60\" y1=\"28\" x2=\"60\" y2=\"220\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"60\" y1=\"220\" x2=\"440\" y2=\"220\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"250\" y=\"262\">Fruit</text><text x=\"16\" y=\"125\" transform=\"rotate(-90 16 125)\">Number sold</text></g></svg>"
+    },
+    {
+      "section": "English",
+      "text": "Where is the pond?",
+      "options": [
+        "In the middle of a forest",
+        "Behind the village school",
+        "Near a big city",
+        "At the edge of Rampur village"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "The first sentence says the pond is at the edge of Rampur village.",
+      "explanationHi": "पहले वाक्य में लिखा है कि तालाब रामपुर गाँव के किनारे पर है।",
+      "passage": "At the edge of Rampur village there is a big pond. Its water is cool and clear, and pink lotus flowers float on it in the rainy season. Early in the morning, women come to the pond to wash clothes, and farmers bring their buffaloes to drink and bathe. Ducks swim in circles while small fish dart under the leaves. In the evening, children sit on the steps and throw grains to the fish. Last summer the pond became dirty because people threw plastic bags into it. The water began to smell and many fish died. Then the children of the village school made a plan. Every Sunday they cleaned the banks and put up a board that said, \"Keep our pond clean.\" Slowly the water became clear again. Now the whole village takes care of the pond, and the lotuses are back."
+    },
+    {
+      "section": "English",
+      "text": "Why did the fish die last summer?",
+      "options": [
+        "The pond dried up completely.",
+        "The buffaloes ate them.",
+        "People threw plastic bags into the pond.",
+        "The children caught them."
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "The passage says the pond became dirty because people threw plastic bags into it, and then many fish died.",
+      "explanationHi": "लोगों ने तालाब में प्लास्टिक की थैलियाँ फेंकीं, जिससे पानी गंदा हुआ और मछलियाँ मर गईं।",
+      "passage": "At the edge of Rampur village there is a big pond. Its water is cool and clear, and pink lotus flowers float on it in the rainy season. Early in the morning, women come to the pond to wash clothes, and farmers bring their buffaloes to drink and bathe. Ducks swim in circles while small fish dart under the leaves. In the evening, children sit on the steps and throw grains to the fish. Last summer the pond became dirty because people threw plastic bags into it. The water began to smell and many fish died. Then the children of the village school made a plan. Every Sunday they cleaned the banks and put up a board that said, \"Keep our pond clean.\" Slowly the water became clear again. Now the whole village takes care of the pond, and the lotuses are back."
+    },
+    {
+      "section": "English",
+      "text": "What did the school children do every Sunday?",
+      "options": [
+        "They caught ducks.",
+        "They planted lotus seeds.",
+        "They cleaned the banks of the pond.",
+        "They washed their clothes."
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "The passage says, \"Every Sunday they cleaned the banks.\"",
+      "explanationHi": "हर रविवार बच्चों ने तालाब के किनारे साफ़ किए।",
+      "passage": "At the edge of Rampur village there is a big pond. Its water is cool and clear, and pink lotus flowers float on it in the rainy season. Early in the morning, women come to the pond to wash clothes, and farmers bring their buffaloes to drink and bathe. Ducks swim in circles while small fish dart under the leaves. In the evening, children sit on the steps and throw grains to the fish. Last summer the pond became dirty because people threw plastic bags into it. The water began to smell and many fish died. Then the children of the village school made a plan. Every Sunday they cleaned the banks and put up a board that said, \"Keep our pond clean.\" Slowly the water became clear again. Now the whole village takes care of the pond, and the lotuses are back."
+    },
+    {
+      "section": "English",
+      "text": "Which word in the passage means \"moved quickly and suddenly\"?",
+      "options": [
+        "dart",
+        "float",
+        "smell",
+        "bathe"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "\"Small fish dart under the leaves\" means they move quickly and suddenly.",
+      "explanationHi": "\"dart\" का अर्थ है तेज़ी से और अचानक चलना।",
+      "passage": "At the edge of Rampur village there is a big pond. Its water is cool and clear, and pink lotus flowers float on it in the rainy season. Early in the morning, women come to the pond to wash clothes, and farmers bring their buffaloes to drink and bathe. Ducks swim in circles while small fish dart under the leaves. In the evening, children sit on the steps and throw grains to the fish. Last summer the pond became dirty because people threw plastic bags into it. The water began to smell and many fish died. Then the children of the village school made a plan. Every Sunday they cleaned the banks and put up a board that said, \"Keep our pond clean.\" Slowly the water became clear again. Now the whole village takes care of the pond, and the lotuses are back."
+    },
+    {
+      "section": "English",
+      "text": "Which is the best title for the passage?",
+      "options": [
+        "Our Village Pond",
+        "The Lazy Buffalo",
+        "A Trip to the City",
+        "Fishing for Fun"
+      ],
+      "answer": 0,
+      "marks": 1.25,
+      "explanation": "The whole passage is about the village pond and how the children saved it.",
+      "explanationHi": "पूरा गद्यांश गाँव के तालाब और उसे बचाने के बारे में है।",
+      "passage": "At the edge of Rampur village there is a big pond. Its water is cool and clear, and pink lotus flowers float on it in the rainy season. Early in the morning, women come to the pond to wash clothes, and farmers bring their buffaloes to drink and bathe. Ducks swim in circles while small fish dart under the leaves. In the evening, children sit on the steps and throw grains to the fish. Last summer the pond became dirty because people threw plastic bags into it. The water began to smell and many fish died. Then the children of the village school made a plan. Every Sunday they cleaned the banks and put up a board that said, \"Keep our pond clean.\" Slowly the water became clear again. Now the whole village takes care of the pond, and the lotuses are back."
+    },
+    {
+      "section": "English",
+      "text": "Where was Kalpana Chawla born?",
+      "options": [
+        "Chandigarh, Punjab",
+        "New Delhi",
+        "Karnal, Haryana",
+        "Mumbai, Maharashtra"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "The first sentence says she was born in Karnal, Haryana.",
+      "explanationHi": "पहले वाक्य के अनुसार उनका जन्म करनाल, हरियाणा में हुआ।",
+      "passage": "Kalpana Chawla was born on 17 March 1962 in Karnal, Haryana. As a little girl she loved to look at the stars and draw pictures of aeroplanes. She studied aeronautical engineering at Punjab Engineering College in Chandigarh, which was unusual for a girl in those days. Later she went to the United States for higher studies and joined NASA, the American space agency. In 1997 she flew into space on the space shuttle Columbia and became the first woman of Indian origin to go to space. She worked hard, was always curious and never gave up. In 2003 she went to space for the second time. Sadly, on 1 February 2003, the shuttle broke apart while it was returning to Earth, and all seven astronauts on board lost their lives. Kalpana Chawla remains an inspiration to millions of children who dream of reaching the stars."
+    },
+    {
+      "section": "English",
+      "text": "In which year did Kalpana Chawla first go to space?",
+      "options": [
+        "1962",
+        "2003",
+        "1984",
+        "1997"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "The passage says, \"In 1997 she flew into space on the space shuttle Columbia.\"",
+      "explanationHi": "गद्यांश के अनुसार 1997 में वे पहली बार अंतरिक्ष गईं।",
+      "passage": "Kalpana Chawla was born on 17 March 1962 in Karnal, Haryana. As a little girl she loved to look at the stars and draw pictures of aeroplanes. She studied aeronautical engineering at Punjab Engineering College in Chandigarh, which was unusual for a girl in those days. Later she went to the United States for higher studies and joined NASA, the American space agency. In 1997 she flew into space on the space shuttle Columbia and became the first woman of Indian origin to go to space. She worked hard, was always curious and never gave up. In 2003 she went to space for the second time. Sadly, on 1 February 2003, the shuttle broke apart while it was returning to Earth, and all seven astronauts on board lost their lives. Kalpana Chawla remains an inspiration to millions of children who dream of reaching the stars."
+    },
+    {
+      "section": "English",
+      "text": "What did Kalpana love to do as a little girl?",
+      "options": [
+        "Play cricket with her friends",
+        "Look at the stars and draw aeroplanes",
+        "Cook food for her family",
+        "Sing songs on the radio"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "The passage says she loved to look at the stars and draw pictures of aeroplanes.",
+      "explanationHi": "बचपन में उन्हें तारे देखना और हवाई जहाज़ों के चित्र बनाना पसंद था।",
+      "passage": "Kalpana Chawla was born on 17 March 1962 in Karnal, Haryana. As a little girl she loved to look at the stars and draw pictures of aeroplanes. She studied aeronautical engineering at Punjab Engineering College in Chandigarh, which was unusual for a girl in those days. Later she went to the United States for higher studies and joined NASA, the American space agency. In 1997 she flew into space on the space shuttle Columbia and became the first woman of Indian origin to go to space. She worked hard, was always curious and never gave up. In 2003 she went to space for the second time. Sadly, on 1 February 2003, the shuttle broke apart while it was returning to Earth, and all seven astronauts on board lost their lives. Kalpana Chawla remains an inspiration to millions of children who dream of reaching the stars."
+    },
+    {
+      "section": "English",
+      "text": "The word \"curious\" in the passage means",
+      "options": [
+        "very tired",
+        "eager to know and learn",
+        "afraid of new things",
+        "angry"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "A curious person always wants to know and learn new things.",
+      "explanationHi": "\"curious\" का अर्थ है जिज्ञासु, यानी जानने और सीखने को उत्सुक।",
+      "passage": "Kalpana Chawla was born on 17 March 1962 in Karnal, Haryana. As a little girl she loved to look at the stars and draw pictures of aeroplanes. She studied aeronautical engineering at Punjab Engineering College in Chandigarh, which was unusual for a girl in those days. Later she went to the United States for higher studies and joined NASA, the American space agency. In 1997 she flew into space on the space shuttle Columbia and became the first woman of Indian origin to go to space. She worked hard, was always curious and never gave up. In 2003 she went to space for the second time. Sadly, on 1 February 2003, the shuttle broke apart while it was returning to Earth, and all seven astronauts on board lost their lives. Kalpana Chawla remains an inspiration to millions of children who dream of reaching the stars."
+    },
+    {
+      "section": "English",
+      "text": "In the sentence \"She worked hard\", the word \"worked\" is a",
+      "options": [
+        "noun",
+        "adjective",
+        "pronoun",
+        "verb"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "\"Worked\" tells us what she did, so it is a verb (an action word).",
+      "explanationHi": "\"worked\" बताता है कि उन्होंने क्या किया, इसलिए यह क्रिया (verb) है।",
+      "passage": "Kalpana Chawla was born on 17 March 1962 in Karnal, Haryana. As a little girl she loved to look at the stars and draw pictures of aeroplanes. She studied aeronautical engineering at Punjab Engineering College in Chandigarh, which was unusual for a girl in those days. Later she went to the United States for higher studies and joined NASA, the American space agency. In 1997 she flew into space on the space shuttle Columbia and became the first woman of Indian origin to go to space. She worked hard, was always curious and never gave up. In 2003 she went to space for the second time. Sadly, on 1 February 2003, the shuttle broke apart while it was returning to Earth, and all seven astronauts on board lost their lives. Kalpana Chawla remains an inspiration to millions of children who dream of reaching the stars."
+    },
+    {
+      "section": "Hindi",
+      "text": "हरिया क्या काम करता था?",
+      "options": [
+        "खेती करता था",
+        "मछलियाँ पकड़ता था",
+        "कुल्हाड़ियाँ बनाता था",
+        "लकड़ियाँ काटकर बेचता था"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "गद्यांश के अनुसार हरिया जंगल से लकड़ियाँ काटकर बाज़ार में बेचता था।",
+      "passage": "एक गाँव में हरिया नाम का एक गरीब लकड़हारा रहता था। वह रोज़ जंगल जाकर लकड़ियाँ काटता और उन्हें बाज़ार में बेचकर अपने परिवार का पेट भरता था। एक दिन वह नदी के किनारे एक पेड़ की डाल काट रहा था। अचानक उसकी लोहे की कुल्हाड़ी हाथ से छूटकर गहरे पानी में गिर गई। हरिया बहुत दुखी हुआ और किनारे बैठकर रोने लगा। तभी पानी से एक जलदेवता प्रकट हुए। उन्होंने सोने की कुल्हाड़ी निकालकर पूछा, \"क्या यह तुम्हारी है?\" हरिया ने कहा, \"नहीं, मेरी कुल्हाड़ी तो लोहे की है।\" फिर देवता चाँदी की कुल्हाड़ी लाए, पर हरिया ने उसे भी लेने से मना कर दिया। अंत में देवता लोहे की कुल्हाड़ी लाए। हरिया ने ख़ुश होकर कहा, \"हाँ, यही मेरी है।\" उसकी सच्चाई से देवता बहुत प्रसन्न हुए और उन्होंने तीनों कुल्हाड़ियाँ उसे इनाम में दे दीं। सच है, ईमानदारी सबसे अच्छी नीति है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "हरिया की कुल्हाड़ी कहाँ गिर गई?",
+      "options": [
+        "जंगल की झाड़ियों में",
+        "नदी के गहरे पानी में",
+        "बाज़ार में",
+        "कुएँ में"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "नदी किनारे डाल काटते समय कुल्हाड़ी छूटकर गहरे पानी में गिर गई।",
+      "passage": "एक गाँव में हरिया नाम का एक गरीब लकड़हारा रहता था। वह रोज़ जंगल जाकर लकड़ियाँ काटता और उन्हें बाज़ार में बेचकर अपने परिवार का पेट भरता था। एक दिन वह नदी के किनारे एक पेड़ की डाल काट रहा था। अचानक उसकी लोहे की कुल्हाड़ी हाथ से छूटकर गहरे पानी में गिर गई। हरिया बहुत दुखी हुआ और किनारे बैठकर रोने लगा। तभी पानी से एक जलदेवता प्रकट हुए। उन्होंने सोने की कुल्हाड़ी निकालकर पूछा, \"क्या यह तुम्हारी है?\" हरिया ने कहा, \"नहीं, मेरी कुल्हाड़ी तो लोहे की है।\" फिर देवता चाँदी की कुल्हाड़ी लाए, पर हरिया ने उसे भी लेने से मना कर दिया। अंत में देवता लोहे की कुल्हाड़ी लाए। हरिया ने ख़ुश होकर कहा, \"हाँ, यही मेरी है।\" उसकी सच्चाई से देवता बहुत प्रसन्न हुए और उन्होंने तीनों कुल्हाड़ियाँ उसे इनाम में दे दीं। सच है, ईमानदारी सबसे अच्छी नीति है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "जलदेवता ने सबसे पहले कौन-सी कुल्हाड़ी दिखाई?",
+      "options": [
+        "चाँदी की",
+        "लोहे की",
+        "सोने की",
+        "लकड़ी की"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "देवता ने पहले सोने की कुल्हाड़ी निकालकर पूछा कि क्या यह तुम्हारी है।",
+      "passage": "एक गाँव में हरिया नाम का एक गरीब लकड़हारा रहता था। वह रोज़ जंगल जाकर लकड़ियाँ काटता और उन्हें बाज़ार में बेचकर अपने परिवार का पेट भरता था। एक दिन वह नदी के किनारे एक पेड़ की डाल काट रहा था। अचानक उसकी लोहे की कुल्हाड़ी हाथ से छूटकर गहरे पानी में गिर गई। हरिया बहुत दुखी हुआ और किनारे बैठकर रोने लगा। तभी पानी से एक जलदेवता प्रकट हुए। उन्होंने सोने की कुल्हाड़ी निकालकर पूछा, \"क्या यह तुम्हारी है?\" हरिया ने कहा, \"नहीं, मेरी कुल्हाड़ी तो लोहे की है।\" फिर देवता चाँदी की कुल्हाड़ी लाए, पर हरिया ने उसे भी लेने से मना कर दिया। अंत में देवता लोहे की कुल्हाड़ी लाए। हरिया ने ख़ुश होकर कहा, \"हाँ, यही मेरी है।\" उसकी सच्चाई से देवता बहुत प्रसन्न हुए और उन्होंने तीनों कुल्हाड़ियाँ उसे इनाम में दे दीं। सच है, ईमानदारी सबसे अच्छी नीति है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "\"प्रसन्न\" शब्द का अर्थ है",
+      "options": [
+        "दुखी",
+        "क्रोधित",
+        "थका हुआ",
+        "ख़ुश"
+      ],
+      "answer": 3,
+      "marks": 1.25,
+      "explanation": "\"प्रसन्न\" का अर्थ ख़ुश होता है। देवता हरिया की सच्चाई से ख़ुश हुए।",
+      "passage": "एक गाँव में हरिया नाम का एक गरीब लकड़हारा रहता था। वह रोज़ जंगल जाकर लकड़ियाँ काटता और उन्हें बाज़ार में बेचकर अपने परिवार का पेट भरता था। एक दिन वह नदी के किनारे एक पेड़ की डाल काट रहा था। अचानक उसकी लोहे की कुल्हाड़ी हाथ से छूटकर गहरे पानी में गिर गई। हरिया बहुत दुखी हुआ और किनारे बैठकर रोने लगा। तभी पानी से एक जलदेवता प्रकट हुए। उन्होंने सोने की कुल्हाड़ी निकालकर पूछा, \"क्या यह तुम्हारी है?\" हरिया ने कहा, \"नहीं, मेरी कुल्हाड़ी तो लोहे की है।\" फिर देवता चाँदी की कुल्हाड़ी लाए, पर हरिया ने उसे भी लेने से मना कर दिया। अंत में देवता लोहे की कुल्हाड़ी लाए। हरिया ने ख़ुश होकर कहा, \"हाँ, यही मेरी है।\" उसकी सच्चाई से देवता बहुत प्रसन्न हुए और उन्होंने तीनों कुल्हाड़ियाँ उसे इनाम में दे दीं। सच है, ईमानदारी सबसे अच्छी नीति है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "इस कहानी से हमें क्या शिक्षा मिलती है?",
+      "options": [
+        "लालच करना अच्छा है।",
+        "ईमानदारी सबसे अच्छी नीति है।",
+        "जंगल में नहीं जाना चाहिए।",
+        "सोना सबसे क़ीमती है।"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "हरिया ने सच बोला और उसे इनाम मिला। कहानी के अंत में भी लिखा है कि ईमानदारी सबसे अच्छी नीति है।",
+      "passage": "एक गाँव में हरिया नाम का एक गरीब लकड़हारा रहता था। वह रोज़ जंगल जाकर लकड़ियाँ काटता और उन्हें बाज़ार में बेचकर अपने परिवार का पेट भरता था। एक दिन वह नदी के किनारे एक पेड़ की डाल काट रहा था। अचानक उसकी लोहे की कुल्हाड़ी हाथ से छूटकर गहरे पानी में गिर गई। हरिया बहुत दुखी हुआ और किनारे बैठकर रोने लगा। तभी पानी से एक जलदेवता प्रकट हुए। उन्होंने सोने की कुल्हाड़ी निकालकर पूछा, \"क्या यह तुम्हारी है?\" हरिया ने कहा, \"नहीं, मेरी कुल्हाड़ी तो लोहे की है।\" फिर देवता चाँदी की कुल्हाड़ी लाए, पर हरिया ने उसे भी लेने से मना कर दिया। अंत में देवता लोहे की कुल्हाड़ी लाए। हरिया ने ख़ुश होकर कहा, \"हाँ, यही मेरी है।\" उसकी सच्चाई से देवता बहुत प्रसन्न हुए और उन्होंने तीनों कुल्हाड़ियाँ उसे इनाम में दे दीं। सच है, ईमानदारी सबसे अच्छी नीति है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "भारत को स्वतंत्रता कब मिली?",
+      "options": [
+        "26 जनवरी 1950",
+        "2 अक्टूबर 1947",
+        "15 अगस्त 1947",
+        "26 जनवरी 1947"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "गद्यांश के अनुसार 15 अगस्त 1947 को भारत आज़ाद हुआ।",
+      "passage": "हमारे देश में तीन राष्ट्रीय पर्व मनाए जाते हैं: स्वतंत्रता दिवस, गणतंत्र दिवस और गांधी जयंती। 15 अगस्त 1947 को भारत अंग्रेज़ों की गुलामी से आज़ाद हुआ था, इसलिए हर वर्ष 15 अगस्त को स्वतंत्रता दिवस मनाया जाता है। इस दिन प्रधानमंत्री दिल्ली के लाल क़िले पर तिरंगा फहराते हैं और देश को संबोधित करते हैं। 26 जनवरी 1950 को हमारा संविधान लागू हुआ और भारत एक गणतंत्र बना। इसलिए 26 जनवरी को गणतंत्र दिवस मनाया जाता है। इस दिन नई दिल्ली में राष्ट्रपति के सामने भव्य परेड होती है, जिसमें सेना की टुकड़ियाँ और अलग-अलग राज्यों की सुंदर झाँकियाँ निकलती हैं। 2 अक्टूबर को महात्मा गांधी का जन्मदिन गांधी जयंती के रूप में मनाया जाता है। इन पर्वों पर विद्यालयों में झंडा फहराया जाता है, देशभक्ति के गीत गाए जाते हैं और मिठाइयाँ बाँटी जाती हैं। ये पर्व हमें एकता और देशप्रेम का संदेश देते हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "स्वतंत्रता दिवस पर प्रधानमंत्री तिरंगा कहाँ फहराते हैं?",
+      "options": [
+        "इंडिया गेट पर",
+        "लाल क़िले पर",
+        "संसद भवन पर",
+        "क़ुतुब मीनार पर"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "गद्यांश में लिखा है कि प्रधानमंत्री दिल्ली के लाल क़िले पर तिरंगा फहराते हैं।",
+      "passage": "हमारे देश में तीन राष्ट्रीय पर्व मनाए जाते हैं: स्वतंत्रता दिवस, गणतंत्र दिवस और गांधी जयंती। 15 अगस्त 1947 को भारत अंग्रेज़ों की गुलामी से आज़ाद हुआ था, इसलिए हर वर्ष 15 अगस्त को स्वतंत्रता दिवस मनाया जाता है। इस दिन प्रधानमंत्री दिल्ली के लाल क़िले पर तिरंगा फहराते हैं और देश को संबोधित करते हैं। 26 जनवरी 1950 को हमारा संविधान लागू हुआ और भारत एक गणतंत्र बना। इसलिए 26 जनवरी को गणतंत्र दिवस मनाया जाता है। इस दिन नई दिल्ली में राष्ट्रपति के सामने भव्य परेड होती है, जिसमें सेना की टुकड़ियाँ और अलग-अलग राज्यों की सुंदर झाँकियाँ निकलती हैं। 2 अक्टूबर को महात्मा गांधी का जन्मदिन गांधी जयंती के रूप में मनाया जाता है। इन पर्वों पर विद्यालयों में झंडा फहराया जाता है, देशभक्ति के गीत गाए जाते हैं और मिठाइयाँ बाँटी जाती हैं। ये पर्व हमें एकता और देशप्रेम का संदेश देते हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "26 जनवरी को गणतंत्र दिवस क्यों मनाया जाता है?",
+      "options": [
+        "इस दिन भारत आज़ाद हुआ था।",
+        "इस दिन हमारा संविधान लागू हुआ था।",
+        "इस दिन गांधी जी का जन्म हुआ था।",
+        "इस दिन नया वर्ष शुरू होता है।"
+      ],
+      "answer": 1,
+      "marks": 1.25,
+      "explanation": "26 जनवरी 1950 को संविधान लागू हुआ और भारत गणतंत्र बना।",
+      "passage": "हमारे देश में तीन राष्ट्रीय पर्व मनाए जाते हैं: स्वतंत्रता दिवस, गणतंत्र दिवस और गांधी जयंती। 15 अगस्त 1947 को भारत अंग्रेज़ों की गुलामी से आज़ाद हुआ था, इसलिए हर वर्ष 15 अगस्त को स्वतंत्रता दिवस मनाया जाता है। इस दिन प्रधानमंत्री दिल्ली के लाल क़िले पर तिरंगा फहराते हैं और देश को संबोधित करते हैं। 26 जनवरी 1950 को हमारा संविधान लागू हुआ और भारत एक गणतंत्र बना। इसलिए 26 जनवरी को गणतंत्र दिवस मनाया जाता है। इस दिन नई दिल्ली में राष्ट्रपति के सामने भव्य परेड होती है, जिसमें सेना की टुकड़ियाँ और अलग-अलग राज्यों की सुंदर झाँकियाँ निकलती हैं। 2 अक्टूबर को महात्मा गांधी का जन्मदिन गांधी जयंती के रूप में मनाया जाता है। इन पर्वों पर विद्यालयों में झंडा फहराया जाता है, देशभक्ति के गीत गाए जाते हैं और मिठाइयाँ बाँटी जाती हैं। ये पर्व हमें एकता और देशप्रेम का संदेश देते हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "\"एकता\" शब्द का विलोम (उल्टा अर्थ) क्या है?",
+      "options": [
+        "मित्रता",
+        "समानता",
+        "अनेकता",
+        "सुंदरता"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "\"एकता\" का विलोम \"अनेकता\" है।",
+      "passage": "हमारे देश में तीन राष्ट्रीय पर्व मनाए जाते हैं: स्वतंत्रता दिवस, गणतंत्र दिवस और गांधी जयंती। 15 अगस्त 1947 को भारत अंग्रेज़ों की गुलामी से आज़ाद हुआ था, इसलिए हर वर्ष 15 अगस्त को स्वतंत्रता दिवस मनाया जाता है। इस दिन प्रधानमंत्री दिल्ली के लाल क़िले पर तिरंगा फहराते हैं और देश को संबोधित करते हैं। 26 जनवरी 1950 को हमारा संविधान लागू हुआ और भारत एक गणतंत्र बना। इसलिए 26 जनवरी को गणतंत्र दिवस मनाया जाता है। इस दिन नई दिल्ली में राष्ट्रपति के सामने भव्य परेड होती है, जिसमें सेना की टुकड़ियाँ और अलग-अलग राज्यों की सुंदर झाँकियाँ निकलती हैं। 2 अक्टूबर को महात्मा गांधी का जन्मदिन गांधी जयंती के रूप में मनाया जाता है। इन पर्वों पर विद्यालयों में झंडा फहराया जाता है, देशभक्ति के गीत गाए जाते हैं और मिठाइयाँ बाँटी जाती हैं। ये पर्व हमें एकता और देशप्रेम का संदेश देते हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "गद्यांश के अनुसार गांधी जयंती कब मनाई जाती है?",
+      "options": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "14 नवंबर"
+      ],
+      "answer": 2,
+      "marks": 1.25,
+      "explanation": "गद्यांश के अनुसार 2 अक्टूबर को महात्मा गांधी का जन्मदिन गांधी जयंती के रूप में मनाया जाता है।",
+      "passage": "हमारे देश में तीन राष्ट्रीय पर्व मनाए जाते हैं: स्वतंत्रता दिवस, गणतंत्र दिवस और गांधी जयंती। 15 अगस्त 1947 को भारत अंग्रेज़ों की गुलामी से आज़ाद हुआ था, इसलिए हर वर्ष 15 अगस्त को स्वतंत्रता दिवस मनाया जाता है। इस दिन प्रधानमंत्री दिल्ली के लाल क़िले पर तिरंगा फहराते हैं और देश को संबोधित करते हैं। 26 जनवरी 1950 को हमारा संविधान लागू हुआ और भारत एक गणतंत्र बना। इसलिए 26 जनवरी को गणतंत्र दिवस मनाया जाता है। इस दिन नई दिल्ली में राष्ट्रपति के सामने भव्य परेड होती है, जिसमें सेना की टुकड़ियाँ और अलग-अलग राज्यों की सुंदर झाँकियाँ निकलती हैं। 2 अक्टूबर को महात्मा गांधी का जन्मदिन गांधी जयंती के रूप में मनाया जाता है। इन पर्वों पर विद्यालयों में झंडा फहराया जाता है, देशभक्ति के गीत गाए जाते हैं और मिठाइयाँ बाँटी जाती हैं। ये पर्व हमें एकता और देशप्रेम का संदेश देते हैं।"
+    }
+  ]
+}

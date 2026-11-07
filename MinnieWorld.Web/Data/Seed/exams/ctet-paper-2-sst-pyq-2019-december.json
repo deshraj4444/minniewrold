@@ -1,0 +1,1753 @@
+{
+  "slug": "ctet-paper-2-sst-pyq-2019-december",
+  "version": 1,
+  "title": "CTET Paper II (Social Studies) · December 2019 (previous year paper)",
+  "description": "Questions from CTET Paper II (Social Studies/Social Science stream) held on 8 December 2019 (Set H): Child Development & Pedagogy and Social Studies, with answers from the official CBSE key as published by theexampillar.com. Not the complete paper — the language sections and a few questions with doubtful keys are left out.",
+  "category": "CTET Paper II (Social Studies)",
+  "kind": "Previous year",
+  "year": 2019,
+  "durationMinutes": 87,
+  "price": 10,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "When students repeatedly decide to do an activity (such as planning and conducting an experiment) because of the desire for a reward that is not directly related to the activity (such as getting a 'star' or a 'badge'), what is likely to happen?",
+      "textHi": "जब विद्यार्थी पुरस्कार पाने की इच्छा से बार-बार किसी गतिविधि को करने का निर्णय लेते हैं (जैसा. कि एक प्रयोग का नियोजन एवं संचालन करना) जो कि प्रत्यक्ष रूप से उस गतिविधि से संबंधित नहीं है (जैसा कि एक ‘स्टार’ या ‘बैज’ प्राप्त करना), ऐसी स्थिति में क्या संभावना उत्पन्न होती है ?",
+      "options": [
+        "They set goals for their own mastery rather than working to please others.",
+        "They develop a materialistic attitude towards learning.",
+        "They derive joy from learning for understanding.",
+        "They continue the activity even without a reward."
+      ],
+      "optionsHi": [
+        "अन्य लोगों को खुश करने के लिए कार्य करने के बजाय स्वयं की निपुणता के लिए उद्देश्य निर्धारित करना",
+        "अधिगम के प्रति भौतिकवादी अभिवृत्ति का विकास",
+        "समझने के लिए अधिगम से आनंद प्राप्त करना",
+        "पुरस्कार के बिना भी उस गतिविधि में लगे रहना"
+      ],
+      "answer": 1,
+      "explanation": "Unrelated extrinsic rewards tend to make learners work for the reward, fostering a materialistic attitude. (Q1 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "असंबंधित बाहरी पुरस्कार बच्चों को पुरस्कार के लिए काम करना सिखाते हैं, जिससे भौतिकवादी अभिवृत्ति बनती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following factors affect learning?\n(i) Interest of the student\n(ii) Emotional health of the student\n(iii) Pedagogical strategies\n(iv) Social and cultural context of the student",
+      "textHi": "निम्नलिखित में से कौन से कारक अधिगम को प्रभावित करते हैं ?\n(i) विद्यार्थी की अभिरुचि\n(ii) विद्यार्थी का सांवेगिक स्वास्थ्य\n(iii) शिक्षाशास्त्रीय रणनीतियाँ\n(iv) विद्यार्थी का सामाजिक एवं सांस्कृतिक संदर्भ",
+      "options": [
+        "(i), (ii), (iii), (iv)",
+        "(i), (ii)",
+        "(ii), (iii)",
+        "(i), (ii), (iii)"
+      ],
+      "optionsHi": [
+        "(i), (ii), (iii), (iv)",
+        "(i), (ii)",
+        "(ii), (iii)",
+        "(i), (ii), (iii)"
+      ],
+      "answer": 0,
+      "explanation": "Learning is influenced by personal, emotional, instructional and socio-cultural factors together. (Q3 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "अधिगम व्यक्तिगत, सांवेगिक, शिक्षण संबंधी और सामाजिक-सांस्कृतिक सभी कारकों से प्रभावित होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is an important aspect of the process of meaningful construction of knowledge?",
+      "textHi": "निम्नलिखित में से क्या ज्ञान के सार्थक संरचना की प्रक्रिया का एक महत्त्वपूर्ण पहलू है ?",
+      "options": [
+        "Stimulus-response connections",
+        "Social interactions",
+        "Continuous practice and repeated recall",
+        "Reward and punishment"
+      ],
+      "optionsHi": [
+        "उद्दीपन-प्रतिक्रिया संबंध",
+        "सामाजिक पारस्परिक क्रियाएँ",
+        "लगातार अभ्यास तथा बार-बार स्मरण करना",
+        "पुरस्कार एवं दंड"
+      ],
+      "answer": 1,
+      "explanation": "Constructivist (especially Vygotskian) views stress social interaction in building knowledge. (Q4 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "रचनावादी (विशेषकर वायगोत्स्की) दृष्टिकोण ज्ञान-निर्माण में सामाजिक अंतःक्रिया पर बल देता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What is meant by the concept of childhood?",
+      "textHi": "बाल्यावस्था की अवधारणा से क्या अभिप्राय है ?",
+      "options": [
+        "That children start from scratch and their traits are completely determined by the environment.",
+        "That it is universally the same across different cultural contexts.",
+        "According to contemporary social-constructivist psychologists, it is a social construct.",
+        "That children are born evil and have to be civilised."
+      ],
+      "optionsHi": [
+        "यह कि बच्चे शून्य से शुरुआत करते हैं और उनके गुण पूरी तरह से परिवेश के द्वारा निर्धारित किए जाते हैं।",
+        "यह विभिन्न सांस्कृतिक संदर्भो में सार्वभौम रूप से समान है।",
+        "समकालीन सामाजिक-संरचनावादी मनोवैज्ञानिकों के अनुसार यह एक सामाजिक संरचना है।",
+        "यह है कि बच्चे दुष्ट रूप में पैदा होते हैं और उन्हें सभ्य बनाना होता है।"
+      ],
+      "answer": 2,
+      "explanation": "Modern psychology views childhood as socially constructed, varying across cultures. (Q5 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "आधुनिक मनोविज्ञान बाल्यावस्था को सामाजिक रचना मानता है जो संस्कृतियों में भिन्न होती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is a characteristic of 'middle childhood'?",
+      "textHi": "निम्नलिखित में से कौन सी ‘मध्य बाल्यावस्था’ की विशेषता है?",
+      "options": [
+        "Physical growth and development take place at a very fast pace.",
+        "Learning occurs mainly through sensory and motor activities.",
+        "The ability to think abstractly and use scientific reasoning develops.",
+        "Children begin to think logically and concretely."
+      ],
+      "optionsHi": [
+        "शारीरिक वृद्धि एवं विकास बहुत तेज गति से होता है।",
+        "अधिगम मुख्य रूप से संवेदी एवं चालक गतिविधियों द्वारा घटित होता है।",
+        "अमूर्त रूप से सोचने तथा वैज्ञानिक तर्क का प्रयोग करने की योग्यता विकसित होती है।",
+        "बच्चे तार्किक एवं मूर्त रूप से सोचना प्रारंभ कर देते हैं।"
+      ],
+      "answer": 3,
+      "explanation": "Middle childhood corresponds to Piaget's concrete operational stage. (Q6 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "मध्य बाल्यावस्था पियाजे की मूर्त संक्रियात्मक अवस्था से मेल खाती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Vygotsky, what is it called when an adult extends a child's current level of performance through support?",
+      "textHi": "वायगोट्स्की के अनुसार, जब एक वयस्क बच्चे के निष्पादन के वर्तमान स्तर को सहयोग द्वारा विस्तारित करता है तो इसे क्या कहते हैं ?",
+      "options": [
+        "Intersubjectivity",
+        "Discovery learning",
+        "Zone of proximal development",
+        "Scaffolding"
+      ],
+      "optionsHi": [
+        "अंत: व्यक्तिनिष्ठता",
+        "खोजपूर्ण अधिगम",
+        "समीपस्थ विकास का क्षेत्र",
+        "पाड़ (ढांचा)"
+      ],
+      "answer": 3,
+      "explanation": "Scaffolding is the adjustable support that lifts the child's performance. (Q8 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "पाड़ (स्कैफोल्डिंग) वह सहायता है जो बच्चे के प्रदर्शन को आगे बढ़ाती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What are people's general beliefs about the typical characteristics considered appropriate for different genders in society called?",
+      "textHi": "समाज में विभिन्न लिंगों के लिए उपयुक्त मानी जाने वाली प्रारूपिक विशेषताओं के बारे में जन सामान्य की अवधारणाओं को क्या कहते हैं ?",
+      "options": [
+        "Gender stereotypes",
+        "Gender differentiation",
+        "Gender roles",
+        "Gender identity"
+      ],
+      "optionsHi": [
+        "जेंडर रूढ़िवादिताएँ",
+        "जेंडर विभेदीकरण",
+        "जेंडर भूमिकाएँ",
+        "जेंडर पहचान"
+      ],
+      "answer": 0,
+      "explanation": "Generalised beliefs about what suits each gender are gender stereotypes. (Q10 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "प्रत्येक लिंग के लिए 'उपयुक्त' गुणों के बारे में सामान्य धारणाएँ जेंडर रूढ़िवादिताएँ हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Recently a conscious effort has been made to include stories in the curriculum in which the father does household work and the mother does adventurous activities. Why is this step important?",
+      "textHi": "हाल ही में पाठ्यचर्या में ऐसी कहानियों को शामिल करने के लिए विवेकशील प्रयास किया गया है जिसमें पिता घर के कार्यों में लगा रहता है और माता साहसी गतिविधियों को करती है । यह कदम किसलिए महत्त्वपूर्ण है ?",
+      "options": [
+        "It increases gender differentiation.",
+        "It strengthens gender bias.",
+        "It breaks gender stereotypes.",
+        "It promotes gender constancy."
+      ],
+      "optionsHi": [
+        "यह जेंडर विभेदीकरण को बढ़ाता है ।",
+        "यह जेंडर पक्षपात को सशक्त बनाता है ।",
+        "यह जेंडर रूढ़िवादिता को समाप्त करता है ।",
+        "यह जेंडर स्थिरता को प्रोत्साहित करता है ।"
+      ],
+      "answer": 2,
+      "explanation": "Showing men and women in non-traditional roles challenges stereotypes. (Q11 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "पुरुषों और महिलाओं को गैर-पारंपरिक भूमिकाओं में दिखाना रूढ़िवादिता को तोड़ता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Howard Gardner's theory of multiple intelligences, what could be the characteristics of a person with 'logical-mathematical' intelligence?",
+      "textHi": "हावर्ड गार्डनर के बहु बुद्धि सिद्धांत के अनुसार, ‘तार्किक-गणितीय’ बुद्धि वाले एक व्यक्ति की क्या विशेषताएँ हो सकती हैं ?",
+      "options": [
+        "Sensitivity to and capacity to discern patterns and to handle long chains of reasoning.",
+        "Sensitivity to sounds, rhythms and meanings of words.",
+        "Ability to perceive the visual-spatial world accurately.",
+        "Ability to produce and appreciate pitch, rhythm and aesthetic qualities of musical expression."
+      ],
+      "optionsHi": [
+        "पैटर्न को खोजने की एवं तर्क की लम्बी श्रृंखला को हल करने की क्षमता और संवेदनशीलता।",
+        "ध्वनि, ताल तथा शब्दों के अर्थ के प्रति संवेदनशीलता।",
+        "दृश्य-स्थानिक परिवेश को सटीक रूप से ग्रहण करने की योग्यता ।",
+        "संगीतमय अभिव्यक्तियों के आवाज के स्तर, ताल एवं सौंदर्यपरक गुणों को उत्पन्न करने एवं प्रशंसा करने की योग्यता ।"
+      ],
+      "answer": 0,
+      "explanation": "Logical-mathematical intelligence is about patterns and chains of reasoning. (Q12 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "तार्किक-गणितीय बुद्धि पैटर्न पहचानने और तर्क की लंबी श्रृंखला से संबंधित है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Jean Piaget's theory of cognitive development, in which period does hypothetico-deductive reasoning develop?",
+      "textHi": "जीन पियाजे के संज्ञानात्मक विकास के सिद्धांत के अनुसार, परिकल्पित निगमनात्मक तर्क किस अवधि में विकसित होता है ?",
+      "options": [
+        "Formal operational stage",
+        "Sensori-motor stage",
+        "Pre-operational stage",
+        "Concrete operational stage"
+      ],
+      "optionsHi": [
+        "अमूर्त संक्रियात्मक अवस्था",
+        "संवेदी-चालक अवस्था",
+        "पूर्व संक्रियात्मक अवस्था",
+        "मूर्त संक्रियात्मक अवस्था"
+      ],
+      "answer": 0,
+      "explanation": "Hypothetico-deductive reasoning appears in the formal operational stage (about 11+ years). (Q13 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "परिकल्पित-निगमनात्मक तर्क अमूर्त संक्रियात्मक अवस्था (लगभग 11 वर्ष से) में विकसित होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to ______, it is essential to understand the influence of social processes and cultural context on children's thinking.",
+      "textHi": "_____ के अनुसार, बच्चों के चिंतन के बारे में सामाजिक प्रक्रियाओं तथा सांस्कृतिक संदर्भ के प्रभाव को समझना आवश्यक है।",
+      "options": [
+        "Albert Bandura",
+        "Lawrence Kohlberg",
+        "Jean Piaget",
+        "Lev Vygotsky"
+      ],
+      "optionsHi": [
+        "अलबर्ट बैन्डुरा",
+        "लॉरेंस कोलबर्ग",
+        "जीन पियाजे",
+        "लेव वायगोट्स्की"
+      ],
+      "answer": 3,
+      "explanation": "Vygotsky's socio-cultural theory centres on social processes and culture. (Q14 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "वायगोत्स्की का सामाजिक-सांस्कृतिक सिद्धांत सामाजिक प्रक्रियाओं और संस्कृति पर केंद्रित है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Drawing implications from Piaget's theory of cognitive development, what should a teacher of grades 6-8 do in her class?",
+      "textHi": "पियाजे के संज्ञानात्मक विकास के सिद्धांत से निहितार्थ निकालते हुए एक ग्रेड 6-8 के शिक्षक को अपनी कक्षा में क्या करना चाहिए ?",
+      "options": [
+        "Rely only on the prescribed syllabus.",
+        "Discourage the use of logical argument.",
+        "Present problems that require reasoning-based solutions.",
+        "Use only concrete materials to teach a concept."
+      ],
+      "optionsHi": [
+        "केवल निर्धारित पाठ्यक्रम पर निर्भर रहना चाहिए।",
+        "तार्किक बहस के प्रयोग को हतोत्साहित करना चाहिए।",
+        "ऐसी समस्याएँ प्रस्तुत करनी चाहिए जिसमें तर्क आधारित समाधान की आवश्यकता होती है।",
+        "एक अवधारणा को पढ़ाने के लिए केवल मूर्त सामग्रियों का प्रयोग करना चाहिए ।"
+      ],
+      "answer": 2,
+      "explanation": "Children entering the formal operational stage benefit from problems that demand reasoning. (Q15 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "अमूर्त संक्रियात्मक अवस्था में प्रवेश करते बच्चों के लिए तर्क-आधारित समस्याएँ उपयुक्त हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What does Continuous and Comprehensive Evaluation include?",
+      "textHi": "सतत् एवं समग्र मूल्यांकन में क्या शामिल है ?",
+      "options": [
+        "Using both formative and summative assessment with a variety of strategies",
+        "Only formative assessment",
+        "Only summative assessment",
+        "Neither formative nor summative assessment"
+      ],
+      "optionsHi": [
+        "विविध प्रकार की रणनीतियों का प्रयोग करते हुए दोनों संरचनात्मक एवं संकलनात्मक आकलन का प्रयोग करना",
+        "केवल संरचनात्मक आकलन",
+        "केवल संकलनात्मक आकलन",
+        "ना तो संरचनात्मक न ही संकलनात्मक आकलन"
+      ],
+      "answer": 0,
+      "explanation": "CCE combines formative and summative assessment using varied tools. (Q16 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "CCE में विविध साधनों से संरचनात्मक और संकलनात्मक दोनों आकलन होते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The process by which children develop habits, skills, values and motivation that make them responsible and productive members of society is called:",
+      "textHi": "वह प्रक्रिया जिसके द्वारा बच्चे आदतों, कौशलों, मूल्यों तथा अभिप्रेरणा को विकसित करते हैं और जो उन्हें समाज का जिम्मेदार एवं क्रियाशील सदस्य बनाती है, उसे क्या कहा जाता है ?",
+      "options": [
+        "Differentiation",
+        "Socialisation",
+        "Inclusion",
+        "Mainstreaming"
+      ],
+      "optionsHi": [
+        "विभेदीकरण",
+        "सामाजीकरण",
+        "समावेशन",
+        "मुख्यधारा से जुड़ना"
+      ],
+      "answer": 1,
+      "explanation": "Socialisation is learning the habits, values and roles of one's society. (Q17 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "समाजीकरण समाज की आदतें, मूल्य और भूमिकाएँ सीखने की प्रक्रिया है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following statements about the role of heredity and environment in human development is correct?",
+      "textHi": "मानव विकास के संदर्भ में आनुवंशिकता तथा पर्यावरण की भूमिका के बारे में निम्नलिखित कथनों में से कौन सा सही है ?",
+      "options": [
+        "Heredity and environment both affect human development through a complex interaction.",
+        "Heredity is the only cause of individual differences.",
+        "Environmental influences completely determine a person's development.",
+        "Neither heredity nor environment affects human development."
+      ],
+      "optionsHi": [
+        "आनुवंशिकता एवं पर्यावरण दोनों एक जटिल पारस्परिक क्रिया के रूप में मानव विकास को प्रभावित करते हैं ।",
+        "वैयक्तिक विभिन्नताओं का एकमात्र कारण आनुवंशिकता है।",
+        "परिवेशीय प्रभाव पूर्ण रूप से एक व्यक्ति के विकास को निर्धारित करते हैं।",
+        "मानव-विकास को न तो आनुवंशिकता और न ही पर्यावरण प्रभावित करते हैं ।"
+      ],
+      "answer": 0,
+      "explanation": "Development results from the interplay of nature and nurture. (Q18 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "विकास आनुवंशिकता और पर्यावरण की पारस्परिक क्रिया का परिणाम है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "In a progressive classroom,",
+      "textHi": "एक प्रगतिशील कक्षा में",
+      "options": [
+        "knowledge is recalled by the student as per the teacher's instructions.",
+        "knowledge is constructed by the student.",
+        "knowledge is received passively by the student.",
+        "knowledge is reproduced by the student in the same form."
+      ],
+      "optionsHi": [
+        "शिक्षक के निर्देशों के अनुसार विद्यार्थी के द्वारा ज्ञान का अनुस्मरण किया जाता है।",
+        "विद्यार्थी के द्वारा ज्ञान की संरचना की जाती है।",
+        "विद्यार्थी के द्वारा निष्क्रिय रूप से ज्ञान प्राप्त किया जाता है।",
+        "विद्यार्थी के द्वारा ज्ञान को उसी रूप में दोहराया जाता है।"
+      ],
+      "answer": 1,
+      "explanation": "Progressive classrooms see learners as active constructors of knowledge. (Q19 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "प्रगतिशील कक्षा में विद्यार्थी ज्ञान का सक्रिय निर्माता होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A student in your class has repeatedly been told by various sources that people of his social group perform poorly in academics. What should a teacher do to reduce the effect of this stereotype and the resulting stereotype threat?",
+      "textHi": "आपकी कक्षा के एक विद्यार्थी को विभिन्न स्रोतों से बार-बार यह बताया गया है कि उसके सामाजिक वर्ग के लोग शैक्षिक क्षेत्र में निम्न स्तरीय प्रदर्शन करते हैं इस रूढ़िवादिता एवं परिणामिक रूढ़िवादी आशंका के प्रभाव को कम करने के लिए एक शिक्षक को क्या पहल करना चाहिए ?",
+      "options": [
+        "Present stories and examples of role models from different social groups.",
+        "Ignore such concerns.",
+        "Organise competitions between students of different social groups.",
+        "Advise the student to leave studies and join some other field."
+      ],
+      "optionsHi": [
+        "विभिन्न सामाजिक वर्गों के रोल मॉडल से संबंधित कहानियों एवं उदाहरणों को प्रस्तुत करना चाहिए।",
+        "इस प्रकार के सरोकारों को अनदेखा करना चाहिए।",
+        "विभिन्न सामाजिक वर्गों के विद्यार्थियों के बीच प्रतियोगिता आयोजित करनी चाहिए।",
+        "विद्यार्थी से पढ़ाई छोड़कर किसी अन्य क्षेत्र में शामिल होने के लिए सलाह देनी चाहिए।"
+      ],
+      "answer": 0,
+      "explanation": "Counter-stereotypical role models reduce stereotype threat. (Q20 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "रूढ़िवादिता के विपरीत रोल मॉडल दिखाने से रूढ़िवादी आशंका कम होती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What should a teacher do in an inclusive classroom?",
+      "textHi": "एक समावेशी कक्षा में शिक्षक को क्या करना चाहिए ?",
+      "options": [
+        "Pay attention only to gifted and capable children.",
+        "Believe that every child has the capacity to learn according to his/her abilities and strengths.",
+        "Show pity and sympathy towards learners with disabilities.",
+        "Categorise children as 'handicapped child', 'retarded child' etc."
+      ],
+      "optionsHi": [
+        "केवल प्रतिभाशाली एवं योग्य बच्चों पर ध्यान देना चाहिए।",
+        "यह विश्वास करना चाहिए कि प्रत्येक बच्चे में अपनी योग्यताओं एवं शक्ति के अनुसार सीखने की क्षमता है।",
+        "अशक्त अधिगमकर्ताओं के प्रति दया एवं सहानुभूति का भाव प्रदर्शित करना चाहिए।",
+        "बच्चों को ‘अपाहिज बच्चा’, ‘मंद बुद्धि बच्चा’ आदि के रूप में वर्गीकृत करना चाहिए।"
+      ],
+      "answer": 1,
+      "explanation": "Inclusion rests on believing every child can learn. (Q21 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "समावेशन इस विश्वास पर आधारित है कि हर बच्चा सीख सकता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A student shows the following symptoms in class:\n– anxiety about reading\n– difficulty in recognising words or letters\n– poor vocabulary skills\n– difficulty in understanding or remembering a text read earlier\nThese are indicators of:",
+      "textHi": "एक विद्यार्थी कक्षा में निम्नलिखित लक्षण प्रदर्शित करता है :\n– पढ़ने के प्रति चिंता\n– शब्दों या अक्षरों को पहचानने में कठिनाई\n– निम्न स्तरीय शब्दावली कौशल\n– पहले पढ़े हुए पाठ को समझने या याद करने में कठिनाई\nये किसके सूचक हैं ?",
+      "options": [
+        "a student with 'mental impairment'",
+        "an 'autistic' student",
+        "a creative student",
+        "a student with a learning disability"
+      ],
+      "optionsHi": [
+        "‘मानसिक क्षति’ वाले विद्यार्थी के",
+        "एक ‘स्वलीन’ विद्यार्थी के",
+        "एक सृजनात्मक विद्यार्थी के",
+        "अधिगम अशक्तता वाले विद्यार्थी के"
+      ],
+      "answer": 3,
+      "explanation": "These are typical signs of dyslexia, a learning disability. (Q22 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "ये डिस्लेक्सिया (अधिगम अशक्तता) के विशिष्ट लक्षण हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is an example of an effective problem-solving strategy?",
+      "textHi": "निम्नलिखित में से कौन सा प्रभावशाली समस्या समाधान रणनीति का एक उदाहरण है ?",
+      "options": [
+        "Means-end analysis – dividing the problem into several sub-goals",
+        "Paying no attention to evaluating the solution",
+        "Functional fixedness – focusing only on the conventional function of an object",
+        "Response set – remaining limited to one dimension of the problem's presentation"
+      ],
+      "optionsHi": [
+        "साधन-साध्य विश्लेषण – समस्या को अनेक उपलक्ष्यों में विभाजित करना",
+        "समाधान के मूल्यांकन पर बिलकुल ध्यान नहीं देना",
+        "क्रियात्मक अनम्यता – एक वस्तु के केवल परंपरागत कार्य पर ध्यान देना",
+        "प्रतिक्रिया निर्धारण – समस्या प्रस्तुतिकरण के एक ही आयाम में सीमित रहना"
+      ],
+      "answer": 0,
+      "explanation": "Means-end analysis breaks a problem into sub-goals; the others are obstacles to problem solving. (Q23 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "साधन-साध्य विश्लेषण समस्या को उपलक्ष्यों में बाँटता है; बाकी समस्या समाधान में बाधाएँ हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "How can a teacher address the needs of learners with special abilities in an inclusive classroom?",
+      "textHi": "एक शिक्षक एक समावेशी कक्षा में विशेष योग्यता वर्ग वाले अधिगमकर्ताओं की आवश्यकताओं को किस प्रकार से बता सकता है / संबोधित कर सकता है ?",
+      "options": [
+        "By developing specific learning objectives based on an analysis of each student's learning strengths and weaknesses.",
+        "By using paper-pencil tests for assessment and emphasising drill and rote learning.",
+        "By using uniform methods to instruct students.",
+        "By giving excessive written homework and pressurising them to copy answers from other gifted students."
+      ],
+      "optionsHi": [
+        "प्रत्येक विद्यार्थी के अधिगम के सशक्त पक्षों एवं कमजोरियों के विश्लेषण के आधार पर विशिष्ट अधिगम उद्देश्यों को विकसित करना।",
+        "आकलन के लिए पेपर-पेंसिल टेस्ट का प्रयोग करना तथा अभ्यास एवं रटने पर बल देना।",
+        "विद्यार्थियों को निर्देश देने के लिए एक रूप तरीकों का प्रयोग करना।",
+        "अत्यधिक लिखित गृहकार्य देना तथा उत्तरों को अन्य प्रतिभाशाली विद्यार्थियों से नकल करने पर दबाव डालना।"
+      ],
+      "answer": 0,
+      "explanation": "Individualised objectives based on strengths and needs serve diverse learners best. (Q24 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "प्रत्येक विद्यार्थी की क्षमता और आवश्यकता पर आधारित उद्देश्य विविध अधिगमकर्ताओं के लिए उपयुक्त हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "How can a teacher encourage creative students in her class?",
+      "textHi": "एक शिक्षिका अपनी कक्षा में सृजनात्मक विद्यार्थियों को किस प्रकार से प्रोत्साहित कर सकती है?",
+      "options": [
+        "By discouraging students from taking risks and facing challenges",
+        "By emphasising divergent thinking",
+        "By discouraging convergent thinking",
+        "By encouraging multiple perspectives and valuing original ideas"
+      ],
+      "optionsHi": [
+        "विद्यार्थियों को जोखिम लेने एवं चुनौतियाँ का सामना करने से हतोत्साहित करके",
+        "अपसारी चिंतन पर बल देकर",
+        "अभिसारी चिंतन को हतोत्साहित करके",
+        "अनेक परिप्रेक्ष्यों को प्रोत्साहित करके तथा मूल विचारों को महत्त्व देकर"
+      ],
+      "answer": 3,
+      "explanation": "Valuing multiple perspectives and original ideas nurtures creativity (official key: option 4). (Q25 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "अनेक परिप्रेक्ष्यों को प्रोत्साहन और मौलिक विचारों को महत्त्व देना सृजनात्मकता बढ़ाता है (आधिकारिक कुंजी: विकल्प 4)।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following factors favours meaningful learning in the classroom?",
+      "textHi": "निम्नलिखित में से कौन सा कारक कक्षा में सार्थक अधिगम का पक्ष लेता है ?",
+      "options": [
+        "Genuine concern for the subject matter and for children's overall well-being and learning",
+        "Increasing the number of tests to motivate children to study",
+        "Promoting rewards to motivate children to study",
+        "Adopting only the lecture method for instruction"
+      ],
+      "optionsHi": [
+        "विषयवस्तु तथा बच्चों के संपूर्ण कुशलक्षेम एवं अधिगम के प्रति सच्चा सरोकार रखना",
+        "बच्चों को पढ़ने के लिए अभिप्रेरित करने हेतु परीक्षणों की संख्या को बढ़ाना",
+        "बच्चों को पढ़ने के लिए अभिप्रेरित करने हेतु पुरस्कारों को बढ़ावा देना",
+        "निर्देश के लिए केवल व्याख्यान विधि को अपनाना"
+      ],
+      "answer": 0,
+      "explanation": "A caring, engaged teacher creates conditions for meaningful learning. (Q26 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "बच्चों के कल्याण और विषय के प्रति सच्ची चिंता सार्थक अधिगम का आधार है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Children construct intuitive theories about many events. Against this background, what should a teacher do?",
+      "textHi": "बच्चे अनेक घटनाओं के बारे में सहजानुभूत सिद्धांत की संरचना करते हैं । इस पृष्ठभूमि में एक शिक्षक को क्या करना चाहिए ?",
+      "options": [
+        "Scold children for these ideas because they interfere with teaching.",
+        "Challenge these conceptions of children through dialogue.",
+        "Reject these ideas of children.",
+        "Ignore children's ideas and theories."
+      ],
+      "optionsHi": [
+        "बच्चों को इन विचारों के लिए डाँटना चाहिए क्योंकि ये विचार उनके शिक्षण में हस्तक्षेप करते हैं।",
+        "संवाद के द्वारा बच्चों की इन अवधारणाओं को चुनौती देनी चाहिए।",
+        "बच्चों के इन विचारों को खारिज करना चाहिए।",
+        "बच्चों के विचारों एवं सिद्धांतों को अनदेखा करना चाहिए।"
+      ],
+      "answer": 1,
+      "explanation": "Misconceptions are changed by engaging and challenging them through dialogue. (Q27 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "भ्रांतियों को संवाद द्वारा चुनौती देकर ही बदला जा सकता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is NOT an effective teaching method for teaching-learning?",
+      "textHi": "निम्नलिखित में से कौन सी शिक्षण-अधिगम के लिए एक प्रभावशाली शिक्षण प्रणाली नहीं है ?",
+      "options": [
+        "Focusing on reproducing the given knowledge.",
+        "Encouraging children to make guesses through insight.",
+        "Experimentation and observation.",
+        "Dialogue and discussion."
+      ],
+      "optionsHi": [
+        "दिए गए ज्ञान को दोहराने पर ध्यान केंद्रित करना।",
+        "बच्चों को अंतदृष्टि के द्वारा अनुमान लगाने के लिए प्रोत्साहित करना ।",
+        "प्रयोग एवं पर्यवेक्षण ।",
+        "संवाद एवं परिचर्चा"
+      ],
+      "answer": 0,
+      "explanation": "Reproducing given knowledge is rote learning, not effective pedagogy. (Q28 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "दिए गए ज्ञान को दोहराना रटंत है, प्रभावी शिक्षण नहीं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "How can teachers deal with children who do not pay attention to studies in class?",
+      "textHi": "शिक्षक कक्षा में पढ़ने में ध्यान न देने वाले बच्चों से किस प्रकार का बरताव कर सकते हैं ?",
+      "options": [
+        "By giving them excessive worksheets as homework.",
+        "By asking them to go out of the class.",
+        "By repeatedly scolding them in front of the whole class.",
+        "By talking to them and trying to find out the reason for their lack of interest."
+      ],
+      "optionsHi": [
+        "उन्हें गृहकार्य के रूप में अत्यधिक वर्कशीट देकर।",
+        "बच्चों को कक्षा से बाहर जाने के लिए कहकर ।",
+        "पूरी कक्षा के सामने उन्हें बार-बार डाँटकर।",
+        "उनसे बात करके तथा उनकी अरुचि का कारण जानने की कोशिश करके ।"
+      ],
+      "answer": 3,
+      "explanation": "Understanding the cause of disinterest is the first step to helping the child. (Q29 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "अरुचि का कारण जानना बच्चे की मदद का पहला कदम है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The constructivist approach suggests that ______ is essential for the construction of knowledge.",
+      "textHi": "संरचनावादी उपागम बताता है कि ______ ज्ञान की संरचना के लिए अत्यन्त आवश्यक है।",
+      "options": [
+        "rote memorisation",
+        "the student's prior knowledge",
+        "conditioning",
+        "punishment"
+      ],
+      "optionsHi": [
+        "यंत्रवत् याद करना",
+        "विद्यार्थी का पूर्वज्ञान",
+        "अनुबंधन",
+        "दंड"
+      ],
+      "answer": 1,
+      "explanation": "New knowledge is built on the learner's prior knowledge. (Q30 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-child-development-and-pedagogy-answer-key/",
+      "explanationHi": "नया ज्ञान विद्यार्थी के पूर्वज्ञान पर निर्मित होता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "How did the British consolidate their control over India after the revolt of 1857?",
+      "textHi": "1857 के विद्रोह के बाद अंग्रेजों ने किस प्रकार भारत पर अपने नियंत्रण को समेकित किया ?",
+      "options": [
+        "By appeasement and by protecting property rights.",
+        "By transferring all the powers of the East India Company to the British Crown so that Indian affairs could be managed better.",
+        "By recruiting more soldiers from Awadh, Bihar, central India and south India.",
+        "By making policies to protect the landless and peasants."
+      ],
+      "optionsHi": [
+        "तुष्टिकरण तथा संपत्ति अधिकारों की सुरक्षा करके।",
+        "ईस्ट इंडिया कंपनी के सारे अधिकार ब्रिटिश साम्राज्य के हाथ में सौंप कर ताकि भारतीय मामलों को ज्यादा बेहतर ढंग से सँभाला जा सके।",
+        "अवध, बिहार, मध्य भारत और दक्षिण भारत से ज्यादा सिपाहियों की भर्ती कर।",
+        "भूमिहीनों तथा किसानों की रक्षा के लिए नीतियाँ बनाकर।"
+      ],
+      "answer": 1,
+      "explanation": "The Government of India Act 1858 transferred the Company's powers to the British Crown. (Q31 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "1858 के अधिनियम द्वारा कंपनी के अधिकार ब्रिटिश ताज को सौंप दिए गए।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following is NOT a feature of representative democracy?",
+      "textHi": "निम्नलिखित में से क्या प्रतिनिधि लोकतंत्र की विशेषता नहीं हैं ?",
+      "options": [
+        "People's right to vote",
+        "Election of representatives through voting",
+        "Decision-making in the hands of representatives",
+        "Direct participation of the people in decision-making"
+      ],
+      "optionsHi": [
+        "जनता को मतदान का अधिकार",
+        "मतदान द्वारा प्रतिनिधि का चुनाव",
+        "प्रतिनिधियों के हाथ में निर्णय-निर्माण की प्रक्रिया",
+        "जनता की निर्णय निर्माण की प्रक्रिया में प्रत्यक्ष सहभागिता"
+      ],
+      "answer": 3,
+      "explanation": "Direct participation of all people in decisions is direct, not representative, democracy. (Q32 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "निर्णयों में जनता की प्रत्यक्ष भागीदारी प्रत्यक्ष लोकतंत्र की विशेषता है, प्रतिनिधि लोकतंत्र की नहीं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which region of India has been called 'Little Tibet'?",
+      "textHi": "भारत के किस क्षेत्र को ‘छोटा तिब्बत’ कहा गया हैं ?",
+      "options": [
+        "Himachal Pradesh",
+        "Ladakh",
+        "Arunachal Pradesh",
+        "Sikkim"
+      ],
+      "optionsHi": [
+        "हिमाचल प्रदेश",
+        "लद्दाख",
+        "अरुणाचल प्रदेश",
+        "सिक्किम"
+      ],
+      "answer": 1,
+      "explanation": "Ladakh is called Little Tibet (NCERT Class 7). (Q33 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "लद्दाख को 'छोटा तिब्बत' कहा जाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "What is the 'appellate system' in India?",
+      "textHi": "भारत में अपील प्रणाली या पौनर्वादिक प्रणाली किसे कहते हैं ?",
+      "options": [
+        "The provision of appealing to a higher court against the order of a lower court.",
+        "The provision of applying to the judicial service.",
+        "The provision of appealing to Parliament against a court's order.",
+        "The provision of the head of the state executive acting as the highest appellate authority."
+      ],
+      "optionsHi": [
+        "निचली न्यायालय के आदेश के खिलाफ उच्च न्यायालय में अपील का प्रावधान ।",
+        "न्यायिक सेवा में आवेदन का प्रावधान ।",
+        "न्यायालय के आदेश के खिलाफ संसद में अपील का प्रावधान ।",
+        "राज्य कार्यपालिका प्रमुख का सर्वोच्च अपील प्राधिकारी के रूप में कार्यरत होने का प्रावधान ।"
+      ],
+      "answer": 0,
+      "explanation": "Under the appellate system a person can appeal to a higher court if dissatisfied with a lower court's verdict. (Q34 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "अपील प्रणाली में निचले न्यायालय के निर्णय के विरुद्ध उच्च न्यायालय में अपील की जा सकती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following is NOT a feature of the Peninsular Plateau?",
+      "textHi": "निम्नलिखित में से कौन सा प्रायद्वीपीय पठार का लक्षण नहीं है?",
+      "options": [
+        "The west-flowing Mahanadi and Krishna rivers are present on this plateau.",
+        "It lies to the south of the northern plains.",
+        "The Aravali range lies to its north-west.",
+        "It is rich in minerals like coal and iron ore."
+      ],
+      "optionsHi": [
+        "इस पठार पर पश्चिम की ओर बहने वाली महानदी और कृष्णा नदियाँ मौजूद हैं।",
+        "यह उत्तरी मैदानों के दक्षिण में स्थित है।",
+        "इसके उत्तर-पश्चिम में अरावली श्रृंखला स्थित है।",
+        "यहाँ कोयला एवं लौह अयस्क जैसे खनिजों की प्रचुरता है।"
+      ],
+      "answer": 0,
+      "explanation": "The Mahanadi and Krishna flow east into the Bay of Bengal. (Q35 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "महानदी और कृष्णा पूर्व की ओर बहकर बंगाल की खाड़ी में गिरती हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following statements about Africa is correct?",
+      "textHi": "निम्नलिखित में से कौन सा कथन अफ्रीका के बारे में सही है?",
+      "options": [
+        "It has the Ural mountains in its west, which separate it from Asia.",
+        "A very large part of Africa lies in the Southern Hemisphere.",
+        "It is the only continent through which the Tropic of Cancer, the Equator and the Tropic of Capricorn pass.",
+        "The Gobi desert is located in this continent."
+      ],
+      "optionsHi": [
+        "इसके पश्चिम में यूराल पर्वत है जो इसे एशिया से अलग करता है।",
+        "अफ्रीका का बहुत बड़ा भाग दक्षिणी गोलार्द्ध में स्थित है।",
+        "यही एक ऐसा महाद्वीप है जिससे होकर कर्क, विषुवत् तथा मकर, रेखाएँ गुज़रती है।",
+        "गोबी मरुस्थल इस महाद्वीप में स्थित है।"
+      ],
+      "answer": 2,
+      "explanation": "Africa is the only continent crossed by the Tropic of Cancer, the Equator and the Tropic of Capricorn. (Q36 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "अफ्रीका ही ऐसा महाद्वीप है जिससे कर्क, विषुवत और मकर तीनों रेखाएँ गुजरती हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The southern parts of India, especially Tamil Nadu and Andhra Pradesh, receive rain in winter because",
+      "textHi": "भारत के दक्षिणी भागों विशेषकर तमिलनाडु और आंध्रप्रदेश में शरद् ऋतु में वर्षा होती है, क्योंकि",
+      "options": [
+        "winds return from the land and blow towards the Arabian Sea.",
+        "winds return from the land and blow towards the Bay of Bengal.",
+        "winds blow from the Arabian Sea towards the Bay of Bengal.",
+        "winds blow from the Bay of Bengal towards the Arabian Sea."
+      ],
+      "optionsHi": [
+        "पवन स्थल भागों से लौटकर अरब सागर की ओर बहती है।",
+        "पवन स्थल भागों से लौटकर बंगाल की खाड़ी की ओर बहती है।",
+        "पवन अरब सागर से बंगाल की खाड़ी की ओर बहती है।",
+        "पवन बंगाल की खाड़ी से अरब सागर की तरफ बहती है।"
+      ],
+      "answer": 1,
+      "explanation": "Returning north-east winds pick up moisture over the Bay of Bengal and bring rain to the Coromandel coast (as per the key). (Q37 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "लौटती पवनें बंगाल की खाड़ी से नमी लेकर तमिलनाडु तट पर वर्षा करती हैं (कुंजी के अनुसार)।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following is a block mountain?",
+      "textHi": "निम्नलिखित में से कौन भ्रंशोत्थ पर्वत है ?",
+      "options": [
+        "Vosges mountains",
+        "Himalayas",
+        "Appalachians",
+        "Urals"
+      ],
+      "optionsHi": [
+        "वॉसजेस पर्वत",
+        "हिमालय पर्वत",
+        "अप्लेशियन पर्वत",
+        "यूराल पर्वत"
+      ],
+      "answer": 0,
+      "explanation": "The Vosges in Europe are block mountains; the others are fold mountains. (Q38 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "यूरोप के वॉसजेस भ्रंशोत्थ पर्वत हैं; अन्य वलित पर्वत हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Statement (A): We see only one side of the Moon from the Earth.\nStatement (B): The Moon completes one revolution around the Earth in about 27 days and takes about the same time to complete one rotation on its axis.\nChoose the correct option:",
+      "textHi": "कथन (A) : पृथ्वी से हमें चन्द्रमा का केवल एक ही भाग दिखाई पड़ता है।\nकथन (B) : चन्द्रमा पृथ्वी का एक चक्कर लगभग 27 दिनों में पूरा करता है और लगभग इतने ही समय में वह अपने अक्ष पर एक चक्कर भी पूरा करता है।\nनीचे दिए गए विकल्पों में से सही विकल्प का चयन कीजिए:",
+      "options": [
+        "(A) is false, but (B) is true.",
+        "Both (A) and (B) are true and (B) is the correct explanation of (A).",
+        "Both (A) and (B) are true, but (B) is not the correct explanation of (A).",
+        "(A) is true, but (B) is false."
+      ],
+      "optionsHi": [
+        "(A) गलत है, परन्तु (B) सही है।",
+        "(A) और (B) दोनों सही हैं और (B) सही व्याख्या है (A) की।",
+        "(A) और (B) दोनों सही हैं परन्तु (B) सही व्याख्या नहीं है (A) की।",
+        "(A) सही है, परन्तु (B) गलत है।"
+      ],
+      "answer": 1,
+      "explanation": "Equal periods of rotation and revolution keep the same face turned towards the Earth. (Q39 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "घूर्णन और परिक्रमण की अवधि समान होने से चंद्रमा का एक ही भाग पृथ्वी की ओर रहता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Consider statements A, B and C about metamorphic rocks and choose the correct option:\nA. Igneous and sedimentary rocks change into metamorphic rocks under great heat and pressure.\nB. Under great heat and pressure metamorphic rocks melt to form molten magma.\nC. Marble is a metamorphic rock.",
+      "textHi": "कायांतरित शैल के बारे में दिए गए A, B और C कथनों पर विचार कीजिए और सही विकल्प का चयन कीजिए:\nA. आग्नेय और अवसादी शैल उच्च ताप और दाब के प्रभाव में कायांतरित शैलों में परिवर्तित हो जाती है।\nB. कायांतरित शैल उच्च ताप और दाब के प्रभाव में पिघलकर द्रवित मैग्मा बनाते हैं।\nC. संगमरमर एक कायांतरित शैल है।",
+      "options": [
+        "A and C are correct and B is incorrect.",
+        "B and C are correct and A is incorrect.",
+        "A and B are correct and C is incorrect.",
+        "A, B and C are all correct."
+      ],
+      "optionsHi": [
+        "A एवं C सही हैं और B गलत है।",
+        "B एवं C सही हैं और A गलत है।",
+        "A एवं B सही हैं और C गलत है।",
+        "A, B और C तीनों सही हैं।"
+      ],
+      "answer": 3,
+      "explanation": "All three match the rock cycle in NCERT Class 7: metamorphic rocks can melt into magma again, and marble is metamorphic. (Q40 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "NCERT कक्षा 7 के शैल चक्र के अनुसार तीनों सही हैं; कायांतरित शैल भी पिघलकर मैग्मा बनती हैं और संगमरमर कायांतरित है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In which layer of the atmosphere do meteorites entering from space burn up?",
+      "textHi": "अंतरिक्ष से प्रवेश करने वाले उल्कापिंड वायुमंडल के किस परत में आने पर जल जाते हैं ?",
+      "options": [
+        "Stratosphere",
+        "Mesosphere",
+        "Outer atmosphere",
+        "Exosphere"
+      ],
+      "optionsHi": [
+        "समतापमंडल",
+        "मध्यमंडल",
+        "बाह्य वायुमंडल",
+        "बहिमंडल"
+      ],
+      "answer": 1,
+      "explanation": "Meteors burn up in the mesosphere. (Q41 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "उल्कापिंड मध्यमंडल में जल जाते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Transhumance is related to",
+      "textHi": "ऋतु प्रवास जुड़ा हुआ है",
+      "options": [
+        "places where settlements develop.",
+        "movement of people",
+        "closely built houses",
+        "a small artificial enclosure for keeping house plants"
+      ],
+      "optionsHi": [
+        "ऐसे स्थान जहाँ बस्तियाँ विकसित होती हैं।",
+        "लोगों के आवागमन से",
+        "घरों की पास-पास बसावट से",
+        "एक छोटे; घर के पौधे रखने का कृत्रिम अहाता से"
+      ],
+      "answer": 1,
+      "explanation": "Transhumance is the seasonal movement of herders with their animals. (Q42 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "ऋतु प्रवास चरवाहों का अपने पशुओं के साथ मौसमी आवागमन है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Consider statements A and B about permanent winds and choose the correct option.\nA. These winds blow constantly in a fixed direction throughout the year.\nB. The westerlies and easterlies are examples of these.",
+      "textHi": "स्थायी पवनों के संबंध में कथन A और B पर विचार कीजिए और सही विकल्प का चयन कीजिए।\nA. ये पवनें वर्षभर लगातार निश्चित दिशा में चलती रहती हैं।\nB. पश्चिम एवं पूर्वी पवनें इनके उदाहरण हैं।",
+      "options": [
+        "Both A and B are incorrect.",
+        "A is correct, B is incorrect.",
+        "A is incorrect, B is correct.",
+        "Both A and B are correct."
+      ],
+      "optionsHi": [
+        "A और B दोनों गलत हैं।",
+        "A सही है, B गलत है।",
+        "A गलत है, B सही है।",
+        "A और B दोनों सही हैं।"
+      ],
+      "answer": 3,
+      "explanation": "Trade winds, westerlies and easterlies are permanent winds blowing constantly in fixed directions. (Q43 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "व्यापारिक, पछुआ और पूर्वी पवनें स्थायी पवनें हैं जो वर्षभर निश्चित दिशा में चलती हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Campos of Brazil and the Llanos of Venezuela are examples of",
+      "textHi": "ब्राजील के कंपोस और वेनेजुएला के लानोस उदाहरण हैं",
+      "options": [
+        "Mediterranean vegetation",
+        "temperate grasslands",
+        "tundra vegetation",
+        "tropical grasslands"
+      ],
+      "optionsHi": [
+        "भूमध्य सागरीय वनस्पति के",
+        "शीतोष्ण कटिबंधीय घास स्थल के",
+        "टुंड्रा प्रकार की वनस्पति के",
+        "उष्ण कटिबंधीय घास स्थल के"
+      ],
+      "answer": 3,
+      "explanation": "Campos and Llanos are tropical grasslands of South America. (Q44 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "कंपोस और लानोस दक्षिण अमेरिका के उष्णकटिबंधीय घास स्थल हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Consider statements A and B about 'climate' and choose the correct option.\nA. Climate is the day-to-day change in the atmosphere.\nB. The climate of a place depends only on its altitude and relief.",
+      "textHi": "‘जलवायु’ के संबंध में कथन A और B पर विचार कीजिए और सही विकल्प का चयन कीजिए।\nA. जलवायु वायुमंडल में दिन-प्रतिदिन होने वाला परिवर्तन है।\nB. किसी स्थान की जलवायु सिर्फ उसकी ऊँचाई तथा उच्चावच पर निर्भर करती है।",
+      "options": [
+        "Both A and B are incorrect.",
+        "A is correct, B is incorrect.",
+        "A is incorrect, B is correct.",
+        "Both A and B are correct."
+      ],
+      "optionsHi": [
+        "A और B दोनों गलत हैं।",
+        "A सही है, B गलत है।",
+        "A गलत है, B सही है।",
+        "A और B दोनों सही हैं।"
+      ],
+      "answer": 0,
+      "explanation": "Day-to-day change is weather; climate depends on many factors such as latitude, distance from sea and altitude. (Q45 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "दिन-प्रतिदिन का परिवर्तन मौसम है; जलवायु अक्षांश, समुद्र से दूरी, ऊँचाई आदि अनेक कारकों पर निर्भर है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Identify the source of energy on the basis of the given features A and B:\nA. It is a conventional source of energy.\nB. This energy source is released when crude oil is brought to the surface.",
+      "textHi": "दिये गए लक्षणों A और B के आधार पर ऊर्जास्रोत की पहचान करें:\nA. यह एक परंपरागत ऊर्जा का स्रोत है।\nB. यह ऊर्जा-स्रोत तब निर्मुक्त होती है जब अपरिष्कृत तेल को धरातल पर लाया जाता है।",
+      "options": [
+        "Wax",
+        "Biogas",
+        "Natural gas",
+        "Geothermal energy"
+      ],
+      "optionsHi": [
+        "मोम",
+        "बायोगैस",
+        "प्राकृतिक गैस",
+        "भूतापीय ऊर्जा"
+      ],
+      "answer": 2,
+      "explanation": "Natural gas is found with petroleum deposits and is released when crude oil is extracted. (Q46 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "प्राकृतिक गैस पेट्रोलियम के साथ मिलती है और कच्चा तेल निकालते समय निकलती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Where is India's research station 'Maitri' located?",
+      "textHi": "भारत का शोध संस्थान “मैत्री” कहाँ अवस्थित है",
+      "options": [
+        "Asia",
+        "Australia",
+        "Antarctica",
+        "Europe"
+      ],
+      "optionsHi": [
+        "एशिया",
+        "ऑस्ट्रेलिया",
+        "अंटार्कटिका",
+        "यूरोप"
+      ],
+      "answer": 2,
+      "explanation": "Maitri is India's research station in Antarctica. (Q47 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "मैत्री अंटार्कटिका में भारत का शोध केंद्र है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following statements about minerals is NOT correct?",
+      "textHi": "निम्नलिखित में से कौन सा कथन खनिज के संदर्भ में सही नहीं है ?",
+      "options": [
+        "All minerals are non-metallic.",
+        "They are naturally occurring substances.",
+        "They have a definite chemical composition.",
+        "They are formed in different types of geological environments."
+      ],
+      "optionsHi": [
+        "सभी खनिज अधात्विक होते हैं।",
+        "ये प्राकृतिक रूप से प्राप्त होने वाले पदार्थ हैं।",
+        "इनका एक निश्चित रासायनिक संघटन होता है।",
+        "ये विभिन्न प्रकार के भू वैज्ञानिक परिवेश में निर्मित होते हैं।"
+      ],
+      "answer": 0,
+      "explanation": "Minerals may be metallic (e.g. iron ore) or non-metallic. (Q48 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "खनिज धात्विक (जैसे लौह अयस्क) और अधात्विक दोनों होते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Match the following:\na. Narmada valley – i. Early republic\nb. Vajji – ii. Hunting and gathering\nc. Garo hills – iii. Cities about 2500 years ago\nd. Ganga valley – iv. First cities\ne. Indus and its tributaries – v. Early agriculture\n(a b c d e)",
+      "textHi": "निम्नलिखित का मिलान कीजिए :\na. नर्मदा घाटी – i. आरंभिक गणतंत्र\nb. वज्जी – ii. आखेट और संग्रहण\nc. गारो पहाड़ियाँ – iii. लगभग 2500 वर्ष पूर्व के शहर\nd. गंगा घाटी – iv. प्रथम नगर\ne. सिंधु और उसकी सहायक नदियाँ – v. आरंभिक कृषि\n(a b c d e)",
+      "options": [
+        "v iv iii ii i",
+        "i ii iii iv v",
+        "v i ii iv iii",
+        "ii i v iii iv"
+      ],
+      "optionsHi": [
+        "v iv iii ii i",
+        "i ii iii iv v",
+        "v i ii iv iii",
+        "ii i v iii iv"
+      ],
+      "answer": 3,
+      "explanation": "Narmada – hunter-gatherers; Vajji – republic; Garo hills – early farming; Ganga valley – cities 2500 years ago; Indus – first cities (NCERT Class 6). (Q49 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "नर्मदा – आखेट-संग्रहण; वज्जी – गणतंत्र; गारो – आरंभिक कृषि; गंगा घाटी – 2500 वर्ष पूर्व के शहर; सिंधु – प्रथम नगर।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Two statements (A) and (B) are given below in the context of contemporary debates on 'dates and periods' in Indian history:\nStatement (A): Periodisation such as 'Hindu-Muslim-British' is appropriate, because the religion of the rulers has been the only important historical change.\nStatement (B): It is problematic to bring historical processes that take place over long periods within fixed dates and periods.",
+      "textHi": "नीचे दो कथन (A) और (B) भारतीय इतिहास के ‘तिथियों और काल’ के समसामयिक वाद-विवादों के संदर्भ में दिए गए हैं:\nकथन (A) : ‘हिन्दू-मुस्लिम-ब्रिटिश’ जैसी कालावधि उपयुक्त है, क्योंकि शासकों का धर्म ही एकमात्र महत्त्वपूर्ण ऐतिहासिक परिवर्तन रहा है।\nकथन (B) : लम्बी समयावधि में घटित होने वाली ऐतिहासिक प्रक्रियाओं को निश्चित तिथियों और काल विभाजनों के अंतर्गत लाना समस्यात्मक है।",
+      "options": [
+        "(A) is false, but (B) is true.",
+        "Both (A) and (B) are true and (B) is the correct explanation of (A).",
+        "Both (A) and (B) are true, but (B) is not the correct explanation of (A).",
+        "(A) is true, but (B) is false."
+      ],
+      "optionsHi": [
+        "(A) गलत है, किन्तु (B) सही है।",
+        "(A) और (B) दोनों सही हैं तथा (A) की सही व्याख्या (B) है।",
+        "(A) और (B) दोनों सही हैं किन्तु (A) की सही व्याख्या (B) नहीं है।",
+        "(A) सही है, किन्तु (B) गलत है।"
+      ],
+      "answer": 0,
+      "explanation": "Religion of rulers was not the only important change, so (A) is false; (B) is true (NCERT Class 8). (Q50 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "शासकों का धर्म ही एकमात्र महत्त्वपूर्ण परिवर्तन नहीं था, अतः (A) गलत और (B) सही है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Two statements are given below about the new popular Indian art of the nineteenth century.\nStatement (A): Many pictures mocked the changes around, ridiculed the new tastes of English-speaking people and advised women not to step out of the home.\nStatement (B): Images were used to express nationalist ideas and to rouse people against British rule.",
+      "textHi": "नीचे दो कथन उन्नीसवीं शताब्दी में नई लोकप्रिय भारतीय कला के संदर्भ में है।\nकथन (A) : कई चित्रों में अपने आस पास के बदलावों का उपहास किया गया, अंग्रेजी भाषी लोगों के नए शौकों का मज़ाक तथा औरतों को घर से बाहर न निकलने की सलाह दी गई।\nकथन (B) : राष्ट्रवादी विचारों को अभिव्यक्त करने और लोगों को ब्रिटिश शासन के खिलाफ उद्वेलित करने के लिए छवियों का इस्तेमाल किया जाता था।",
+      "options": [
+        "(A) is false, but (B) is true.",
+        "Both (A) and (B) are true and (B) is the correct explanation of (A).",
+        "Both (A) and (B) are true, but (B) is not the correct explanation of (A).",
+        "(A) is true, but (B) is false."
+      ],
+      "optionsHi": [
+        "(A) गलत है, किन्तु (B) सही है।",
+        "(A) और (B) दोनों सही हैं तथा (A) की सही व्याख्या (B) है।",
+        "(A) और (B) दोनों सही हैं किन्तु (A) की सही व्याख्या (B) नहीं है।",
+        "(A) सही है, किन्तु (B) गलत है।"
+      ],
+      "answer": 2,
+      "explanation": "Both are described in NCERT Class 8 (Kalighat art and nationalist imagery), but (B) does not explain (A). (Q51 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "दोनों बातें NCERT कक्षा 8 में हैं (कालीघाट चित्र और राष्ट्रवादी छवियाँ), पर (B), (A) की व्याख्या नहीं है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following can be considered a primary source for understanding early humans in India?",
+      "textHi": "भारत में आरंभिक मानवों पर समझ के लिए निम्नलिखित में से किसे एक प्राथमिक स्रोत माना जा सकता है ?",
+      "options": [
+        "Rock paintings of Madhya Pradesh",
+        "Kangra style paintings",
+        "Rock edict of Girnar",
+        "Padshahnama paintings"
+      ],
+      "optionsHi": [
+        "मध्यप्रदेश की शैल चित्रकला",
+        "कांगड़ा शैली की चित्रकला",
+        "गिरनार का शैल अभिलेख",
+        "पादशाहनामा चित्रकला"
+      ],
+      "answer": 0,
+      "explanation": "Rock paintings (e.g. Bhimbetka) were made by early humans themselves. (Q52 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "शैल चित्र (जैसे भीमबेटका) स्वयं आरंभिक मानवों ने बनाए थे।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Before British rule, children were taught",
+      "textHi": "ब्रिटिश काल से पहले बच्चों को पढ़ाया जाता था",
+      "options": [
+        "to be evaluated through annual examinations.",
+        "in government institutions.",
+        "on payment of a fixed fee.",
+        "throughout the year, except at harvest time when they worked in the fields."
+      ],
+      "optionsHi": [
+        "वार्षिक परीक्षा के माध्यम से मूल्यांकन के लिए।",
+        "सरकारी संस्थानों में।",
+        "एक निश्चित फीस लेकर।",
+        "साल भर, फसल की कटाई के समय छोड़कर, जब वे खेतों में काम करते थे।"
+      ],
+      "answer": 3,
+      "explanation": "Pathshalas had no fixed fee or annual exam and closed during harvest (NCERT Class 8). (Q53 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "पाठशालाओं में न निश्चित फीस थी न वार्षिक परीक्षा, और फसल कटाई के समय कक्षाएँ नहीं होती थीं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Two statements (A) and (B) are given below about the rise of nation-states in Europe in the 18th-19th centuries.\nStatement (A): Until the eighteenth century, people in Europe saw themselves as nation-states.\nStatement (B): In the early nineteenth century, people were made aware that each language community was a separate nation.",
+      "textHi": "नीचे दो कथन (A) और (B) 18-19वीं शताब्दियों में यूरोप में राष्ट्र-राज्यों के उदय के संदर्भ में हैं।\nकथन (A): अठारहवीं शताब्दी तक यूरोप के लोग स्वयं को राष्ट्र-राज्य के रूप में देखते थे।\nकथन (B) : प्रारंभिक उन्नीसवीं शताब्दी में लोगों को यह बोध कराया गया कि प्रत्येक भाषी समुदाय एक अलग राष्ट्र था।",
+      "options": [
+        "(A) is false, but (B) is true.",
+        "Both (A) and (B) are true and (B) is the correct explanation of (A).",
+        "Both (A) and (B) are true, but (B) is not the correct explanation of (A).",
+        "(A) is true, but (B) is false."
+      ],
+      "optionsHi": [
+        "(A) गलत है, किन्तु (B) सही है।",
+        "(A) और (B) दोनों सही हैं तथा (A) की सही व्याख्या (B) है।",
+        "(A) और (B) दोनों सही हैं किन्तु (A) की सही व्याख्या (B) नहीं है।",
+        "(A) सही है, किन्तु (B) गलत है।"
+      ],
+      "answer": 0,
+      "explanation": "Until the 18th century Europeans did not see themselves as nation-states, so (A) is false; (B) is true. (Q54 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "18वीं शताब्दी तक यूरोप के लोग स्वयं को राष्ट्र-राज्य नहीं मानते थे, अतः (A) गलत और (B) सही है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "BCE stands for",
+      "textHi": "बी.सी.ई. का तात्पर्य है",
+      "options": [
+        "Before Contemporary Era",
+        "Before Christian Era",
+        "Before Common Era",
+        "Before Caesar Era"
+      ],
+      "optionsHi": [
+        "बिफ़ोर कॅन्टिंपररी एरा",
+        "बिफ़ोर क्रिश्चन एरा",
+        "बिफ़ोर कॉमन एरा",
+        "बिफ़ोर सीज़र एरा"
+      ],
+      "answer": 2,
+      "explanation": "BCE means Before Common Era. (Q55 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "बी.सी.ई. का अर्थ है बिफ़ोर कॉमन एरा।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "How do we know today that ostriches were found in India in the Palaeolithic age?",
+      "textHi": "हम यह आज कैसे जानते हैं कि पुरापाषाण युग में भारत में शुतुरमुर्ग होते थे ?",
+      "options": [
+        "They are described in the accounts of foreign travellers.",
+        "We find various writings about these birds in works of that time.",
+        "Remains of ostrich eggs have been found at the Patne site in Maharashtra.",
+        "Oral memories about ostriches are recorded in the National Museum, Delhi."
+      ],
+      "optionsHi": [
+        "विदेशी यात्रियों के वृतान्तों में इनका वर्णन है।",
+        "उस समय की कृतियों में इन पक्षियों का विविध लेख हमें मिलता है।",
+        "महाराष्ट्र के पटने पुरास्थल से शुतुरमुर्ग के अंडों के अवशेष मिलें हैं।",
+        "शतुरमुर्गों पर मौखिक स्मृतियाँ हमारे पास दिल्ली के राष्ट्रीय संग्रहालय में अभिलेखित हैं।"
+      ],
+      "answer": 2,
+      "explanation": "Ostrich eggshell remains were found at Patne, Maharashtra (NCERT Class 6). (Q56 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "महाराष्ट्र के पटने से शुतुरमुर्ग के अंडों के अवशेष मिले हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "How did the Harappan civilisation decline?\nA. It seems that the rulers lost control.\nB. Forests may have been destroyed.\nC. The entire area of the civilisation was flooded.\nD. Possibly the rivers dried up.\nChoose the correct explanation:",
+      "textHi": "हड़प्पा सभ्यता का पतन कैसे हुआ ?\nA. ऐसा लगता है कि शासकों का नियंत्रण समाप्त हो गया।\nB. जंगलों का विनाश हो गया होगा।\nC. सभ्यता के पूरे क्षेत्र में बाढ़ आ गई।\nD. संभवतः नदियाँ सूख गई थीं।\nसही व्याख्या का चयन करें:",
+      "options": [
+        "B, C, D",
+        "A, B, C",
+        "A, B, D",
+        "A, C, D"
+      ],
+      "optionsHi": [
+        "B, C, D",
+        "A, B, C",
+        "A, B, D",
+        "A, C, D"
+      ],
+      "answer": 2,
+      "explanation": "Scholars suggest rivers drying up, deforestation and loss of control; floods affected only some areas. (Q57 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "विद्वान नदियों के सूखने, वनों के विनाश और नियंत्रण समाप्ति का सुझाव देते हैं; बाढ़ केवल कुछ क्षेत्रों में आई।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Under Mahayana Buddhism:",
+      "textHi": "महायान बौद्ध धर्म के अंतर्गत :",
+      "options": [
+        "Mathura and Taxila declined as centres of sculpture.",
+        "the Buddha's presence in sculptures was shown only through certain signs.",
+        "images of the Buddha began to be made.",
+        "Bodhisattvas were not accepted because they had yet to attain enlightenment."
+      ],
+      "optionsHi": [
+        "मूर्तिकला के केन्द्रों के रूप में मथुरा एवं तक्षशिला का पतन हुआ।",
+        "मूर्तियों में बुद्ध की उपस्थिति सिर्फ कुछ संकेतों के माध्यम से दर्शाई जाती थी।",
+        "बुद्ध की प्रतिमाएँ बनाई जाने लगीं।",
+        "बोधिसत्वों को नहीं स्वीकारा गया क्योंकि उन्हें अभी भी ज्ञान प्राप्ति करना बाकी था।"
+      ],
+      "answer": 2,
+      "explanation": "Mahayana introduced images of the Buddha, many made at Mathura and Taxila. (Q58 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "महायान में बुद्ध की मूर्तियाँ बनने लगीं, जिनमें से अनेक मथुरा और तक्षशिला में बनीं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Regarding administration and consolidation under the Khalji and Tughluq dynasties, what is correct?",
+      "textHi": "खलजी और तुग़लक वंश के अंतर्गत प्रशासन और समेकन के संदर्भ में सही क्या है ?",
+      "options": [
+        "Alauddin Khalji and Muhammad Tughluq could hold the Gangetic plains by force for a long time.",
+        "A large part of the subcontinent remained under the control of the Delhi Sultans.",
+        "The densely forested areas of the Gangetic plains were penetrated for the first time.",
+        "It was difficult to control distant provinces like Bengal from Delhi."
+      ],
+      "optionsHi": [
+        "अलाउद्दीन ख़लजी और मुहम्मद तुग़लक़ गंगा के मैदानी इलाकों पर ज़ोर जबरदस्ती अपना अधिकार लंबे समय तक रख पाए ।",
+        "उपमहाद्वीप का काफ़ी बड़ा हिस्सा दिल्ली के सुलतानों के अधिकार में रहा।",
+        "गंगा के मैदानी इलाके के घने जंगलों वाले क्षेत्र को पहली बार पैठा गया।",
+        "दिल्ली से बंगाल जैसे सुदर प्रांतों का नियंत्रण कठिन था।"
+      ],
+      "answer": 3,
+      "explanation": "Distant provinces like Bengal were hard to control from Delhi (NCERT Class 7). (Q59 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "बंगाल जैसे दूरस्थ प्रांतों को दिल्ली से नियंत्रित करना कठिन था।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following statements about reconstructing the history of tribal people is incorrect?",
+      "textHi": "जनजातीय लोगों के इतिहास के पुननिर्माण में निम्न में से कौन कथन गलत है ?",
+      "options": [
+        "Tribal societies depended on one another for their varied needs.",
+        "Contemporary historians and travellers gave very little information about tribes.",
+        "Most tribal groups kept written records.",
+        "Tribal people preserved rich customs and oral traditions."
+      ],
+      "optionsHi": [
+        "जनजातीय समाज अपनी विविध किस्म की ज़रूरतों के लिए एक-दूसरे पर निर्भर रहा।",
+        "समकालीन इतिहासकार और मुसाफ़िरों ने जनजातियों के बारे में बहुत कम जानकारी दी है।",
+        "अधिकांश जनजातीय समूहों ने लिखित दस्तावेज़ रखा है।",
+        "जनजातीय लोगों ने समृद्ध रीति-रिवाजों और मौखिक परंपराओं का संरक्षण किया"
+      ],
+      "answer": 2,
+      "explanation": "Most tribal groups did not keep written records; they preserved oral traditions. (Q60 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "अधिकांश जनजातीय समूहों ने लिखित दस्तावेज़ नहीं रखे; उन्होंने मौखिक परंपराएँ संरक्षित कीं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following is NOT an example of gender stereotyping?",
+      "textHi": "निम्नलिखित में से जेंडर रूढ़िवादिता का उदाहरण नहीं है:",
+      "options": [
+        "Seating boys and girls in separate rows to maintain discipline in class.",
+        "Only boys are encouraged to take part in a football tournament.",
+        "Only girls are asked to decorate the class board.",
+        "Although boys try to dominate class discussion, the participation of both girls and boys is encouraged."
+      ],
+      "optionsHi": [
+        "कक्षा में अनुशासन बनाये रखने के लड़कों एवं लड़कियों को अलग अलग पंक्तियों में बिठाना ।",
+        "सिर्फ लड़कों को फुटबॉल टूर्नामेंट में भाग लेने के लिए प्रोत्साहित किया जाता है।",
+        "सिर्फ लड़कियों को कक्षा का बोर्ड सजाने के लिए कहा जाता है।",
+        "हालांकि लड़के कक्षागत चर्चा में दबदबा बनाने का प्रयास करते हैं लेकिन लड़कियों एवं लड़कों, दोनों की सहभागिता को प्रोत्साहित किया जाता है।"
+      ],
+      "answer": 3,
+      "explanation": "Encouraging equal participation counters stereotypes. (Q61 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "दोनों की बराबर भागीदारी को प्रोत्साहन रूढ़िवादिता का विरोध करता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "To make social science teaching effective, it will be necessary:\nA. to preserve all cultural practices of the past.\nB. to critically analyse literary sources, however old they may be.\nC. to remove all non-verbal sources.\nD. to give prominence to triangulation of sources.\nChoose the correct option:",
+      "textHi": "सामाजिक विज्ञान शिक्षण को प्रभावी बनाने के लिए आवश्यक होगा :\nA. अतीत के सभी सांस्कृतिक प्रथाओं को बनाए रखना।\nB. साहित्यिक स्रोतों का समालोचनात्मक विश्लेषण करना चाहे वो कितनी भी पुरानी हो ।\nC. सभी गैर-शाब्दिक स्रोतों का निष्कासन करना।\nD. स्रोतों के ट्राई-एन्ग्यूलेशन (त्रिकोणीयन) को प्रमुखता देना।\nसही विकल्प का चयन करें :",
+      "options": [
+        "Only C and D",
+        "Only A and C",
+        "Only B and C",
+        "Only B and D"
+      ],
+      "optionsHi": [
+        "केवल C तथा D",
+        "केवल A तथा C",
+        "केवल B तथा C",
+        "केवल B तथा D"
+      ],
+      "answer": 3,
+      "explanation": "Critical analysis and cross-checking (triangulation) of sources are core to social science. (Q62 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "स्रोतों का आलोचनात्मक विश्लेषण और त्रिकोणीयन सामाजिक विज्ञान के मूल हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Sensitivity towards 'social justice' can be promoted in the classroom:\nA. by including excerpts of stories of contemporary people's movements and advocacy in class discussions.\nB. by viewing the historical contexts of Indian society as an unequal power equation.\nC. by including constitutional provisions on social justice in class discussions.\nD. by giving immediate corporal punishment to guilty children in class.\nChoose the correct option:",
+      "textHi": "कक्षा में ‘सामाजिक न्याय’ के प्रति संवेदनशीलता को प्रोत्साहित किया जा सकता है :\nA. कक्षा में विचार-विमर्श के दौरान समकालीन जन आंदोलनों और पक्षसमर्थन की कहानियों के अंशों को शामिल करके।\nB. भारतीय सामाजिक परिवेश के ऐतिहासिक सन्दर्भो को एक गैर-बराबर शक्ति समीकरण के रूप में देख कर।\nC. सामाजिक न्याय पर आधारित संवैधानिक प्रावधानों को कक्षा चर्चाओं में शामिल करके।\nD. कक्षा के दोषी बच्चों को तुरंत शारीरिक दंड देकर ।\nसही विकल्प का चयन करें:",
+      "options": [
+        "C and D",
+        "A and B",
+        "A, B and C",
+        "B, C and D"
+      ],
+      "optionsHi": [
+        "C और D",
+        "A और B",
+        "A, B और C",
+        "B, C और D"
+      ],
+      "answer": 2,
+      "explanation": "Corporal punishment is banned and unjust; the other three build sensitivity to social justice. (Q63 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "शारीरिक दंड प्रतिबंधित और अन्यायपूर्ण है; शेष तीन सामाजिक न्याय के प्रति संवेदनशीलता बढ़ाते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "History pedagogy will try to ensure that:\nA. history is constructed on the basis of sources.\nB. history explores continuity and change in social processes.\nC. history engages with differences of interpretation and endorses the views of the dominant community.\nD. history looks at events by placing them in the socio-political contexts of a particular period.\nChoose the correct option:",
+      "textHi": "इतिहास शिक्षणशास्त्र प्रयास करेगा कि :\nA. इतिहास का निर्माण स्रोतों पर आधारित होता है।\nB. इतिहास सामाजिक प्रक्रियाओं में निरंतरता और बदलाव को खोजे।\nC. इतिहास व्याख्याओं के विभेदों से संलग्न हो तथा प्रमुख समुदाय के विचारों को अनुमोदित करे।\nD. इतिहास घटनाओं को एक काल विशेष के सामाजिक-राजनीतिक संदर्भों में रख कर देखे।\nसही विकल्प का चयन करें:",
+      "options": [
+        "Only B, C and D",
+        "Only A, B and C",
+        "Only A, B and D",
+        "Only A, C and D"
+      ],
+      "optionsHi": [
+        "केवल B, C तथा D",
+        "केवल A, B तथा C",
+        "केवल A, B तथा D",
+        "केवल A, C तथा D"
+      ],
+      "answer": 2,
+      "explanation": "History should not endorse the dominant community's view; the other three are sound history pedagogy. (Q64 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "इतिहास को प्रभुत्वशाली समुदाय के विचारों का समर्थन नहीं करना चाहिए; शेष तीन सही हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In India, the right to pollution-free air has been accepted as part of which fundamental right?",
+      "textHi": "प्रदूषण रहित हवा का अधिकार, भारत में किस मौलिक अधिकार के भाग के रूप में स्वीकारा गया है ?",
+      "options": [
+        "Freedom",
+        "Equality",
+        "Life",
+        "Justice"
+      ],
+      "optionsHi": [
+        "आज़ादी",
+        "समानता",
+        "जीवन",
+        "न्याय"
+      ],
+      "answer": 2,
+      "explanation": "Courts have held clean air to be part of the Right to Life (Article 21). (Q65 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "न्यायालयों ने स्वच्छ हवा को जीवन के अधिकार (अनुच्छेद 21) का भाग माना है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who coined the phrase 'unity in diversity' to describe India?",
+      "textHi": "भारत का वर्णन करने के लिए ‘विविधता में एकता’ मुहावरे का निर्माण किसने किया था ?",
+      "options": [
+        "Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar",
+        "M.K. Gandhi"
+      ],
+      "optionsHi": [
+        "राजेन्द्र प्रसाद",
+        "जवाहरलाल नेहरू",
+        "बी.आर. अम्बेडकर",
+        "एम.के. गांधी"
+      ],
+      "answer": 1,
+      "explanation": "Nehru used 'unity in diversity' in The Discovery of India (NCERT Class 6). (Q66 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "नेहरू ने 'डिस्कवरी ऑफ इंडिया' में 'विविधता में एकता' का प्रयोग किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "How many members of the Lok Sabha are nominated rather than elected?",
+      "textHi": "लोक सभा में कितने सदस्य मनोनीत होते हैं ना की मतदान द्वारा चुन कर आते हैं ?",
+      "options": [
+        "0 (none)",
+        "4 (four)",
+        "1 (one)",
+        "2 (two)"
+      ],
+      "optionsHi": [
+        "0 (कोई भी नहीं)",
+        "4 (चार)",
+        "1 (एक)",
+        "2 (दो)"
+      ],
+      "answer": 3,
+      "explanation": "At the time of the exam (2019), the President could nominate 2 Anglo-Indian members; this provision lapsed in 2020. (Q67 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "परीक्षा के समय (2019) राष्ट्रपति 2 एंग्लो-इंडियन सदस्य मनोनीत कर सकते थे; यह प्रावधान 2020 में समाप्त हुआ।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In 2006 the form of government in Nepal changed from monarchy to ______.",
+      "textHi": "2006 में नेपाल में सरकार का रूप राजतंत्र से बदल कर ______ हो गया।",
+      "options": [
+        "oligarchy",
+        "autocracy",
+        "dictatorship",
+        "democracy"
+      ],
+      "optionsHi": [
+        "अल्पतंत्र",
+        "एकतंत्र",
+        "तानाशाही",
+        "लोकतंत्र"
+      ],
+      "answer": 3,
+      "explanation": "People's movement in 2006 led Nepal from monarchy to democracy. (Q68 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "2006 के जन आंदोलन से नेपाल में राजतंत्र के स्थान पर लोकतंत्र आया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "What is called the Costa Rican approach in the field of public health?",
+      "textHi": "जन स्वास्थ्य के क्षेत्र में कोस्टा रीका उपागम किसे कहा गया है?",
+      "options": [
+        "Spending on the health of army soldiers.",
+        "Spending equally on health and security.",
+        "Spending more on the security budget than on the health budget.",
+        "Not keeping an army so that more can be spent on public health."
+      ],
+      "optionsHi": [
+        "सेना के जवानों के स्वास्थ्य पर खर्चा करना।",
+        "स्वास्थ्य और सुरक्षा पर एक समान खर्च करना।",
+        "सुरक्षा बजट पर स्वास्थ्य बजट से ज्यादा खर्च करना।",
+        "सैन्य बल ना रखना ताकि जन स्वास्थ्य पर ज्यादा खर्च किया जा सके।"
+      ],
+      "answer": 3,
+      "explanation": "Costa Rica abolished its army and spends the money on health and education (NCERT Class 7). (Q69 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "कोस्टा रीका ने सेना समाप्त कर वह धन स्वास्थ्य व शिक्षा पर खर्च किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In 1997 the Supreme Court of India framed the Vishaka Guidelines to protect women from sexual harassment ______.",
+      "textHi": "1997 में भारतीय उच्चतम न्यायालय ने विशाखा निर्देश की रचना महिलाओं को ______ यौन उत्पीड़न से बचाने के लिए की।",
+      "options": [
+        "on the streets",
+        "in vehicles",
+        "at workplaces",
+        "in marital relationships"
+      ],
+      "optionsHi": [
+        "सड़कों पर",
+        "गाड़ियों में",
+        "कार्यस्थलों पर",
+        "वैवाहिक संबंधों में"
+      ],
+      "answer": 2,
+      "explanation": "The Vishaka Guidelines dealt with sexual harassment at the workplace. (Q70 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "विशाखा दिशानिर्देश कार्यस्थल पर यौन उत्पीड़न से संबंधित थे।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who among the following appoints the Governor of a state in India?",
+      "textHi": "निम्नलिखित में से कौन, भारत में एक राज्य के राज्यपाल की नियुक्ति करते हैं ?",
+      "options": [
+        "The Attorney General",
+        "Members of the Legislative Assembly",
+        "Members of Parliament",
+        "The Central Government"
+      ],
+      "optionsHi": [
+        "अटार्नी जनरल",
+        "विधानसभा के सदस्य",
+        "संसद के सदस्य",
+        "केन्द्र सरकार"
+      ],
+      "answer": 3,
+      "explanation": "The Governor is appointed by the President on the advice of the Central Government. (Q71 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "राज्यपाल की नियुक्ति केंद्र सरकार की सलाह पर राष्ट्रपति करते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following is NOT a rural administrative official?",
+      "textHi": "निम्नलिखित में से कौन ग्रामीण प्रशासनिक अधिकारी नहीं है ?",
+      "options": [
+        "Lekhpal",
+        "Patwari",
+        "Municipal Corporation Ward Councillor",
+        "Land Records Officer"
+      ],
+      "optionsHi": [
+        "लेखपाल",
+        "पटवारी",
+        "नगर निगम वार्ड काउंसिलर",
+        "भूमि रिकार्ड अधिकारी"
+      ],
+      "answer": 2,
+      "explanation": "A ward councillor belongs to urban local government. (Q72 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "वार्ड काउंसिलर शहरी स्थानीय शासन का हिस्सा है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "What are the D.K. Basu Guidelines given by the Supreme Court of India?",
+      "textHi": "भारतीय उच्चतम न्यायालय द्वारा दिये गये डी.के.बासू निर्देश क्या है ?",
+      "options": [
+        "Guidelines on procedures to be followed by the police during arrest, detention and interrogation.",
+        "Guidelines for preventing sexual harassment at the workplace.",
+        "Guidelines for protecting children from hazardous employment.",
+        "Guidelines for protecting women from domestic violence."
+      ],
+      "optionsHi": [
+        "गिरफ्तारी, नज़रबन्दी और पूछ-ताछ के दौरान पुलिस द्वारा पालन की जाने वाली प्रक्रियाओं से जुड़े निर्देश।",
+        "कार्यस्थल पर यौन उत्पीड़न की रोकथाम के लिए निर्देश।",
+        "बच्चों के हानिकारक रोज़गारों से बचाव के लिए निर्देश।",
+        "घरेलू हिंसा से महिलाओं के बचाव के लिए निर्देश ।"
+      ],
+      "answer": 0,
+      "explanation": "The D.K. Basu Guidelines govern police conduct during arrest and detention. (Q73 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "डी.के. बसु दिशानिर्देश गिरफ्तारी और हिरासत के दौरान पुलिस के आचरण से संबंधित हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Forest Rights Act, 2006 recognises the rights of which category in its title?",
+      "textHi": "वन अधिकार कानून-2006 अपने शीर्षक में कौन सी श्रेणी के अधिकारों को स्वीकारता है ?",
+      "options": [
+        "Most backward castes",
+        "Scheduled Tribes",
+        "Scheduled Castes",
+        "Economically backward classes"
+      ],
+      "optionsHi": [
+        "अति पिछड़ी जातियाँ",
+        "अनुसूचित जनजातियाँ",
+        "अनुसूचित जातियाँ",
+        "आर्थिक रूप से पिछड़े वर्ग"
+      ],
+      "answer": 1,
+      "explanation": "Its full name is the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006. (Q74 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "इसका पूरा नाम अनुसूचित जनजाति और अन्य परंपरागत वन निवासी (वन अधिकारों की मान्यता) अधिनियम, 2006 है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "An example of a secondary source is",
+      "textHi": "द्वितीयक स्रोत का एक उदाहरण है",
+      "options": [
+        "Our Pasts – I – NCERT history textbook for Class 6",
+        "The Constitution of India",
+        "Census Report, 2011",
+        "Birth and death registration records"
+      ],
+      "optionsHi": [
+        "हमारे अतीत – (I) – कक्षा 6 के लिए एन.सी.ई.आर.टी. की इतिहास की पाठ्यपुस्तक",
+        "भारत का संविधान",
+        "जनगणना रिपोर्ट, 2011",
+        "जन्म एवं मृत्यु के पंजीकरण रिकार्ड"
+      ],
+      "answer": 0,
+      "explanation": "A textbook is written from other sources, so it is a secondary source. (Q75 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "पाठ्यपुस्तक अन्य स्रोतों के आधार पर लिखी जाती है, अतः द्वितीयक स्रोत है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Consider the two statements given below:\nA. Examinations are artificial situations created for the convenience of the system, not for the individual learner.\nB. A shift in emphasis from testing memory to testing competencies will reduce stress in social science classrooms.",
+      "textHi": "नीचे दिए दो कथनों पर विचार कीजिए :\nA. परीक्षाएँ, तंत्र की सुविधा के लिए निर्मित कृत्रिम परिस्थितियाँ हैं, न कि व्यक्तिगत शिक्षार्थी के लिए।\nB. स्मृति परीक्षण से दूर दक्षताओं के परीक्षण पर ज़ोर के रूप में बदलाव सामाजिक विज्ञान की कक्षाओं में तनाव को कम करेगा।",
+      "options": [
+        "Statement B is correct, but statement A is incorrect.",
+        "Only statement A is correct.",
+        "Both statements A and B are correct.",
+        "Statement A is correct, but statement B is incorrect."
+      ],
+      "optionsHi": [
+        "कथन B सही है, किन्तु कथन A गलत है।",
+        "केवल कथन A सही है।",
+        "दोनों कथन A एवं B सही हैं।",
+        "कथन A सही है, किन्तु कथन B गलत है।"
+      ],
+      "answer": 2,
+      "explanation": "Both reflect NCF 2005's views on examination reform. (Q76 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "दोनों कथन परीक्षा सुधार पर NCF 2005 के विचारों को दर्शाते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The main aim of a social science teacher should be:",
+      "textHi": "सामाजिक विज्ञान के अध्यापक/अध्यापिका का मुख्य उद्देश्य होना चाहिए:",
+      "options": [
+        "to prepare learners to maintain the status quo in society and accept all decisions of the government.",
+        "to arouse competition among learners.",
+        "to develop an understanding of the relationships among all the elements that make up society.",
+        "to make learners memorise socio-historical facts."
+      ],
+      "optionsHi": [
+        "समाज में यथास्थिति बनाए रखने तथा सरकार के सभी निर्णयों को स्वीकार करने के लिए शिक्षार्थियों को तैयार कराना ।",
+        "शिक्षार्थियों में प्रतिस्पर्धा जागृत करना।",
+        "सभी तत्त्व जो समाज का निर्माण करते हैं, उनके बीच के संबंधों का बोध कराना ।",
+        "शिक्षार्थियों को सामाजिक-ऐतिहासिक तथ्य याद करवाना।"
+      ],
+      "answer": 2,
+      "explanation": "Social science aims at understanding how the elements of society are interrelated. (Q77 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "सामाजिक विज्ञान का उद्देश्य समाज के तत्त्वों के आपसी संबंधों की समझ विकसित करना है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The main purpose of assessment in social science is",
+      "textHi": "सामाजिक विज्ञान में आकलन का मुख्य उद्देश्य है",
+      "options": [
+        "to give feedback to learners and set standards for them to strive towards.",
+        "to test the ability to remember textbook knowledge and reduce exam stress for all learners.",
+        "to classify and label learners.",
+        "to show social differences among learners."
+      ],
+      "optionsHi": [
+        "शिक्षार्थियों को प्रतिपुष्टि देना तथा मानक स्थापित करना जिनको पाने के लिए वे प्रयासरत रहें।",
+        "पाठ्यपुस्तकीय ज्ञान को याद करने की क्षमताओं का परीक्षण तथा सभी शिक्षार्थियों के लिए परीक्षा के तनाव को कम करना।",
+        "शिक्षार्थियों को वर्गीकृत करने एवं चिह्नित करने के लिए।",
+        "शिक्षार्थियों के बीच सामाजिक विभेदों को दर्शाने के लिए।"
+      ],
+      "answer": 0,
+      "explanation": "Assessment should give feedback and clear standards to improve learning. (Q78 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "आकलन का उद्देश्य प्रतिपुष्टि देना और सुधार के लिए मानक तय करना है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Films can be used as an effective teaching tool in a social science class because:\nA. films can bring the outside world into the classroom.\nB. films inspire us with the power to explore unseen and unheard contexts.\nC. films bring forward stories, dialogues and images that may be distant from us in life.\nD. films are an objective medium that can encourage students to present their ideas in one single way.\nChoose the correct option:",
+      "textHi": "सामाजिक विज्ञान की कक्षा में फिल्मों को एक प्रभावी शैक्षणिक उपकरण के रूप में उपयोग किया जा सकता है क्योंकि :\nA. फिल्में कक्षा के भीतर बाहरी दुनिया को ला सकती हैं।\nB. फिल्में अनदेखे और अनसुने संदर्भों को खोजने की शक्ति से प्रेरित करती हैं।\nC. फिल्में ऐसी कहानियों, संवादों और छवियों को सामने लाती हैं जो जीवन में हमसे दूर हो सकती हैं।\nD. फिल्में एक वस्तुनिष्ठ माध्यम हैं जो छात्रों को एक ही तरीके से अपने विचार प्रस्तुत करने के लिए प्रोत्साहित कर सकती हैं।\nसही विकल्प का चयन करें:",
+      "options": [
+        "B, C, D",
+        "A, B, C",
+        "A, B, D",
+        "A, C, D"
+      ],
+      "optionsHi": [
+        "B, C, D",
+        "A, B, C",
+        "A, B, D",
+        "A, C, D"
+      ],
+      "answer": 1,
+      "explanation": "Films are not objective and should not push a single way of thinking; A, B and C are their strengths. (Q79 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "फिल्में वस्तुनिष्ठ नहीं होतीं और एक ही सोच नहीं थोपनी चाहिए; A, B, C इनकी विशेषताएँ हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following statements about using maps in the classroom is correct?\nA. A map is a socio-political construct.\nB. Since time immemorial 'north' has always been shown at the top of maps in all socio-political contexts.\nC. A map is a three-dimensional tool whereas we live in a two-dimensional world.\nD. A map is a support material for developing the 'concept of time' in learners.\nChoose the correct option:",
+      "textHi": "कक्षा में मानचित्र के प्रयोग के संदर्भ में निम्नलिखित कथनों में सही कौन है ?\nA. मानचित्र एक सामाजिक-राजनीतिक निर्मिति है।\nB. चिरकाल से ‘उत्तर’ को सदा सभी सामाजिक-राजनीतिक संदर्भो में मानचित्र में ऊपर दर्शाया गया है।\nC. मानचित्र एक त्रि-आयामी साधन है जबकि हम एक दो-आयामी दुनिया में रहते हैं।\nD. शिक्षार्थियों में ‘समय की अवधारणा’ को विकसित करने के लिए मानचित्र एक सहायक सामग्री है।\nसही विकल्प का चयन करें:",
+      "options": [
+        "A, B and C",
+        "Only A",
+        "Only B",
+        "Only C and D"
+      ],
+      "optionsHi": [
+        "A, B तथा C",
+        "केवल A",
+        "केवल B",
+        "केवल C तथा D"
+      ],
+      "answer": 1,
+      "explanation": "Maps reflect the views of their makers; north-up is a convention, maps are 2-D and they mainly build the concept of space. (Q80 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "मानचित्र बनाने वालों के दृष्टिकोण दर्शाते हैं; उत्तर ऊपर होना परंपरा है, मानचित्र द्वि-आयामी हैं और स्थान की अवधारणा विकसित करते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In an effort to connect learning with learners' lives, a social science teacher should:\nA. deliberately and explicitly include diverse cultural perspectives in the content.\nB. label learners in class on the basis of their personal and family background.\nC. give learners opportunities to share their own examples and experiences in class.\nChoose the correct option:",
+      "textHi": "शिक्षार्थियों के जीवन से अधिगम को जोड़ने के प्रयास में सामाजिक विज्ञान के शिक्षक को चाहिए कि:\nA. विषय-वस्तु में विविध सांस्कृतिक दृष्टिकोणों को इरादतन (जानबूझकर) एवं सुस्पष्ट शामिल करें।\nB. कक्षा में शिक्षार्थियों को उनके निजी एवं पारिवारिक संदर्भ से चिह्नित करना।\nC. शिक्षार्थियों को अपने उदाहरणों एवं अनुभवों – को कक्षा में साझा करने के लिए मौका दे।\nसही विकल्प का चयन करें:",
+      "options": [
+        "Only B is correct.",
+        "A and B are correct.",
+        "A and C are correct.",
+        "B and C are correct."
+      ],
+      "optionsHi": [
+        "केवल B सही है।",
+        "A तथा B सही हैं।",
+        "A एवं C सही हैं।",
+        "B एवं C सही हैं।"
+      ],
+      "answer": 2,
+      "explanation": "Labelling learners by background is harmful; diverse perspectives and sharing experiences connect learning to life. (Q81 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "पृष्ठभूमि के आधार पर चिह्नित करना हानिकारक है; विविध दृष्टिकोण और अनुभव साझा करना अधिगम को जीवन से जोड़ता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "A 'genealogical chart' is used while teaching history:\nA. to depict the growth and development of an empire or dynasty.\nB. to show succession and functional relationships.\nC. to give a chronological outline.\nD. to develop the concept of space in learners.\nChoose the correct option:",
+      "textHi": "इतिहास पढ़ाते वक्त ‘वंशावली चार्ट’ का प्रयोग होता है।\nA. किसी साम्राज्य या वंश के वर्धन एवं विकास को चित्रित करने के लिए।\nB. अनुक्रम एवं प्रकार्यात्मक संबंधों को दर्शाने के लिए।\nC. एक कालक्रमिक रूपरेखा देने के लिए।\nD. शिक्षार्थियों में स्थान की अवधारणा विकसित करने के लिए।\nसही विकल्प का चयन करें:",
+      "options": [
+        "Only C and D are correct.",
+        "A, B and C are correct.",
+        "A, C and D are correct.",
+        "B, C and D are correct."
+      ],
+      "optionsHi": [
+        "केवल C तथा D सही हैं।",
+        "A, B तथा C सही हैं।",
+        "A, C तथा D सही हैं।",
+        "B, C तथा D सही हैं ।"
+      ],
+      "answer": 1,
+      "explanation": "Genealogical charts show dynastic growth, succession and chronology, not space. (Q82 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "वंशावली चार्ट वंश की वृद्धि, उत्तराधिकार और कालक्रम दिखाते हैं, स्थान नहीं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "How should a social science teacher adapt the teaching-learning process while working with visually impaired learners?\nA. Speak clearly and loudly with appropriate pauses and repetition.\nB. Use worksheets with a variety of attractive visuals.\nC. Create opportunities to imagine through verbal cues.\nD. Include tactile materials during class discussions.\nChoose the correct option:",
+      "textHi": "दृष्टि बाधित शिक्षार्थियों के साथ कार्य करते समय एक सामाजिक विज्ञान शिक्षक को किस प्रकार से शिक्षण अधिगम प्रक्रिया में अनुकूलन करना चाहिए ?\nA. यथोचित विराम तथा पुनरावृत्ति के साथ स्पष्ट एवं उच्च आवाज में बोलना।\nB. विविध प्रकार के आकर्षक दृश्यों वाले कार्यपत्रों का प्रयोग करना।\nC. मौखिक संकेतों द्वारा कल्पना करने के अवसरों को उत्पन्न करना।\nD. कक्षा में चर्चा के दौरान ‘टैक्टाइल’ (स्पर्श करने वाली) सामग्रियों को शामिल करना।\nसही विकल्प का चयन करें:",
+      "options": [
+        "Only B, C and D",
+        "Only A and B",
+        "Only A, C and D",
+        "Only B"
+      ],
+      "optionsHi": [
+        "केवल B, C तथा D",
+        "केवल A तथा B",
+        "केवल A, C तथा D",
+        "केवल B"
+      ],
+      "answer": 2,
+      "explanation": "Visual worksheets do not help visually impaired learners; voice, verbal cues and tactile materials do. (Q83 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "दृश्य कार्यपत्र दृष्टिबाधितों के लिए उपयोगी नहीं; स्पष्ट आवाज़, मौखिक संकेत और स्पर्श सामग्री उपयोगी हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Consider the statements about the 'project method' in social science teaching:\nA. It is inspired by a pragmatic (utilitarian) outlook.\nB. It makes learners explorers.\nC. It is entirely a teacher-centred method.\nD. It holds that learning takes place through self-directed activities.\nChoose the correct option:",
+      "textHi": "सामाजिक विज्ञान शिक्षण में ‘प्रोजेक्ट विधि’ के कथनों पर विचार करें:\nA. यह उपयोगितावादी दृष्टिकोण से प्रेरित है।\nB. यह शिक्षार्थियों को खोजी बना देता है।\nC. यह पूर्णरूपेण एक शिक्षक केन्द्रित विधि है।\nD. यह स्व-निर्देशित क्रियाकलापों द्वारा अधिगम को मानती है।\nसही विकल्प का चयन करें :",
+      "options": [
+        "A, C and D are correct.",
+        "A and B are correct.",
+        "A, B and C are correct.",
+        "A, B and D are correct."
+      ],
+      "optionsHi": [
+        "A, C एवं D सही हैं।",
+        "A एवं B सही हैं।",
+        "A, B एवं C सही हैं।",
+        "A, B एवं D सही हैं।"
+      ],
+      "answer": 3,
+      "explanation": "The project method is learner-centred, pragmatic and based on self-directed inquiry. (Q84 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "प्रोजेक्ट विधि शिक्षार्थी-केंद्रित, व्यावहारिक और स्व-निर्देशित खोज पर आधारित है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "From a constructivist perspective keen on inquiry, how will a social science teacher view her learners?\nA. As curious to explore social processes.\nB. As imaginative on the basis of sources.\nC. As trying to suggest solutions to problems.\nD. As postponing discussion of controversial issues to the level of higher education.\nChoose the correct option:",
+      "textHi": "अन्वेषण को इच्छुक रचनात्मक दृष्टिकोण से एक सामाजिक विज्ञान की शिक्षिका अपने शिक्षार्थियों को किस रूप में देखेगी ?\nA. सामाजिक प्रक्रियाओं में खोज करने को उत्सुक।\nB. स्रोतों के आधार पर कल्पनाशील ।\nC. समस्याओं के समाधान के सुझावों की कोशिश करने वाले।\nD. विवादास्पद मुद्दों को उच्चतर शिक्षा के स्तर पर चर्चा करने के लिए स्थगित करने वाले।\nसही विकल्प का चयन करें:",
+      "options": [
+        "Only B, C and D",
+        "Only A and B",
+        "Only A, B and C",
+        "Only A, B and D"
+      ],
+      "optionsHi": [
+        "केवल B, C एवं D",
+        "केवल A एवं B",
+        "केवल A, B एवं C",
+        "केवल A, B एवं D"
+      ],
+      "answer": 2,
+      "explanation": "Constructivism sees learners as curious, imaginative problem-solvers; controversial issues need not be postponed. (Q85 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "रचनावाद शिक्षार्थियों को जिज्ञासु, कल्पनाशील समस्या-समाधानकर्ता मानता है; विवादास्पद मुद्दे टालने की आवश्यकता नहीं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following can help make the social science curriculum more inclusive?\nA. Connecting the curriculum with gender-related issues.\nB. Uniform instruction and a fixed teaching style in class.\nC. Including varied sources—both official and subaltern narratives.\nD. One question paper for all learners.\nChoose the correct option:",
+      "textHi": "सामाजिक विज्ञान के पाठ्यचर्या को अधिक समावेशी बनाने में निम्न में से कौन सहायक हो सकता है?\nA. पाठ्यचर्या को जेंडर सम्बन्धित मुद्दों से जोड़ना।\nB. कक्षा में एकरूप निर्देश एवं एक निश्चित शिक्षण शैली।\nC. अधिकारिक एवं निम्नवर्गीय प्रसंगों के विभिन्न स्रोतों को शामिल करना।\nD. एक परीक्षापत्र सभी शिक्षार्थियों के लिए।\nसही विकल्प का चयन करें:",
+      "options": [
+        "Only B, C and D",
+        "Only A and B",
+        "Only A and C",
+        "Only B and D"
+      ],
+      "optionsHi": [
+        "केवल B, C एवं D",
+        "केवल A एवं B",
+        "केवल A एवं C",
+        "केवल B एवं D"
+      ],
+      "answer": 2,
+      "explanation": "Gender perspectives and multiple (official and subaltern) sources make the curriculum inclusive. (Q86 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "जेंडर दृष्टिकोण और विविध (आधिकारिक व निम्नवर्गीय) स्रोत पाठ्यचर्या को समावेशी बनाते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Why should students learn to be critical?",
+      "textHi": "विद्यार्थियों को विवेचनात्मक होना क्यों सीखना चाहिए ?",
+      "options": [
+        "To value a uniform, homogeneous point of view.",
+        "To point out shortcomings and be cynical about almost everything.",
+        "To maintain the status quo in society.",
+        "To understand how issues are connected to their own lives."
+      ],
+      "optionsHi": [
+        "एकरूप, समशील दृष्टिकोण की कद्र करने के लिए।",
+        "कमियों को इंगित करने के लिए एवं लगभग सभी चीजों पर दोषदर्शी होने के लिए।",
+        "समाज में यथा-स्थिति बनाए रखने के लिए।",
+        "यह समझने के लिए कि मुद्दे उनकी खुद की जिंदगी से कैसे जुड़े हुए हैं।"
+      ],
+      "answer": 3,
+      "explanation": "Critical thinking helps learners relate issues to their own lives. (Q87 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "आलोचनात्मक चिंतन विद्यार्थियों को मुद्दों को अपने जीवन से जोड़ने में मदद करता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Choose the example that shows diversity:",
+      "textHi": "निम्नलिखित उदाहरणों में से विविधता को दर्शाने वाले उदाहरण का चयन करें :",
+      "options": [
+        "Paritosh knows Bangla well, while Suchita speaks Hindi.",
+        "Saroj got the chance to go to school while Nirmala did not.",
+        "Ellen comes from a poor family, while Simon's family is very rich.",
+        "Raghu does not want to include Suresh in the football team because he comes from a particular community."
+      ],
+      "optionsHi": [
+        "परितोष को बांग्ला अच्छी आती है, वही सुचिता हिंदी बोलती है।",
+        "सरोज को स्कूल जाने का मौका मिला जबकि निर्मला को स्कूल जाने का मौका नहीं मिला।",
+        "एलेन एक गरीब परिवार से वास्ता रखता है, जबकि साईमन का परिवार बहुत अमीर है।",
+        "रघु सुरेश को फुटबॉल की टीम में शामिल नहीं करना चाहता है क्योंकि वह समाज के एक खास समुदाय से आता है।"
+      ],
+      "answer": 0,
+      "explanation": "Different languages are diversity; the others show inequality or discrimination. (Q88 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "अलग-अलग भाषाएँ विविधता हैं; बाकी उदाहरण असमानता या भेदभाव दिखाते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "A school's social science educational tour covered Ziro, Bomdila, Namdapha National Park, Tawang and Lisang village. Through which medium would you ask students to identify the two states visited?",
+      "textHi": "एक स्कूल के सामाजिक विज्ञान के शैक्षणिक भ्रमण में जीरो, बोमडिला, नमदाफा राष्ट्रीय उद्यान, तवांग तथा लिसांग गाँव को शामिल किया गया। किस माध्यम से विद्यार्थियों को आप भ्रमण किए गए दो राज्यों को इंगित करने को कहेंगे ?",
+      "options": [
+        "Nagaland and Tripura on a timeline",
+        "Mizoram and Meghalaya on a map",
+        "Manipur and Sikkim on a timeline",
+        "Arunachal Pradesh and Manipur on a map"
+      ],
+      "optionsHi": [
+        "नागालैंड एवं त्रिपुरा एक समय रेखा पर",
+        "मिज़ोरम एवं मेघालय एक मानचित्र पर",
+        "मणिपुर एवं सिक्किम एक समय रेखा पर",
+        "अरुणाचल प्रदेश एवं मणिपुर एक मानचित्र पर"
+      ],
+      "answer": 3,
+      "explanation": "Places are located on a map; Ziro, Bomdila, Namdapha and Tawang are in Arunachal Pradesh (official key: option 4). (Q89 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "स्थानों को मानचित्र पर दर्शाया जाता है; जीरो, बोमडिला, नमदाफा और तवांग अरुणाचल प्रदेश में हैं (आधिकारिक कुंजी: विकल्प 4)।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "A contemporary understanding of social science encourages teachers to do all of the following EXCEPT:",
+      "textHi": "सामाजिक विज्ञान की समसामयिक समझ अध्यापकों को निम्नलिखित सभी को करने को प्रोत्साहित करती है, केवल इसको छोड़कर :",
+      "options": [
+        "giving learners opportunities to use knowledge developed in class in concrete situations.",
+        "encouraging learners to read others' local experiences and explore their own.",
+        "encouraging learners to give identical answers to questions so that everyone can do better.",
+        "praising learners' ability to frame questions on the given content and accepting it as a valid check of learning."
+      ],
+      "optionsHi": [
+        "शिक्षार्थियों को कक्षा में विकसित ज्ञान को मूर्त परिस्थितियों में उपयोग करने के लिए अवसर देना।",
+        "शिक्षार्थियों को दूसरों के स्थानीय अनुभवों को पढ़ने तथा स्वयं के अनुभवों को खोजने के लिए।",
+        "प्रश्नों के समान उत्तर देने के लिए शिक्षार्थियों को प्रोत्साहन देना जिससे कि सभी बेहतर बन सकें।",
+        "शिक्षार्थियों को दिए गए विषयवस्तु पर प्रश्न बनाने की क्षमता के लिए प्रशंसा करना तथा उसे अधिगम की जाँच के लिए वैध स्वीकारना।"
+      ],
+      "answer": 2,
+      "explanation": "Identical answers stifle thinking; social science values varied, reasoned responses. (Q90 of the paper.) Source: https://theexampillar.com/ctet-december-2019-paper-ii-social-studies-social-science-answer-key/",
+      "explanationHi": "एक जैसे उत्तर चिंतन को रोकते हैं; सामाजिक विज्ञान विविध, तर्कपूर्ण उत्तरों को महत्त्व देता है।"
+    }
+  ]
+}

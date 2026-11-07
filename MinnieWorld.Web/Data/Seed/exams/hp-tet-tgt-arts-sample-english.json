@@ -1,0 +1,252 @@
+{
+  "slug": "hp-tet-tgt-arts-sample-english",
+  "title": "HP TET TGT Arts · Free Sectional Test: English",
+  "description": "20 free practice questions on English grammar, vocabulary, idioms and reading comprehension.",
+  "category": "HP TET TGT Arts",
+  "kind": "Sample test",
+  "year": null,
+  "durationMinutes": 20,
+  "price": 0,
+  "questions": [
+    {
+      "section": "English",
+      "text": "Choose the word closest in meaning to EPHEMERAL.",
+      "options": [
+        "Everlasting",
+        "Enormous",
+        "Mysterious",
+        "Short-lived"
+      ],
+      "answer": 3,
+      "explanation": "Ephemeral means lasting for a very short time."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word closest in meaning to DILIGENT.",
+      "options": [
+        "Lazy",
+        "Hardworking",
+        "Clever",
+        "Polite"
+      ],
+      "answer": 1,
+      "explanation": "A diligent person shows steady, careful effort in work."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most nearly opposite in meaning to FRUGAL.",
+      "options": [
+        "Extravagant",
+        "Thrifty",
+        "Careful",
+        "Simple"
+      ],
+      "answer": 0,
+      "explanation": "Frugal means economical with money; extravagant means spending wastefully. Thrifty is a synonym."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most nearly opposite in meaning to VERBOSE.",
+      "options": [
+        "Wordy",
+        "Lengthy",
+        "Concise",
+        "Fluent"
+      ],
+      "answer": 2,
+      "explanation": "Verbose means using more words than needed; concise means brief and to the point."
+    },
+    {
+      "section": "English",
+      "text": "What does the idiom \"a blessing in disguise\" mean?",
+      "options": [
+        "Something that seems unfortunate at first but later proves useful",
+        "A gift that is received secretly",
+        "A person who hides his kindness from others",
+        "A prayer that is said silently"
+      ],
+      "answer": 0,
+      "explanation": "The idiom refers to an apparent misfortune that turns out to have good results."
+    },
+    {
+      "section": "English",
+      "text": "What does the idiom \"to hit the nail on the head\" mean?",
+      "options": [
+        "To hurt oneself by accident",
+        "To work very hard for a long time",
+        "To describe a situation or problem exactly",
+        "To argue strongly with someone"
+      ],
+      "answer": 2,
+      "explanation": "To hit the nail on the head is to say precisely the right thing about a matter."
+    },
+    {
+      "section": "English",
+      "text": "What does the idiom \"to cry over spilt milk\" mean?",
+      "options": [
+        "To waste food carelessly",
+        "To regret something that has already happened and cannot be changed",
+        "To complain about high prices",
+        "To weep loudly in public"
+      ],
+      "answer": 1,
+      "explanation": "The idiom warns against useless regret over past events that cannot be undone."
+    },
+    {
+      "section": "English",
+      "text": "One-word substitution: An abnormal fear of heights.",
+      "options": [
+        "Claustrophobia",
+        "Hydrophobia",
+        "Agoraphobia",
+        "Acrophobia"
+      ],
+      "answer": 3,
+      "explanation": "Acrophobia is the fear of heights; claustrophobia is fear of closed spaces, hydrophobia of water and agoraphobia of open or crowded places."
+    },
+    {
+      "section": "English",
+      "text": "One-word substitution: A speech delivered without any previous preparation.",
+      "options": [
+        "Soliloquy",
+        "Epilogue",
+        "Extempore",
+        "Eulogy"
+      ],
+      "answer": 2,
+      "explanation": "An extempore speech is spoken on the spot without preparation."
+    },
+    {
+      "section": "English",
+      "text": "One-word substitution: A person who habitually eats too much.",
+      "options": [
+        "Gourmet",
+        "Vegetarian",
+        "Cannibal",
+        "Glutton"
+      ],
+      "answer": 3,
+      "explanation": "A glutton eats excessively; a gourmet is a connoisseur of fine food."
+    },
+    {
+      "section": "English",
+      "text": "Spot the part of the sentence that contains an error: She has been working / in this school / since five years. / No error",
+      "options": [
+        "She has been working",
+        "in this school",
+        "since five years.",
+        "No error"
+      ],
+      "answer": 2,
+      "explanation": "\"Since\" is used with a point of time; with a period of time \"for\" is used, so it should be \"for five years\"."
+    },
+    {
+      "section": "English",
+      "text": "Spot the part of the sentence that contains an error: I am looking forward / to meet you / next week. / No error",
+      "options": [
+        "I am looking forward",
+        "to meet you",
+        "next week.",
+        "No error"
+      ],
+      "answer": 1,
+      "explanation": "In \"look forward to\", \"to\" is a preposition and takes a gerund, so the correct form is \"to meeting you\"."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct preposition: He was accused ______ theft.",
+      "options": [
+        "of",
+        "for",
+        "with",
+        "about"
+      ],
+      "answer": 0,
+      "explanation": "The verb \"accuse\" is followed by \"of\": one is accused of a crime."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct question tag: Let's go for a walk, ______?",
+      "options": [
+        "will you",
+        "don't we",
+        "let us",
+        "shall we"
+      ],
+      "answer": 3,
+      "explanation": "Sentences beginning with \"Let's\" take the question tag \"shall we\"."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: Mount Everest is higher than ______ other peak in the world.",
+      "options": [
+        "all",
+        "some",
+        "many",
+        "any"
+      ],
+      "answer": 3,
+      "explanation": "In comparisons of this kind, \"than any other\" + singular noun is the correct structure."
+    },
+    {
+      "section": "English",
+      "text": "In the sentence \"The old man walked slowly to the temple\", the word \"slowly\" is",
+      "options": [
+        "an adverb",
+        "an adjective",
+        "a noun",
+        "a preposition"
+      ],
+      "answer": 0,
+      "explanation": "\"Slowly\" modifies the verb \"walked\" by telling how he walked, so it is an adverb."
+    },
+    {
+      "section": "English",
+      "text": "Read the passage and answer the question. Passage: \"Bees are often noticed only for their sting, yet they quietly support much of the food we eat. While gathering nectar, a bee carries pollen from one flower to another, and this transfer allows many fruit trees and vegetables to form seeds and fruit. Apple growers in the hills have long known that orchards visited by plenty of bees give a better harvest. In recent decades, however, bee numbers have fallen in many regions because of the careless use of pesticides, the loss of wild flowers and sudden changes in weather. Some farmers now keep hives near their orchards and plant flowering shrubs along field borders. Such simple steps remind us that protecting a small insect can also protect our own food supply.\" Question: According to the passage, how do bees help fruit trees and vegetables?",
+      "options": [
+        "By protecting the plants from pesticides",
+        "By carrying pollen from one flower to another",
+        "By keeping harmful insects away with their sting",
+        "By adding nectar to the soil around the plants"
+      ],
+      "answer": 1,
+      "explanation": "The passage says that bees carry pollen between flowers and that this transfer allows plants to form seeds and fruit."
+    },
+    {
+      "section": "English",
+      "text": "Read the passage and answer the question. Passage: \"Bees are often noticed only for their sting, yet they quietly support much of the food we eat. While gathering nectar, a bee carries pollen from one flower to another, and this transfer allows many fruit trees and vegetables to form seeds and fruit. Apple growers in the hills have long known that orchards visited by plenty of bees give a better harvest. In recent decades, however, bee numbers have fallen in many regions because of the careless use of pesticides, the loss of wild flowers and sudden changes in weather. Some farmers now keep hives near their orchards and plant flowering shrubs along field borders. Such simple steps remind us that protecting a small insect can also protect our own food supply.\" Question: Which of the following is NOT given in the passage as a reason for the fall in bee numbers?",
+      "options": [
+        "Careless use of pesticides",
+        "Loss of wild flowers",
+        "Cutting of forests to build roads",
+        "Sudden changes in weather"
+      ],
+      "answer": 2,
+      "explanation": "The passage lists pesticides, loss of wild flowers and sudden weather changes; it does not mention cutting forests for roads."
+    },
+    {
+      "section": "English",
+      "text": "Read the passage and answer the question. Passage: \"Bees are often noticed only for their sting, yet they quietly support much of the food we eat. While gathering nectar, a bee carries pollen from one flower to another, and this transfer allows many fruit trees and vegetables to form seeds and fruit. Apple growers in the hills have long known that orchards visited by plenty of bees give a better harvest. In recent decades, however, bee numbers have fallen in many regions because of the careless use of pesticides, the loss of wild flowers and sudden changes in weather. Some farmers now keep hives near their orchards and plant flowering shrubs along field borders. Such simple steps remind us that protecting a small insect can also protect our own food supply.\" Question: The word \"careless\", as used in the passage, is closest in meaning to",
+      "options": [
+        "thoughtless",
+        "cautious",
+        "expensive",
+        "occasional"
+      ],
+      "answer": 0,
+      "explanation": "\"Careless use\" of pesticides means use without proper thought or care, so \"thoughtless\" is the closest meaning."
+    },
+    {
+      "section": "English",
+      "text": "Read the passage and answer the question. Passage: \"Bees are often noticed only for their sting, yet they quietly support much of the food we eat. While gathering nectar, a bee carries pollen from one flower to another, and this transfer allows many fruit trees and vegetables to form seeds and fruit. Apple growers in the hills have long known that orchards visited by plenty of bees give a better harvest. In recent decades, however, bee numbers have fallen in many regions because of the careless use of pesticides, the loss of wild flowers and sudden changes in weather. Some farmers now keep hives near their orchards and plant flowering shrubs along field borders. Such simple steps remind us that protecting a small insect can also protect our own food supply.\" Question: Which of the following is the most suitable title for the passage?",
+      "options": [
+        "The Danger of Bee Stings",
+        "Small Insects, Big Harvests",
+        "How to Grow Apples in the Hills",
+        "Changing Weather in the Mountains"
+      ],
+      "answer": 1,
+      "explanation": "The passage is mainly about how bees support our food supply and why they should be protected."
+    }
+  ]
+}

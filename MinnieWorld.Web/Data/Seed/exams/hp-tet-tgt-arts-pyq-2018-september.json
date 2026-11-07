@@ -1,0 +1,2405 @@
+{
+  "slug": "hp-tet-tgt-arts-pyq-2018-september",
+  "version": 1,
+  "title": "HP TET TGT Arts · September 2018 (previous year questions)",
+  "description": "Questions asked in the HP TET TGT (Arts) exam held on 8 September 2018, with answers checked against a published solved paper and independently verified. Not the complete paper.",
+  "category": "HP TET TGT Arts",
+  "kind": "Previous year",
+  "year": 2018,
+  "durationMinutes": 128,
+  "price": 10,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What are the mean and standard deviation of 6, 7, 8, 9 and 2 respectively?",
+      "options": [
+        "6.4, 2.43",
+        "5.2, 1.73",
+        "4.4, 2.73",
+        "6.7, 4.23"
+      ],
+      "answer": 0,
+      "explanation": "Mean = 32/5 = 6.4; the variance is 29.2/5 = 5.84, so the standard deviation is about 2.42 (≈ 2.43). (Q1 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-1.html",
+      "textHi": "6, 7, 8, 9 और 2 का माध्य और मानक विचलन क्रमशः क्या है?",
+      "optionsHi": [
+        "6.4, 2.43",
+        "5.2, 1.73",
+        "4.4, 2.73",
+        "6.7, 4.23"
+      ],
+      "explanationHi": "माध्य = 32/5 = 6.4; प्रसरण 29.2/5 = 5.84 है, अतः मानक विचलन लगभग 2.42 (≈ 2.43) है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following fields is not covered in co-scholastic evaluation?",
+      "options": [
+        "Social and physical development",
+        "Human values",
+        "Academic subjects",
+        "Health and cleanliness"
+      ],
+      "answer": 2,
+      "explanation": "Co-scholastic evaluation covers life skills, attitudes, values, health and activities; academic subjects fall under scholastic evaluation. (Q2 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-1.html",
+      "textHi": "सह-शैक्षिक (को-स्कॉलैस्टिक) मूल्यांकन में निम्नलिखित में से कौन-सा क्षेत्र शामिल नहीं होता?",
+      "optionsHi": [
+        "सामाजिक और शारीरिक विकास",
+        "मानवीय मूल्य",
+        "शैक्षिक (अकादमिक) विषय",
+        "स्वास्थ्य और स्वच्छता"
+      ],
+      "explanationHi": "सह-शैक्षिक मूल्यांकन में जीवन कौशल, अभिवृत्तियाँ, मूल्य, स्वास्थ्य और गतिविधियाँ आती हैं; अकादमिक विषय शैक्षिक (स्कॉलैस्टिक) मूल्यांकन में आते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Evaluation is:",
+      "options": [
+        "Only qualitative",
+        "Only quantitative",
+        "Both (A) and (B)",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "Evaluation includes both quantitative description (measurement) and qualitative description, plus value judgement. (Q3 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-1.html",
+      "textHi": "मूल्यांकन होता है:",
+      "optionsHi": [
+        "केवल गुणात्मक",
+        "केवल मात्रात्मक",
+        "(A) और (B) दोनों",
+        "इनमें से कोई नहीं"
+      ],
+      "explanationHi": "मूल्यांकन में मात्रात्मक (मापन) और गुणात्मक दोनों प्रकार का वर्णन तथा मूल्य-निर्णय शामिल होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The proverb \"Grapes are sour\" is related to:",
+      "options": [
+        "Regression",
+        "Aggression",
+        "Compensation",
+        "Rationalization"
+      ],
+      "answer": 3,
+      "explanation": "'Sour grapes' is the classic example of rationalization — giving a plausible excuse for failing to get something. (Q4 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-1.html",
+      "textHi": "\"अंगूर खट्टे हैं\" कहावत किससे संबंधित है?",
+      "optionsHi": [
+        "प्रतिगमन",
+        "आक्रामकता",
+        "क्षतिपूर्ति",
+        "युक्तिकरण (औचित्य-स्थापन)"
+      ],
+      "explanationHi": "'अंगूर खट्टे हैं' युक्तिकरण का प्रसिद्ध उदाहरण है — असफलता के लिए तर्कसंगत लगने वाला बहाना बनाना।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The place of school in the socialization of a child is:",
+      "options": [
+        "After family",
+        "After society",
+        "Through grouping",
+        "At oral stage"
+      ],
+      "answer": 0,
+      "explanation": "The family is the primary agency of socialization; the school comes next as the most important secondary agency. (Q6 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-1.html",
+      "textHi": "बालक के समाजीकरण में विद्यालय का स्थान है:",
+      "optionsHi": [
+        "परिवार के बाद",
+        "समाज के बाद",
+        "समूहीकरण के माध्यम से",
+        "मौखिक अवस्था में"
+      ],
+      "explanationHi": "परिवार समाजीकरण की प्राथमिक संस्था है; उसके बाद विद्यालय सबसे महत्वपूर्ण द्वितीयक संस्था है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Intelligence and creativity are:",
+      "options": [
+        "Negatively related",
+        "Not related",
+        "Positively related",
+        "None of these"
+      ],
+      "answer": 2,
+      "explanation": "Research (e.g. Getzels and Jackson) shows a positive, though moderate, correlation between intelligence and creativity. (Q8 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-1.html",
+      "textHi": "बुद्धि और सृजनात्मकता:",
+      "optionsHi": [
+        "ऋणात्मक रूप से संबंधित हैं",
+        "संबंधित नहीं हैं",
+        "धनात्मक रूप से संबंधित हैं",
+        "इनमें से कोई नहीं"
+      ],
+      "explanationHi": "शोध (जैसे गेट्जेल्स और जैक्सन) बताते हैं कि बुद्धि और सृजनात्मकता में धनात्मक, यद्यपि मध्यम, सहसंबंध होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "What is meant by social environment?",
+      "options": [
+        "Teachers and society",
+        "Relatives and family members",
+        "Parents and family members",
+        "All of these"
+      ],
+      "answer": 3,
+      "explanation": "The social environment includes all the people a child interacts with — family, relatives, teachers and society. (Q9 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-1.html",
+      "textHi": "सामाजिक पर्यावरण से क्या अभिप्राय है?",
+      "optionsHi": [
+        "शिक्षक और समाज",
+        "संबंधी और परिवार के सदस्य",
+        "माता-पिता और परिवार के सदस्य",
+        "ये सभी"
+      ],
+      "explanationHi": "सामाजिक पर्यावरण में वे सभी लोग आते हैं जिनसे बालक का संपर्क होता है — परिवार, संबंधी, शिक्षक और समाज।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who propounded the theory of \"Trial and Error\"?",
+      "options": [
+        "Skinner",
+        "Ross",
+        "Gestalt",
+        "Thorndike"
+      ],
+      "answer": 3,
+      "explanation": "E. L. Thorndike propounded trial-and-error learning from his puzzle-box experiments with cats. (Q10 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-1.html",
+      "textHi": "\"प्रयास और त्रुटि\" का सिद्धांत किसने प्रतिपादित किया?",
+      "optionsHi": [
+        "स्किनर",
+        "रॉस",
+        "गेस्टाल्ट",
+        "थॉर्नडाइक"
+      ],
+      "explanationHi": "ई. एल. थॉर्नडाइक ने बिल्लियों पर पज़ल-बॉक्स प्रयोगों से प्रयास और त्रुटि का सिद्धांत दिया।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "As the infant grows, his mental ability:",
+      "options": [
+        "Stagnates",
+        "Fluctuates",
+        "Decreases",
+        "Increases"
+      ],
+      "answer": 3,
+      "explanation": "Mental ability increases with age through childhood and adolescence as the child matures. (Q12 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-2.html",
+      "textHi": "जैसे-जैसे शिशु बड़ा होता है, उसकी मानसिक योग्यता:",
+      "optionsHi": [
+        "स्थिर हो जाती है",
+        "घटती-बढ़ती रहती है",
+        "घटती है",
+        "बढ़ती है"
+      ],
+      "explanationHi": "परिपक्वता के साथ बाल्यावस्था और किशोरावस्था में मानसिक योग्यता आयु के साथ बढ़ती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Hollingworth is associated with her work on:",
+      "options": [
+        "Mentally retarded",
+        "Gifted children",
+        "Delinquent children",
+        "None of these"
+      ],
+      "answer": 1,
+      "explanation": "Leta Hollingworth is known for her pioneering studies of gifted children. (Q14 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-2.html",
+      "textHi": "हॉलिंगवर्थ का कार्य किससे संबंधित है?",
+      "optionsHi": [
+        "मानसिक रूप से मंद",
+        "प्रतिभाशाली बालक",
+        "अपराधी बालक",
+        "इनमें से कोई नहीं"
+      ],
+      "explanationHi": "लेटा हॉलिंगवर्थ प्रतिभाशाली बालकों पर अपने अग्रणी अध्ययनों के लिए जानी जाती हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Piaget, the sensorimotor stage includes which age group?",
+      "options": [
+        "7 to 11 years",
+        "2 to 7 years",
+        "Birth to 2 years",
+        "11 years and above"
+      ],
+      "answer": 2,
+      "explanation": "Piaget's sensorimotor stage lasts from birth to about 2 years. (Q15 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-2.html",
+      "textHi": "पियाजे के अनुसार संवेदी-गामक (इन्द्रियजनित गामक) अवस्था में कौन-सा आयु वर्ग आता है?",
+      "optionsHi": [
+        "7 से 11 वर्ष",
+        "2 से 7 वर्ष",
+        "जन्म से 2 वर्ष",
+        "11 वर्ष और उससे ऊपर"
+      ],
+      "explanationHi": "पियाजे की संवेदी-गामक अवस्था जन्म से लगभग 2 वर्ष तक रहती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Later childhood is also known as:",
+      "options": [
+        "Gang age",
+        "Age of curiosity",
+        "Age of mental development",
+        "Spontaneous age"
+      ],
+      "answer": 0,
+      "explanation": "Later childhood (about 6–12 years) is called the 'gang age' because children love to form peer groups. (Q16 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-2.html",
+      "textHi": "उत्तर बाल्यावस्था को और किस नाम से जाना जाता है?",
+      "optionsHi": [
+        "टोली (गैंग) आयु",
+        "जिज्ञासा की आयु",
+        "मानसिक विकास की आयु",
+        "स्वतःस्फूर्त आयु"
+      ],
+      "explanationHi": "उत्तर बाल्यावस्था (लगभग 6–12 वर्ष) को 'टोली आयु' कहते हैं क्योंकि इसमें बच्चे साथियों के समूह बनाना पसंद करते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The term \"mental hygiene\" was given by:",
+      "options": [
+        "James Jung",
+        "William Sweetser",
+        "L. Pierce",
+        "W. Beers"
+      ],
+      "answer": 1,
+      "explanation": "William Sweetser coined the term 'mental hygiene' (1843); Clifford Beers later led the mental hygiene movement. (Q17 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-2.html",
+      "textHi": "\"मानसिक स्वास्थ्य विज्ञान\" (मेंटल हाइजीन) शब्द किसने दिया?",
+      "optionsHi": [
+        "जेम्स जंग",
+        "विलियम स्वीट्जर",
+        "एल. पियर्स",
+        "डब्ल्यू. बियर्स"
+      ],
+      "explanationHi": "विलियम स्वीट्जर ने 1843 में 'मेंटल हाइजीन' शब्द दिया; बाद में क्लिफर्ड बियर्स ने मानसिक स्वास्थ्य आंदोलन चलाया।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who is the father of behaviourism?",
+      "options": [
+        "Kurt Lewin",
+        "E. R. Guthrie",
+        "J. B. Watson",
+        "Donald Hebb"
+      ],
+      "answer": 2,
+      "explanation": "John B. Watson founded behaviourism with his 1913 manifesto. (Q18 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-2.html",
+      "textHi": "व्यवहारवाद का जनक कौन है?",
+      "optionsHi": [
+        "कर्ट लेविन",
+        "ई. आर. गुथरी",
+        "जे. बी. वॉटसन",
+        "डोनाल्ड हेब"
+      ],
+      "explanationHi": "जॉन बी. वॉटसन ने 1913 में व्यवहारवाद की स्थापना की।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The formula for calculating intelligence quotient (IQ) is:",
+      "options": [
+        "MA/10 × CA",
+        "MA/CA × 100",
+        "CA/MA × 100",
+        "None of these"
+      ],
+      "answer": 1,
+      "explanation": "IQ = (Mental Age ÷ Chronological Age) × 100. (Q20 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-2.html",
+      "textHi": "बुद्धि-लब्धि (IQ) ज्ञात करने का सूत्र है:",
+      "optionsHi": [
+        "MA/10 × CA",
+        "MA/CA × 100",
+        "CA/MA × 100",
+        "इनमें से कोई नहीं"
+      ],
+      "explanationHi": "बुद्धि-लब्धि = (मानसिक आयु ÷ वास्तविक आयु) × 100।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Piaget, egocentrism is:",
+      "options": [
+        "A child thinks he is the centre of the world and everything revolves around him",
+        "Environment is the centre of knowledge",
+        "Sensorimotor stage",
+        "None of these"
+      ],
+      "answer": 0,
+      "explanation": "Egocentrism is the child's inability to see things from any viewpoint other than his own, as if the world revolves around him. (Q21 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-3.html",
+      "textHi": "पियाजे के अनुसार आत्मकेंद्रिता (अहंकेंद्रिता) है:",
+      "optionsHi": [
+        "बालक स्वयं को संसार का केंद्र समझता है और सब कुछ उसी के चारों ओर घूमता है",
+        "पर्यावरण ज्ञान का केंद्र है",
+        "संवेदी-गामक अवस्था",
+        "इनमें से कोई नहीं"
+      ],
+      "explanationHi": "आत्मकेंद्रिता में बालक दूसरों के दृष्टिकोण से चीज़ों को नहीं देख पाता, मानो संसार उसी के चारों ओर घूमता हो।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The concrete operational stage of cognitive development ranges from:",
+      "options": [
+        "Birth to 2 years",
+        "About 2 to 7 years",
+        "About 7 to 11 years",
+        "About 12 to 15 years"
+      ],
+      "answer": 2,
+      "explanation": "Piaget's concrete operational stage is roughly 7 to 11 years. (Q22 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-3.html",
+      "textHi": "संज्ञानात्मक विकास की मूर्त संक्रियात्मक अवस्था की आयु सीमा है:",
+      "optionsHi": [
+        "जन्म से 2 वर्ष",
+        "लगभग 2 से 7 वर्ष",
+        "लगभग 7 से 11 वर्ष",
+        "लगभग 12 से 15 वर्ष"
+      ],
+      "explanationHi": "पियाजे की मूर्त संक्रियात्मक अवस्था लगभग 7 से 11 वर्ष तक होती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following methods helps to study children with special needs?",
+      "options": [
+        "Introspection method",
+        "Interview method",
+        "Experimental method",
+        "Case study method"
+      ],
+      "answer": 3,
+      "explanation": "The case study method gives an in-depth study of an individual child, which suits children with special needs. (Q23 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-3.html",
+      "textHi": "विशेष आवश्यकता वाले बालकों के अध्ययन में निम्नलिखित में से कौन-सी विधि सहायक है?",
+      "optionsHi": [
+        "अंतर्दर्शन विधि",
+        "साक्षात्कार विधि",
+        "प्रयोगात्मक विधि",
+        "व्यक्ति अध्ययन (केस स्टडी) विधि"
+      ],
+      "explanationHi": "व्यक्ति अध्ययन विधि से किसी एक बालक का गहन अध्ययन होता है, जो विशेष आवश्यकता वाले बालकों के लिए उपयुक्त है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who said, \"Heredity is the sum total of inborn individual traits\"?",
+      "options": [
+        "Douglas and Holland",
+        "B. N. Jha",
+        "Peterson",
+        "Woodworth"
+      ],
+      "answer": 1,
+      "explanation": "This definition of heredity is attributed to B. N. Jha in Indian educational psychology texts. (Q24 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-3.html",
+      "textHi": "\"वंशानुक्रम जन्मजात व्यक्तिगत विशेषताओं का पूर्ण योग है\" — यह किसने कहा?",
+      "optionsHi": [
+        "डगलस और हॉलैंड",
+        "बी. एन. झा",
+        "पीटरसन",
+        "वुडवर्थ"
+      ],
+      "explanationHi": "वंशानुक्रम की यह परिभाषा बी. एन. झा की मानी जाती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Children whose mental age is lower than their chronological age are called:",
+      "options": [
+        "Learning disabled",
+        "Normal children",
+        "Gifted children",
+        "Retarded children"
+      ],
+      "answer": 3,
+      "explanation": "When mental age is below chronological age (IQ well below 100), the child is classed as mentally retarded (now: intellectually disabled). (Q25 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-3.html",
+      "textHi": "जिन बालकों की मानसिक आयु उनकी वास्तविक आयु से कम होती है, उन्हें कहते हैं:",
+      "optionsHi": [
+        "अधिगम अक्षम",
+        "सामान्य बालक",
+        "प्रतिभाशाली बालक",
+        "मंदबुद्धि बालक"
+      ],
+      "explanationHi": "जब मानसिक आयु वास्तविक आयु से कम होती है तो बालक को मंदबुद्धि (बौद्धिक अक्षमता वाला) कहा जाता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which one of these is not a measure of central tendency?",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Standard deviation"
+      ],
+      "answer": 3,
+      "explanation": "Mean, median and mode are measures of central tendency; standard deviation is a measure of dispersion. (Q27 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-3.html",
+      "textHi": "इनमें से कौन-सा केंद्रीय प्रवृत्ति का माप नहीं है?",
+      "optionsHi": [
+        "माध्य",
+        "माध्यिका",
+        "बहुलक",
+        "मानक विचलन"
+      ],
+      "explanationHi": "माध्य, माध्यिका और बहुलक केंद्रीय प्रवृत्ति के माप हैं; मानक विचलन विचलनशीलता (प्रसार) का माप है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The school of behaviourism focuses on studying:",
+      "options": [
+        "Overt behaviour only",
+        "Covert behaviour only",
+        "Both covert and overt behaviour",
+        "None of these"
+      ],
+      "answer": 0,
+      "explanation": "Behaviourism studies only observable (overt) behaviour and rejects the study of inner mental states. (Q29 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-3.html",
+      "textHi": "व्यवहारवादी संप्रदाय किसके अध्ययन पर बल देता है?",
+      "optionsHi": [
+        "केवल प्रकट (बाह्य) व्यवहार",
+        "केवल अप्रकट (आंतरिक) व्यवहार",
+        "प्रकट और अप्रकट दोनों व्यवहार",
+        "इनमें से कोई नहीं"
+      ],
+      "explanationHi": "व्यवहारवाद केवल अवलोकनीय (प्रकट) व्यवहार का अध्ययन करता है और आंतरिक मानसिक अवस्थाओं को अस्वीकार करता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is affected most by extreme scores?",
+      "options": [
+        "Geometric mean",
+        "Arithmetic mean",
+        "Median",
+        "Mode"
+      ],
+      "answer": 1,
+      "explanation": "The arithmetic mean uses every value, so extreme scores pull it the most; median and mode are resistant. (Q30 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-3.html",
+      "textHi": "निम्नलिखित में से कौन चरम (अति) प्राप्तांकों से सर्वाधिक प्रभावित होता है?",
+      "optionsHi": [
+        "गुणोत्तर माध्य",
+        "समांतर माध्य",
+        "माध्यिका",
+        "बहुलक"
+      ],
+      "explanationHi": "समांतर माध्य में सभी मानों का प्रयोग होता है, इसलिए चरम मान उसे सबसे अधिक प्रभावित करते हैं।"
+    },
+    {
+      "section": "English",
+      "text": "Give one word for the expression: Matter written by hand",
+      "options": [
+        "Handwritten",
+        "Manuscript",
+        "Amnesty",
+        "Proof"
+      ],
+      "answer": 1,
+      "explanation": "A manuscript is a document written by hand. (Q31 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Give one word for the expression: Study of the art of teaching",
+      "options": [
+        "Pathology",
+        "Philately",
+        "Pedagogy",
+        "Patrimony"
+      ],
+      "answer": 2,
+      "explanation": "Pedagogy is the method and practice (art and science) of teaching. (Q32 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "The correct masculine gender for 'doe' is:",
+      "options": [
+        "Buck",
+        "Bull",
+        "Fox",
+        "Colt"
+      ],
+      "answer": 0,
+      "explanation": "Doe (female deer/rabbit) — buck is the male. (Q34 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct indirect speech: He said to me, \"Do you know me?\"",
+      "options": [
+        "He asked me if I knew him",
+        "He said to me if I know him",
+        "He said if I knew him",
+        "He asked if I had known him"
+      ],
+      "answer": 0,
+      "explanation": "A yes/no question becomes 'asked + if', with the present tense shifted to past: 'He asked me if I knew him.' (Q35 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct indirect speech: He said, \"Let us take him to the doctor.\"",
+      "options": [
+        "He said let them take him to the doctor",
+        "He suggested that they should take him to the doctor",
+        "He said that doctor should be called",
+        "He asked for the doctor"
+      ],
+      "answer": 1,
+      "explanation": "'Let us' expressing a proposal is reported with 'suggested that ... should'. (Q36 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct option to complete the sentence: Please tell me ______.",
+      "options": [
+        "where is the bus stop",
+        "there is bus stop",
+        "where stop the bus",
+        "where the bus stop is"
+      ],
+      "answer": 3,
+      "explanation": "In an embedded (indirect) question the word order is subject + verb: 'where the bus stop is'. (Q37 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct question tag: You are a bit late today, ______",
+      "options": [
+        "aren't you?",
+        "don't you?",
+        "are you?",
+        "do you?"
+      ],
+      "answer": 0,
+      "explanation": "A positive statement with 'are' takes the negative tag 'aren't you?'. (Q38 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Complete the proverb: As you sow, ______.",
+      "options": [
+        "you get to reap",
+        "so shall you reap",
+        "you raise crops",
+        "you get yield"
+      ],
+      "answer": 1,
+      "explanation": "The proverb is 'As you sow, so shall you reap.' (Q41 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Complete the proverb: Rome ______ in a day.",
+      "options": [
+        "was not built",
+        "was built",
+        "was made",
+        "got built"
+      ],
+      "answer": 0,
+      "explanation": "The proverb is 'Rome was not built in a day.' (Q42 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct preposition: The cat slept on the bed ______ the little boy.",
+      "options": [
+        "besides",
+        "beside",
+        "bed side",
+        "sides"
+      ],
+      "answer": 1,
+      "explanation": "'Beside' means next to; 'besides' means in addition to. (Q43 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct preposition: The toddler fell ______ the chair.",
+      "options": [
+        "of",
+        "for",
+        "off",
+        "on"
+      ],
+      "answer": 2,
+      "explanation": "'Fell off the chair' — 'off' shows movement away from a surface. (Q44 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Change the following simple sentence to complex: I do not know the time of her arrival.",
+      "options": [
+        "I do not know when he will come",
+        "I do not know about her arrival",
+        "When she arrives is unknown",
+        "None of the above"
+      ],
+      "answer": 3,
+      "explanation": "The correct complex sentence is 'I do not know when she will arrive'; option A changes 'her' to 'he', so none of the given options is right. (Q45 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Change the following compound sentence to a simple sentence: He finished his work and went to play.",
+      "options": [
+        "He finished his work and then played",
+        "Finished his work, he played",
+        "Having finished his work, he went to play",
+        "None of the above"
+      ],
+      "answer": 2,
+      "explanation": "A participle phrase ('Having finished his work') turns the compound sentence into a simple one. (Q46 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct conjunction: You must work ______ starve.",
+      "options": [
+        "or",
+        "and",
+        "because",
+        "if"
+      ],
+      "answer": 0,
+      "explanation": "'Or' gives the alternative: work or (else) starve. (Q47 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct conjunction: Many things have happened ______ I left school.",
+      "options": [
+        "for",
+        "of",
+        "and",
+        "since"
+      ],
+      "answer": 3,
+      "explanation": "'Since' marks the point in time from which something has continued (present perfect). (Q48 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the appropriate conjunction: I went swimming ______ it was cold.",
+      "options": [
+        "yet",
+        "because",
+        "although",
+        "so"
+      ],
+      "answer": 2,
+      "explanation": "'Although' shows contrast: I swam in spite of the cold. (Q52 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the appropriate conjunction: Neera must study hard ______ she will fail.",
+      "options": [
+        "and",
+        "because",
+        "yet",
+        "or"
+      ],
+      "answer": 3,
+      "explanation": "'Or' means 'otherwise' here: study hard, or she will fail. (Q53 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the appropriate conjunction: Dinner was ready ______ we sat down to eat.",
+      "options": [
+        "though",
+        "so",
+        "lest",
+        "but"
+      ],
+      "answer": 1,
+      "explanation": "'So' introduces the result: dinner was ready, so we sat down to eat. (Q54 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the antonym of the word in capitals: MISER",
+      "options": [
+        "Spiritual",
+        "Foreign",
+        "Villain",
+        "Spendthrift"
+      ],
+      "answer": 3,
+      "explanation": "A miser hoards money; a spendthrift spends it wastefully. (Q55 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the antonym of the word in capitals: FLOAT",
+      "options": [
+        "Loose",
+        "Sink",
+        "Empty",
+        "Fall"
+      ],
+      "answer": 1,
+      "explanation": "The opposite of float is sink. (Q56 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct indirect speech: He said, \"Be quiet and listen to my words.\"",
+      "options": [
+        "He ordered them to be quiet",
+        "He told them to be quiet and listen to my words",
+        "He urged them to be quiet and listen to his words",
+        "He said be quiet and listen to my words"
+      ],
+      "answer": 2,
+      "explanation": "An imperative is reported with a reporting verb + infinitive, and 'my' changes to 'his'; only option C keeps the whole sentence with the correct pronoun. (Q57 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-6.html"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who was the first Chief Justice of the High Court of Himachal Pradesh?",
+      "options": [
+        "Justice Mirza Hameedullah Beg",
+        "Justice Mehr Chand Mahajan",
+        "Justice Mansoor Ahmad Mir",
+        "Justice T. S. Thakur"
+      ],
+      "answer": 0,
+      "explanation": "Justice M. H. Beg became the first Chief Justice of the H.P. High Court in 1971 (he later became Chief Justice of India). (Q61 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-7.html",
+      "textHi": "हिमाचल प्रदेश उच्च न्यायालय के पहले मुख्य न्यायाधीश कौन थे?",
+      "optionsHi": [
+        "न्यायमूर्ति मिर्ज़ा हमीदुल्लाह बेग",
+        "न्यायमूर्ति मेहर चंद महाजन",
+        "न्यायमूर्ति मंसूर अहमद मीर",
+        "न्यायमूर्ति टी. एस. ठाकुर"
+      ],
+      "explanationHi": "न्यायमूर्ति एम. एच. बेग 1971 में हिमाचल प्रदेश उच्च न्यायालय के पहले मुख्य न्यायाधीश बने (बाद में वे भारत के मुख्य न्यायाधीश बने)।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "'Indira Point' is situated in:",
+      "options": [
+        "Lakshadweep",
+        "Daman and Diu",
+        "Tamil Nadu",
+        "Andaman and Nicobar"
+      ],
+      "answer": 3,
+      "explanation": "Indira Point, India's southernmost point, is on Great Nicobar Island. (Q62 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-7.html",
+      "textHi": "'इंदिरा पॉइंट' कहाँ स्थित है?",
+      "optionsHi": [
+        "लक्षद्वीप",
+        "दमन और दीव",
+        "तमिलनाडु",
+        "अंडमान और निकोबार"
+      ],
+      "explanationHi": "भारत का सबसे दक्षिणी बिंदु इंदिरा पॉइंट ग्रेट निकोबार द्वीप पर है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The famous firing incident of Dhami princely state took place in:",
+      "options": [
+        "1947",
+        "1942",
+        "1939",
+        "1945"
+      ],
+      "answer": 2,
+      "explanation": "The Dhami firing (Dhami Goli Kand) took place on 16 July 1939. (Q63 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-7.html",
+      "textHi": "धामी रियासत का प्रसिद्ध गोलीकांड कब हुआ?",
+      "optionsHi": [
+        "1947",
+        "1942",
+        "1939",
+        "1945"
+      ],
+      "explanationHi": "धामी गोलीकांड 16 जुलाई 1939 को हुआ था।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The colour of hydrogen gas is:",
+      "options": [
+        "Yellow",
+        "Orange",
+        "Black",
+        "Colourless"
+      ],
+      "answer": 3,
+      "explanation": "Hydrogen is a colourless, odourless gas. (Q64 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-7.html",
+      "textHi": "हाइड्रोजन गैस का रंग होता है:",
+      "optionsHi": [
+        "पीला",
+        "नारंगी",
+        "काला",
+        "रंगहीन"
+      ],
+      "explanationHi": "हाइड्रोजन रंगहीन और गंधहीन गैस है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "'World Blood Donor Day' is celebrated on:",
+      "options": [
+        "5th June",
+        "14th June",
+        "4th April",
+        "16th September"
+      ],
+      "answer": 1,
+      "explanation": "World Blood Donor Day is 14 June, the birthday of Karl Landsteiner. (Q65 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-7.html",
+      "textHi": "'विश्व रक्तदाता दिवस' कब मनाया जाता है?",
+      "optionsHi": [
+        "5 जून",
+        "14 जून",
+        "4 अप्रैल",
+        "16 सितंबर"
+      ],
+      "explanationHi": "विश्व रक्तदाता दिवस 14 जून को कार्ल लैंडस्टीनर के जन्मदिन पर मनाया जाता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who gave the title 'Father of the Nation' to Mahatma Gandhi?",
+      "options": [
+        "Gopal Krishna Gokhale",
+        "Subhash Chandra Bose",
+        "Jawaharlal Nehru",
+        "Madan Mohan Malviya"
+      ],
+      "answer": 1,
+      "explanation": "Subhas Chandra Bose first addressed Gandhi as 'Father of the Nation' in a radio broadcast from Singapore in 1944. (Q66 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-7.html",
+      "textHi": "महात्मा गांधी को 'राष्ट्रपिता' की उपाधि किसने दी?",
+      "optionsHi": [
+        "गोपाल कृष्ण गोखले",
+        "सुभाष चंद्र बोस",
+        "जवाहरलाल नेहरू",
+        "मदन मोहन मालवीय"
+      ],
+      "explanationHi": "सुभाष चंद्र बोस ने 1944 में सिंगापुर से रेडियो प्रसारण में गांधीजी को पहली बार 'राष्ट्रपिता' कहा।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Under which Article can a financial emergency be declared in India?",
+      "options": [
+        "352",
+        "356",
+        "360",
+        "368"
+      ],
+      "answer": 2,
+      "explanation": "Article 360 deals with financial emergency (352 is national emergency, 356 President's rule). (Q67 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-7.html",
+      "textHi": "भारत में किस अनुच्छेद के अंतर्गत वित्तीय आपातकाल घोषित किया जा सकता है?",
+      "optionsHi": [
+        "352",
+        "356",
+        "360",
+        "368"
+      ],
+      "explanationHi": "अनुच्छेद 360 वित्तीय आपातकाल से संबंधित है (352 राष्ट्रीय आपातकाल, 356 राष्ट्रपति शासन)।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "National Youth Festival is organised every year on the birth anniversary of:",
+      "options": [
+        "Rajiv Gandhi",
+        "Swami Vivekananda",
+        "Bhagat Singh",
+        "Laxmi Bai"
+      ],
+      "answer": 1,
+      "explanation": "National Youth Day/Festival begins on 12 January, Swami Vivekananda's birth anniversary. (Q68 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-7.html",
+      "textHi": "राष्ट्रीय युवा महोत्सव प्रतिवर्ष किसकी जयंती पर आयोजित किया जाता है?",
+      "optionsHi": [
+        "राजीव गांधी",
+        "स्वामी विवेकानंद",
+        "भगत सिंह",
+        "लक्ष्मीबाई"
+      ],
+      "explanationHi": "राष्ट्रीय युवा दिवस/महोत्सव 12 जनवरी को स्वामी विवेकानंद की जयंती पर आरंभ होता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which TV channel was ordered to go off air for 24 hours by the Ministry of Information and Broadcasting on the charge of airing sensitive information about the Pathankot airbase terror attack?",
+      "options": [
+        "DD 1",
+        "Aaj Tak",
+        "NDTV India",
+        "Zee News"
+      ],
+      "answer": 2,
+      "explanation": "In November 2016 the I&B Ministry ordered NDTV India off air for a day over its Pathankot attack coverage (the order was later put on hold). (Q70 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-7.html",
+      "textHi": "पठानकोट वायुसेना अड्डे पर आतंकी हमले से जुड़ी संवेदनशील जानकारी प्रसारित करने के आरोप में सूचना एवं प्रसारण मंत्रालय ने किस टीवी चैनल को 24 घंटे बंद रखने का आदेश दिया था?",
+      "optionsHi": [
+        "डीडी 1",
+        "आज तक",
+        "एनडीटीवी इंडिया",
+        "ज़ी न्यूज़"
+      ],
+      "explanationHi": "नवंबर 2016 में सूचना एवं प्रसारण मंत्रालय ने पठानकोट हमले के कवरेज पर एनडीटीवी इंडिया को एक दिन बंद रखने का आदेश दिया था।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which mirror is used as a rear-view mirror in vehicles?",
+      "options": [
+        "Concave mirror",
+        "Convex mirror",
+        "Plane mirror",
+        "None of these"
+      ],
+      "answer": 1,
+      "explanation": "A convex mirror gives an erect, diminished image and a wider field of view. (Q71 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-8.html",
+      "textHi": "वाहनों में पीछे का दृश्य देखने के लिए कौन-सा दर्पण प्रयोग किया जाता है?",
+      "optionsHi": [
+        "अवतल दर्पण",
+        "उत्तल दर्पण",
+        "समतल दर्पण",
+        "इनमें से कोई नहीं"
+      ],
+      "explanationHi": "उत्तल दर्पण सीधा, छोटा प्रतिबिंब और अधिक विस्तृत दृश्य-क्षेत्र देता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who was India's flag bearer at the closing ceremony of the Rio Olympics?",
+      "options": [
+        "Abhinav Bindra",
+        "Sakshi Malik",
+        "P. V. Sindhu",
+        "Dipa Karmakar"
+      ],
+      "answer": 1,
+      "explanation": "Bronze medallist wrestler Sakshi Malik carried the flag at the Rio 2016 closing ceremony (Bindra did so at the opening). (Q72 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-8.html",
+      "textHi": "रियो ओलंपिक के समापन समारोह में भारत की ध्वजवाहक कौन थीं?",
+      "optionsHi": [
+        "अभिनव बिंद्रा",
+        "साक्षी मलिक",
+        "पी. वी. सिंधु",
+        "दीपा करमाकर"
+      ],
+      "explanationHi": "कांस्य पदक विजेता पहलवान साक्षी मलिक रियो 2016 के समापन समारोह में ध्वजवाहक थीं (उद्घाटन में अभिनव बिंद्रा)।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which mosquito is responsible for spreading yellow fever?",
+      "options": [
+        "Aedes aegypti",
+        "Aedes albopictus",
+        "Culex pipiens",
+        "None of these"
+      ],
+      "answer": 0,
+      "explanation": "Yellow fever is transmitted mainly by the Aedes aegypti mosquito. (Q73 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-8.html",
+      "textHi": "पीत ज्वर (येलो फीवर) फैलाने के लिए कौन-सा मच्छर उत्तरदायी है?",
+      "optionsHi": [
+        "एडीज़ एजिप्टी",
+        "एडीज़ एल्बोपिक्टस",
+        "क्यूलेक्स पिपिएन्स",
+        "इनमें से कोई नहीं"
+      ],
+      "explanationHi": "पीत ज्वर मुख्यतः एडीज़ एजिप्टी मच्छर से फैलता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which state is known as the 'Jewel of India'?",
+      "options": [
+        "Nagaland",
+        "Manipur",
+        "Tripura",
+        "Assam"
+      ],
+      "answer": 1,
+      "explanation": "Manipur was called the 'Jewel of India' by Jawaharlal Nehru. (Q74 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-8.html",
+      "textHi": "किस राज्य को 'भारत का रत्न' (ज्वेल ऑफ इंडिया) कहा जाता है?",
+      "optionsHi": [
+        "नागालैंड",
+        "मणिपुर",
+        "त्रिपुरा",
+        "असम"
+      ],
+      "explanationHi": "जवाहरलाल नेहरू ने मणिपुर को 'भारत का रत्न' कहा था।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Helina and Amogha-1 are the names of:",
+      "options": [
+        "Anti-tank guided missiles",
+        "Ballistic missiles",
+        "Air-to-air missiles",
+        "None of these"
+      ],
+      "answer": 0,
+      "explanation": "Helina (helicopter-launched Nag) and Amogha-1 are Indian anti-tank guided missiles. (Q75 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-8.html",
+      "textHi": "हेलिना और अमोघ-1 किसके नाम हैं?",
+      "optionsHi": [
+        "टैंक-रोधी निर्देशित मिसाइलें",
+        "बैलिस्टिक मिसाइलें",
+        "हवा से हवा में मार करने वाली मिसाइलें",
+        "इनमें से कोई नहीं"
+      ],
+      "explanationHi": "हेलिना (हेलीकॉप्टर से दागी जाने वाली नाग) और अमोघ-1 भारतीय टैंक-रोधी निर्देशित मिसाइलें हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The oldest Dravidian language is:",
+      "options": [
+        "Tamil",
+        "Telugu",
+        "Kannada",
+        "Malayalam"
+      ],
+      "answer": 0,
+      "explanation": "Tamil is the oldest literary Dravidian language, with Sangam literature over 2,000 years old. (Q76 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-8.html",
+      "textHi": "सबसे प्राचीन द्रविड़ भाषा है:",
+      "optionsHi": [
+        "तमिल",
+        "तेलुगु",
+        "कन्नड़",
+        "मलयालम"
+      ],
+      "explanationHi": "तमिल सबसे प्राचीन साहित्यिक द्रविड़ भाषा है, जिसका संगम साहित्य 2000 वर्ष से अधिक पुराना है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who was the chief counsellor (priest) of the Aryan king Divodasa?",
+      "options": [
+        "Panini",
+        "Kapil Muni",
+        "Megasthenes",
+        "Rishi Bharadwaj"
+      ],
+      "answer": 3,
+      "explanation": "In the Rigveda, the sage Bharadvaja is the priest and adviser of King Divodasa. (Q77 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-8.html",
+      "textHi": "आर्य राजा दिवोदास के प्रमुख परामर्शदाता (पुरोहित) कौन थे?",
+      "optionsHi": [
+        "पाणिनि",
+        "कपिल मुनि",
+        "मेगस्थनीज़",
+        "ऋषि भारद्वाज"
+      ],
+      "explanationHi": "ऋग्वेद में ऋषि भारद्वाज राजा दिवोदास के पुरोहित और परामर्शदाता बताए गए हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "'Patthar ka Khel' (stone-pelting fair) is a famous fair of:",
+      "options": [
+        "Nirmand",
+        "Mashobra",
+        "Darlaghat",
+        "Halog"
+      ],
+      "answer": 3,
+      "explanation": "The stone-throwing fair is held at Halog (Dhami, Shimla) on the day after Diwali. (Q78 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-8.html",
+      "textHi": "'पत्थर का खेल' किस स्थान का प्रसिद्ध मेला है?",
+      "optionsHi": [
+        "निरमंड",
+        "मशोबरा",
+        "दाड़लाघाट",
+        "हलोग"
+      ],
+      "explanationHi": "पत्थर का खेल मेला दीवाली के अगले दिन हलोग (धामी, शिमला) में होता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which was the longest expressway of India (as of 2018)?",
+      "options": [
+        "Yamuna Expressway",
+        "Hyderabad Outer Ring Road",
+        "Ahmedabad–Vadodara Expressway",
+        "Agra–Lucknow Expressway"
+      ],
+      "answer": 3,
+      "explanation": "The 302 km Agra–Lucknow Expressway (opened 2017) was India's longest at the time of the exam. (Q79 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-8.html",
+      "textHi": "भारत का सबसे लंबा एक्सप्रेसवे (2018 तक) कौन-सा था?",
+      "optionsHi": [
+        "यमुना एक्सप्रेसवे",
+        "हैदराबाद आउटर रिंग रोड",
+        "अहमदाबाद–वडोदरा एक्सप्रेसवे",
+        "आगरा–लखनऊ एक्सप्रेसवे"
+      ],
+      "explanationHi": "302 किमी लंबा आगरा–लखनऊ एक्सप्रेसवे (2017) परीक्षा के समय भारत का सबसे लंबा एक्सप्रेसवे था।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Between which countries are cricket matches played for 'The Ashes'?",
+      "options": [
+        "Australia–England",
+        "Australia–South Africa",
+        "England–New Zealand",
+        "New Zealand–Australia"
+      ],
+      "answer": 0,
+      "explanation": "The Ashes is the Test series between England and Australia. (Q80 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-8.html",
+      "textHi": "'द एशेज़' के लिए क्रिकेट मैच किन देशों के बीच खेले जाते हैं?",
+      "optionsHi": [
+        "ऑस्ट्रेलिया–इंग्लैंड",
+        "ऑस्ट्रेलिया–दक्षिण अफ्रीका",
+        "इंग्लैंड–न्यूज़ीलैंड",
+        "न्यूज़ीलैंड–ऑस्ट्रेलिया"
+      ],
+      "explanationHi": "एशेज़ इंग्लैंड और ऑस्ट्रेलिया के बीच टेस्ट शृंखला है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which pass separates Mandi from Kullu?",
+      "options": [
+        "Dulchi Pass",
+        "Chobia Pass",
+        "Sach Pass",
+        "Indrahar Pass"
+      ],
+      "answer": 0,
+      "explanation": "Dulchi Pass lies on the Mandi–Kullu border. (Q81 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-9.html",
+      "textHi": "कौन-सा दर्रा मंडी को कुल्लू से अलग करता है?",
+      "optionsHi": [
+        "दुलची दर्रा",
+        "चोबिया दर्रा",
+        "साच दर्रा",
+        "इंद्रहार दर्रा"
+      ],
+      "explanationHi": "दुलची दर्रा मंडी–कुल्लू सीमा पर स्थित है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The name of Japan's parliament is:",
+      "options": [
+        "Duma",
+        "Knesset",
+        "Diet",
+        "None of the above"
+      ],
+      "answer": 2,
+      "explanation": "Japan's legislature is the National Diet (Duma is Russia's, Knesset is Israel's). (Q82 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-9.html",
+      "textHi": "जापान की संसद का नाम है:",
+      "optionsHi": [
+        "ड्यूमा",
+        "नेसेट",
+        "डायट",
+        "इनमें से कोई नहीं"
+      ],
+      "explanationHi": "जापान की संसद 'डायट' कहलाती है (ड्यूमा रूस की, नेसेट इज़राइल की)।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who was the father of 'Operation Flood'?",
+      "options": [
+        "Norman Borlaug",
+        "M. S. Swaminathan",
+        "Verghese Kurien",
+        "William Gaud"
+      ],
+      "answer": 2,
+      "explanation": "Dr Verghese Kurien led Operation Flood, India's White Revolution. (Q83 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-9.html",
+      "textHi": "'ऑपरेशन फ्लड' के जनक कौन थे?",
+      "optionsHi": [
+        "नॉर्मन बोरलॉग",
+        "एम. एस. स्वामीनाथन",
+        "वर्गीज़ कुरियन",
+        "विलियम गॉड"
+      ],
+      "explanationHi": "डॉ. वर्गीज़ कुरियन ने ऑपरेशन फ्लड (श्वेत क्रांति) का नेतृत्व किया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "'Vande Mataram' was first sung at the session of the Indian National Congress in:",
+      "options": [
+        "1896",
+        "1892",
+        "1886",
+        "1947"
+      ],
+      "answer": 0,
+      "explanation": "Rabindranath Tagore sang Vande Mataram at the 1896 Calcutta session of the Congress. (Q84 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-9.html",
+      "textHi": "'वंदे मातरम्' पहली बार भारतीय राष्ट्रीय कांग्रेस के किस वर्ष के अधिवेशन में गाया गया?",
+      "optionsHi": [
+        "1896",
+        "1892",
+        "1886",
+        "1947"
+      ],
+      "explanationHi": "रवींद्रनाथ टैगोर ने 1896 के कलकत्ता अधिवेशन में वंदे मातरम् गाया था।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "How many times can the President of India seek re-election to the post?",
+      "options": [
+        "1 time",
+        "2 times",
+        "3 times",
+        "Any number of times"
+      ],
+      "answer": 3,
+      "explanation": "Article 57 makes a President eligible for re-election with no limit on the number of terms. (Q85 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-9.html",
+      "textHi": "भारत का राष्ट्रपति कितनी बार पुनः निर्वाचित होने का प्रयास कर सकता है?",
+      "optionsHi": [
+        "1 बार",
+        "2 बार",
+        "3 बार",
+        "कितनी भी बार"
+      ],
+      "explanationHi": "अनुच्छेद 57 के अनुसार राष्ट्रपति पुनः निर्वाचन के लिए पात्र है और कार्यकालों की कोई सीमा नहीं है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The first woman governor of a state in free India was:",
+      "options": [
+        "Indira Gandhi",
+        "Vijaya Lakshmi Pandit",
+        "Sarojini Naidu",
+        "Sucheta Kripalani"
+      ],
+      "answer": 2,
+      "explanation": "Sarojini Naidu became Governor of the United Provinces in 1947. (Q86 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-9.html",
+      "textHi": "स्वतंत्र भारत में किसी राज्य की पहली महिला राज्यपाल कौन थीं?",
+      "optionsHi": [
+        "इंदिरा गांधी",
+        "विजयलक्ष्मी पंडित",
+        "सरोजिनी नायडू",
+        "सुचेता कृपलानी"
+      ],
+      "explanationHi": "सरोजिनी नायडू 1947 में संयुक्त प्रांत की राज्यपाल बनीं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "COBOL stands for:",
+      "options": [
+        "Common Business Oriented Language",
+        "Coupled Business Oriented Language",
+        "Communication Business Oriented Language",
+        "Common Basic Oriented Language"
+      ],
+      "answer": 0,
+      "explanation": "COBOL = COmmon Business-Oriented Language. (Q87 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-9.html",
+      "textHi": "COBOL का पूरा नाम है:",
+      "optionsHi": [
+        "Common Business Oriented Language",
+        "Coupled Business Oriented Language",
+        "Communication Business Oriented Language",
+        "Common Basic Oriented Language"
+      ],
+      "explanationHi": "COBOL का अर्थ है COmmon Business-Oriented Language।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The boundary line between India and China is called:",
+      "options": [
+        "McMahon Line",
+        "Radcliffe Line",
+        "Durand Line",
+        "Red Line"
+      ],
+      "answer": 0,
+      "explanation": "The McMahon Line (1914) marks the India–China boundary in the east. (Q88 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-9.html",
+      "textHi": "भारत और चीन के बीच की सीमा रेखा कहलाती है:",
+      "optionsHi": [
+        "मैकमोहन रेखा",
+        "रेडक्लिफ रेखा",
+        "डूरंड रेखा",
+        "रेड लाइन"
+      ],
+      "explanationHi": "मैकमोहन रेखा (1914) पूर्व में भारत–चीन सीमा है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "When is 'World Earth Day' celebrated?",
+      "options": [
+        "28 February",
+        "22 April",
+        "21 March",
+        "7 April"
+      ],
+      "answer": 1,
+      "explanation": "Earth Day is observed on 22 April. (Q89 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-9.html",
+      "textHi": "'विश्व पृथ्वी दिवस' कब मनाया जाता है?",
+      "optionsHi": [
+        "28 फरवरी",
+        "22 अप्रैल",
+        "21 मार्च",
+        "7 अप्रैल"
+      ],
+      "explanationHi": "पृथ्वी दिवस 22 अप्रैल को मनाया जाता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Deficiency of vitamin A causes:",
+      "options": [
+        "Night blindness",
+        "Anaemia and bleeding gums",
+        "Scurvy",
+        "Rickets and osteomalacia"
+      ],
+      "answer": 0,
+      "explanation": "Vitamin A deficiency causes night blindness. (Q90 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-9.html",
+      "textHi": "विटामिन A की कमी से होता है:",
+      "optionsHi": [
+        "रतौंधी",
+        "रक्ताल्पता और मसूड़ों से खून",
+        "स्कर्वी",
+        "रिकेट्स और अस्थिमृदुता"
+      ],
+      "explanationHi": "विटामिन A की कमी से रतौंधी होती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which industry is known as the sunrise industry?",
+      "options": [
+        "Cotton industry",
+        "Information technology",
+        "Coal industry",
+        "Insurance"
+      ],
+      "answer": 1,
+      "explanation": "Information technology is called a sunrise industry because of its rapid growth. (Q91 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-10.html",
+      "textHi": "किस उद्योग को सनराइज़ (उदीयमान) उद्योग कहा जाता है?",
+      "optionsHi": [
+        "सूती वस्त्र उद्योग",
+        "सूचना प्रौद्योगिकी",
+        "कोयला उद्योग",
+        "बीमा"
+      ],
+      "explanationHi": "तीव्र विकास के कारण सूचना प्रौद्योगिकी को उदीयमान उद्योग कहा जाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who gave the principles of Panchsheel?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Marshal Tito",
+        "Ambedkar"
+      ],
+      "answer": 0,
+      "explanation": "Panchsheel was put forward by Jawaharlal Nehru and signed with China in 1954. (Q92 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-10.html",
+      "textHi": "पंचशील का सिद्धांत किसने दिया?",
+      "optionsHi": [
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी",
+        "मार्शल टीटो",
+        "अंबेडकर"
+      ],
+      "explanationHi": "पंचशील जवाहरलाल नेहरू ने प्रस्तुत किया और 1954 में चीन के साथ इस पर हस्ताक्षर हुए।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following gases is present in the largest amount in the atmosphere?",
+      "options": [
+        "Oxygen",
+        "Argon",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "answer": 3,
+      "explanation": "Nitrogen makes up about 78% of the atmosphere. (Q93 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-10.html",
+      "textHi": "वायुमंडल में निम्नलिखित में से कौन-सी गैस सबसे अधिक मात्रा में है?",
+      "optionsHi": [
+        "ऑक्सीजन",
+        "आर्गन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन"
+      ],
+      "explanationHi": "वायुमंडल में लगभग 78% नाइट्रोजन है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The MGNREGA scheme was launched in India on:",
+      "options": [
+        "2 February 2006",
+        "2 October 2005",
+        "26 January 2007",
+        "15 August 2008"
+      ],
+      "answer": 0,
+      "explanation": "NREGA was launched on 2 February 2006 from Anantapur district (Andhra Pradesh). (Q94 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-10.html",
+      "textHi": "मनरेगा योजना भारत में कब शुरू की गई?",
+      "optionsHi": [
+        "2 फरवरी 2006",
+        "2 अक्टूबर 2005",
+        "26 जनवरी 2007",
+        "15 अगस्त 2008"
+      ],
+      "explanationHi": "नरेगा 2 फरवरी 2006 को आंध्र प्रदेश के अनंतपुर ज़िले से शुरू की गई।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Municipality and Panchayat elections are conducted by:",
+      "options": [
+        "State government",
+        "Central government",
+        "State Election Commission",
+        "Central Election Commission"
+      ],
+      "answer": 2,
+      "explanation": "Articles 243K and 243ZA give this power to the State Election Commission. (Q95 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-10.html",
+      "textHi": "नगरपालिका और पंचायत चुनाव कौन करवाता है?",
+      "optionsHi": [
+        "राज्य सरकार",
+        "केंद्र सरकार",
+        "राज्य निर्वाचन आयोग",
+        "केंद्रीय निर्वाचन आयोग"
+      ],
+      "explanationHi": "अनुच्छेद 243K और 243ZA के अनुसार यह कार्य राज्य निर्वाचन आयोग करता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Where is the Sahara desert situated?",
+      "options": [
+        "In Asia",
+        "In Europe",
+        "In Africa",
+        "In Russia"
+      ],
+      "answer": 2,
+      "explanation": "The Sahara covers much of northern Africa. (Q96 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-10.html",
+      "textHi": "सहारा मरुस्थल कहाँ स्थित है?",
+      "optionsHi": [
+        "एशिया में",
+        "यूरोप में",
+        "अफ्रीका में",
+        "रूस में"
+      ],
+      "explanationHi": "सहारा उत्तरी अफ्रीका के बड़े भाग में फैला है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In which state was the mid-day meal programme first introduced in India?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Uttar Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answer": 1,
+      "explanation": "Tamil Nadu (Madras) pioneered the mid-day meal scheme, expanded by K. Kamaraj in the 1960s. (Q97 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-10.html",
+      "textHi": "भारत में मध्याह्न भोजन कार्यक्रम सबसे पहले किस राज्य में शुरू किया गया?",
+      "optionsHi": [
+        "केरल",
+        "तमिलनाडु",
+        "उत्तर प्रदेश",
+        "हिमाचल प्रदेश"
+      ],
+      "explanationHi": "तमिलनाडु (मद्रास) ने मध्याह्न भोजन योजना की शुरुआत की, जिसे 1960 के दशक में के. कामराज ने विस्तार दिया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which Indian woman wrote the autobiography 'Amar Jiban'?",
+      "options": [
+        "Sarojini Naidu",
+        "Rokeya Sakhawat",
+        "Rassundari Devi",
+        "Vaijayanti"
+      ],
+      "answer": 2,
+      "explanation": "Rassundari Devi's 'Amar Jiban' (1876) is the first full autobiography in Bengali. (Q98 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-10.html",
+      "textHi": "किस भारतीय महिला ने आत्मकथा 'आमार जीबन' लिखी?",
+      "optionsHi": [
+        "सरोजिनी नायडू",
+        "रुकैया सखावत",
+        "राससुंदरी देवी",
+        "वैजयंती"
+      ],
+      "explanationHi": "राससुंदरी देवी की 'आमार जीबन' (1876) बांग्ला की पहली पूर्ण आत्मकथा है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which country is the leading producer of bauxite?",
+      "options": [
+        "India",
+        "China",
+        "Brazil",
+        "Australia"
+      ],
+      "answer": 3,
+      "explanation": "Australia is the world's largest producer of bauxite. (Q100 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-10.html",
+      "textHi": "बॉक्साइट का अग्रणी उत्पादक देश कौन-सा है?",
+      "optionsHi": [
+        "भारत",
+        "चीन",
+        "ब्राज़ील",
+        "ऑस्ट्रेलिया"
+      ],
+      "explanationHi": "ऑस्ट्रेलिया विश्व का सबसे बड़ा बॉक्साइट उत्पादक है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Dry deciduous forests are found where the rainfall is:",
+      "options": [
+        "10 cm to 30 cm",
+        "30 cm to 50 cm",
+        "70 cm to 100 cm",
+        "More than 200 cm"
+      ],
+      "answer": 2,
+      "explanation": "NCERT: dry deciduous forests grow in areas with 70–100 cm of rainfall. (Q101 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-11.html",
+      "textHi": "शुष्क पर्णपाती वन वहाँ पाए जाते हैं जहाँ वर्षा होती है:",
+      "optionsHi": [
+        "10 सेमी से 30 सेमी",
+        "30 सेमी से 50 सेमी",
+        "70 सेमी से 100 सेमी",
+        "200 सेमी से अधिक"
+      ],
+      "explanationHi": "एनसीईआरटी के अनुसार शुष्क पर्णपाती वन 70–100 सेमी वर्षा वाले क्षेत्रों में मिलते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Dhangars are well-known shepherds of which state?",
+      "options": [
+        "Jammu & Kashmir",
+        "Himachal Pradesh",
+        "Maharashtra",
+        "Rajasthan"
+      ],
+      "answer": 2,
+      "explanation": "The Dhangars are a pastoral community of Maharashtra (NCERT Class IX). (Q102 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-11.html",
+      "textHi": "धंगर किस राज्य के प्रसिद्ध चरवाहे हैं?",
+      "optionsHi": [
+        "जम्मू-कश्मीर",
+        "हिमाचल प्रदेश",
+        "महाराष्ट्र",
+        "राजस्थान"
+      ],
+      "explanationHi": "धंगर महाराष्ट्र का चरवाहा समुदाय है (एनसीईआरटी कक्षा IX)।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Where was the Imperial Forest Research Institute established?",
+      "options": [
+        "Calcutta",
+        "Dehradun",
+        "Delhi",
+        "Lahore"
+      ],
+      "answer": 1,
+      "explanation": "The Imperial Forest Research Institute was set up at Dehradun in 1906. (Q103 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-11.html",
+      "textHi": "इंपीरियल फॉरेस्ट रिसर्च इंस्टीट्यूट कहाँ स्थापित किया गया?",
+      "optionsHi": [
+        "कलकत्ता",
+        "देहरादून",
+        "दिल्ली",
+        "लाहौर"
+      ],
+      "explanationHi": "इंपीरियल फॉरेस्ट रिसर्च इंस्टीट्यूट 1906 में देहरादून में स्थापित हुआ।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which river has the largest drainage basin in the world?",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Ganga",
+        "Brahmaputra"
+      ],
+      "answer": 1,
+      "explanation": "The Amazon has the world's largest drainage basin (about 7 million sq km). (Q106 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-11.html",
+      "textHi": "विश्व में किस नदी का अपवाह बेसिन सबसे बड़ा है?",
+      "optionsHi": [
+        "नील",
+        "अमेज़न",
+        "गंगा",
+        "ब्रह्मपुत्र"
+      ],
+      "explanationHi": "अमेज़न का अपवाह बेसिन (लगभग 70 लाख वर्ग किमी) विश्व में सबसे बड़ा है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "How much of the earth's total water is found in the oceans?",
+      "options": [
+        "97.5%",
+        "96.5%",
+        "98%",
+        "95%"
+      ],
+      "answer": 1,
+      "explanation": "About 96.5% of all Earth's water is in the oceans. (Q107 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-11.html",
+      "textHi": "पृथ्वी के कुल जल का कितना भाग महासागरों में पाया जाता है?",
+      "optionsHi": [
+        "97.5%",
+        "96.5%",
+        "98%",
+        "95%"
+      ],
+      "explanationHi": "पृथ्वी के कुल जल का लगभग 96.5% भाग महासागरों में है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In which year was the Vernacular Press Act implemented?",
+      "options": [
+        "1878 A.D.",
+        "1720 A.D.",
+        "1960 A.D.",
+        "1857 A.D."
+      ],
+      "answer": 0,
+      "explanation": "Lord Lytton passed the Vernacular Press Act in 1878. (Q108 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-11.html",
+      "textHi": "वर्नाक्यूलर प्रेस एक्ट किस वर्ष लागू किया गया?",
+      "optionsHi": [
+        "1878 ई.",
+        "1720 ई.",
+        "1960 ई.",
+        "1857 ई."
+      ],
+      "explanationHi": "लॉर्ड लिटन ने 1878 में वर्नाक्यूलर प्रेस एक्ट पारित किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "When did the Simon Commission arrive in India?",
+      "options": [
+        "1945 A.D.",
+        "1857 A.D.",
+        "1928 A.D.",
+        "1560 A.D."
+      ],
+      "answer": 2,
+      "explanation": "The Simon Commission reached Bombay in February 1928. (Q109 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-11.html",
+      "textHi": "साइमन कमीशन भारत कब आया?",
+      "optionsHi": [
+        "1945 ई.",
+        "1857 ई.",
+        "1928 ई.",
+        "1560 ई."
+      ],
+      "explanationHi": "साइमन कमीशन फरवरी 1928 में बंबई पहुँचा।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following is not a metallic mineral?",
+      "options": [
+        "Mica",
+        "Nickel",
+        "Bauxite",
+        "Zinc"
+      ],
+      "answer": 0,
+      "explanation": "Mica is a non-metallic mineral; nickel, bauxite (aluminium ore) and zinc are metallic. (Q110 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-11.html",
+      "textHi": "निम्नलिखित में से कौन-सा धात्विक खनिज नहीं है?",
+      "optionsHi": [
+        "अभ्रक",
+        "निकल",
+        "बॉक्साइट",
+        "जस्ता"
+      ],
+      "explanationHi": "अभ्रक अधात्विक खनिज है; निकल, बॉक्साइट और जस्ता धात्विक हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following is obtained from monazite sand?",
+      "options": [
+        "Thorium",
+        "Coal",
+        "Mineral oil",
+        "Mica"
+      ],
+      "answer": 0,
+      "explanation": "Monazite sands of Kerala are a major source of thorium. (Q111 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-12.html",
+      "textHi": "मोनाज़ाइट रेत से निम्नलिखित में से कौन-सा प्राप्त होता है?",
+      "optionsHi": [
+        "थोरियम",
+        "कोयला",
+        "खनिज तेल",
+        "अभ्रक"
+      ],
+      "explanationHi": "केरल की मोनाज़ाइट रेत थोरियम का प्रमुख स्रोत है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which is the oldest Veda?",
+      "options": [
+        "Samaveda",
+        "Rigveda",
+        "Yajurveda",
+        "Atharvaveda"
+      ],
+      "answer": 1,
+      "explanation": "The Rigveda is the oldest of the four Vedas. (Q112 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-12.html",
+      "textHi": "सबसे प्राचीन वेद कौन-सा है?",
+      "optionsHi": [
+        "सामवेद",
+        "ऋग्वेद",
+        "यजुर्वेद",
+        "अथर्ववेद"
+      ],
+      "explanationHi": "चारों वेदों में ऋग्वेद सबसे प्राचीन है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who wrote 'Harshacharita' in Sanskrit?",
+      "options": [
+        "Kalidas",
+        "Keshav",
+        "Banabhatta",
+        "Raskhan"
+      ],
+      "answer": 2,
+      "explanation": "Banabhatta, court poet of Harshavardhana, wrote the Harshacharita. (Q113 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-12.html",
+      "textHi": "संस्कृत में 'हर्षचरित' की रचना किसने की?",
+      "optionsHi": [
+        "कालिदास",
+        "केशव",
+        "बाणभट्ट",
+        "रसखान"
+      ],
+      "explanationHi": "हर्षवर्धन के दरबारी कवि बाणभट्ट ने हर्षचरित लिखा।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The earth's axis is an imaginary line that makes an angle with its orbital plane of:",
+      "options": [
+        "23½°",
+        "66½°",
+        "45°",
+        "67½°"
+      ],
+      "answer": 1,
+      "explanation": "The axis is tilted 23½° from the perpendicular, so it makes 66½° with the orbital plane. (Q115 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-12.html",
+      "textHi": "पृथ्वी का अक्ष एक काल्पनिक रेखा है जो अपने कक्षीय तल से कितना कोण बनाती है?",
+      "optionsHi": [
+        "23½°",
+        "66½°",
+        "45°",
+        "67½°"
+      ],
+      "explanationHi": "अक्ष लंबवत् से 23½° झुका है, अतः यह कक्षीय तल से 66½° का कोण बनाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which epic, sung by both local Muslims and Buddhists, is famous in Ladakh?",
+      "options": [
+        "Kesar Saga",
+        "Mosar Saga",
+        "Cheena Wala",
+        "Cheena Patti"
+      ],
+      "answer": 0,
+      "explanation": "The Kesar (Gesar) Saga is the epic of Ladakh sung by both Buddhists and Muslims. (Q116 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-12.html",
+      "textHi": "लद्दाख का कौन-सा महाकाव्य स्थानीय मुसलमानों और बौद्धों दोनों द्वारा गाया जाता है?",
+      "optionsHi": [
+        "केसर गाथा",
+        "मोसर गाथा",
+        "चीना वाला",
+        "चीना पट्टी"
+      ],
+      "explanationHi": "केसर (गेसर) गाथा लद्दाख का महाकाव्य है जिसे बौद्ध और मुसलमान दोनों गाते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "When were women first allowed to vote in the USA?",
+      "options": [
+        "1920 A.D.",
+        "1928 A.D.",
+        "1930 A.D.",
+        "1890 A.D."
+      ],
+      "answer": 0,
+      "explanation": "The 19th Amendment (1920) gave American women the right to vote. (Q117 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-12.html",
+      "textHi": "संयुक्त राज्य अमेरिका में महिलाओं को पहली बार मतदान का अधिकार कब मिला?",
+      "optionsHi": [
+        "1920 ई.",
+        "1928 ई.",
+        "1930 ई.",
+        "1890 ई."
+      ],
+      "explanationHi": "19वें संशोधन (1920) से अमेरिकी महिलाओं को मताधिकार मिला।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Viticulture is:",
+      "options": [
+        "Science and art of animal husbandry",
+        "Commercial rearing of silkworms",
+        "Fish farming in ponds",
+        "Farming of grapes"
+      ],
+      "answer": 3,
+      "explanation": "Viticulture is the cultivation of grapes. (Q118 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-12.html",
+      "textHi": "विटीकल्चर (द्राक्षा कृषि) क्या है?",
+      "optionsHi": [
+        "पशुपालन का विज्ञान और कला",
+        "रेशम कीटों का व्यावसायिक पालन",
+        "तालाबों में मत्स्य पालन",
+        "अंगूर की खेती"
+      ],
+      "explanationHi": "विटीकल्चर अंगूर की खेती को कहते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "When did Swami Dayanand Saraswati establish the Arya Samaj?",
+      "options": [
+        "1913 A.D.",
+        "1875 A.D.",
+        "1672 A.D.",
+        "1855 A.D."
+      ],
+      "answer": 1,
+      "explanation": "The Arya Samaj was founded in Bombay in 1875. (Q119 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-12.html",
+      "textHi": "स्वामी दयानंद सरस्वती ने आर्य समाज की स्थापना कब की?",
+      "optionsHi": [
+        "1913 ई.",
+        "1875 ई.",
+        "1672 ई.",
+        "1855 ई."
+      ],
+      "explanationHi": "आर्य समाज की स्थापना 1875 में बंबई में हुई।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "How many chapters are there in the Bhagavad Gita?",
+      "options": [
+        "20",
+        "18",
+        "14",
+        "16"
+      ],
+      "answer": 1,
+      "explanation": "The Bhagavad Gita has 18 chapters (700 verses). (Q120 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-12.html",
+      "textHi": "भगवद्गीता में कितने अध्याय हैं?",
+      "optionsHi": [
+        "20",
+        "18",
+        "14",
+        "16"
+      ],
+      "explanationHi": "भगवद्गीता में 18 अध्याय (700 श्लोक) हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The highest dam in India is:",
+      "options": [
+        "Hirakud Dam",
+        "Tehri Dam",
+        "Bhakra Dam",
+        "Sone Dam"
+      ],
+      "answer": 1,
+      "explanation": "Tehri Dam (about 260 m) on the Bhagirathi is India's highest dam. (Q121 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-13.html",
+      "textHi": "भारत का सबसे ऊँचा बाँध है:",
+      "optionsHi": [
+        "हीराकुड बाँध",
+        "टिहरी बाँध",
+        "भाखड़ा बाँध",
+        "सोन बाँध"
+      ],
+      "explanationHi": "भागीरथी पर बना टिहरी बाँध (लगभग 260 मी) भारत का सबसे ऊँचा बाँध है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The world's highest rainfall occurs in:",
+      "options": [
+        "Mumbai",
+        "Asansol",
+        "Mawsynram",
+        "Shimla"
+      ],
+      "answer": 2,
+      "explanation": "Mawsynram in Meghalaya receives the highest average rainfall in the world. (Q122 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-13.html",
+      "textHi": "विश्व में सर्वाधिक वर्षा कहाँ होती है?",
+      "optionsHi": [
+        "मुंबई",
+        "आसनसोल",
+        "मासिनराम",
+        "शिमला"
+      ],
+      "explanationHi": "मेघालय का मासिनराम विश्व में सर्वाधिक औसत वर्षा प्राप्त करता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The total number of states in India (in 2018) was:",
+      "options": [
+        "18",
+        "24",
+        "29",
+        "30"
+      ],
+      "answer": 2,
+      "explanation": "India had 29 states in 2018 (28 after J&K became a UT in 2019). (Q123 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-13.html",
+      "textHi": "भारत में राज्यों की कुल संख्या (2018 में) थी:",
+      "optionsHi": [
+        "18",
+        "24",
+        "29",
+        "30"
+      ],
+      "explanationHi": "2018 में भारत में 29 राज्य थे (2019 में जम्मू-कश्मीर के केंद्रशासित प्रदेश बनने के बाद 28)।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which is the largest state of India by area?",
+      "options": [
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "answer": 2,
+      "explanation": "Rajasthan is India's largest state by area. (Q124 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-13.html",
+      "textHi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन-सा है?",
+      "optionsHi": [
+        "महाराष्ट्र",
+        "उत्तर प्रदेश",
+        "राजस्थान",
+        "मध्य प्रदेश"
+      ],
+      "explanationHi": "क्षेत्रफल में राजस्थान भारत का सबसे बड़ा राज्य है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The capital of Sikkim is:",
+      "options": [
+        "Dispur",
+        "Shillong",
+        "Gangtok",
+        "Kohima"
+      ],
+      "answer": 2,
+      "explanation": "Gangtok is the capital of Sikkim. (Q125 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-13.html",
+      "textHi": "सिक्किम की राजधानी है:",
+      "optionsHi": [
+        "दिसपुर",
+        "शिलांग",
+        "गंगटोक",
+        "कोहिमा"
+      ],
+      "explanationHi": "गंगटोक सिक्किम की राजधानी है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which is the largest ocean in the world?",
+      "options": [
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean"
+      ],
+      "answer": 3,
+      "explanation": "The Pacific is the largest and deepest ocean. (Q126 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-13.html",
+      "textHi": "विश्व का सबसे बड़ा महासागर कौन-सा है?",
+      "optionsHi": [
+        "अटलांटिक महासागर",
+        "आर्कटिक महासागर",
+        "हिंद महासागर",
+        "प्रशांत महासागर"
+      ],
+      "explanationHi": "प्रशांत महासागर सबसे बड़ा और सबसे गहरा महासागर है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which colour is used to show water on a map?",
+      "options": [
+        "Blue",
+        "Black",
+        "White",
+        "Brown"
+      ],
+      "answer": 0,
+      "explanation": "Water bodies are shown in blue on maps. (Q127 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-13.html",
+      "textHi": "मानचित्र पर जल दर्शाने के लिए कौन-सा रंग प्रयोग किया जाता है?",
+      "optionsHi": [
+        "नीला",
+        "काला",
+        "सफ़ेद",
+        "भूरा"
+      ],
+      "explanationHi": "मानचित्र पर जलाशय नीले रंग से दिखाए जाते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which place in Himachal Pradesh receives the highest rainfall?",
+      "options": [
+        "Shimla",
+        "Bilaspur",
+        "Dharamshala",
+        "Kullu"
+      ],
+      "answer": 2,
+      "explanation": "Dharamshala is the wettest place in Himachal Pradesh. (Q128 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-13.html",
+      "textHi": "हिमाचल प्रदेश में सर्वाधिक वर्षा कहाँ होती है?",
+      "optionsHi": [
+        "शिमला",
+        "बिलासपुर",
+        "धर्मशाला",
+        "कुल्लू"
+      ],
+      "explanationHi": "धर्मशाला हिमाचल प्रदेश का सर्वाधिक वर्षा वाला स्थान है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The smallest district of Himachal Pradesh by area is:",
+      "options": [
+        "Bilaspur",
+        "Solan",
+        "Hamirpur",
+        "Una"
+      ],
+      "answer": 2,
+      "explanation": "Hamirpur (about 1,118 sq km) is the smallest district of H.P. by area. (Q129 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-13.html",
+      "textHi": "क्षेत्रफल की दृष्टि से हिमाचल प्रदेश का सबसे छोटा ज़िला है:",
+      "optionsHi": [
+        "बिलासपुर",
+        "सोलन",
+        "हमीरपुर",
+        "ऊना"
+      ],
+      "explanationHi": "हमीरपुर (लगभग 1,118 वर्ग किमी) क्षेत्रफल में हिमाचल का सबसे छोटा ज़िला है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who was called 'Pahari Gandhi'?",
+      "options": [
+        "Shiva Nand",
+        "Krishna Sharma",
+        "Hira Lal",
+        "Baba Kanshi Ram"
+      ],
+      "answer": 3,
+      "explanation": "Freedom fighter and poet Baba Kanshi Ram is known as 'Pahari Gandhi'. (Q130 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-13.html",
+      "textHi": "'पहाड़ी गांधी' किसे कहा जाता था?",
+      "optionsHi": [
+        "शिवानंद",
+        "कृष्ण शर्मा",
+        "हीरा लाल",
+        "बाबा कांशी राम"
+      ],
+      "explanationHi": "स्वतंत्रता सेनानी और कवि बाबा कांशी राम 'पहाड़ी गांधी' के नाम से प्रसिद्ध हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The First World War was fought in:",
+      "options": [
+        "1814 to 1818",
+        "1822 to 1826",
+        "1912 to 1917",
+        "1914 to 1918"
+      ],
+      "answer": 3,
+      "explanation": "World War I lasted from 1914 to 1918. (Q131 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-14.html",
+      "textHi": "प्रथम विश्व युद्ध कब लड़ा गया?",
+      "optionsHi": [
+        "1814 से 1818",
+        "1822 से 1826",
+        "1912 से 1917",
+        "1914 से 1918"
+      ],
+      "explanationHi": "प्रथम विश्व युद्ध 1914 से 1918 तक चला।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In India, rubber is mainly produced in:",
+      "options": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Kerala",
+        "Bengal"
+      ],
+      "answer": 2,
+      "explanation": "Kerala is India's leading producer of natural rubber. (Q132 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-14.html",
+      "textHi": "भारत में रबड़ मुख्यतः कहाँ उत्पादित होता है?",
+      "optionsHi": [
+        "मध्य प्रदेश",
+        "राजस्थान",
+        "केरल",
+        "बंगाल"
+      ],
+      "explanationHi": "केरल भारत का सबसे बड़ा प्राकृतिक रबड़ उत्पादक राज्य है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who wrote the book 'The Discovery of India'?",
+      "options": [
+        "Mahatma Gandhi",
+        "Pandit Nehru",
+        "S. C. Bose",
+        "Sardar Patel"
+      ],
+      "answer": 1,
+      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' in Ahmednagar Fort jail (1944). (Q133 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-14.html",
+      "textHi": "'द डिस्कवरी ऑफ इंडिया' पुस्तक किसने लिखी?",
+      "optionsHi": [
+        "महात्मा गांधी",
+        "पंडित नेहरू",
+        "एस. सी. बोस",
+        "सरदार पटेल"
+      ],
+      "explanationHi": "जवाहरलाल नेहरू ने 1944 में अहमदनगर किले की जेल में 'द डिस्कवरी ऑफ इंडिया' लिखी।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The correct time for singing the national anthem 'Jana Gana Mana' is:",
+      "options": [
+        "58 seconds",
+        "30 seconds",
+        "52 seconds",
+        "60 seconds"
+      ],
+      "answer": 2,
+      "explanation": "The full version of the national anthem takes about 52 seconds. (Q134 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-14.html",
+      "textHi": "राष्ट्रगान 'जन गण मन' गाने का सही समय है:",
+      "optionsHi": [
+        "58 सेकंड",
+        "30 सेकंड",
+        "52 सेकंड",
+        "60 सेकंड"
+      ],
+      "explanationHi": "राष्ट्रगान के पूर्ण संस्करण को गाने में लगभग 52 सेकंड लगते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "'Ain-i-Akbari' was written by:",
+      "options": [
+        "Akbar",
+        "Faizi",
+        "Abul Fazl",
+        "Raja Todarmal"
+      ],
+      "answer": 2,
+      "explanation": "Abul Fazl wrote the Ain-i-Akbari, part of the Akbarnama. (Q135 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-14.html",
+      "textHi": "'आइन-ए-अकबरी' किसने लिखी?",
+      "optionsHi": [
+        "अकबर",
+        "फ़ैज़ी",
+        "अबुल फ़ज़ल",
+        "राजा टोडरमल"
+      ],
+      "explanationHi": "अबुल फ़ज़ल ने अकबरनामा के भाग के रूप में आइन-ए-अकबरी लिखी।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The 'Gir' forest is associated with:",
+      "options": [
+        "Lions",
+        "Rhinos",
+        "Elephants",
+        "Crocodiles"
+      ],
+      "answer": 0,
+      "explanation": "Gir in Gujarat is the only home of the Asiatic lion. (Q136 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-14.html",
+      "textHi": "'गिर' वन किससे संबंधित है?",
+      "optionsHi": [
+        "शेर (सिंह)",
+        "गैंडे",
+        "हाथी",
+        "मगरमच्छ"
+      ],
+      "explanationHi": "गुजरात का गिर वन एशियाई शेरों का एकमात्र निवास है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The first President of the U.S.A. was:",
+      "options": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Wilson",
+        "Roosevelt"
+      ],
+      "answer": 0,
+      "explanation": "George Washington was the first US President (1789–1797). (Q137 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-14.html",
+      "textHi": "संयुक्त राज्य अमेरिका के पहले राष्ट्रपति थे:",
+      "optionsHi": [
+        "जॉर्ज वाशिंगटन",
+        "अब्राहम लिंकन",
+        "विल्सन",
+        "रूज़वेल्ट"
+      ],
+      "explanationHi": "जॉर्ज वाशिंगटन अमेरिका के पहले राष्ट्रपति (1789–1797) थे।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "'Panini' was a famous scholar of:",
+      "options": [
+        "Language and grammar",
+        "Ayurveda",
+        "Astronomy",
+        "Biology"
+      ],
+      "answer": 0,
+      "explanation": "Panini wrote the Ashtadhyayi, the classic Sanskrit grammar. (Q138 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-14.html",
+      "textHi": "'पाणिनि' किस क्षेत्र के प्रसिद्ध विद्वान थे?",
+      "optionsHi": [
+        "भाषा और व्याकरण",
+        "आयुर्वेद",
+        "खगोल विज्ञान",
+        "जीव विज्ञान"
+      ],
+      "explanationHi": "पाणिनि ने संस्कृत व्याकरण का प्रसिद्ध ग्रंथ अष्टाध्यायी लिखा।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Human Rights Day is observed all over the world every year on:",
+      "options": [
+        "24th October",
+        "7th November",
+        "10th December",
+        "25th December"
+      ],
+      "answer": 2,
+      "explanation": "Human Rights Day, 10 December, marks the adoption of the Universal Declaration of Human Rights (1948). (Q140 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-14.html",
+      "textHi": "मानवाधिकार दिवस प्रतिवर्ष पूरे विश्व में कब मनाया जाता है?",
+      "optionsHi": [
+        "24 अक्टूबर",
+        "7 नवंबर",
+        "10 दिसंबर",
+        "25 दिसंबर"
+      ],
+      "explanationHi": "10 दिसंबर 1948 को मानवाधिकारों की सार्वभौमिक घोषणा अपनाई गई थी, इसलिए यह दिन मानवाधिकार दिवस है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The first general elections in India were held in:",
+      "options": [
+        "1949",
+        "1947",
+        "1951",
+        "1950"
+      ],
+      "answer": 2,
+      "explanation": "India's first general election was held from October 1951 to February 1952. (Q141 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-15.html",
+      "textHi": "भारत में पहले आम चुनाव कब हुए?",
+      "optionsHi": [
+        "1949",
+        "1947",
+        "1951",
+        "1950"
+      ],
+      "explanationHi": "भारत का पहला आम चुनाव अक्टूबर 1951 से फरवरी 1952 तक हुआ।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "What is the maximum number of members of the Rajya Sabha?",
+      "options": [
+        "250",
+        "238",
+        "240",
+        "260"
+      ],
+      "answer": 0,
+      "explanation": "Article 80 fixes the maximum strength of the Rajya Sabha at 250 (238 elected + 12 nominated). (Q142 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-15.html",
+      "textHi": "राज्यसभा के सदस्यों की अधिकतम संख्या कितनी है?",
+      "optionsHi": [
+        "250",
+        "238",
+        "240",
+        "260"
+      ],
+      "explanationHi": "अनुच्छेद 80 के अनुसार राज्यसभा की अधिकतम सदस्य संख्या 250 (238 निर्वाचित + 12 मनोनीत) है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which planet is known as the blue planet?",
+      "options": [
+        "Earth",
+        "Sun",
+        "Mercury",
+        "Venus"
+      ],
+      "answer": 0,
+      "explanation": "Earth is called the blue planet because about 71% of its surface is water. (Q143 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-15.html",
+      "textHi": "किस ग्रह को नीला ग्रह कहा जाता है?",
+      "optionsHi": [
+        "पृथ्वी",
+        "सूर्य",
+        "बुध",
+        "शुक्र"
+      ],
+      "explanationHi": "पृथ्वी की लगभग 71% सतह पर जल होने से इसे नीला ग्रह कहते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In about how many days does the moon complete one revolution around the earth?",
+      "options": [
+        "25 days",
+        "27 days",
+        "29 days",
+        "32 days"
+      ],
+      "answer": 1,
+      "explanation": "The moon's sidereal period of revolution is about 27⅓ days. (Q144 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-15.html",
+      "textHi": "चंद्रमा पृथ्वी की एक परिक्रमा लगभग कितने दिनों में पूरी करता है?",
+      "optionsHi": [
+        "25 दिन",
+        "27 दिन",
+        "29 दिन",
+        "32 दिन"
+      ],
+      "explanationHi": "चंद्रमा का नाक्षत्र परिक्रमण काल लगभग 27⅓ दिन है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Where is Christmas celebrated in summer?",
+      "options": [
+        "England",
+        "France",
+        "Australia",
+        "America"
+      ],
+      "answer": 2,
+      "explanation": "Australia is in the Southern Hemisphere, so December falls in summer. (Q145 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-15.html",
+      "textHi": "क्रिसमस का त्योहार गर्मियों में कहाँ मनाया जाता है?",
+      "optionsHi": [
+        "इंग्लैंड",
+        "फ्रांस",
+        "ऑस्ट्रेलिया",
+        "अमेरिका"
+      ],
+      "explanationHi": "ऑस्ट्रेलिया दक्षिणी गोलार्ध में है, इसलिए वहाँ दिसंबर में गर्मी होती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "When did the partition of Bengal take place?",
+      "options": [
+        "1905",
+        "1906",
+        "1904",
+        "1889"
+      ],
+      "answer": 0,
+      "explanation": "Lord Curzon partitioned Bengal in 1905. (Q146 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-15.html",
+      "textHi": "बंगाल का विभाजन कब हुआ?",
+      "optionsHi": [
+        "1905",
+        "1906",
+        "1904",
+        "1889"
+      ],
+      "explanationHi": "लॉर्ड कर्ज़न ने 1905 में बंगाल का विभाजन किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Ghadar Party was organised by:",
+      "options": [
+        "Raja Mahendra Pratap",
+        "Lala Har Dayal",
+        "Jinnah",
+        "Abdul Kalam"
+      ],
+      "answer": 1,
+      "explanation": "Lala Har Dayal founded the Ghadar Party in San Francisco in 1913. (Q147 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-15.html",
+      "textHi": "ग़दर पार्टी का गठन किसने किया?",
+      "optionsHi": [
+        "राजा महेंद्र प्रताप",
+        "लाला हरदयाल",
+        "जिन्ना",
+        "अब्दुल कलाम"
+      ],
+      "explanationHi": "लाला हरदयाल ने 1913 में सैन फ्रांसिस्को में ग़दर पार्टी की स्थापना की।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who introduced the Doctrine of Lapse?",
+      "options": [
+        "Canning",
+        "Dalhousie",
+        "Wellesley",
+        "William Bentinck"
+      ],
+      "answer": 1,
+      "explanation": "Lord Dalhousie applied the Doctrine of Lapse (1848–56). (Q148 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-15.html",
+      "textHi": "व्यपगत का सिद्धांत (डॉक्ट्रिन ऑफ लैप्स) किसने लागू किया?",
+      "optionsHi": [
+        "कैनिंग",
+        "डलहौज़ी",
+        "वेलेज़ली",
+        "विलियम बेंटिंक"
+      ],
+      "explanationHi": "लॉर्ड डलहौज़ी ने व्यपगत का सिद्धांत (1848–56) लागू किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Where is the headquarters of the U.N.O.?",
+      "options": [
+        "New York",
+        "San Francisco",
+        "Chicago",
+        "Paris"
+      ],
+      "answer": 0,
+      "explanation": "The UN headquarters is in New York. (Q149 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-15.html",
+      "textHi": "संयुक्त राष्ट्र संघ का मुख्यालय कहाँ है?",
+      "optionsHi": [
+        "न्यूयॉर्क",
+        "सैन फ्रांसिस्को",
+        "शिकागो",
+        "पेरिस"
+      ],
+      "explanationHi": "संयुक्त राष्ट्र का मुख्यालय न्यूयॉर्क में है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who built the Red Fort of Agra?",
+      "options": [
+        "Bahadur Shah Zafar",
+        "Shah Jahan",
+        "Babur",
+        "Akbar"
+      ],
+      "answer": 3,
+      "explanation": "Akbar built the Agra Fort (1565–73); Shah Jahan built the Red Fort of Delhi. (Q150 of the paper.) Source: https://hpallexam.blogspot.com/2022/02/hp-tet-arts-2018-solved-paper-part-15.html",
+      "textHi": "आगरा का लाल किला किसने बनवाया?",
+      "optionsHi": [
+        "बहादुर शाह ज़फ़र",
+        "शाहजहाँ",
+        "बाबर",
+        "अकबर"
+      ],
+      "explanationHi": "अकबर ने आगरा का किला (1565–73) बनवाया; दिल्ली का लाल किला शाहजहाँ ने बनवाया।"
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "slug": "ctet-paper-1-sample-free",
+  "version": 1,
+  "title": "CTET Paper I · Free Sample Test",
+  "description": "Free 30-question CTET Paper I practice test: 6 questions each from CDP, Hindi, English, Mathematics and EVS, in the real exam pattern.",
+  "category": "CTET Paper I",
+  "kind": "Sample test",
+  "year": null,
+  "durationMinutes": 30,
+  "price": 0,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Egocentrism, according to Piaget, is a characteristic of the",
+      "textHi": "पियाजे के अनुसार आत्मकेंद्रिता किस अवस्था की विशेषता है?",
+      "options": [
+        "concrete operational stage",
+        "pre-operational stage",
+        "formal operational stage",
+        "post-formal stage"
+      ],
+      "optionsHi": [
+        "मूर्त संक्रियात्मक अवस्था",
+        "पूर्व-संक्रियात्मक अवस्था",
+        "औपचारिक संक्रियात्मक अवस्था",
+        "उत्तर-औपचारिक अवस्था"
+      ],
+      "answer": 1,
+      "explanation": "Pre-operational children (about 2–7 years) find it hard to see things from another person's point of view.",
+      "explanationHi": "पूर्व-संक्रियात्मक अवस्था (लगभग 2–7 वर्ष) के बच्चों को दूसरों के दृष्टिकोण से चीज़ों को देखना कठिन लगता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Vygotsky, learning is primarily a",
+      "textHi": "वायगोत्स्की के अनुसार अधिगम मुख्यतः एक —",
+      "options": [
+        "solitary activity of the child",
+        "process of conditioning by rewards",
+        "purely biological maturation",
+        "social activity mediated by language and culture"
+      ],
+      "optionsHi": [
+        "बच्चे की एकाकी गतिविधि है",
+        "पुरस्कारों द्वारा अनुबंधन की प्रक्रिया है",
+        "विशुद्ध जैविक परिपक्वता है",
+        "भाषा और संस्कृति द्वारा मध्यस्थित सामाजिक गतिविधि है"
+      ],
+      "answer": 3,
+      "explanation": "Vygotsky's sociocultural theory holds that higher mental functions develop first through social interaction and then are internalised.",
+      "explanationHi": "वायगोत्स्की के सामाजिक-सांस्कृतिक सिद्धांत के अनुसार उच्च मानसिक प्रक्रियाएँ पहले सामाजिक अंतःक्रिया से विकसित होती हैं, फिर आंतरिक बनती हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Carol Gilligan criticised Kohlberg's theory of moral development mainly because it",
+      "textHi": "कैरल गिलिगन ने कोलबर्ग के नैतिक विकास के सिद्धांत की आलोचना मुख्यतः इसलिए की क्योंकि वह —",
+      "options": [
+        "ignored the role of reasoning",
+        "was based only on animal studies",
+        "was gender-biased and ignored the ethics of care",
+        "did not have any stages"
+      ],
+      "optionsHi": [
+        "तर्क की भूमिका की उपेक्षा करता था",
+        "केवल पशुओं पर हुए अध्ययनों पर आधारित था",
+        "लैंगिक रूप से पक्षपाती था और देखभाल की नैतिकता की उपेक्षा करता था",
+        "उसमें कोई अवस्था नहीं थी"
+      ],
+      "answer": 2,
+      "explanation": "Gilligan argued that Kohlberg's male-based samples emphasised justice and undervalued the care-oriented reasoning often seen in women.",
+      "explanationHi": "गिलिगन का तर्क था कि कोलबर्ग के पुरुष-आधारित न्यादर्श न्याय पर बल देते थे और देखभाल-आधारित तर्क को कम महत्त्व देते थे।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A child has average intelligence but repeatedly makes mistakes in simple calculations and in understanding numbers. The child may have",
+      "textHi": "एक बच्चे की बुद्धि औसत है परंतु वह सरल गणनाओं और संख्याओं को समझने में बार-बार गलतियाँ करता है। बच्चे को हो सकता है —",
+      "options": [
+        "Dyscalculia",
+        "Dyslexia",
+        "Aphasia",
+        "Dysgraphia"
+      ],
+      "optionsHi": [
+        "डिस्कैलकुलिया",
+        "डिस्लेक्सिया",
+        "अफ़ेज़िया (वाचाघात)",
+        "डिस्ग्राफ़िया"
+      ],
+      "answer": 0,
+      "explanation": "Dyscalculia is a specific learning disability that affects understanding of numbers and arithmetic.",
+      "explanationHi": "डिस्कैलकुलिया एक विशिष्ट अधिगम अक्षमता है जो संख्याओं और अंकगणित की समझ को प्रभावित करती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is an example of formative assessment?",
+      "textHi": "निम्नलिखित में से कौन-सा रचनात्मक (फ़ॉर्मेटिव) आकलन का उदाहरण है?",
+      "options": [
+        "Observing children during group work and giving them feedback",
+        "Annual examination at the end of the session",
+        "Board examination",
+        "Entrance test for admission"
+      ],
+      "optionsHi": [
+        "समूह-कार्य के दौरान बच्चों का अवलोकन कर उन्हें प्रतिपुष्टि देना",
+        "सत्र के अंत में वार्षिक परीक्षा",
+        "बोर्ड परीक्षा",
+        "प्रवेश के लिए प्रवेश-परीक्षा"
+      ],
+      "answer": 0,
+      "explanation": "Formative assessment happens during the learning process and is used to give feedback and adjust teaching.",
+      "explanationHi": "रचनात्मक आकलन सीखने की प्रक्रिया के दौरान होता है और प्रतिपुष्टि देने तथा शिक्षण में बदलाव के लिए प्रयुक्त होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Under Section 29 of the RTE Act, 2009, the curriculum and evaluation procedure should provide for",
+      "textHi": "RTE अधिनियम, 2009 की धारा 29 के अनुसार पाठ्यचर्या और मूल्यांकन प्रक्रिया में किसका प्रावधान होना चाहिए?",
+      "options": [
+        "an annual board examination in Class V",
+        "comprehensive and continuous evaluation of the child's understanding and ability to apply it",
+        "screening tests for admission",
+        "ranking of children by marks"
+      ],
+      "optionsHi": [
+        "कक्षा V में वार्षिक बोर्ड परीक्षा",
+        "बच्चे की समझ और उसे लागू करने की क्षमता का व्यापक और सतत मूल्यांकन",
+        "प्रवेश के लिए छँटाई परीक्षा",
+        "अंकों के आधार पर बच्चों की श्रेणी बनाना"
+      ],
+      "answer": 1,
+      "explanation": "Section 29(2)(h) of the RTE Act calls for comprehensive and continuous evaluation of the child's knowledge and ability to apply it.",
+      "explanationHi": "RTE अधिनियम की धारा 29(2)(h) बच्चे के ज्ञान और उसे लागू करने की क्षमता के व्यापक और सतत मूल्यांकन की बात करती है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'चंद्रमा' का पर्यायवाची शब्द है —",
+      "options": [
+        "भास्कर",
+        "दिवाकर",
+        "शशि",
+        "रवि"
+      ],
+      "answer": 2,
+      "explanation": "शशि चंद्रमा का पर्याय है; दिवाकर, भास्कर और रवि सूर्य के पर्याय हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'पुस्तकालय' का सही संधि-विच्छेद है —",
+      "options": [
+        "पुस्त + कालय",
+        "पुस्तका + लय",
+        "पुस्तक + लय",
+        "पुस्तक + आलय"
+      ],
+      "answer": 3,
+      "explanation": "अ + आ = आ (दीर्घ संधि), अतः पुस्तक + आलय = पुस्तकालय।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'चौराहा' में कौन-सा समास है?",
+      "options": [
+        "द्वंद्व",
+        "द्विगु",
+        "अव्ययीभाव",
+        "बहुव्रीहि"
+      ],
+      "answer": 1,
+      "explanation": "चार राहों का समूह — पहला पद संख्यावाचक है, अतः द्विगु समास है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'आँखों का तारा' मुहावरे का अर्थ है —",
+      "options": [
+        "आँख का रोग",
+        "बहुत चालाक",
+        "दूर का तारा",
+        "बहुत प्यारा"
+      ],
+      "answer": 3,
+      "explanation": "'आँखों का तारा' का अर्थ है अत्यंत प्रिय व्यक्ति।"
+    },
+    {
+      "section": "Hindi",
+      "text": "राष्ट्रीय पाठ्यचर्या की रूपरेखा 2005 के अनुसार प्राथमिक स्तर पर शिक्षा का माध्यम यथासंभव होना चाहिए —",
+      "options": [
+        "बच्चे की घर की भाषा या मातृभाषा",
+        "केवल अंग्रेज़ी",
+        "केवल संस्कृत",
+        "कोई भी विदेशी भाषा"
+      ],
+      "answer": 0,
+      "explanation": "NCF 2005 और NEP 2020 दोनों प्रारंभिक शिक्षा में घर की भाषा/मातृभाषा को माध्यम बनाने पर बल देते हैं।"
+    },
+    {
+      "section": "Hindi",
+      "text": "उपचारात्मक शिक्षण किया जाता है —",
+      "options": [
+        "वार्षिक परीक्षा का परिणाम घोषित करने के लिए",
+        "मेधावी बच्चों को पुरस्कृत करने के लिए",
+        "निदान द्वारा पहचानी गई कठिनाइयों को दूर करने के लिए",
+        "पाठ्यक्रम जल्दी पूरा करने के लिए"
+      ],
+      "answer": 2,
+      "explanation": "निदानात्मक परीक्षण से पता चली विशिष्ट कठिनाइयों को दूर करने हेतु उपचारात्मक शिक्षण दिया जाता है।"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word that is closest in meaning to 'happy'.",
+      "options": [
+        "Joyful",
+        "Sad",
+        "Angry",
+        "Weak"
+      ],
+      "answer": 0,
+      "explanation": "'Joyful' means full of happiness and is a synonym of 'happy'."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: ___ house is near the school. (their / there / they're)",
+      "options": [
+        "Theirs",
+        "There",
+        "They're",
+        "Their"
+      ],
+      "answer": 3,
+      "explanation": "'Their' is a possessive determiner used before a noun such as 'house'."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: The sun ___ in the east.",
+      "options": [
+        "is rising",
+        "rose",
+        "rises",
+        "rise"
+      ],
+      "answer": 2,
+      "explanation": "Universal truths are expressed in the simple present tense; a singular subject takes 'rises'."
+    },
+    {
+      "section": "English",
+      "text": "In the sentence 'The tall boy won the race', the word 'tall' is a/an",
+      "options": [
+        "adverb",
+        "adjective",
+        "verb",
+        "pronoun"
+      ],
+      "answer": 1,
+      "explanation": "'Tall' describes the noun 'boy', so it is an adjective."
+    },
+    {
+      "section": "English",
+      "text": "A 'Big Book' in the early grades is mainly used for",
+      "options": [
+        "writing homework",
+        "taking written tests",
+        "shared reading with the whole class",
+        "storing class records"
+      ],
+      "answer": 2,
+      "explanation": "Big Books have large print and pictures so the whole group can see the text while the teacher reads along with them."
+    },
+    {
+      "section": "English",
+      "text": "The natural order in which children acquire language skills is",
+      "options": [
+        "listening, speaking, reading, writing",
+        "reading, writing, listening, speaking",
+        "writing, reading, speaking, listening",
+        "speaking, writing, listening, reading"
+      ],
+      "answer": 0,
+      "explanation": "Children first listen and speak (oral skills) and later learn to read and write (literacy skills)."
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many faces does a cube have?",
+      "textHi": "एक घन में कितने फलक होते हैं?",
+      "options": [
+        "8",
+        "6",
+        "12",
+        "4"
+      ],
+      "optionsHi": [
+        "8",
+        "6",
+        "12",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "A cube has 6 square faces.",
+      "explanationHi": "घन में 6 वर्गाकार फलक होते हैं।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is 3/5 of 40?",
+      "textHi": "40 का 3/5 कितना है?",
+      "options": [
+        "30",
+        "15",
+        "8",
+        "24"
+      ],
+      "optionsHi": [
+        "30",
+        "15",
+        "8",
+        "24"
+      ],
+      "answer": 3,
+      "explanation": "40 ÷ 5 = 8, and 8 × 3 = 24.",
+      "explanationHi": "40 ÷ 5 = 8, तथा 8 × 3 = 24।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many days are there from 1 March to 31 May, both days included?",
+      "textHi": "1 मार्च से 31 मई तक (दोनों दिन सम्मिलित) कुल कितने दिन होते हैं?",
+      "options": [
+        "93",
+        "91",
+        "90",
+        "92"
+      ],
+      "optionsHi": [
+        "93",
+        "91",
+        "90",
+        "92"
+      ],
+      "answer": 3,
+      "explanation": "March 31 + April 30 + May 31 = 92 days.",
+      "explanationHi": "मार्च 31 + अप्रैल 30 + मई 31 = 92 दिन।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the successor of 9,999?",
+      "textHi": "9,999 का परवर्ती क्या है?",
+      "options": [
+        "99,999",
+        "9,998",
+        "10,000",
+        "1,000"
+      ],
+      "optionsHi": [
+        "99,999",
+        "9,998",
+        "10,000",
+        "1,000"
+      ],
+      "answer": 2,
+      "explanation": "The successor is one more than the number: 9,999 + 1 = 10,000.",
+      "explanationHi": "परवर्ती संख्या दी गई संख्या से एक अधिक होती है: 9,999 + 1 = 10,000।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The best way to introduce the concept of fractions in Class III is",
+      "textHi": "कक्षा III में भिन्न की संकल्पना से परिचय कराने का सबसे अच्छा तरीका है —",
+      "options": [
+        "folding paper or sharing a roti into equal parts",
+        "writing the definition of a fraction on the board",
+        "memorising the names of numerator and denominator",
+        "solving fraction sums from the textbook"
+      ],
+      "optionsHi": [
+        "कागज़ मोड़कर या रोटी को बराबर भागों में बाँटकर",
+        "श्यामपट्ट पर भिन्न की परिभाषा लिखकर",
+        "अंश और हर के नाम याद करवाकर",
+        "पाठ्यपुस्तक से भिन्न के प्रश्न हल करवाकर"
+      ],
+      "answer": 0,
+      "explanation": "Folding and equal sharing let children experience 'equal parts of a whole' concretely before symbols are introduced.",
+      "explanationHi": "मोड़ने और बराबर बाँटने से बच्चे प्रतीकों से पहले 'संपूर्ण के बराबर भाग' का मूर्त अनुभव करते हैं।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Which of the following is the best way for a teacher to assess children's understanding in mathematics?",
+      "textHi": "गणित में बच्चों की समझ का आकलन करने के लिए शिक्षक का सबसे अच्छा तरीका कौन-सा है?",
+      "options": [
+        "Checking only whether the final answers are correct",
+        "Asking children to explain how they arrived at their answers",
+        "Timing how fast children recite tables",
+        "Giving only multiple-choice tests"
+      ],
+      "optionsHi": [
+        "केवल यह जाँचना कि अंतिम उत्तर सही हैं या नहीं",
+        "बच्चों से यह समझाने को कहना कि वे उत्तर तक कैसे पहुँचे",
+        "बच्चे कितनी जल्दी पहाड़े सुनाते हैं, यह मापना",
+        "केवल बहुविकल्पीय परीक्षाएँ लेना"
+      ],
+      "answer": 1,
+      "explanation": "Children's explanations reveal their reasoning and misconceptions, which final answers alone do not show.",
+      "explanationHi": "बच्चों की व्याख्याओं से उनका तर्क और भ्रांतियाँ सामने आती हैं, जो केवल अंतिम उत्तर से नहीं दिखतीं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Goitre is caused by the deficiency of",
+      "textHi": "घेंघा (गॉयटर) रोग किसकी कमी से होता है?",
+      "options": [
+        "vitamin B1",
+        "calcium",
+        "iodine",
+        "protein"
+      ],
+      "optionsHi": [
+        "विटामिन B1",
+        "कैल्शियम",
+        "आयोडीन",
+        "प्रोटीन"
+      ],
+      "answer": 2,
+      "explanation": "Iodine is needed by the thyroid gland; its lack causes the thyroid to swell (goitre). Iodised salt prevents it.",
+      "explanationHi": "थायरॉयड ग्रंथि को आयोडीन की आवश्यकता होती है; इसकी कमी से ग्रंथि फूल जाती है (घेंघा)। आयोडीन युक्त नमक इससे बचाता है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "The Sundarbans in West Bengal are famous for",
+      "textHi": "पश्चिम बंगाल के सुंदरबन किसके लिए प्रसिद्ध हैं?",
+      "options": [
+        "mangrove forests and the Royal Bengal tiger",
+        "deserts and camels",
+        "snow-covered peaks and yaks",
+        "coral reefs and seals"
+      ],
+      "optionsHi": [
+        "मैंग्रोव वनों और रॉयल बंगाल टाइगर",
+        "मरुस्थल और ऊँटों",
+        "बर्फ़ से ढकी चोटियों और याक",
+        "प्रवाल भित्तियों और सील"
+      ],
+      "answer": 0,
+      "explanation": "The Sundarbans delta has the world's largest mangrove forest and is home to the Royal Bengal tiger.",
+      "explanationHi": "सुंदरबन डेल्टा में विश्व का सबसे बड़ा मैंग्रोव वन है और यह रॉयल बंगाल टाइगर का आवास है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "At sea level, pure water boils at",
+      "textHi": "समुद्र तल पर शुद्ध पानी किस तापमान पर उबलता है?",
+      "options": [
+        "212 °C",
+        "0 °C",
+        "37 °C",
+        "100 °C"
+      ],
+      "optionsHi": [
+        "212 °C",
+        "0 °C",
+        "37 °C",
+        "100 °C"
+      ],
+      "answer": 3,
+      "explanation": "Pure water boils at 100 °C (212 °F) at normal atmospheric pressure; it freezes at 0 °C.",
+      "explanationHi": "सामान्य वायुमंडलीय दाब पर शुद्ध पानी 100 °C (212 °F) पर उबलता है; यह 0 °C पर जमता है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Kettuvallams, the traditional houseboats made of wood and coir, are found in",
+      "textHi": "लकड़ी और नारियल-रेशे से बनी पारंपरिक नाव-घर 'केट्टुवल्लम' कहाँ पाई जाती हैं?",
+      "options": [
+        "Jammu and Kashmir",
+        "Kerala",
+        "Rajasthan",
+        "Punjab"
+      ],
+      "optionsHi": [
+        "जम्मू और कश्मीर",
+        "केरल",
+        "राजस्थान",
+        "पंजाब"
+      ],
+      "answer": 1,
+      "explanation": "Kettuvallams ply the backwaters of Kerala; the shikaras and houseboats of Dal Lake are a different tradition.",
+      "explanationHi": "केट्टुवल्लम केरल के बैकवाटर में चलती हैं; डल झील के शिकारे और हाउसबोट एक अलग परंपरा हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "A teacher asks children to draw a concept map on 'Water'. The main purpose of a concept map is to",
+      "textHi": "शिक्षक बच्चों से 'पानी' पर एक अवधारणा मानचित्र (कॉन्सेप्ट मैप) बनाने को कहता है। अवधारणा मानचित्र का मुख्य उद्देश्य है —",
+      "options": [
+        "decorate the classroom",
+        "test the children's drawing skills",
+        "make children memorise definitions",
+        "show the relationships between different ideas"
+      ],
+      "optionsHi": [
+        "कक्षा को सजाना",
+        "बच्चों के चित्रकला कौशल की परीक्षा लेना",
+        "बच्चों को परिभाषाएँ रटवाना",
+        "विभिन्न विचारों के बीच संबंध दर्शाना"
+      ],
+      "answer": 3,
+      "explanation": "A concept map links related ideas visually, helping children organise knowledge and helping teachers see their understanding.",
+      "explanationHi": "अवधारणा मानचित्र संबंधित विचारों को दृश्य रूप से जोड़ता है, जिससे बच्चे ज्ञान व्यवस्थित करते हैं और शिक्षक उनकी समझ देख पाते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "The best way to begin a lesson on 'Water' in Class IV is to",
+      "textHi": "कक्षा IV में 'पानी' विषय पर पाठ शुरू करने का सबसे अच्छा तरीका है —",
+      "options": [
+        "ask children to read the chapter silently",
+        "discuss children's own experiences of how water is collected and used at home",
+        "dictate notes on the water cycle",
+        "write the definition of water on the board"
+      ],
+      "optionsHi": [
+        "बच्चों से अध्याय को मौन रूप से पढ़ने को कहना",
+        "बच्चों से उनके अपने अनुभवों पर चर्चा करना कि घर में पानी कैसे लाया और उपयोग किया जाता है",
+        "जल-चक्र पर नोट्स लिखवाना",
+        "श्यामपट्ट पर पानी की परिभाषा लिखना"
+      ],
+      "answer": 1,
+      "explanation": "Starting from children's experiences connects new learning to what they already know and makes EVS meaningful.",
+      "explanationHi": "बच्चों के अनुभवों से शुरुआत करने पर नया अधिगम उनके पूर्वज्ञान से जुड़ता है और पर्यावरण अध्ययन अर्थपूर्ण बनता है।"
+    }
+  ]
+}

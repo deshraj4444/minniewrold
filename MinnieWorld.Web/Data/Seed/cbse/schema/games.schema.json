@@ -1,0 +1,162 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://minnieworld/cbse/games.schema.json",
+  "title": "CBSE learning games",
+  "description": "One game in a chapter's \"games\" array. Every text field has an optional Hindi twin ending in \"Hi\". Shown in English, Hindi or both, as the reader chooses.",
+  "oneOf": [
+    { "$ref": "#/$defs/dragSort" },
+    { "$ref": "#/$defs/matchPairs" },
+    { "$ref": "#/$defs/timeline" },
+    { "$ref": "#/$defs/labelDiagram" },
+    { "$ref": "#/$defs/numberLine" },
+    { "$ref": "#/$defs/speedQuiz" }
+  ],
+  "$defs": {
+    "text": { "type": "string", "minLength": 1 },
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "Unique within the chapter, e.g. \"sort-numbers\"." },
+    "common": {
+      "type": "object",
+      "required": ["id", "type", "title"],
+      "properties": {
+        "id": { "$ref": "#/$defs/id" },
+        "title": { "$ref": "#/$defs/text" },
+        "titleHi": { "type": "string" },
+        "instructions": { "type": "string", "description": "One line telling the student what to do." },
+        "instructionsHi": { "type": "string" }
+      }
+    },
+
+    "dragSort": {
+      "description": "Drag (or tap) each item into the right bucket. A wrong drop shows the item's explanation and sends it back.",
+      "allOf": [{ "$ref": "#/$defs/common" }],
+      "required": ["type", "buckets", "items"],
+      "properties": {
+        "type": { "const": "dragSort" },
+        "buckets": {
+          "type": "array", "minItems": 2, "maxItems": 4,
+          "items": { "type": "object", "required": ["id", "label"], "properties": { "id": { "$ref": "#/$defs/id" }, "label": { "$ref": "#/$defs/text" }, "labelHi": { "type": "string" } } }
+        },
+        "items": {
+          "type": "array", "minItems": 2,
+          "items": {
+            "type": "object", "required": ["text", "bucket"],
+            "properties": {
+              "text": { "$ref": "#/$defs/text" }, "textHi": { "type": "string" },
+              "bucket": { "type": "string", "description": "The id of the right bucket." },
+              "explanation": { "type": "string", "description": "Why it belongs there. Shown after every drop." }, "explanationHi": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+
+    "matchPairs": {
+      "description": "Match each left item to its right item (term ↔ definition, word ↔ synonym). Both columns are shuffled.",
+      "allOf": [{ "$ref": "#/$defs/common" }],
+      "required": ["type", "pairs"],
+      "properties": {
+        "type": { "const": "matchPairs" },
+        "leftLabel": { "type": "string", "description": "Heading for the left column, read by screen readers, e.g. \"Terms\"." }, "leftLabelHi": { "type": "string" },
+        "rightLabel": { "type": "string" }, "rightLabelHi": { "type": "string" },
+        "pairs": {
+          "type": "array", "minItems": 2, "maxItems": 10,
+          "items": {
+            "type": "object", "required": ["left", "right"],
+            "properties": {
+              "left": { "$ref": "#/$defs/text" }, "leftHi": { "type": "string" },
+              "right": { "$ref": "#/$defs/text" }, "rightHi": { "type": "string" },
+              "explanation": { "type": "string" }, "explanationHi": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+
+    "timeline": {
+      "description": "Arrange events or steps in order. List the items in the CORRECT order; the game shuffles them.",
+      "allOf": [{ "$ref": "#/$defs/common" }],
+      "required": ["type", "items"],
+      "properties": {
+        "type": { "const": "timeline" },
+        "items": {
+          "type": "array", "minItems": 3, "maxItems": 10,
+          "items": {
+            "type": "object", "required": ["text"],
+            "properties": { "text": { "$ref": "#/$defs/text" }, "textHi": { "type": "string" }, "explanation": { "type": "string" }, "explanationHi": { "type": "string" } }
+          }
+        }
+      }
+    },
+
+    "labelDiagram": {
+      "description": "Put labels on numbered spots of a picture. x and y are percentages of the picture's width and height (0–100) from the top-left.",
+      "allOf": [{ "$ref": "#/$defs/common" }],
+      "required": ["type", "image", "hotspots"],
+      "properties": {
+        "type": { "const": "labelDiagram" },
+        "image": { "type": "string", "description": "A site path (/covers/cell.svg), an https URL, or inline SVG markup starting with <svg. Inline SVG is shown as an image, so scripts in it never run." },
+        "alt": { "type": "string", "description": "What the picture shows, for screen readers." }, "altHi": { "type": "string" },
+        "hotspots": {
+          "type": "array", "minItems": 2, "maxItems": 12,
+          "items": {
+            "type": "object", "required": ["label", "x", "y"],
+            "properties": {
+              "label": { "$ref": "#/$defs/text" }, "labelHi": { "type": "string" },
+              "x": { "type": "number", "minimum": 0, "maximum": 100 }, "y": { "type": "number", "minimum": 0, "maximum": 100 },
+              "explanation": { "type": "string" }, "explanationHi": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+
+    "numberLine": {
+      "description": "Place a value on a number line. The marker snaps to multiples of step; an answer within tolerance (default step/2) is right.",
+      "allOf": [{ "$ref": "#/$defs/common" }],
+      "required": ["type", "min", "max", "step", "rounds"],
+      "properties": {
+        "type": { "const": "numberLine" },
+        "min": { "type": "number" }, "max": { "type": "number" },
+        "step": { "type": "number", "exclusiveMinimum": 0, "description": "Distance between ticks, e.g. 1, 0.5, 0.25, 0.1." },
+        "labelEvery": { "type": "integer", "minimum": 1, "default": 1, "description": "Label every n-th tick (keeps small steps readable)." },
+        "format": { "enum": ["integer", "decimal", "fraction"], "default": "integer", "description": "How tick labels and answers are written. 'fraction' uses denominator 1/step, in lowest terms." },
+        "tolerance": { "type": "number", "minimum": 0 },
+        "rounds": {
+          "type": "array", "minItems": 1, "maxItems": 15,
+          "items": {
+            "type": "object", "required": ["prompt", "value"],
+            "properties": {
+              "prompt": { "$ref": "#/$defs/text" }, "promptHi": { "type": "string" },
+              "value": { "type": "number", "description": "The right position. Must be between min and max." },
+              "valueLabel": { "type": "string", "description": "How to write the answer if not the default, e.g. \"−1¾\"." },
+              "explanation": { "type": "string" }, "explanationHi": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+
+    "speedQuiz": {
+      "description": "A timed multiple-choice round. The best score is kept on the student's device only.",
+      "allOf": [{ "$ref": "#/$defs/common" }],
+      "required": ["type", "questions"],
+      "properties": {
+        "type": { "const": "speedQuiz" },
+        "seconds": { "type": "integer", "minimum": 20, "maximum": 300, "default": 60 },
+        "questions": {
+          "type": "array", "minItems": 5,
+          "items": {
+            "type": "object", "required": ["text", "options", "answer"],
+            "properties": {
+              "text": { "$ref": "#/$defs/text" }, "textHi": { "type": "string" },
+              "options": { "type": "array", "minItems": 2, "maxItems": 4, "items": { "$ref": "#/$defs/text" } },
+              "optionsHi": { "type": "array", "minItems": 2, "maxItems": 4, "items": { "type": "string" } },
+              "answer": { "type": "integer", "minimum": 0, "maximum": 3, "description": "Index of the right option (0 = first)." },
+              "explanation": { "type": "string" }, "explanationHi": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

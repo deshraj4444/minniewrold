@@ -1,0 +1,2773 @@
+{
+  "slug": "hp-tet-tgt-arts-mock-2",
+  "version": 2,
+  "title": "HP TET TGT Arts · Full Mock Test 2",
+  "description": "Full-length 150-question mock test on the latest HP TET TGT (Arts) pattern: Child Development & Pedagogy, General Awareness (with Himachal GK), English and Social Studies.",
+  "category": "HP TET TGT Arts",
+  "kind": "Mock test",
+  "year": null,
+  "durationMinutes": 150,
+  "price": 10,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Lawrence Kohlberg's stage theory is chiefly concerned with the development of:",
+      "textHi": "लॉरेंस कोलबर्ग का अवस्था सिद्धांत मुख्य रूप से किसके विकास से संबंधित है?",
+      "options": [
+        "Cognitive abilities",
+        "Language acquisition",
+        "Moral reasoning",
+        "Motor skills"
+      ],
+      "optionsHi": [
+        "संज्ञानात्मक क्षमताएँ",
+        "भाषा अर्जन",
+        "नैतिक तर्कणा",
+        "गामक (क्रियात्मक) कौशल"
+      ],
+      "answer": 2,
+      "explanation": "Kohlberg extended Piaget's work to describe how children's reasoning about right and wrong develops through levels and stages.",
+      "explanationHi": "कोलबर्ग ने पियाजे के कार्य को आगे बढ़ाते हुए बताया कि सही और गलत के बारे में बच्चों का तर्क विभिन्न स्तरों और अवस्थाओं से होकर विकसित होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "At the first stage of Kohlberg's pre-conventional level, a child follows rules mainly in order to:",
+      "textHi": "कोलबर्ग के पूर्व-परंपरागत स्तर की पहली अवस्था में बच्चा नियमों का पालन मुख्यतः किस कारण से करता है?",
+      "options": [
+        "Avoid being punished",
+        "Gain the approval of others",
+        "Maintain law and order in society",
+        "Uphold universal ethical principles"
+      ],
+      "optionsHi": [
+        "दंड से बचने के लिए",
+        "दूसरों की स्वीकृति पाने के लिए",
+        "समाज में कानून-व्यवस्था बनाए रखने के लिए",
+        "सार्वभौमिक नैतिक सिद्धांतों को बनाए रखने के लिए"
+      ],
+      "answer": 0,
+      "explanation": "Stage 1 is the punishment-and-obedience orientation, where an action is judged by whether it leads to punishment.",
+      "explanationHi": "पहली अवस्था दंड एवं आज्ञापालन अभिविन्यास है, जिसमें किसी कार्य को इस आधार पर आँका जाता है कि उससे दंड मिलता है या नहीं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The 'good boy–good girl' orientation, in which a child behaves well to win the approval of others, belongs to which of Kohlberg's levels?",
+      "textHi": "'अच्छा लड़का–अच्छी लड़की' अभिविन्यास, जिसमें बच्चा दूसरों की स्वीकृति पाने के लिए अच्छा व्यवहार करता है, कोलबर्ग के किस स्तर से संबंधित है?",
+      "options": [
+        "Pre-conventional",
+        "Post-conventional",
+        "Sensorimotor",
+        "Conventional"
+      ],
+      "optionsHi": [
+        "पूर्व-परंपरागत",
+        "उत्तर-परंपरागत",
+        "संवेदी-गामक",
+        "परंपरागत"
+      ],
+      "answer": 3,
+      "explanation": "The interpersonal-accord ('good boy–good girl') orientation is Stage 3, the first stage of the conventional level.",
+      "explanationHi": "अंतर्वैयक्तिक सामंजस्य ('अच्छा लड़का–अच्छी लड़की') अभिविन्यास तीसरी अवस्था है, जो परंपरागत स्तर की पहली अवस्था है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The famous 'Heinz dilemma' was used to study moral judgement by:",
+      "textHi": "प्रसिद्ध 'हाइंज़ दुविधा' का प्रयोग नैतिक निर्णय के अध्ययन के लिए किसने किया था?",
+      "options": [
+        "Jean Piaget",
+        "Lawrence Kohlberg",
+        "Erik Erikson",
+        "Albert Bandura"
+      ],
+      "optionsHi": [
+        "जीन पियाजे",
+        "लॉरेंस कोलबर्ग",
+        "एरिक एरिक्सन",
+        "अल्बर्ट बंडूरा"
+      ],
+      "answer": 1,
+      "explanation": "Kohlberg presented stories such as the Heinz dilemma and classified the reasoning behind people's answers.",
+      "explanationHi": "कोलबर्ग ने हाइंज़ दुविधा जैसी कहानियाँ प्रस्तुत कीं और लोगों के उत्तरों के पीछे के तर्क का वर्गीकरण किया।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Erik Erikson, the central psychosocial crisis of adolescence is:",
+      "textHi": "एरिक एरिक्सन के अनुसार किशोरावस्था का केंद्रीय मनोसामाजिक संकट है:",
+      "options": [
+        "Trust vs Mistrust",
+        "Industry vs Inferiority",
+        "Identity vs Role Confusion",
+        "Integrity vs Despair"
+      ],
+      "optionsHi": [
+        "विश्वास बनाम अविश्वास",
+        "परिश्रम बनाम हीनता",
+        "पहचान बनाम भूमिका भ्रम",
+        "सत्यनिष्ठा बनाम निराशा"
+      ],
+      "answer": 2,
+      "explanation": "Erikson held that adolescents struggle to form a stable sense of self, the crisis of identity versus role confusion.",
+      "explanationHi": "एरिक्सन के अनुसार किशोर स्वयं की एक स्थिर पहचान बनाने के लिए संघर्ष करते हैं; यही पहचान बनाम भूमिका भ्रम का संकट है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "As per Erikson, a child in the primary school years (about 6 to 12 years) faces the crisis of:",
+      "textHi": "एरिक्सन के अनुसार प्राथमिक विद्यालय के वर्षों (लगभग 6 से 12 वर्ष) में बच्चा किस संकट का सामना करता है?",
+      "options": [
+        "Industry vs Inferiority",
+        "Autonomy vs Shame and Doubt",
+        "Initiative vs Guilt",
+        "Intimacy vs Isolation"
+      ],
+      "optionsHi": [
+        "परिश्रम बनाम हीनता",
+        "स्वायत्तता बनाम लज्जा और संदेह",
+        "पहल बनाम अपराध-बोध",
+        "आत्मीयता बनाम अलगाव"
+      ],
+      "answer": 0,
+      "explanation": "In the school-age stage children gain competence through tasks and achievement; failure can produce feelings of inferiority.",
+      "explanationHi": "विद्यालयी आयु की अवस्था में बच्चे कार्यों और उपलब्धियों से सक्षमता प्राप्त करते हैं; असफलता से हीनता की भावना उत्पन्न हो सकती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The National Education Policy (NEP) 2020 recommends replacing the 10+2 school structure with a new pedagogical and curricular structure of:",
+      "textHi": "राष्ट्रीय शिक्षा नीति (NEP) 2020 विद्यालय की 10+2 संरचना के स्थान पर किस नई शैक्षणिक एवं पाठ्यचर्या संरचना की अनुशंसा करती है?",
+      "options": [
+        "10+2+3",
+        "4+4+4+3",
+        "6+3+3+3",
+        "5+3+3+4"
+      ],
+      "optionsHi": [
+        "10+2+3",
+        "4+4+4+3",
+        "6+3+3+3",
+        "5+3+3+4"
+      ],
+      "answer": 3,
+      "explanation": "NEP 2020 proposes a 5+3+3+4 design: Foundational, Preparatory, Middle and Secondary stages covering ages 3 to 18.",
+      "explanationHi": "NEP 2020 में 5+3+3+4 संरचना प्रस्तावित है: बुनियादी, प्रारंभिक, मध्य और माध्यमिक चरण, जो 3 से 18 वर्ष की आयु को समाहित करते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Jerome Bruner described three modes of representation through which knowledge is stored. They are:",
+      "textHi": "जेरोम ब्रूनर ने ज्ञान के संचय के तीन प्रतिनिधित्व रूपों (मोड) का वर्णन किया। वे हैं:",
+      "options": [
+        "Enactive, iconic and symbolic",
+        "Sensorimotor, concrete and formal",
+        "Assimilation, accommodation and equilibration",
+        "Id, ego and superego"
+      ],
+      "optionsHi": [
+        "सक्रियात्मक, प्रतिमात्मक और प्रतीकात्मक",
+        "संवेदी-गामक, मूर्त और औपचारिक",
+        "आत्मसात्करण, समायोजन और साम्यधारण",
+        "इड, ईगो और सुपरईगो"
+      ],
+      "answer": 0,
+      "explanation": "Bruner's modes are enactive (action-based), iconic (image-based) and symbolic (language and symbols).",
+      "explanationHi": "ब्रूनर के तीन रूप हैं: सक्रियात्मक (क्रिया-आधारित), प्रतिमात्मक (चित्र-आधारित) और प्रतीकात्मक (भाषा एवं प्रतीक-आधारित)।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The idea of a 'spiral curriculum', in which the same topics are revisited at increasing levels of complexity, was put forward by:",
+      "textHi": "'सर्पिल पाठ्यक्रम' का विचार, जिसमें एक ही विषयवस्तु को बढ़ती जटिलता के स्तरों पर बार-बार पढ़ाया जाता है, किसने प्रस्तुत किया?",
+      "options": [
+        "Lev Vygotsky",
+        "B.F. Skinner",
+        "Jerome Bruner",
+        "Howard Gardner"
+      ],
+      "optionsHi": [
+        "लेव वायगोत्स्की",
+        "बी. एफ. स्किनर",
+        "जेरोम ब्रूनर",
+        "हॉवर्ड गार्डनर"
+      ],
+      "answer": 2,
+      "explanation": "Bruner argued that any subject can be taught in some honest form to any child and then revisited in greater depth.",
+      "explanationHi": "ब्रूनर का मत था कि कोई भी विषय किसी भी बच्चे को किसी उपयुक्त रूप में पढ़ाया जा सकता है और फिर अधिक गहराई से दोहराया जा सकता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Jerome Bruner is best known for advocating which approach to teaching?",
+      "textHi": "जेरोम ब्रूनर शिक्षण के किस उपागम के समर्थन के लिए सबसे अधिक जाने जाते हैं?",
+      "options": [
+        "Rote memorisation",
+        "Discovery learning",
+        "Punishment-based drill",
+        "Lecture-only instruction"
+      ],
+      "optionsHi": [
+        "रटकर याद करना",
+        "खोज अधिगम",
+        "दंड-आधारित अभ्यास",
+        "केवल व्याख्यान द्वारा शिक्षण"
+      ],
+      "answer": 1,
+      "explanation": "Bruner promoted discovery learning, in which learners actively find out principles and relationships for themselves.",
+      "explanationHi": "ब्रूनर ने खोज अधिगम को बढ़ावा दिया, जिसमें शिक्षार्थी स्वयं सक्रिय रूप से सिद्धांतों और संबंधों की खोज करते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Howard Gardner first presented his theory of multiple intelligences in the book:",
+      "textHi": "हॉवर्ड गार्डनर ने अपना बहुबुद्धि सिद्धांत सबसे पहले किस पुस्तक में प्रस्तुत किया?",
+      "options": [
+        "Frames of Mind",
+        "Emotional Intelligence",
+        "The Process of Education",
+        "Walden Two"
+      ],
+      "optionsHi": [
+        "फ्रेम्स ऑफ़ माइंड",
+        "इमोशनल इंटेलिजेंस",
+        "द प्रोसेस ऑफ़ एजुकेशन",
+        "वाल्डेन टू"
+      ],
+      "answer": 0,
+      "explanation": "Gardner's 'Frames of Mind' (1983) introduced the theory; 'The Process of Education' is by Bruner and 'Walden Two' by Skinner.",
+      "explanationHi": "गार्डनर की 'फ्रेम्स ऑफ़ माइंड' (1983) में यह सिद्धांत आया; 'द प्रोसेस ऑफ़ एजुकेशन' ब्रूनर की और 'वाल्डेन टू' स्किनर की पुस्तक है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A student who understands her own feelings, strengths and goals very well shows a high level of which intelligence in Gardner's theory?",
+      "textHi": "जो छात्रा अपनी भावनाओं, क्षमताओं और लक्ष्यों को भली-भाँति समझती है, वह गार्डनर के सिद्धांत की किस बुद्धि का उच्च स्तर दर्शाती है?",
+      "options": [
+        "Interpersonal",
+        "Intrapersonal",
+        "Naturalist",
+        "Linguistic"
+      ],
+      "optionsHi": [
+        "अंतर्वैयक्तिक",
+        "अंतःवैयक्तिक (आत्म-बोध)",
+        "प्रकृतिवादी",
+        "भाषायी"
+      ],
+      "answer": 1,
+      "explanation": "Intrapersonal intelligence is the capacity to understand oneself; interpersonal intelligence concerns understanding others.",
+      "explanationHi": "अंतःवैयक्तिक बुद्धि स्वयं को समझने की क्षमता है; अंतर्वैयक्तिक बुद्धि दूसरों को समझने से संबंधित है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which intelligence was added by Gardner later to his original list of seven intelligences?",
+      "textHi": "गार्डनर ने अपनी मूल सात बुद्धियों की सूची में बाद में कौन-सी बुद्धि जोड़ी?",
+      "options": [
+        "Logical-mathematical",
+        "Spatial",
+        "Bodily-kinaesthetic",
+        "Naturalist"
+      ],
+      "optionsHi": [
+        "तार्किक-गणितीय",
+        "स्थानिक",
+        "शारीरिक-गतिसंवेदी",
+        "प्रकृतिवादी"
+      ],
+      "answer": 3,
+      "explanation": "Gardner added naturalist intelligence, the ability to recognise and classify plants, animals and other features of nature, in the 1990s.",
+      "explanationHi": "गार्डनर ने 1990 के दशक में प्रकृतिवादी बुद्धि जोड़ी, जो पौधों, जीव-जंतुओं और प्रकृति की अन्य विशेषताओं को पहचानने व वर्गीकृत करने की क्षमता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "E.L. Thorndike's theory of learning is popularly known as:",
+      "textHi": "ई. एल. थॉर्नडाइक का अधिगम सिद्धांत सामान्यतः किस नाम से जाना जाता है?",
+      "options": [
+        "Trial-and-error learning (connectionism)",
+        "Insight learning",
+        "Classical conditioning",
+        "Social learning"
+      ],
+      "optionsHi": [
+        "प्रयास एवं त्रुटि अधिगम (संबंधवाद)",
+        "अंतर्दृष्टि अधिगम",
+        "शास्त्रीय अनुबंधन",
+        "सामाजिक अधिगम"
+      ],
+      "answer": 0,
+      "explanation": "Thorndike explained learning as the formation of stimulus-response bonds through trial and error.",
+      "explanationHi": "थॉर्नडाइक ने अधिगम को प्रयास एवं त्रुटि द्वारा उद्दीपक-अनुक्रिया संबंधों के निर्माण के रूप में समझाया।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Thorndike's Law of Effect, a response is more likely to be repeated when it is:",
+      "textHi": "थॉर्नडाइक के प्रभाव के नियम के अनुसार कोई अनुक्रिया दोहराए जाने की संभावना तब अधिक होती है जब वह:",
+      "options": [
+        "Repeated without any result",
+        "Followed by a satisfying consequence",
+        "Followed by an annoying consequence",
+        "Merely observed in a model"
+      ],
+      "optionsHi": [
+        "बिना किसी परिणाम के दोहराई जाए",
+        "संतोषजनक परिणाम के बाद आए",
+        "कष्टदायक परिणाम के बाद आए",
+        "केवल किसी आदर्श (मॉडल) में देखी जाए"
+      ],
+      "answer": 1,
+      "explanation": "The Law of Effect states that responses followed by satisfaction are strengthened and those followed by discomfort are weakened.",
+      "explanationHi": "प्रभाव का नियम कहता है कि संतोष देने वाली अनुक्रियाएँ सुदृढ़ होती हैं और असंतोष देने वाली अनुक्रियाएँ कमज़ोर होती हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Thorndike carried out his classic learning experiments using:",
+      "textHi": "थॉर्नडाइक ने अपने प्रसिद्ध अधिगम प्रयोग किसका उपयोग करके किए?",
+      "options": [
+        "Dogs and a bell",
+        "Rats in a Skinner box",
+        "Cats in a puzzle box",
+        "Chimpanzees and bananas"
+      ],
+      "optionsHi": [
+        "कुत्ते और घंटी",
+        "स्किनर बॉक्स में चूहे",
+        "पहेली बक्से (पज़ल बॉक्स) में बिल्लियाँ",
+        "चिंपैंजी और केले"
+      ],
+      "answer": 2,
+      "explanation": "Thorndike placed hungry cats in puzzle boxes and recorded how they gradually learned to escape.",
+      "explanationHi": "थॉर्नडाइक ने भूखी बिल्लियों को पहेली बक्सों में रखा और देखा कि वे धीरे-धीरे बाहर निकलना कैसे सीखती हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "In Pavlov's experiment, before conditioning took place, the sound of the bell was a:",
+      "textHi": "पावलोव के प्रयोग में अनुबंधन होने से पहले घंटी की आवाज़ क्या थी?",
+      "options": [
+        "Unconditioned stimulus",
+        "Conditioned response",
+        "Unconditioned response",
+        "Neutral stimulus"
+      ],
+      "optionsHi": [
+        "अनानुबंधित उद्दीपक",
+        "अनुबंधित अनुक्रिया",
+        "अनानुबंधित अनुक्रिया",
+        "तटस्थ उद्दीपक"
+      ],
+      "answer": 3,
+      "explanation": "Before pairing with food, the bell produced no salivation and so was a neutral stimulus; after pairing it became a conditioned stimulus.",
+      "explanationHi": "भोजन के साथ जोड़े जाने से पहले घंटी से लार नहीं आती थी, अतः वह तटस्थ उद्दीपक थी; जोड़े जाने के बाद वह अनुबंधित उद्दीपक बन गई।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "In classical conditioning, the gradual weakening of a conditioned response when the conditioned stimulus is repeatedly given without the unconditioned stimulus is called:",
+      "textHi": "शास्त्रीय अनुबंधन में, जब अनुबंधित उद्दीपक को अनानुबंधित उद्दीपक के बिना बार-बार दिया जाता है, तो अनुबंधित अनुक्रिया का धीरे-धीरे कमज़ोर होना क्या कहलाता है?",
+      "options": [
+        "Generalisation",
+        "Extinction",
+        "Discrimination",
+        "Spontaneous recovery"
+      ],
+      "optionsHi": [
+        "सामान्यीकरण",
+        "विलोपन",
+        "विभेदन",
+        "स्वतः पुनर्प्राप्ति"
+      ],
+      "answer": 1,
+      "explanation": "If the bell is repeatedly sounded without food, salivation to the bell gradually dies out; this is extinction.",
+      "explanationHi": "यदि घंटी बार-बार बिना भोजन के बजाई जाए तो घंटी पर लार आना धीरे-धीरे समाप्त हो जाता है; इसे विलोपन कहते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A teacher excuses students from a disliked extra worksheet whenever they complete their classwork on time, and timely completion increases. This is an example of:",
+      "textHi": "एक शिक्षक कक्षा-कार्य समय पर पूरा करने वाले छात्रों को एक नापसंद अतिरिक्त कार्यपत्रक से छूट दे देता है, और समय पर कार्य पूरा करना बढ़ जाता है। यह किसका उदाहरण है?",
+      "options": [
+        "Positive reinforcement",
+        "Negative reinforcement",
+        "Positive punishment",
+        "Extinction"
+      ],
+      "optionsHi": [
+        "सकारात्मक पुनर्बलन",
+        "नकारात्मक पुनर्बलन",
+        "सकारात्मक दंड",
+        "विलोपन"
+      ],
+      "answer": 1,
+      "explanation": "Removing an unpleasant stimulus to increase a desired behaviour is negative reinforcement in Skinner's operant conditioning.",
+      "explanationHi": "स्किनर के क्रियाप्रसूत अनुबंधन में वांछित व्यवहार बढ़ाने के लिए किसी अप्रिय उद्दीपक को हटाना नकारात्मक पुनर्बलन है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Programmed instruction and teaching machines were developed on the principles of:",
+      "textHi": "अभिक्रमित अनुदेशन और शिक्षण मशीनें किसके सिद्धांतों पर विकसित की गईं?",
+      "options": [
+        "Operant conditioning",
+        "Classical conditioning",
+        "Gestalt insight learning",
+        "Psychoanalysis"
+      ],
+      "optionsHi": [
+        "क्रियाप्रसूत अनुबंधन",
+        "शास्त्रीय अनुबंधन",
+        "गेस्टाल्ट अंतर्दृष्टि अधिगम",
+        "मनोविश्लेषण"
+      ],
+      "answer": 0,
+      "explanation": "B.F. Skinner designed programmed learning, which uses small steps, active responses and immediate reinforcement.",
+      "explanationHi": "बी. एफ. स्किनर ने अभिक्रमित अधिगम तैयार किया, जिसमें छोटे-छोटे चरण, सक्रिय अनुक्रियाएँ और तत्काल पुनर्बलन होते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is an example of intrinsic motivation?",
+      "textHi": "निम्नलिखित में से कौन-सा आंतरिक अभिप्रेरणा का उदाहरण है?",
+      "options": [
+        "Studying to win a cash prize",
+        "Reading a novel simply because one enjoys it",
+        "Finishing homework to avoid a scolding",
+        "Practising to earn a gold star"
+      ],
+      "optionsHi": [
+        "नकद पुरस्कार जीतने के लिए पढ़ना",
+        "केवल आनंद के लिए उपन्यास पढ़ना",
+        "डाँट से बचने के लिए गृहकार्य पूरा करना",
+        "गोल्ड स्टार पाने के लिए अभ्यास करना"
+      ],
+      "answer": 1,
+      "explanation": "Intrinsic motivation comes from the activity itself, such as enjoyment or curiosity, rather than from external rewards or punishments.",
+      "explanationHi": "आंतरिक अभिप्रेरणा बाहरी पुरस्कार या दंड से नहीं, बल्कि स्वयं गतिविधि से, जैसे आनंद या जिज्ञासा से, उत्पन्न होती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "In Abraham Maslow's hierarchy of needs, the highest level is:",
+      "textHi": "अब्राहम मैस्लो के आवश्यकता पदानुक्रम में सर्वोच्च स्तर है:",
+      "options": [
+        "Esteem needs",
+        "Safety needs",
+        "Belongingness and love needs",
+        "Self-actualisation"
+      ],
+      "optionsHi": [
+        "सम्मान की आवश्यकताएँ",
+        "सुरक्षा की आवश्यकताएँ",
+        "संबद्धता एवं प्रेम की आवश्यकताएँ",
+        "आत्म-सिद्धि (आत्म-वास्तविकीकरण)"
+      ],
+      "answer": 3,
+      "explanation": "Maslow placed self-actualisation, the realisation of one's full potential, at the top of his hierarchy.",
+      "explanationHi": "मैस्लो ने अपने पदानुक्रम के शीर्ष पर आत्म-सिद्धि, अर्थात् अपनी पूर्ण क्षमता की प्राप्ति, को रखा।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The Right of Children to Free and Compulsory Education Act, 2009 covers children in the age group of:",
+      "textHi": "निःशुल्क एवं अनिवार्य बाल शिक्षा का अधिकार अधिनियम, 2009 किस आयु वर्ग के बच्चों पर लागू होता है?",
+      "options": [
+        "3 to 14 years",
+        "6 to 14 years",
+        "6 to 18 years",
+        "5 to 15 years"
+      ],
+      "optionsHi": [
+        "3 से 14 वर्ष",
+        "6 से 14 वर्ष",
+        "6 से 18 वर्ष",
+        "5 से 15 वर्ष"
+      ],
+      "answer": 1,
+      "explanation": "The RTE Act guarantees free and compulsory elementary education to every child aged six to fourteen years.",
+      "explanationHi": "RTE अधिनियम छह से चौदह वर्ष की आयु के प्रत्येक बच्चे को निःशुल्क एवं अनिवार्य प्रारंभिक शिक्षा की गारंटी देता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Under Section 12(1)(c) of the RTE Act, 2009, private unaided schools must admit children from weaker and disadvantaged groups in what proportion of entry-level seats?",
+      "textHi": "RTE अधिनियम, 2009 की धारा 12(1)(c) के अंतर्गत निजी गैर-सहायता प्राप्त विद्यालयों को प्रवेश-स्तर की कितनी सीटों पर कमज़ोर और वंचित वर्गों के बच्चों को प्रवेश देना होता है?",
+      "options": [
+        "At least 10%",
+        "At least 15%",
+        "At least 20%",
+        "At least 25%"
+      ],
+      "optionsHi": [
+        "कम से कम 10%",
+        "कम से कम 15%",
+        "कम से कम 20%",
+        "कम से कम 25%"
+      ],
+      "answer": 3,
+      "explanation": "Section 12(1)(c) requires such schools to admit children from weaker sections and disadvantaged groups to at least 25% of the entry-class strength.",
+      "explanationHi": "धारा 12(1)(c) के अनुसार ऐसे विद्यालयों को प्रवेश कक्षा की कम से कम 25% सीटों पर कमज़ोर और वंचित वर्गों के बच्चों को प्रवेश देना होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The RTE Act, 2009 came into force on:",
+      "textHi": "RTE अधिनियम, 2009 कब लागू हुआ?",
+      "options": [
+        "15 August 2009",
+        "26 January 2010",
+        "1 April 2010",
+        "2 October 2010"
+      ],
+      "optionsHi": [
+        "15 अगस्त 2009",
+        "26 जनवरी 2010",
+        "1 अप्रैल 2010",
+        "2 अक्टूबर 2010"
+      ],
+      "answer": 2,
+      "explanation": "The Act was passed in 2009 and came into force across India on 1 April 2010.",
+      "explanationHi": "यह अधिनियम 2009 में पारित हुआ और 1 अप्रैल 2010 को पूरे भारत में लागू हुआ।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which Article of the Constitution makes free and compulsory education a fundamental right for children of 6 to 14 years?",
+      "textHi": "संविधान का कौन-सा अनुच्छेद 6 से 14 वर्ष के बच्चों के लिए निःशुल्क एवं अनिवार्य शिक्षा को मौलिक अधिकार बनाता है?",
+      "options": [
+        "Article 21A",
+        "Article 45",
+        "Article 51A",
+        "Article 29"
+      ],
+      "optionsHi": [
+        "अनुच्छेद 21A",
+        "अनुच्छेद 45",
+        "अनुच्छेद 51A",
+        "अनुच्छेद 29"
+      ],
+      "answer": 0,
+      "explanation": "Article 21A was inserted by the 86th Constitutional Amendment Act, 2002; the RTE Act gives effect to it.",
+      "explanationHi": "अनुच्छेद 21A को 86वें संविधान संशोधन अधिनियम, 2002 द्वारा जोड़ा गया; RTE अधिनियम इसे लागू करता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is expressly prohibited by the RTE Act, 2009?",
+      "textHi": "RTE अधिनियम, 2009 द्वारा निम्नलिखित में से किसे स्पष्ट रूप से प्रतिबंधित किया गया है?",
+      "options": [
+        "Continuous and comprehensive evaluation",
+        "Physical punishment and mental harassment of children",
+        "School Management Committees",
+        "Neighbourhood schools"
+      ],
+      "optionsHi": [
+        "सतत एवं व्यापक मूल्यांकन",
+        "बच्चों को शारीरिक दंड और मानसिक उत्पीड़न",
+        "विद्यालय प्रबंधन समितियाँ",
+        "पड़ोस के विद्यालय"
+      ],
+      "answer": 1,
+      "explanation": "Section 17 of the RTE Act prohibits physical punishment and mental harassment of children.",
+      "explanationHi": "RTE अधिनियम की धारा 17 बच्चों को शारीरिक दंड देने और मानसिक रूप से प्रताड़ित करने पर रोक लगाती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Inclusive education primarily means:",
+      "textHi": "समावेशी शिक्षा का मुख्य अर्थ है:",
+      "options": [
+        "Running separate schools for children with disabilities",
+        "Admitting only high-achieving students",
+        "Educating all children, including those with diverse needs, together in regular classrooms",
+        "Home-schooling children with special needs"
+      ],
+      "optionsHi": [
+        "दिव्यांग बच्चों के लिए अलग विद्यालय चलाना",
+        "केवल उच्च उपलब्धि वाले छात्रों को प्रवेश देना",
+        "विविध आवश्यकताओं वाले बच्चों सहित सभी बच्चों को सामान्य कक्षाओं में एक साथ पढ़ाना",
+        "विशेष आवश्यकता वाले बच्चों को घर पर पढ़ाना"
+      ],
+      "answer": 2,
+      "explanation": "Inclusion means that the regular school adapts to meet the needs of every learner instead of segregating some children.",
+      "explanationHi": "समावेशन का अर्थ है कि कुछ बच्चों को अलग करने के बजाय सामान्य विद्यालय स्वयं को प्रत्येक शिक्षार्थी की आवश्यकताओं के अनुसार ढाले।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A specific learning disability that mainly affects reading and decoding of words is called:",
+      "textHi": "मुख्य रूप से पढ़ने और शब्दों को समझने (डिकोडिंग) को प्रभावित करने वाली विशिष्ट अधिगम अक्षमता क्या कहलाती है?",
+      "options": [
+        "Dysgraphia",
+        "Dyscalculia",
+        "Dyspraxia",
+        "Dyslexia"
+      ],
+      "optionsHi": [
+        "डिस्ग्राफ़िया",
+        "डिस्कैलकुलिया",
+        "डिस्प्रैक्सिया",
+        "डिस्लेक्सिया"
+      ],
+      "answer": 3,
+      "explanation": "Dyslexia affects reading; dysgraphia affects writing, dyscalculia affects mathematics and dyspraxia affects motor coordination.",
+      "explanationHi": "डिस्लेक्सिया पढ़ने को प्रभावित करता है; डिस्ग्राफ़िया लेखन को, डिस्कैलकुलिया गणित को और डिस्प्रैक्सिया गामक समन्वय को प्रभावित करता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The Rights of Persons with Disabilities Act, 2016 recognises how many specified types of disabilities?",
+      "textHi": "दिव्यांगजन अधिकार अधिनियम, 2016 में कितने प्रकार की निर्दिष्ट दिव्यांगताओं को मान्यता दी गई है?",
+      "options": [
+        "7",
+        "14",
+        "21",
+        "25"
+      ],
+      "optionsHi": [
+        "7",
+        "14",
+        "21",
+        "25"
+      ],
+      "answer": 2,
+      "explanation": "The RPwD Act, 2016 expanded the list of recognised disabilities from 7 (under the 1995 Act) to 21.",
+      "explanationHi": "RPwD अधिनियम, 2016 ने मान्यता प्राप्त दिव्यांगताओं की सूची को 1995 के अधिनियम की 7 से बढ़ाकर 21 कर दिया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Himachal Pradesh became a full-fledged state of the Indian Union on:",
+      "textHi": "हिमाचल प्रदेश भारतीय संघ का पूर्ण राज्य कब बना?",
+      "options": [
+        "15 April 1948",
+        "1 November 1966",
+        "25 January 1971",
+        "26 January 1950"
+      ],
+      "optionsHi": [
+        "15 अप्रैल 1948",
+        "1 नवंबर 1966",
+        "25 जनवरी 1971",
+        "26 जनवरी 1950"
+      ],
+      "answer": 2,
+      "explanation": "Himachal Pradesh was granted full statehood on 25 January 1971 and became the 18th state of India.",
+      "explanationHi": "हिमाचल प्रदेश को 25 जनवरी 1971 को पूर्ण राज्य का दर्जा मिला और यह भारत का 18वाँ राज्य बना।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Himachal Day, marking the formation of Himachal Pradesh as a Chief Commissioner's province, is observed on:",
+      "textHi": "मुख्य आयुक्त प्रांत के रूप में हिमाचल प्रदेश के गठन की स्मृति में 'हिमाचल दिवस' कब मनाया जाता है?",
+      "options": [
+        "15 April",
+        "25 January",
+        "1 November",
+        "15 August"
+      ],
+      "optionsHi": [
+        "15 अप्रैल",
+        "25 जनवरी",
+        "1 नवंबर",
+        "15 अगस्त"
+      ],
+      "answer": 0,
+      "explanation": "On 15 April 1948 about thirty princely states of the hills were merged to form Himachal Pradesh, now celebrated as Himachal Day.",
+      "explanationHi": "15 अप्रैल 1948 को पहाड़ों की लगभग तीस रियासतों को मिलाकर हिमाचल प्रदेश बनाया गया, जिसे अब हिमाचल दिवस के रूप में मनाया जाता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who is regarded as the architect of Himachal Pradesh and was its first Chief Minister?",
+      "textHi": "हिमाचल प्रदेश का निर्माता किसे माना जाता है, जो इसके पहले मुख्यमंत्री भी थे?",
+      "options": [
+        "Dr. Yashwant Singh Parmar",
+        "Thakur Ram Lal",
+        "Virbhadra Singh",
+        "Shanta Kumar"
+      ],
+      "optionsHi": [
+        "डॉ. यशवंत सिंह परमार",
+        "ठाकुर राम लाल",
+        "वीरभद्र सिंह",
+        "शांता कुमार"
+      ],
+      "answer": 0,
+      "explanation": "Dr. Y.S. Parmar led the movement for a separate hill state and became its first Chief Minister.",
+      "explanationHi": "डॉ. वाई. एस. परमार ने पृथक पहाड़ी राज्य के आंदोलन का नेतृत्व किया और इसके पहले मुख्यमंत्री बने।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The hill princely state of Bilaspur (Kahlur) was merged with Himachal Pradesh in the year:",
+      "textHi": "पहाड़ी रियासत बिलासपुर (कहलूर) का हिमाचल प्रदेश में विलय किस वर्ष हुआ?",
+      "options": [
+        "1948",
+        "1950",
+        "1954",
+        "1966"
+      ],
+      "optionsHi": [
+        "1948",
+        "1950",
+        "1954",
+        "1966"
+      ],
+      "answer": 2,
+      "explanation": "Bilaspur remained a separate Part C state until 1 July 1954, when it was merged with Himachal Pradesh.",
+      "explanationHi": "बिलासपुर 1 जुलाई 1954 तक एक अलग 'ग' श्रेणी (पार्ट C) राज्य रहा, जब इसका हिमाचल प्रदेश में विलय किया गया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Dhami firing incident of July 1939, in which people protesting against the ruler were fired upon, is associated with:",
+      "textHi": "जुलाई 1939 का धामी गोलीकांड, जिसमें शासक के विरुद्ध प्रदर्शन कर रहे लोगों पर गोली चलाई गई, किससे संबंधित है?",
+      "options": [
+        "The Prajamandal movement in the hill states",
+        "The Chipko movement",
+        "The Khilafat movement",
+        "The Quit India movement"
+      ],
+      "optionsHi": [
+        "पहाड़ी रियासतों में प्रजामंडल आंदोलन",
+        "चिपको आंदोलन",
+        "खिलाफ़त आंदोलन",
+        "भारत छोड़ो आंदोलन"
+      ],
+      "answer": 0,
+      "explanation": "At Dhami near Shimla, Prajamandal workers demanding reforms from the ruler were fired upon in 1939, a landmark of the hill states' freedom struggle.",
+      "explanationHi": "शिमला के निकट धामी में शासक से सुधारों की माँग कर रहे प्रजामंडल कार्यकर्ताओं पर 1939 में गोली चलाई गई; यह पहाड़ी रियासतों के स्वतंत्रता संघर्ष की महत्वपूर्ण घटना है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Pajhota movement of 1942, a peasant uprising against the ruler and his officials, took place in which princely state?",
+      "textHi": "शासक और उसके अधिकारियों के विरुद्ध 1942 का किसान विद्रोह 'पझौता आंदोलन' किस रियासत में हुआ था?",
+      "options": [
+        "Chamba",
+        "Mandi",
+        "Sirmaur",
+        "Bilaspur"
+      ],
+      "optionsHi": [
+        "चंबा",
+        "मंडी",
+        "सिरमौर",
+        "बिलासपुर"
+      ],
+      "answer": 2,
+      "explanation": "The Pajhota agitation took place in the Pajhota area of the princely state of Sirmaur.",
+      "explanationHi": "पझौता आंदोलन सिरमौर रियासत के पझौता क्षेत्र में हुआ था।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The International Kullu Dussehra begins with the procession (rath yatra) of which deity?",
+      "textHi": "अंतरराष्ट्रीय कुल्लू दशहरा किस देवता की शोभायात्रा (रथ यात्रा) से आरंभ होता है?",
+      "options": [
+        "Bijli Mahadev",
+        "Lord Raghunath",
+        "Hidimba Devi",
+        "Lord Shiva of Baijnath"
+      ],
+      "optionsHi": [
+        "बिजली महादेव",
+        "भगवान रघुनाथ",
+        "हिडिंबा देवी",
+        "बैजनाथ के भगवान शिव"
+      ],
+      "answer": 1,
+      "explanation": "Kullu Dussehra centres on the chariot of Lord Raghunath, joined by hundreds of local deities brought from villages of the valley.",
+      "explanationHi": "कुल्लू दशहरा भगवान रघुनाथ के रथ पर केंद्रित होता है, जिसमें घाटी के गाँवों से लाए गए सैकड़ों स्थानीय देवता शामिल होते हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Minjar fair, celebrated in honour of the maize crop with silk tassels called 'minjar', is held at:",
+      "textHi": "मक्की की फ़सल के सम्मान में, रेशमी फुंदनों 'मिंजर' के साथ मनाया जाने वाला मिंजर मेला कहाँ आयोजित होता है?",
+      "options": [
+        "Mandi",
+        "Chamba",
+        "Rampur",
+        "Kullu"
+      ],
+      "optionsHi": [
+        "मंडी",
+        "चंबा",
+        "रामपुर",
+        "कुल्लू"
+      ],
+      "answer": 1,
+      "explanation": "The Minjar fair of Chamba ends with the minjar being offered into the Ravi river.",
+      "explanationHi": "चंबा का मिंजर मेला मिंजर को रावी नदी में प्रवाहित करने के साथ संपन्न होता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The International Shivratri fair of Himachal Pradesh is held at:",
+      "textHi": "हिमाचल प्रदेश का अंतरराष्ट्रीय शिवरात्रि मेला कहाँ आयोजित होता है?",
+      "options": [
+        "Kangra",
+        "Solan",
+        "Shimla",
+        "Mandi"
+      ],
+      "optionsHi": [
+        "कांगड़ा",
+        "सोलन",
+        "शिमला",
+        "मंडी"
+      ],
+      "answer": 3,
+      "explanation": "Mandi, often called the 'Varanasi of the hills', hosts the week-long International Shivratri fair.",
+      "explanationHi": "'पहाड़ों की वाराणसी' कहलाने वाले मंडी में सप्ताह भर चलने वाला अंतरराष्ट्रीय शिवरात्रि मेला लगता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Lavi fair, an old trade fair for wool, dry fruits and horses, is held every November at:",
+      "textHi": "ऊन, सूखे मेवों और घोड़ों का पुराना व्यापारिक मेला 'लवी मेला' हर नवंबर में कहाँ लगता है?",
+      "options": [
+        "Rampur Bushahr",
+        "Renuka",
+        "Sujanpur",
+        "Nalwari"
+      ],
+      "optionsHi": [
+        "रामपुर बुशहर",
+        "रेणुका",
+        "सुजानपुर",
+        "नलवाड़ी"
+      ],
+      "answer": 0,
+      "explanation": "The Lavi fair at Rampur Bushahr on the Sutlej is known for trade in woollens, dry fruits and Chamurthi horses.",
+      "explanationHi": "सतलुज के किनारे रामपुर बुशहर का लवी मेला ऊनी वस्त्रों, सूखे मेवों और चमुर्थी घोड़ों के व्यापार के लिए प्रसिद्ध है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which folk dance of Himachal Pradesh earned a Guinness World Record when thousands of women performed it together during Kullu Dussehra?",
+      "textHi": "हिमाचल प्रदेश के किस लोकनृत्य ने गिनीज़ विश्व रिकॉर्ड बनाया, जब कुल्लू दशहरे के दौरान हज़ारों महिलाओं ने इसे एक साथ प्रस्तुत किया?",
+      "options": [
+        "Ghoomar",
+        "Kullu Nati",
+        "Bhangra",
+        "Chham"
+      ],
+      "optionsHi": [
+        "घूमर",
+        "कुल्लवी नाटी",
+        "भांगड़ा",
+        "छम"
+      ],
+      "answer": 1,
+      "explanation": "A mass performance of Kullu Nati at the Dhalpur ground during Kullu Dussehra was recognised by Guinness World Records as the largest folk dance of its kind.",
+      "explanationHi": "कुल्लू दशहरे के दौरान ढालपुर मैदान में कुल्लवी नाटी की सामूहिक प्रस्तुति को गिनीज़ विश्व रिकॉर्ड्स ने अपनी तरह का सबसे बड़ा लोकनृत्य माना।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Chham, a masked dance performed in Buddhist monasteries, is mainly associated with which region of Himachal Pradesh?",
+      "textHi": "बौद्ध मठों में किया जाने वाला मुखौटा नृत्य 'छम' मुख्य रूप से हिमाचल प्रदेश के किस क्षेत्र से संबंधित है?",
+      "options": [
+        "Una",
+        "Hamirpur",
+        "Bilaspur",
+        "Lahaul-Spiti"
+      ],
+      "optionsHi": [
+        "ऊना",
+        "हमीरपुर",
+        "बिलासपुर",
+        "लाहौल-स्पीति"
+      ],
+      "answer": 3,
+      "explanation": "Chham is performed by lamas in the monasteries of the Buddhist areas of Lahaul-Spiti and Kinnaur.",
+      "explanationHi": "छम नृत्य लाहौल-स्पीति और किन्नौर के बौद्ध क्षेत्रों के मठों में लामाओं द्वारा किया जाता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Hidimba Devi temple, built in the pagoda style in the 16th century, is located at:",
+      "textHi": "16वीं शताब्दी में पैगोडा शैली में बना हिडिंबा देवी मंदिर कहाँ स्थित है?",
+      "options": [
+        "Manali",
+        "Chamba",
+        "Sarahan",
+        "Kangra"
+      ],
+      "optionsHi": [
+        "मनाली",
+        "चंबा",
+        "सराहन",
+        "कांगड़ा"
+      ],
+      "answer": 0,
+      "explanation": "The wooden Hidimba Devi temple in Manali was built by Raja Bahadur Singh of Kullu in 1553.",
+      "explanationHi": "मनाली का लकड़ी से बना हिडिंबा देवी मंदिर 1553 में कुल्लू के राजा बहादुर सिंह ने बनवाया था।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Bhimakali temple, the family shrine of the rulers of Bushahr, is situated at:",
+      "textHi": "बुशहर के शासकों का कुल-मंदिर भीमाकाली मंदिर कहाँ स्थित है?",
+      "options": [
+        "Manali",
+        "Bharmour",
+        "Jwalamukhi",
+        "Sarahan"
+      ],
+      "optionsHi": [
+        "मनाली",
+        "भरमौर",
+        "ज्वालामुखी",
+        "सराहन"
+      ],
+      "answer": 3,
+      "explanation": "Sarahan in Shimla district, the old summer seat of the Bushahr rulers, is famous for the Bhimakali temple.",
+      "explanationHi": "शिमला ज़िले का सराहन, जो बुशहर शासकों की पुरानी ग्रीष्मकालीन राजधानी था, भीमाकाली मंदिर के लिए प्रसिद्ध है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Baijnath temple in Kangra district, built in the Nagara style in the early 13th century, is dedicated to:",
+      "textHi": "13वीं शताब्दी के आरंभ में नागर शैली में बना कांगड़ा ज़िले का बैजनाथ मंदिर किसे समर्पित है?",
+      "options": [
+        "Lord Vishnu",
+        "Goddess Durga",
+        "Lord Shiva",
+        "Lord Surya"
+      ],
+      "optionsHi": [
+        "भगवान विष्णु",
+        "देवी दुर्गा",
+        "भगवान शिव",
+        "भगवान सूर्य"
+      ],
+      "answer": 2,
+      "explanation": "Baijnath means 'Lord of physicians', a form of Shiva; the temple dates to 1204 CE.",
+      "explanationHi": "बैजनाथ का अर्थ है 'वैद्यों के स्वामी', जो शिव का एक रूप है; यह मंदिर 1204 ई. का है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The monolithic rock-cut temples of Masroor are located in which district of Himachal Pradesh?",
+      "textHi": "मसरूर के एकाश्म शैलकृत मंदिर हिमाचल प्रदेश के किस ज़िले में स्थित हैं?",
+      "options": [
+        "Chamba",
+        "Kangra",
+        "Mandi",
+        "Kinnaur"
+      ],
+      "optionsHi": [
+        "चंबा",
+        "कांगड़ा",
+        "मंडी",
+        "किन्नौर"
+      ],
+      "answer": 1,
+      "explanation": "The Masroor temples, carved out of a single rock in the Nagara style, are in Kangra district.",
+      "explanationHi": "नागर शैली में एक ही चट्टान को काटकर बनाए गए मसरूर मंदिर कांगड़ा ज़िले में हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The highest peak in Himachal Pradesh is:",
+      "textHi": "हिमाचल प्रदेश की सबसे ऊँची चोटी है:",
+      "options": [
+        "Reo Purgyil",
+        "Kinnaur Kailash",
+        "Deo Tibba",
+        "Indrasan"
+      ],
+      "optionsHi": [
+        "रियो पुरग्याल",
+        "किन्नौर कैलाश",
+        "देव टिब्बा",
+        "इंद्रासन"
+      ],
+      "answer": 0,
+      "explanation": "Reo Purgyil (about 6,816 m), on the border of Kinnaur, is the highest point of the state.",
+      "explanationHi": "किन्नौर की सीमा पर स्थित रियो पुरग्याल (लगभग 6,816 मी.) राज्य का सबसे ऊँचा बिंदु है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Great Himalayan National Park, inscribed as a UNESCO World Heritage Site in 2014, is located in:",
+      "textHi": "2014 में यूनेस्को विश्व धरोहर स्थल घोषित ग्रेट हिमालयन राष्ट्रीय उद्यान कहाँ स्थित है?",
+      "options": [
+        "Chamba district",
+        "Shimla district",
+        "Sirmaur district",
+        "Kullu district"
+      ],
+      "optionsHi": [
+        "चंबा ज़िला",
+        "शिमला ज़िला",
+        "सिरमौर ज़िला",
+        "कुल्लू ज़िला"
+      ],
+      "answer": 3,
+      "explanation": "The Great Himalayan National Park Conservation Area lies in Kullu district.",
+      "explanationHi": "ग्रेट हिमालयन राष्ट्रीय उद्यान संरक्षण क्षेत्र कुल्लू ज़िले में स्थित है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Kalka–Shimla railway was added to the 'Mountain Railways of India' UNESCO World Heritage Site in:",
+      "textHi": "कालका–शिमला रेलवे को यूनेस्को विश्व धरोहर स्थल 'भारत के पर्वतीय रेलमार्ग' में कब जोड़ा गया?",
+      "options": [
+        "1999",
+        "2005",
+        "2008",
+        "2014"
+      ],
+      "optionsHi": [
+        "1999",
+        "2005",
+        "2008",
+        "2014"
+      ],
+      "answer": 2,
+      "explanation": "The Kalka–Shimla line was added in 2008, joining the Darjeeling Himalayan and Nilgiri Mountain Railways.",
+      "explanationHi": "कालका–शिमला रेलमार्ग को 2008 में दार्जिलिंग हिमालयन और नीलगिरि पर्वतीय रेलमार्गों के साथ जोड़ा गया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Kangra school of miniature painting reached its height under the patronage of:",
+      "textHi": "कांगड़ा लघु चित्रकला शैली अपने चरम पर किसके संरक्षण में पहुँची?",
+      "options": [
+        "Raja Sansar Chand",
+        "Maharaja Ranjit Singh",
+        "Raja Bir Chand",
+        "Raja Jagat Singh"
+      ],
+      "optionsHi": [
+        "राजा संसार चंद",
+        "महाराजा रणजीत सिंह",
+        "राजा बीर चंद",
+        "राजा जगत सिंह"
+      ],
+      "answer": 0,
+      "explanation": "Raja Sansar Chand Katoch (late 18th–early 19th century) was the greatest patron of Kangra painting.",
+      "explanationHi": "राजा संसार चंद कटोच (18वीं शताब्दी का अंत–19वीं शताब्दी का आरंभ) कांगड़ा चित्रकला के सबसे बड़े संरक्षक थे।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The ozone layer, which absorbs most of the Sun's harmful ultraviolet radiation, lies mainly in the:",
+      "textHi": "सूर्य के अधिकांश हानिकारक पराबैंगनी विकिरण को अवशोषित करने वाली ओज़ोन परत मुख्य रूप से कहाँ स्थित है?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "optionsHi": [
+        "क्षोभमंडल",
+        "समतापमंडल",
+        "मध्यमंडल",
+        "तापमंडल"
+      ],
+      "answer": 1,
+      "explanation": "The ozone layer is concentrated in the lower stratosphere, roughly 15 to 35 km above the Earth.",
+      "explanationHi": "ओज़ोन परत निचले समतापमंडल में, पृथ्वी से लगभग 15 से 35 किमी की ऊँचाई पर केंद्रित है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Chipko movement for the protection of trees is most closely associated with:",
+      "textHi": "वृक्षों की रक्षा के लिए चलाया गया चिपको आंदोलन सबसे अधिक किससे जुड़ा है?",
+      "options": [
+        "Medha Patkar",
+        "Baba Amte",
+        "Salim Ali",
+        "Sunderlal Bahuguna"
+      ],
+      "optionsHi": [
+        "मेधा पाटकर",
+        "बाबा आमटे",
+        "सालिम अली",
+        "सुंदरलाल बहुगुणा"
+      ],
+      "answer": 3,
+      "explanation": "Sunderlal Bahuguna, along with Chandi Prasad Bhatt and village women like Gaura Devi, led the Chipko movement in the Garhwal Himalaya.",
+      "explanationHi": "सुंदरलाल बहुगुणा ने चंडी प्रसाद भट्ट और गौरा देवी जैसी ग्रामीण महिलाओं के साथ गढ़वाल हिमालय में चिपको आंदोलन का नेतृत्व किया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Montreal Protocol (1987) is an international agreement to:",
+      "textHi": "मॉन्ट्रियल प्रोटोकॉल (1987) एक अंतरराष्ट्रीय समझौता है:",
+      "options": [
+        "Protect wetlands of international importance",
+        "Phase out ozone-depleting substances",
+        "Ban trade in endangered wildlife",
+        "Control trans-boundary movement of hazardous waste"
+      ],
+      "optionsHi": [
+        "अंतरराष्ट्रीय महत्व की आर्द्रभूमियों की रक्षा के लिए",
+        "ओज़ोन-क्षयकारी पदार्थों को चरणबद्ध रूप से समाप्त करने के लिए",
+        "संकटग्रस्त वन्यजीवों के व्यापार पर प्रतिबंध के लिए",
+        "खतरनाक अपशिष्ट के सीमा-पार परिवहन को नियंत्रित करने के लिए"
+      ],
+      "answer": 1,
+      "explanation": "The Montreal Protocol phases out substances such as CFCs that deplete the ozone layer; wetlands are covered by the Ramsar Convention.",
+      "explanationHi": "मॉन्ट्रियल प्रोटोकॉल ओज़ोन परत को क्षति पहुँचाने वाले CFC जैसे पदार्थों को चरणबद्ध रूप से समाप्त करता है; आर्द्रभूमियाँ रामसर अभिसमय के अंतर्गत आती हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Project Tiger was launched in India in the year:",
+      "textHi": "भारत में प्रोजेक्ट टाइगर (बाघ परियोजना) किस वर्ष शुरू की गई?",
+      "options": [
+        "1972",
+        "1973",
+        "1980",
+        "1986"
+      ],
+      "optionsHi": [
+        "1972",
+        "1973",
+        "1980",
+        "1986"
+      ],
+      "answer": 1,
+      "explanation": "Project Tiger began on 1 April 1973 to conserve the tiger and its habitats; the Wildlife Protection Act was passed in 1972.",
+      "explanationHi": "बाघ और उसके आवासों के संरक्षण हेतु प्रोजेक्ट टाइगर 1 अप्रैल 1973 को शुरू हुआ; वन्यजीव संरक्षण अधिनियम 1972 में पारित हुआ था।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which of the following is NOT a greenhouse gas?",
+      "textHi": "निम्नलिखित में से कौन-सी ग्रीनहाउस गैस नहीं है?",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Nitrous oxide",
+        "Nitrogen"
+      ],
+      "optionsHi": [
+        "कार्बन डाइऑक्साइड",
+        "मीथेन",
+        "नाइट्रस ऑक्साइड",
+        "नाइट्रोजन"
+      ],
+      "answer": 3,
+      "explanation": "Molecular nitrogen (N2), the main gas of the atmosphere, does not absorb infrared radiation and is not a greenhouse gas.",
+      "explanationHi": "वायुमंडल की मुख्य गैस आणविक नाइट्रोजन (N2) अवरक्त विकिरण को अवशोषित नहीं करती, अतः यह ग्रीनहाउस गैस नहीं है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which animal was declared the National Aquatic Animal of India in 2009?",
+      "textHi": "वर्ष 2009 में किस जीव को भारत का राष्ट्रीय जलीय जीव घोषित किया गया?",
+      "options": [
+        "Gangetic river dolphin",
+        "Gharial",
+        "Olive ridley turtle",
+        "Golden mahseer"
+      ],
+      "optionsHi": [
+        "गंगा नदी डॉल्फ़िन",
+        "घड़ियाल",
+        "ओलिव रिडले कछुआ",
+        "गोल्डन महाशीर"
+      ],
+      "answer": 0,
+      "explanation": "The Gangetic river dolphin, an indicator of river health, was declared the National Aquatic Animal in 2009.",
+      "explanationHi": "नदी के स्वास्थ्य की सूचक गंगा नदी डॉल्फ़िन को 2009 में राष्ट्रीय जलीय जीव घोषित किया गया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which is the largest state of India by area?",
+      "textHi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन-सा है?",
+      "options": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "optionsHi": [
+        "मध्य प्रदेश",
+        "महाराष्ट्र",
+        "राजस्थान",
+        "उत्तर प्रदेश"
+      ],
+      "answer": 2,
+      "explanation": "Rajasthan has been India's largest state by area since the creation of Chhattisgarh out of Madhya Pradesh in 2000.",
+      "explanationHi": "2000 में मध्य प्रदेश से छत्तीसगढ़ के अलग होने के बाद से राजस्थान क्षेत्रफल में भारत का सबसे बड़ा राज्य है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Kaziranga National Park in Assam is world famous for the conservation of the:",
+      "textHi": "असम का काज़ीरंगा राष्ट्रीय उद्यान किसके संरक्षण के लिए विश्व-प्रसिद्ध है?",
+      "options": [
+        "One-horned rhinoceros",
+        "Asiatic lion",
+        "Snow leopard",
+        "Nilgiri tahr"
+      ],
+      "optionsHi": [
+        "एक सींग वाला गैंडा",
+        "एशियाई शेर",
+        "हिम तेंदुआ",
+        "नीलगिरि तहर"
+      ],
+      "answer": 0,
+      "explanation": "Kaziranga holds the largest population of the greater one-horned rhinoceros in the world.",
+      "explanationHi": "काज़ीरंगा में विश्व में एक सींग वाले बड़े गैंडे की सबसे अधिक संख्या पाई जाती है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which vitamin is produced in the human skin on exposure to sunlight?",
+      "textHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव त्वचा में कौन-सा विटामिन बनता है?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "optionsHi": [
+        "विटामिन A",
+        "विटामिन B12",
+        "विटामिन C",
+        "विटामिन D"
+      ],
+      "answer": 3,
+      "explanation": "Ultraviolet-B rays from sunlight help the skin synthesise vitamin D, which is important for bone health.",
+      "explanationHi": "सूर्य की पराबैंगनी-B किरणें त्वचा को विटामिन D बनाने में सहायता करती हैं, जो हड्डियों के स्वास्थ्य के लिए आवश्यक है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Silent Valley National Park, known for its tropical evergreen forests, is located in:",
+      "textHi": "उष्णकटिबंधीय सदाबहार वनों के लिए प्रसिद्ध साइलेंट वैली राष्ट्रीय उद्यान कहाँ स्थित है?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Goa"
+      ],
+      "optionsHi": [
+        "केरल",
+        "कर्नाटक",
+        "तमिलनाडु",
+        "गोवा"
+      ],
+      "answer": 0,
+      "explanation": "Silent Valley lies in the Palakkad district of Kerala; a public campaign in the 1970s–80s stopped a dam there.",
+      "explanationHi": "साइलेंट वैली केरल के पलक्कड़ ज़िले में है; 1970–80 के दशक में एक जन-अभियान ने वहाँ बाँध बनने से रोका।"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct passive form of: 'The teacher praised the students.'",
+      "options": [
+        "The students were praised by the teacher.",
+        "The students are praised by the teacher.",
+        "The students had been praised by the teacher.",
+        "The teacher was praised by the students."
+      ],
+      "answer": 0,
+      "explanation": "In the simple past, the passive is 'was/were + past participle'; the plural object 'the students' takes 'were'."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct passive form of: 'Who wrote this letter?'",
+      "options": [
+        "Who was this letter written?",
+        "By whom was this letter written?",
+        "By whom this letter was written?",
+        "Who has written this letter by?"
+      ],
+      "answer": 1,
+      "explanation": "'Who' becomes 'By whom' in the passive, and the question keeps the auxiliary before the subject: 'By whom was this letter written?'"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct passive form of the command: 'Shut the door.'",
+      "options": [
+        "The door is shut.",
+        "The door was shut.",
+        "Let the door be shut.",
+        "The door has been shut."
+      ],
+      "answer": 2,
+      "explanation": "Imperative sentences take the pattern 'Let + object + be + past participle' in the passive."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct active form of: 'The match is being played by them.'",
+      "options": [
+        "They played the match.",
+        "They were playing the match.",
+        "They have played the match.",
+        "They are playing the match."
+      ],
+      "answer": 3,
+      "explanation": "'Is being played' is the present continuous passive, so the active form is 'They are playing the match.'"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct indirect speech: He said, \"I am tired.\"",
+      "options": [
+        "He said that I am tired.",
+        "He said that he is tired.",
+        "He said that he was tired.",
+        "He said that he had been tired."
+      ],
+      "answer": 2,
+      "explanation": "With a past reporting verb, 'am' changes to 'was' and the pronoun 'I' changes to 'he'."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct indirect speech: She said to me, \"Where do you live?\"",
+      "options": [
+        "She asked me where I lived.",
+        "She asked me where did I live.",
+        "She said to me where do I live.",
+        "She asked me where do you live."
+      ],
+      "answer": 0,
+      "explanation": "In reported questions 'said to' becomes 'asked', the word order becomes that of a statement and the tense moves back."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct indirect speech: The teacher said, \"The earth revolves round the sun.\"",
+      "options": [
+        "The teacher said that the earth revolved round the sun.",
+        "The teacher said that the earth had revolved round the sun.",
+        "The teacher told that the earth revolves round the sun.",
+        "The teacher said that the earth revolves round the sun."
+      ],
+      "answer": 3,
+      "explanation": "A universal truth keeps its present tense even when the reporting verb is in the past."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct indirect speech: He said to them, \"Please sit down.\"",
+      "options": [
+        "He said them to please sit down.",
+        "He requested them to sit down.",
+        "He ordered them that they sit down.",
+        "He told them that please sit down."
+      ],
+      "answer": 1,
+      "explanation": "A polite imperative with 'please' is reported with 'requested' followed by the to-infinitive."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct preposition: She has been ill ___ Monday.",
+      "options": [
+        "for",
+        "from",
+        "by",
+        "since"
+      ],
+      "answer": 3,
+      "explanation": "'Since' is used with a point of time in perfect tenses; 'for' is used with a period of time."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct preposition: Rohan is very good ___ mathematics.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "with"
+      ],
+      "answer": 0,
+      "explanation": "The standard expression is 'good at' a subject or skill."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct preposition: The book is divided ___ five chapters.",
+      "options": [
+        "in",
+        "into",
+        "among",
+        "between"
+      ],
+      "answer": 1,
+      "explanation": "'Divided into' is used when something is split into parts."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct preposition: The old man died ___ cholera.",
+      "options": [
+        "from",
+        "with",
+        "by",
+        "of"
+      ],
+      "answer": 3,
+      "explanation": "We say a person 'died of' a disease; 'died from' is generally used for an injury or external cause."
+    },
+    {
+      "section": "English",
+      "text": "What does the idiom 'a piece of cake' mean?",
+      "options": [
+        "Something very easy",
+        "A small reward",
+        "A share of profit",
+        "A tasty snack"
+      ],
+      "answer": 0,
+      "explanation": "'A piece of cake' describes a task that is very easy to do."
+    },
+    {
+      "section": "English",
+      "text": "What does the idiom 'to burn the midnight oil' mean?",
+      "options": [
+        "To waste money",
+        "To start a quarrel",
+        "To work or study late into the night",
+        "To cook food at night"
+      ],
+      "answer": 2,
+      "explanation": "The idiom refers to working or studying until very late at night."
+    },
+    {
+      "section": "English",
+      "text": "What does the idiom 'once in a blue moon' mean?",
+      "options": [
+        "Every month",
+        "Very rarely",
+        "At midnight",
+        "On festivals only"
+      ],
+      "answer": 1,
+      "explanation": "'Once in a blue moon' means something happens very seldom."
+    },
+    {
+      "section": "English",
+      "text": "What does the idiom 'to let the cat out of the bag' mean?",
+      "options": [
+        "To set someone free",
+        "To create confusion",
+        "To escape punishment",
+        "To reveal a secret by mistake"
+      ],
+      "answer": 3,
+      "explanation": "To let the cat out of the bag is to disclose a secret, usually carelessly."
+    },
+    {
+      "section": "English",
+      "text": "What does the idiom 'to turn a deaf ear' mean?",
+      "options": [
+        "To become hard of hearing",
+        "To listen carefully",
+        "To refuse to pay attention to something",
+        "To speak loudly"
+      ],
+      "answer": 2,
+      "explanation": "To turn a deaf ear to a request or advice is to deliberately ignore it."
+    },
+    {
+      "section": "English",
+      "text": "One-word substitution: A person who can speak two languages fluently.",
+      "options": [
+        "Bilingual",
+        "Polyglot",
+        "Linguist",
+        "Interpreter"
+      ],
+      "answer": 0,
+      "explanation": "'Bilingual' means able to use two languages; a 'polyglot' knows many languages."
+    },
+    {
+      "section": "English",
+      "text": "One-word substitution: A person who does not believe in the existence of God.",
+      "options": [
+        "Agnostic",
+        "Atheist",
+        "Theist",
+        "Pagan"
+      ],
+      "answer": 1,
+      "explanation": "An atheist denies the existence of God; an agnostic holds that it cannot be known."
+    },
+    {
+      "section": "English",
+      "text": "One-word substitution: The life story of a person written by that person himself or herself.",
+      "options": [
+        "Biography",
+        "Diary",
+        "Chronicle",
+        "Autobiography"
+      ],
+      "answer": 3,
+      "explanation": "An autobiography is written by the subject; a biography is written by someone else."
+    },
+    {
+      "section": "English",
+      "text": "One-word substitution: Handwriting that cannot be read.",
+      "options": [
+        "Eligible",
+        "Illegible",
+        "Ineligible",
+        "Invisible"
+      ],
+      "answer": 1,
+      "explanation": "'Illegible' means not clear enough to be read; 'ineligible' means not qualified."
+    },
+    {
+      "section": "English",
+      "text": "One-word substitution: A person who always looks on the bright side of things.",
+      "options": [
+        "Optimist",
+        "Pessimist",
+        "Fatalist",
+        "Cynic"
+      ],
+      "answer": 0,
+      "explanation": "An optimist expects good outcomes; a pessimist expects the worst."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word closest in meaning to 'ABUNDANT'.",
+      "options": [
+        "Plentiful",
+        "Scarce",
+        "Rare",
+        "Empty"
+      ],
+      "answer": 0,
+      "explanation": "'Abundant' means existing in large quantities, i.e., plentiful."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most nearly opposite in meaning to 'ANCIENT'.",
+      "options": [
+        "Old",
+        "Antique",
+        "Modern",
+        "Historic"
+      ],
+      "answer": 2,
+      "explanation": "'Ancient' means very old; its opposite is 'modern'."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correctly spelt word.",
+      "options": [
+        "Acommodation",
+        "Accomodation",
+        "Acomodation",
+        "Accommodation"
+      ],
+      "answer": 3,
+      "explanation": "'Accommodation' is spelt with double 'c' and double 'm'."
+    },
+    {
+      "section": "English",
+      "text": "Read the passage and answer the question.\n\nPassage: In a small village in the hills, a schoolteacher named Meera noticed that many children left school early to help their families gather firewood. Instead of scolding them, she began holding lessons in the open under a large deodar tree near the forest path. The children could now study for an hour before going to collect wood, and they often brought leaves, stones and insects to class. Meera used these to teach counting, colours and the names of plants. Within a year, attendance rose sharply, and parents who had once doubted the value of schooling began visiting the open-air class. The village council later built a small shelter beside the tree so that lessons could continue during the rains. Meera often said that a school is not a building but a promise that every child will be welcomed, whatever the burdens of home.\n\nQuestion: Why did many children leave school early?",
+      "options": [
+        "They found the lessons boring",
+        "They had to help their families gather firewood",
+        "The school building was unsafe",
+        "They had to walk to a distant market"
+      ],
+      "answer": 1,
+      "explanation": "The passage says the children left early 'to help their families gather firewood'."
+    },
+    {
+      "section": "English",
+      "text": "Read the passage and answer the question.\n\nPassage: In a small village in the hills, a schoolteacher named Meera noticed that many children left school early to help their families gather firewood. Instead of scolding them, she began holding lessons in the open under a large deodar tree near the forest path. The children could now study for an hour before going to collect wood, and they often brought leaves, stones and insects to class. Meera used these to teach counting, colours and the names of plants. Within a year, attendance rose sharply, and parents who had once doubted the value of schooling began visiting the open-air class. The village council later built a small shelter beside the tree so that lessons could continue during the rains. Meera often said that a school is not a building but a promise that every child will be welcomed, whatever the burdens of home.\n\nQuestion: Where did Meera begin holding her lessons?",
+      "options": [
+        "Inside the village council office",
+        "In a room of her own house",
+        "Under a large deodar tree near the forest path",
+        "On the banks of a river"
+      ],
+      "answer": 2,
+      "explanation": "She held lessons 'in the open under a large deodar tree near the forest path'."
+    },
+    {
+      "section": "English",
+      "text": "Read the passage and answer the question.\n\nPassage: In a small village in the hills, a schoolteacher named Meera noticed that many children left school early to help their families gather firewood. Instead of scolding them, she began holding lessons in the open under a large deodar tree near the forest path. The children could now study for an hour before going to collect wood, and they often brought leaves, stones and insects to class. Meera used these to teach counting, colours and the names of plants. Within a year, attendance rose sharply, and parents who had once doubted the value of schooling began visiting the open-air class. The village council later built a small shelter beside the tree so that lessons could continue during the rains. Meera often said that a school is not a building but a promise that every child will be welcomed, whatever the burdens of home.\n\nQuestion: What did the village council do later?",
+      "options": [
+        "Built a small shelter beside the tree",
+        "Closed the open-air class",
+        "Appointed another teacher",
+        "Gave the children free firewood"
+      ],
+      "answer": 0,
+      "explanation": "The council 'built a small shelter beside the tree so that lessons could continue during the rains'."
+    },
+    {
+      "section": "English",
+      "text": "Read the passage and answer the question.\n\nPassage: In a small village in the hills, a schoolteacher named Meera noticed that many children left school early to help their families gather firewood. Instead of scolding them, she began holding lessons in the open under a large deodar tree near the forest path. The children could now study for an hour before going to collect wood, and they often brought leaves, stones and insects to class. Meera used these to teach counting, colours and the names of plants. Within a year, attendance rose sharply, and parents who had once doubted the value of schooling began visiting the open-air class. The village council later built a small shelter beside the tree so that lessons could continue during the rains. Meera often said that a school is not a building but a promise that every child will be welcomed, whatever the burdens of home.\n\nQuestion: In the passage, the word 'doubted' is closest in meaning to:",
+      "options": [
+        "Praised",
+        "Supported",
+        "Understood",
+        "Questioned"
+      ],
+      "answer": 3,
+      "explanation": "The parents had been unsure of, or questioned, the value of schooling before they saw the results."
+    },
+    {
+      "section": "English",
+      "text": "Read the passage and answer the question.\n\nPassage: In a small village in the hills, a schoolteacher named Meera noticed that many children left school early to help their families gather firewood. Instead of scolding them, she began holding lessons in the open under a large deodar tree near the forest path. The children could now study for an hour before going to collect wood, and they often brought leaves, stones and insects to class. Meera used these to teach counting, colours and the names of plants. Within a year, attendance rose sharply, and parents who had once doubted the value of schooling began visiting the open-air class. The village council later built a small shelter beside the tree so that lessons could continue during the rains. Meera often said that a school is not a building but a promise that every child will be welcomed, whatever the burdens of home.\n\nQuestion: According to Meera, a school is essentially:",
+      "options": [
+        "A strong and well-equipped building",
+        "A place for collecting natural objects",
+        "A promise that every child will be welcomed",
+        "A way to keep children away from work"
+      ],
+      "answer": 2,
+      "explanation": "Meera said a school is 'not a building but a promise that every child will be welcomed'."
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who is regarded as the founder of the Mamluk (Slave) dynasty of the Delhi Sultanate?",
+      "textHi": "दिल्ली सल्तनत के मामलूक (गुलाम) वंश का संस्थापक किसे माना जाता है?",
+      "options": [
+        "Iltutmish",
+        "Balban",
+        "Qutb-ud-din Aibak",
+        "Jalal-ud-din Khalji"
+      ],
+      "optionsHi": [
+        "इल्तुतमिश",
+        "बलबन",
+        "कुतुबुद्दीन ऐबक",
+        "जलालुद्दीन खिलजी"
+      ],
+      "answer": 2,
+      "explanation": "Qutb-ud-din Aibak, a slave-general of Muhammad Ghori, began ruling from Delhi in 1206.",
+      "explanationHi": "मुहम्मद गोरी के गुलाम सेनापति कुतुबुद्दीन ऐबक ने 1206 में दिल्ली से शासन आरंभ किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who was the only woman ruler of the Delhi Sultanate?",
+      "textHi": "दिल्ली सल्तनत की एकमात्र महिला शासक कौन थी?",
+      "options": [
+        "Razia Sultan",
+        "Nur Jahan",
+        "Chand Bibi",
+        "Rani Durgavati"
+      ],
+      "optionsHi": [
+        "रज़िया सुल्तान",
+        "नूरजहाँ",
+        "चाँद बीबी",
+        "रानी दुर्गावती"
+      ],
+      "answer": 0,
+      "explanation": "Razia, daughter of Iltutmish, ruled from 1236 to 1240.",
+      "explanationHi": "इल्तुतमिश की पुत्री रज़िया ने 1236 से 1240 तक शासन किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Strict market control, with fixed prices for grain and other goods in Delhi, was introduced by:",
+      "textHi": "दिल्ली में अनाज और अन्य वस्तुओं के मूल्य निर्धारित करते हुए कठोर बाज़ार नियंत्रण किसने लागू किया?",
+      "options": [
+        "Balban",
+        "Alauddin Khalji",
+        "Firoz Shah Tughlaq",
+        "Sikandar Lodi"
+      ],
+      "optionsHi": [
+        "बलबन",
+        "अलाउद्दीन खिलजी",
+        "फ़िरोज़ शाह तुगलक",
+        "सिकंदर लोदी"
+      ],
+      "answer": 1,
+      "explanation": "Alauddin Khalji fixed prices and appointed officers to supervise markets so that he could maintain a large army cheaply.",
+      "explanationHi": "अलाउद्दीन खिलजी ने मूल्य निर्धारित किए और बाज़ारों की निगरानी के लिए अधिकारी नियुक्त किए, ताकि वह कम खर्च में विशाल सेना रख सके।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which Sultan of Delhi shifted his capital from Delhi to Daulatabad (Devagiri) in the Deccan?",
+      "textHi": "दिल्ली के किस सुल्तान ने अपनी राजधानी दिल्ली से दक्कन में दौलताबाद (देवगिरि) स्थानांतरित की?",
+      "options": [
+        "Iltutmish",
+        "Ghiyas-ud-din Tughlaq",
+        "Alauddin Khalji",
+        "Muhammad bin Tughlaq"
+      ],
+      "optionsHi": [
+        "इल्तुतमिश",
+        "गयासुद्दीन तुगलक",
+        "अलाउद्दीन खिलजी",
+        "मुहम्मद बिन तुगलक"
+      ],
+      "answer": 3,
+      "explanation": "Muhammad bin Tughlaq moved the capital to Daulatabad around 1327, but the move was later reversed.",
+      "explanationHi": "मुहम्मद बिन तुगलक ने लगभग 1327 में राजधानी दौलताबाद स्थानांतरित की, किंतु बाद में यह निर्णय वापस ले लिया गया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In the First Battle of Panipat (1526), Babur defeated:",
+      "textHi": "पानीपत के प्रथम युद्ध (1526) में बाबर ने किसे पराजित किया?",
+      "options": [
+        "Ibrahim Lodi",
+        "Rana Sanga",
+        "Hemu",
+        "Sher Shah Suri"
+      ],
+      "optionsHi": [
+        "इब्राहिम लोदी",
+        "राणा सांगा",
+        "हेमू",
+        "शेरशाह सूरी"
+      ],
+      "answer": 0,
+      "explanation": "Babur's victory over Ibrahim Lodi at Panipat ended the Delhi Sultanate and founded Mughal rule in India.",
+      "explanationHi": "पानीपत में इब्राहिम लोदी पर बाबर की विजय से दिल्ली सल्तनत का अंत हुआ और भारत में मुगल शासन की नींव पड़ी।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Babur wrote his memoirs, the Baburnama, in which language?",
+      "textHi": "बाबर ने अपनी आत्मकथा 'बाबरनामा' किस भाषा में लिखी?",
+      "options": [
+        "Persian",
+        "Arabic",
+        "Turki (Chagatai Turkish)",
+        "Urdu"
+      ],
+      "optionsHi": [
+        "फ़ारसी",
+        "अरबी",
+        "तुर्की (चगताई तुर्की)",
+        "उर्दू"
+      ],
+      "answer": 2,
+      "explanation": "The Baburnama (Tuzuk-i-Baburi) was written in Turki and later translated into Persian during Akbar's reign.",
+      "explanationHi": "बाबरनामा (तुज़ुक-ए-बाबरी) तुर्की भाषा में लिखा गया और बाद में अकबर के शासनकाल में फ़ारसी में अनूदित हुआ।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The mansabdari system, under which officials were given ranks based on 'zat' and 'sawar', was introduced by:",
+      "textHi": "मनसबदारी व्यवस्था, जिसमें अधिकारियों को 'ज़ात' और 'सवार' के आधार पर पद दिए जाते थे, किसने आरंभ की?",
+      "options": [
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Aurangzeb"
+      ],
+      "optionsHi": [
+        "बाबर",
+        "हुमायूँ",
+        "अकबर",
+        "औरंगज़ेब"
+      ],
+      "answer": 2,
+      "explanation": "Akbar organised the nobility and army through mansabs; 'zat' fixed rank and salary and 'sawar' the cavalry to be maintained.",
+      "explanationHi": "अकबर ने मनसबों के माध्यम से अमीरों और सेना को संगठित किया; 'ज़ात' से पद और वेतन तथा 'सवार' से रखे जाने वाले घुड़सवारों की संख्या तय होती थी।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Akbar's 'Din-i-Ilahi' (Tauhid-i-Ilahi) is best described as:",
+      "textHi": "अकबर के 'दीन-ए-इलाही' (तौहीद-ए-इलाही) का सबसे उपयुक्त वर्णन है:",
+      "options": [
+        "A land revenue system",
+        "A code of military conduct",
+        "A new tax on pilgrims",
+        "A spiritual order or path based on universal tolerance (sulh-i-kul)"
+      ],
+      "optionsHi": [
+        "एक भू-राजस्व व्यवस्था",
+        "सैन्य आचरण संहिता",
+        "तीर्थयात्रियों पर एक नया कर",
+        "सार्वभौमिक सहिष्णुता (सुलह-ए-कुल) पर आधारित एक आध्यात्मिक पंथ या मार्ग"
+      ],
+      "answer": 3,
+      "explanation": "Din-i-Ilahi, started around 1582, was a small discipleship centred on Akbar that drew on several religious traditions.",
+      "explanationHi": "लगभग 1582 में आरंभ दीन-ए-इलाही अकबर पर केंद्रित एक छोटा शिष्य-मंडल था, जिसमें अनेक धार्मिक परंपराओं के तत्व थे।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The 'Ain-i-Akbari', a detailed account of Akbar's administration, was written by:",
+      "textHi": "अकबर के प्रशासन का विस्तृत विवरण 'आइन-ए-अकबरी' किसने लिखा?",
+      "options": [
+        "Abdul Qadir Badauni",
+        "Abul Fazl",
+        "Faizi",
+        "Gulbadan Begum"
+      ],
+      "optionsHi": [
+        "अब्दुल कादिर बदायूँनी",
+        "अबुल फ़ज़ल",
+        "फ़ैज़ी",
+        "गुलबदन बेगम"
+      ],
+      "answer": 1,
+      "explanation": "Abul Fazl wrote the Akbarnama, whose third volume is the Ain-i-Akbari.",
+      "explanationHi": "अबुल फ़ज़ल ने अकबरनामा लिखा, जिसका तीसरा खंड आइन-ए-अकबरी है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Battle of Haldighati (1576) was fought between the Mughal army led by Man Singh and:",
+      "textHi": "हल्दीघाटी का युद्ध (1576) मान सिंह के नेतृत्व वाली मुगल सेना और ______ के बीच लड़ा गया था।",
+      "options": [
+        "Maharana Pratap",
+        "Rana Sanga",
+        "Hemu",
+        "Chhatrapati Shivaji"
+      ],
+      "optionsHi": [
+        "महाराणा प्रताप",
+        "राणा सांगा",
+        "हेमू",
+        "छत्रपति शिवाजी"
+      ],
+      "answer": 0,
+      "explanation": "At Haldighati, Akbar's forces under Raja Man Singh fought Maharana Pratap of Mewar.",
+      "explanationHi": "हल्दीघाटी में राजा मान सिंह के नेतृत्व में अकबर की सेना ने मेवाड़ के महाराणा प्रताप से युद्ध किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Vijayanagara empire was founded in 1336 by:",
+      "textHi": "1336 में विजयनगर साम्राज्य की स्थापना किसने की?",
+      "options": [
+        "Krishnadeva Raya and Achyuta Raya",
+        "Harihara and Bukka",
+        "Pulakeshin II and Mangalesha",
+        "Alauddin Hasan Bahman Shah"
+      ],
+      "optionsHi": [
+        "कृष्णदेव राय और अच्युत राय",
+        "हरिहर और बुक्का",
+        "पुलकेशिन द्वितीय और मंगलेश",
+        "अलाउद्दीन हसन बहमन शाह"
+      ],
+      "answer": 1,
+      "explanation": "The brothers Harihara and Bukka of the Sangama dynasty founded the Vijayanagara empire.",
+      "explanationHi": "संगम वंश के भाइयों हरिहर और बुक्का ने विजयनगर साम्राज्य की स्थापना की।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Krishnadeva Raya of Vijayanagara composed the work 'Amuktamalyada' in which language?",
+      "textHi": "विजयनगर के कृष्णदेव राय ने 'आमुक्तमाल्यदा' की रचना किस भाषा में की?",
+      "options": [
+        "Kannada",
+        "Tamil",
+        "Sanskrit",
+        "Telugu"
+      ],
+      "optionsHi": [
+        "कन्नड़",
+        "तमिल",
+        "संस्कृत",
+        "तेलुगु"
+      ],
+      "answer": 3,
+      "explanation": "Krishnadeva Raya (Tuluva dynasty) wrote Amuktamalyada in Telugu and was a great patron of Telugu literature.",
+      "explanationHi": "कृष्णदेव राय (तुलुव वंश) ने आमुक्तमाल्यदा तेलुगु में लिखी और वे तेलुगु साहित्य के महान संरक्षक थे।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Vijayanagara empire suffered a decisive defeat at the hands of the Deccan Sultanates in the Battle of Talikota (Rakshasi-Tangadi) in:",
+      "textHi": "विजयनगर साम्राज्य को तालीकोटा (राक्षसी-तंगड़ी) के युद्ध में दक्कन सल्तनतों के हाथों निर्णायक पराजय कब मिली?",
+      "options": [
+        "1526",
+        "1556",
+        "1565",
+        "1576"
+      ],
+      "optionsHi": [
+        "1526",
+        "1556",
+        "1565",
+        "1576"
+      ],
+      "answer": 2,
+      "explanation": "In 1565 the combined Deccan Sultanates defeated Vijayanagara and the capital Hampi was sacked.",
+      "explanationHi": "1565 में दक्कन सल्तनतों की संयुक्त सेना ने विजयनगर को हराया और राजधानी हम्पी को लूट लिया गया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which Bhakti saint, a weaver of Varanasi, rejected rituals and idol worship and composed simple verses called 'sakhis' and 'pads'?",
+      "textHi": "वाराणसी के किस जुलाहे भक्त संत ने कर्मकांड और मूर्तिपूजा का खंडन किया तथा 'साखी' और 'पद' नामक सरल छंदों की रचना की?",
+      "options": [
+        "Kabir",
+        "Tulsidas",
+        "Surdas",
+        "Chaitanya"
+      ],
+      "optionsHi": [
+        "कबीर",
+        "तुलसीदास",
+        "सूरदास",
+        "चैतन्य"
+      ],
+      "answer": 0,
+      "explanation": "Kabir criticised outward rituals of all religions and preached devotion to a formless God through sakhis and pads.",
+      "explanationHi": "कबीर ने सभी धर्मों के बाहरी आडंबरों की आलोचना की और साखियों व पदों के माध्यम से निराकार ईश्वर की भक्ति का उपदेश दिया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The dargah of Khwaja Muinuddin Chishti, founder of the Chishti order in India, is at:",
+      "textHi": "भारत में चिश्ती सिलसिले के संस्थापक ख्वाजा मुईनुद्दीन चिश्ती की दरगाह कहाँ है?",
+      "options": [
+        "Delhi",
+        "Fatehpur Sikri",
+        "Ajmer",
+        "Lahore"
+      ],
+      "optionsHi": [
+        "दिल्ली",
+        "फ़तेहपुर सीकरी",
+        "अजमेर",
+        "लाहौर"
+      ],
+      "answer": 2,
+      "explanation": "Khwaja Muinuddin Chishti settled in Ajmer in the late 12th century; his dargah is a major pilgrimage centre.",
+      "explanationHi": "ख्वाजा मुईनुद्दीन चिश्ती 12वीं शताब्दी के अंत में अजमेर में बसे; उनकी दरगाह एक प्रमुख तीर्थस्थल है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The poet and musician Amir Khusrau was a disciple of which Sufi saint?",
+      "textHi": "कवि और संगीतज्ञ अमीर खुसरो किस सूफ़ी संत के शिष्य थे?",
+      "options": [
+        "Baba Farid",
+        "Salim Chishti",
+        "Bakhtiyar Kaki",
+        "Nizamuddin Auliya"
+      ],
+      "optionsHi": [
+        "बाबा फ़रीद",
+        "सलीम चिश्ती",
+        "बख्तियार काकी",
+        "निज़ामुद्दीन औलिया"
+      ],
+      "answer": 3,
+      "explanation": "Amir Khusrau was a devoted disciple of Shaikh Nizamuddin Auliya of Delhi.",
+      "explanationHi": "अमीर खुसरो दिल्ली के शेख निज़ामुद्दीन औलिया के समर्पित शिष्य थे।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The resolution of 'Purna Swaraj' (complete independence) was adopted at the Lahore session of the Indian National Congress in 1929 under the presidentship of:",
+      "textHi": "1929 में भारतीय राष्ट्रीय कांग्रेस के लाहौर अधिवेशन में 'पूर्ण स्वराज' का प्रस्ताव किसकी अध्यक्षता में पारित हुआ?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Motilal Nehru"
+      ],
+      "optionsHi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "सुभाष चंद्र बोस",
+        "मोतीलाल नेहरू"
+      ],
+      "answer": 1,
+      "explanation": "Jawaharlal Nehru presided over the Lahore session in December 1929, which adopted Purna Swaraj as the goal.",
+      "explanationHi": "दिसंबर 1929 के लाहौर अधिवेशन की अध्यक्षता जवाहरलाल नेहरू ने की, जिसमें पूर्ण स्वराज को लक्ष्य घोषित किया गया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Mahatma Gandhi began the Dandi March against the salt law on 12 March 1930 from:",
+      "textHi": "महात्मा गांधी ने 12 मार्च 1930 को नमक कानून के विरुद्ध दांडी यात्रा कहाँ से आरंभ की?",
+      "options": [
+        "Champaran",
+        "Wardha",
+        "Sabarmati Ashram",
+        "Kheda"
+      ],
+      "optionsHi": [
+        "चंपारण",
+        "वर्धा",
+        "साबरमती आश्रम",
+        "खेड़ा"
+      ],
+      "answer": 2,
+      "explanation": "Gandhiji and his followers walked from Sabarmati Ashram in Ahmedabad to Dandi on the Gujarat coast.",
+      "explanationHi": "गांधीजी और उनके अनुयायी अहमदाबाद के साबरमती आश्रम से गुजरात तट पर स्थित दांडी तक पैदल गए।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Black soil, also called 'regur', is best suited for growing:",
+      "textHi": "काली मिट्टी, जिसे 'रेगुर' भी कहते हैं, किसकी खेती के लिए सबसे उपयुक्त है?",
+      "options": [
+        "Tea",
+        "Cotton",
+        "Rice",
+        "Jute"
+      ],
+      "optionsHi": [
+        "चाय",
+        "कपास",
+        "चावल",
+        "जूट"
+      ],
+      "answer": 1,
+      "explanation": "Black soil is rich in clay, retains moisture well and is ideal for cotton; it is also known as black cotton soil.",
+      "explanationHi": "काली मिट्टी में चिकनी मिट्टी अधिक होती है, यह नमी अच्छी तरह रोकती है और कपास के लिए आदर्श है; इसे काली कपास मिट्टी भी कहते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Laterite soil develops mainly in areas with:",
+      "textHi": "लैटेराइट मिट्टी मुख्य रूप से किन क्षेत्रों में विकसित होती है?",
+      "options": [
+        "Low temperature and low rainfall",
+        "Desert conditions",
+        "Glacial deposits",
+        "High temperature and heavy rainfall causing intense leaching"
+      ],
+      "optionsHi": [
+        "कम तापमान और कम वर्षा वाले",
+        "मरुस्थलीय परिस्थितियों वाले",
+        "हिमनदीय निक्षेप वाले",
+        "उच्च तापमान और भारी वर्षा से तीव्र निक्षालन वाले"
+      ],
+      "answer": 3,
+      "explanation": "Heavy rain and high temperature leach away silica and bases, leaving laterite soil rich in iron and aluminium oxides.",
+      "explanationHi": "भारी वर्षा और उच्च तापमान से सिलिका और क्षार बह जाते हैं, जिससे लोहे और एल्युमिनियम के ऑक्साइड से समृद्ध लैटेराइट मिट्टी बचती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which is the most widespread and agriculturally important soil of India, found in the northern plains?",
+      "textHi": "उत्तरी मैदानों में पाई जाने वाली भारत की सबसे विस्तृत और कृषि की दृष्टि से सबसे महत्वपूर्ण मिट्टी कौन-सी है?",
+      "options": [
+        "Alluvial soil",
+        "Red soil",
+        "Laterite soil",
+        "Arid soil"
+      ],
+      "optionsHi": [
+        "जलोढ़ मिट्टी",
+        "लाल मिट्टी",
+        "लैटेराइट मिट्टी",
+        "शुष्क मिट्टी"
+      ],
+      "answer": 0,
+      "explanation": "Alluvial soil, deposited by rivers of the Indus, Ganga and Brahmaputra systems, covers the largest area of India.",
+      "explanationHi": "सिंधु, गंगा और ब्रह्मपुत्र नदी तंत्रों द्वारा जमा की गई जलोढ़ मिट्टी भारत के सबसे बड़े क्षेत्र में फैली है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Mawsynram, one of the wettest places on Earth, is located in which state?",
+      "textHi": "पृथ्वी के सबसे अधिक वर्षा वाले स्थानों में से एक, मॉसिनराम, किस राज्य में स्थित है?",
+      "options": [
+        "Assam",
+        "Arunachal Pradesh",
+        "Sikkim",
+        "Meghalaya"
+      ],
+      "optionsHi": [
+        "असम",
+        "अरुणाचल प्रदेश",
+        "सिक्किम",
+        "मेघालय"
+      ],
+      "answer": 3,
+      "explanation": "Mawsynram, in the Khasi Hills of Meghalaya, receives among the highest average annual rainfall in the world.",
+      "explanationHi": "मेघालय की खासी पहाड़ियों में स्थित मॉसिनराम में विश्व की सर्वाधिक औसत वार्षिक वर्षा होती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Winter rainfall in Punjab, Haryana and the western Himalayan region, which is useful for rabi crops, is caused mainly by:",
+      "textHi": "पंजाब, हरियाणा और पश्चिमी हिमालयी क्षेत्र में रबी फ़सलों के लिए उपयोगी शीतकालीन वर्षा मुख्य रूप से किसके कारण होती है?",
+      "options": [
+        "The south-west monsoon",
+        "Western disturbances",
+        "The retreating monsoon",
+        "Tropical cyclones from the Bay of Bengal"
+      ],
+      "optionsHi": [
+        "दक्षिण-पश्चिम मानसून",
+        "पश्चिमी विक्षोभ",
+        "लौटता मानसून",
+        "बंगाल की खाड़ी के उष्णकटिबंधीय चक्रवात"
+      ],
+      "answer": 1,
+      "explanation": "Western disturbances originating over the Mediterranean region bring winter rain and snow to north-west India.",
+      "explanationHi": "भूमध्यसागरीय क्षेत्र से उत्पन्न पश्चिमी विक्षोभ उत्तर-पश्चिम भारत में शीतकालीन वर्षा और हिमपात लाते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which part of India receives a large share of its annual rainfall during October–November, from the retreating (north-east) monsoon?",
+      "textHi": "भारत के किस भाग में वार्षिक वर्षा का बड़ा हिस्सा अक्टूबर–नवंबर में लौटते (उत्तर-पूर्वी) मानसून से प्राप्त होता है?",
+      "options": [
+        "Rajasthan",
+        "Punjab",
+        "Konkan coast",
+        "Coromandel coast of Tamil Nadu"
+      ],
+      "optionsHi": [
+        "राजस्थान",
+        "पंजाब",
+        "कोंकण तट",
+        "तमिलनाडु का कोरोमंडल तट"
+      ],
+      "answer": 3,
+      "explanation": "Winds blowing over the Bay of Bengal in the retreating monsoon season bring heavy rain to the Tamil Nadu coast.",
+      "explanationHi": "लौटते मानसून के समय बंगाल की खाड़ी के ऊपर से बहने वाली हवाएँ तमिलनाडु तट पर भारी वर्षा करती हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Pre-monsoon showers in Kerala and coastal Karnataka that help in the early ripening of mangoes are popularly called:",
+      "textHi": "केरल और तटीय कर्नाटक में आम को जल्दी पकाने में सहायक मानसून-पूर्व बौछारें किस नाम से प्रसिद्ध हैं?",
+      "options": [
+        "Mango showers",
+        "Kalbaisakhi",
+        "Loo",
+        "Blossom showers"
+      ],
+      "optionsHi": [
+        "आम्र वर्षा (मैंगो शावर)",
+        "काल बैसाखी",
+        "लू",
+        "फूलों वाली बौछार (ब्लॉसम शावर)"
+      ],
+      "answer": 0,
+      "explanation": "Mango showers occur towards the end of summer in Kerala and Karnataka; 'blossom showers' benefit coffee in Kerala.",
+      "explanationHi": "आम्र वर्षा ग्रीष्म ऋतु के अंत में केरल और कर्नाटक में होती है; 'फूलों वाली बौछार' केरल में कॉफ़ी के लिए लाभदायक है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "'Loo' refers to:",
+      "textHi": "'लू' किसे कहते हैं?",
+      "options": [
+        "Cold winds of the Himalaya in winter",
+        "Hot, dry winds blowing over north India in summer",
+        "Thunderstorms of Bengal",
+        "Sea breezes of the west coast"
+      ],
+      "optionsHi": [
+        "सर्दियों में हिमालय की ठंडी हवाएँ",
+        "गर्मियों में उत्तर भारत में चलने वाली गर्म, शुष्क हवाएँ",
+        "बंगाल के तड़ित झंझावात",
+        "पश्चिमी तट की समुद्री हवाएँ"
+      ],
+      "answer": 1,
+      "explanation": "Loo are strong, hot and dry winds that blow in the afternoons over the northern plains in May and June.",
+      "explanationHi": "लू मई-जून में उत्तरी मैदानों में दोपहर के समय चलने वाली तेज़, गर्म और शुष्क हवाएँ हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following is a rabi crop?",
+      "textHi": "निम्नलिखित में से कौन-सी रबी फ़सल है?",
+      "options": [
+        "Paddy",
+        "Maize",
+        "Cotton",
+        "Wheat"
+      ],
+      "optionsHi": [
+        "धान",
+        "मक्का",
+        "कपास",
+        "गेहूँ"
+      ],
+      "answer": 3,
+      "explanation": "Rabi crops are sown in winter and harvested in spring; wheat is the most important rabi crop. Paddy, maize and cotton are kharif crops.",
+      "explanationHi": "रबी फ़सलें सर्दियों में बोई और वसंत में काटी जाती हैं; गेहूँ सबसे महत्वपूर्ण रबी फ़सल है। धान, मक्का और कपास खरीफ़ फ़सलें हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Zaid crops, grown in the short season between rabi and kharif, include:",
+      "textHi": "रबी और खरीफ़ के बीच की छोटी ऋतु में उगाई जाने वाली ज़ायद फ़सलों में शामिल हैं:",
+      "options": [
+        "Watermelon, muskmelon and cucumber",
+        "Wheat, barley and gram",
+        "Rice, jowar and cotton",
+        "Tea, coffee and rubber"
+      ],
+      "optionsHi": [
+        "तरबूज़, खरबूज़ा और खीरा",
+        "गेहूँ, जौ और चना",
+        "चावल, ज्वार और कपास",
+        "चाय, कॉफ़ी और रबड़"
+      ],
+      "answer": 0,
+      "explanation": "Zaid crops such as watermelon, muskmelon, cucumber and fodder crops are grown during the summer months.",
+      "explanationHi": "तरबूज़, खरबूज़ा, खीरा और चारे की फ़सलें जैसी ज़ायद फ़सलें गर्मी के महीनों में उगाई जाती हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "'Jhumming' in north-eastern India refers to:",
+      "textHi": "उत्तर-पूर्वी भारत में 'झूमिंग' से तात्पर्य है:",
+      "options": [
+        "Terrace farming of tea",
+        "Plantation of rubber",
+        "Slash-and-burn shifting cultivation",
+        "Irrigation through canals"
+      ],
+      "optionsHi": [
+        "चाय की सीढ़ीदार खेती",
+        "रबड़ का बागान",
+        "कर्तन-दहन (काटो और जलाओ) स्थानांतरी कृषि",
+        "नहरों द्वारा सिंचाई"
+      ],
+      "answer": 2,
+      "explanation": "Jhum is shifting cultivation in which a patch of forest is cleared, burnt and cultivated for a few years before moving on.",
+      "explanationHi": "झूम एक स्थानांतरी कृषि है, जिसमें वन के एक टुकड़े को साफ़ करके और जलाकर कुछ वर्षों तक खेती की जाती है, फिर दूसरी जगह चले जाते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Green Revolution of the late 1960s led mainly to a sharp increase in the production of:",
+      "textHi": "1960 के दशक के अंत की हरित क्रांति से मुख्य रूप से किसके उत्पादन में तीव्र वृद्धि हुई?",
+      "options": [
+        "Pulses and oilseeds",
+        "Wheat (and later rice)",
+        "Tea and coffee",
+        "Jute and cotton"
+      ],
+      "optionsHi": [
+        "दालें और तिलहन",
+        "गेहूँ (और बाद में चावल)",
+        "चाय और कॉफ़ी",
+        "जूट और कपास"
+      ],
+      "answer": 1,
+      "explanation": "High-yielding varieties, irrigation and fertilisers boosted wheat output first, especially in Punjab, Haryana and western UP.",
+      "explanationHi": "अधिक उपज देने वाली किस्मों, सिंचाई और उर्वरकों से सबसे पहले गेहूँ का उत्पादन बढ़ा, विशेषकर पंजाब, हरियाणा और पश्चिमी उत्तर प्रदेश में।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Tropic of Cancer passes through how many states of India?",
+      "textHi": "कर्क रेखा भारत के कितने राज्यों से होकर गुजरती है?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "optionsHi": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "explanation": "It passes through Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.",
+      "explanationHi": "यह गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिज़ोरम से होकर गुजरती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Coffee cultivation in India is believed to have been first introduced in the:",
+      "textHi": "माना जाता है कि भारत में कॉफ़ी की खेती सबसे पहले कहाँ शुरू की गई?",
+      "options": [
+        "Nilgiri Hills",
+        "Cardamom Hills",
+        "Shevaroy Hills",
+        "Baba Budan Hills"
+      ],
+      "optionsHi": [
+        "नीलगिरि पहाड़ियाँ",
+        "इलायची पहाड़ियाँ",
+        "शेवरॉय पहाड़ियाँ",
+        "बाबा बूदन पहाड़ियाँ"
+      ],
+      "answer": 3,
+      "explanation": "Coffee (Arabica) was first grown in the Baba Budan Hills of Karnataka, from where it spread to the south.",
+      "explanationHi": "कॉफ़ी (अरेबिका) सबसे पहले कर्नाटक की बाबा बूदन पहाड़ियों में उगाई गई, जहाँ से यह दक्षिण में फैली।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Soil with a kankar layer in its lower horizons, sandy texture and low humus, found mainly in western Rajasthan, is:",
+      "textHi": "निचले संस्तरों में कंकड़ की परत, बलुई गठन और कम ह्यूमस वाली मिट्टी, जो मुख्यतः पश्चिमी राजस्थान में पाई जाती है, कौन-सी है?",
+      "options": [
+        "Arid soil",
+        "Black soil",
+        "Forest soil",
+        "Alluvial soil"
+      ],
+      "optionsHi": [
+        "शुष्क मिट्टी",
+        "काली मिट्टी",
+        "वन मिट्टी",
+        "जलोढ़ मिट्टी"
+      ],
+      "answer": 0,
+      "explanation": "Arid soils have increasing calcium content downwards, which forms kankar layers that restrict water infiltration.",
+      "explanationHi": "शुष्क मिट्टी में नीचे की ओर कैल्शियम की मात्रा बढ़ती जाती है, जिससे कंकड़ की परतें बनती हैं जो जल के रिसाव को रोकती हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The south-west monsoon normally sets in over the Kerala coast around:",
+      "textHi": "दक्षिण-पश्चिम मानसून सामान्यतः केरल तट पर लगभग कब पहुँचता है?",
+      "options": [
+        "1 May",
+        "1 June",
+        "15 July",
+        "1 August"
+      ],
+      "optionsHi": [
+        "1 मई",
+        "1 जून",
+        "15 जुलाई",
+        "1 अगस्त"
+      ],
+      "answer": 1,
+      "explanation": "The normal date of onset of the south-west monsoon over Kerala is around 1 June.",
+      "explanationHi": "केरल पर दक्षिण-पश्चिम मानसून के आगमन की सामान्य तिथि लगभग 1 जून है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The maximum strength of the Rajya Sabha as provided in the Constitution is:",
+      "textHi": "संविधान में निर्धारित राज्यसभा की अधिकतम सदस्य संख्या है:",
+      "options": [
+        "238",
+        "245",
+        "250",
+        "552"
+      ],
+      "optionsHi": [
+        "238",
+        "245",
+        "250",
+        "552"
+      ],
+      "answer": 2,
+      "explanation": "Article 80 fixes the maximum at 250: up to 238 representatives of states and union territories plus 12 nominated members.",
+      "explanationHi": "अनुच्छेद 80 के अनुसार अधिकतम संख्या 250 है: राज्यों और केंद्रशासित प्रदेशों के अधिकतम 238 प्रतिनिधि तथा 12 मनोनीत सदस्य।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "A Money Bill can be introduced only in:",
+      "textHi": "धन विधेयक केवल कहाँ प्रस्तुत किया जा सकता है?",
+      "options": [
+        "The Lok Sabha",
+        "The Rajya Sabha",
+        "A joint sitting of both Houses",
+        "Either House"
+      ],
+      "optionsHi": [
+        "लोकसभा",
+        "राज्यसभा",
+        "दोनों सदनों की संयुक्त बैठक",
+        "किसी भी सदन में"
+      ],
+      "answer": 0,
+      "explanation": "The Constitution requires a Money Bill to be introduced only in the Lok Sabha, on the recommendation of the President; the Rajya Sabha can only make recommendations on it.",
+      "explanationHi": "संविधान के अनुसार धन विधेयक राष्ट्रपति की सिफ़ारिश पर केवल लोकसभा में प्रस्तुत किया जा सकता है; राज्यसभा उस पर केवल सिफ़ारिशें कर सकती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "A joint sitting of both Houses of Parliament to resolve a deadlock over an ordinary bill is presided over by:",
+      "textHi": "किसी साधारण विधेयक पर गतिरोध दूर करने के लिए संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता कौन करता है?",
+      "options": [
+        "The President",
+        "The Vice-President",
+        "The Prime Minister",
+        "The Speaker of the Lok Sabha"
+      ],
+      "optionsHi": [
+        "राष्ट्रपति",
+        "उपराष्ट्रपति",
+        "प्रधानमंत्री",
+        "लोकसभा अध्यक्ष"
+      ],
+      "answer": 3,
+      "explanation": "Under Article 108 the President summons the joint sitting, and the Speaker of the Lok Sabha presides over it.",
+      "explanationHi": "अनुच्छेद 108 के अंतर्गत राष्ट्रपति संयुक्त बैठक बुलाते हैं और लोकसभा अध्यक्ष उसकी अध्यक्षता करते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In the Indian Parliament, 'Zero Hour' refers to:",
+      "textHi": "भारतीय संसद में 'शून्य काल' से तात्पर्य है:",
+      "options": [
+        "The first hour of every sitting reserved for questions",
+        "The time immediately following Question Hour when members raise matters without prior notice",
+        "The hour when the budget is presented",
+        "The last hour of the session"
+      ],
+      "optionsHi": [
+        "प्रत्येक बैठक का पहला घंटा, जो प्रश्नों के लिए आरक्षित है",
+        "प्रश्नकाल के तुरंत बाद का समय, जब सदस्य बिना पूर्व सूचना के मुद्दे उठाते हैं",
+        "वह घंटा जब बजट प्रस्तुत किया जाता है",
+        "सत्र का अंतिम घंटा"
+      ],
+      "answer": 1,
+      "explanation": "Zero Hour is an informal Indian parliamentary practice that starts right after Question Hour; it is not mentioned in the rules of procedure.",
+      "explanationHi": "शून्य काल एक अनौपचारिक भारतीय संसदीय परंपरा है जो प्रश्नकाल के ठीक बाद आरंभ होती है; इसका उल्लेख प्रक्रिया नियमों में नहीं है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "A judge of the Supreme Court of India holds office until the age of:",
+      "textHi": "भारत के सर्वोच्च न्यायालय का न्यायाधीश कितनी आयु तक पद पर रहता है?",
+      "options": [
+        "60 years",
+        "62 years",
+        "65 years",
+        "70 years"
+      ],
+      "optionsHi": [
+        "60 वर्ष",
+        "62 वर्ष",
+        "65 वर्ष",
+        "70 वर्ष"
+      ],
+      "answer": 2,
+      "explanation": "Supreme Court judges retire at 65; High Court judges retire at 62.",
+      "explanationHi": "सर्वोच्च न्यायालय के न्यायाधीश 65 वर्ष की आयु में और उच्च न्यायालय के न्यायाधीश 62 वर्ष में सेवानिवृत्त होते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The writ of 'habeas corpus' is issued mainly to:",
+      "textHi": "'बंदी प्रत्यक्षीकरण' (हेबियस कॉर्पस) रिट मुख्य रूप से किसलिए जारी की जाती है?",
+      "options": [
+        "Produce a detained person before the court to examine the legality of detention",
+        "Direct a public official to perform a duty",
+        "Stop a lower court from exceeding its jurisdiction",
+        "Ask a person by what authority he holds a public office"
+      ],
+      "optionsHi": [
+        "निरुद्ध व्यक्ति को न्यायालय के समक्ष प्रस्तुत करवाकर निरोध की वैधता की जाँच के लिए",
+        "किसी लोक अधिकारी को कर्तव्य पालन का निर्देश देने के लिए",
+        "किसी निचले न्यायालय को अपने क्षेत्राधिकार से बाहर जाने से रोकने के लिए",
+        "किसी व्यक्ति से यह पूछने के लिए कि वह किस अधिकार से लोक पद धारण किए हुए है"
+      ],
+      "answer": 0,
+      "explanation": "Habeas corpus ('to have the body') protects personal liberty against unlawful detention; the other options describe mandamus, prohibition and quo warranto.",
+      "explanationHi": "बंदी प्रत्यक्षीकरण ('शरीर प्रस्तुत करो') अवैध निरोध के विरुद्ध व्यक्तिगत स्वतंत्रता की रक्षा करती है; अन्य विकल्प परमादेश, प्रतिषेध और अधिकार-पृच्छा का वर्णन करते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Dr. B.R. Ambedkar described which Article of the Constitution as its 'very soul and heart'?",
+      "textHi": "डॉ. बी. आर. अंबेडकर ने संविधान के किस अनुच्छेद को उसकी 'आत्मा और हृदय' कहा?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "optionsHi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 19",
+        "अनुच्छेद 21",
+        "अनुच्छेद 32"
+      ],
+      "answer": 3,
+      "explanation": "Article 32 gives the right to move the Supreme Court for enforcement of Fundamental Rights.",
+      "explanationHi": "अनुच्छेद 32 मौलिक अधिकारों को लागू करवाने के लिए सर्वोच्च न्यायालय जाने का अधिकार देता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Disputes between the Government of India and one or more states fall under which jurisdiction of the Supreme Court?",
+      "textHi": "भारत सरकार और एक या अधिक राज्यों के बीच विवाद सर्वोच्च न्यायालय के किस क्षेत्राधिकार में आते हैं?",
+      "options": [
+        "Appellate jurisdiction",
+        "Original jurisdiction",
+        "Advisory jurisdiction",
+        "Writ jurisdiction of High Courts"
+      ],
+      "optionsHi": [
+        "अपीलीय क्षेत्राधिकार",
+        "मूल (आरंभिक) क्षेत्राधिकार",
+        "सलाहकारी क्षेत्राधिकार",
+        "उच्च न्यायालयों का रिट क्षेत्राधिकार"
+      ],
+      "answer": 1,
+      "explanation": "Under Article 131, such federal disputes can be heard only by the Supreme Court in its original jurisdiction.",
+      "explanationHi": "अनुच्छेद 131 के अंतर्गत ऐसे संघीय विवादों की सुनवाई केवल सर्वोच्च न्यायालय अपने मूल क्षेत्राधिकार में कर सकता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The idea of Directive Principles of State Policy in the Indian Constitution was borrowed from the Constitution of:",
+      "textHi": "भारतीय संविधान में राज्य के नीति निदेशक तत्वों का विचार किस देश के संविधान से लिया गया है?",
+      "options": [
+        "The USA",
+        "The United Kingdom",
+        "Ireland",
+        "Canada"
+      ],
+      "optionsHi": [
+        "संयुक्त राज्य अमेरिका",
+        "यूनाइटेड किंगडम",
+        "आयरलैंड",
+        "कनाडा"
+      ],
+      "answer": 2,
+      "explanation": "The framers drew on the Directive Principles of Social Policy in the Irish Constitution.",
+      "explanationHi": "संविधान निर्माताओं ने आयरलैंड के संविधान के सामाजिक नीति के निदेशक तत्वों से प्रेरणा ली।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following statements about the Directive Principles of State Policy is correct?",
+      "textHi": "राज्य के नीति निदेशक तत्वों के विषय में निम्नलिखित में से कौन-सा कथन सही है?",
+      "options": [
+        "They are enforceable by any court",
+        "They are part of Part III of the Constitution",
+        "They were added by the 42nd Amendment",
+        "They are not enforceable by courts but are fundamental in the governance of the country"
+      ],
+      "optionsHi": [
+        "इन्हें किसी भी न्यायालय द्वारा लागू करवाया जा सकता है",
+        "ये संविधान के भाग III का अंग हैं",
+        "इन्हें 42वें संशोधन द्वारा जोड़ा गया",
+        "ये न्यायालयों द्वारा प्रवर्तनीय नहीं हैं, किंतु देश के शासन में मूलभूत हैं"
+      ],
+      "answer": 3,
+      "explanation": "Article 37 says the DPSP, in Part IV, are not justiciable but it is the duty of the State to apply them in making laws.",
+      "explanationHi": "अनुच्छेद 37 कहता है कि भाग IV के नीति निदेशक तत्व न्यायालय में वाद-योग्य नहीं हैं, किंतु कानून बनाने में इन्हें लागू करना राज्य का कर्तव्य है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which Directive Principle directs the State to organise village panchayats as units of self-government?",
+      "textHi": "कौन-सा नीति निदेशक तत्व राज्य को ग्राम पंचायतों को स्वशासन की इकाइयों के रूप में संगठित करने का निर्देश देता है?",
+      "options": [
+        "Article 40",
+        "Article 44",
+        "Article 48",
+        "Article 50"
+      ],
+      "optionsHi": [
+        "अनुच्छेद 40",
+        "अनुच्छेद 44",
+        "अनुच्छेद 48",
+        "अनुच्छेद 50"
+      ],
+      "answer": 0,
+      "explanation": "Article 40 asks the State to organise village panchayats; Article 44 concerns a uniform civil code and Article 50 separation of judiciary from executive.",
+      "explanationHi": "अनुच्छेद 40 राज्य से ग्राम पंचायतों के संगठन की अपेक्षा करता है; अनुच्छेद 44 समान नागरिक संहिता और अनुच्छेद 50 न्यायपालिका को कार्यपालिका से पृथक करने से संबंधित है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Article 44 of the Constitution directs the State to endeavour to secure:",
+      "textHi": "संविधान का अनुच्छेद 44 राज्य को किसे सुनिश्चित करने का प्रयास करने का निर्देश देता है?",
+      "options": [
+        "Free legal aid",
+        "A uniform civil code for citizens throughout India",
+        "Protection of monuments",
+        "Living wage for workers"
+      ],
+      "optionsHi": [
+        "निःशुल्क विधिक सहायता",
+        "पूरे भारत में नागरिकों के लिए समान नागरिक संहिता",
+        "स्मारकों का संरक्षण",
+        "श्रमिकों के लिए निर्वाह मज़दूरी"
+      ],
+      "answer": 1,
+      "explanation": "Article 44, a Directive Principle, speaks of a uniform civil code for all citizens.",
+      "explanationHi": "नीति निदेशक तत्व अनुच्छेद 44 सभी नागरिकों के लिए समान नागरिक संहिता की बात करता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Fundamental Duties were added to the Constitution by the 42nd Amendment Act, 1976 on the recommendation of the:",
+      "textHi": "मौलिक कर्तव्यों को 42वें संशोधन अधिनियम, 1976 द्वारा किसकी सिफ़ारिश पर संविधान में जोड़ा गया?",
+      "options": [
+        "Sarkaria Commission",
+        "Kothari Commission",
+        "Swaran Singh Committee",
+        "Balwant Rai Mehta Committee"
+      ],
+      "optionsHi": [
+        "सरकारिया आयोग",
+        "कोठारी आयोग",
+        "स्वर्ण सिंह समिति",
+        "बलवंत राय मेहता समिति"
+      ],
+      "answer": 2,
+      "explanation": "The Swaran Singh Committee recommended Fundamental Duties, which were inserted as Article 51A in Part IVA.",
+      "explanationHi": "स्वर्ण सिंह समिति ने मौलिक कर्तव्यों की सिफ़ारिश की, जिन्हें भाग IVA में अनुच्छेद 51A के रूप में जोड़ा गया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Fundamental Duty of a parent or guardian to provide opportunities for education to a child between 6 and 14 years was added by the:",
+      "textHi": "6 से 14 वर्ष के बच्चे को शिक्षा के अवसर प्रदान करने का माता-पिता या अभिभावक का मौलिक कर्तव्य किसके द्वारा जोड़ा गया?",
+      "options": [
+        "42nd Amendment, 1976",
+        "44th Amendment, 1978",
+        "73rd Amendment, 1992",
+        "86th Amendment, 2002"
+      ],
+      "optionsHi": [
+        "42वाँ संशोधन, 1976",
+        "44वाँ संशोधन, 1978",
+        "73वाँ संशोधन, 1992",
+        "86वाँ संशोधन, 2002"
+      ],
+      "answer": 3,
+      "explanation": "The 86th Amendment added Article 51A(k), raising the number of Fundamental Duties to eleven, along with Article 21A.",
+      "explanationHi": "86वें संशोधन ने अनुच्छेद 21A के साथ अनुच्छेद 51A(k) जोड़ा, जिससे मौलिक कर्तव्यों की संख्या ग्यारह हो गई।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Reserve Bank of India was established on:",
+      "textHi": "भारतीय रिज़र्व बैंक की स्थापना कब हुई?",
+      "options": [
+        "1 April 1935",
+        "15 August 1947",
+        "1 January 1949",
+        "19 July 1969"
+      ],
+      "optionsHi": [
+        "1 अप्रैल 1935",
+        "15 अगस्त 1947",
+        "1 जनवरी 1949",
+        "19 जुलाई 1969"
+      ],
+      "answer": 0,
+      "explanation": "The RBI began operations on 1 April 1935 under the Reserve Bank of India Act, 1934, on the recommendation of the Hilton Young Commission.",
+      "explanationHi": "हिल्टन यंग आयोग की सिफ़ारिश पर भारतीय रिज़र्व बैंक अधिनियम, 1934 के अंतर्गत RBI ने 1 अप्रैल 1935 से कार्य आरंभ किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Reserve Bank of India was nationalised in the year:",
+      "textHi": "भारतीय रिज़र्व बैंक का राष्ट्रीयकरण किस वर्ष हुआ?",
+      "options": [
+        "1935",
+        "1947",
+        "1949",
+        "1969"
+      ],
+      "optionsHi": [
+        "1935",
+        "1947",
+        "1949",
+        "1969"
+      ],
+      "answer": 2,
+      "explanation": "The RBI, originally a privately owned shareholders' bank, was nationalised with effect from 1 January 1949.",
+      "explanationHi": "मूल रूप से निजी अंशधारकों का बैंक RBI 1 जनवरी 1949 से राष्ट्रीयकृत किया गया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The rate at which the RBI lends short-term funds to commercial banks against government securities is called the:",
+      "textHi": "जिस दर पर RBI सरकारी प्रतिभूतियों के बदले वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है, उसे क्या कहते हैं?",
+      "options": [
+        "Reverse repo rate",
+        "Repo rate",
+        "Cash reserve ratio",
+        "Statutory liquidity ratio"
+      ],
+      "optionsHi": [
+        "रिवर्स रेपो दर",
+        "रेपो दर",
+        "नकद आरक्षित अनुपात",
+        "सांविधिक तरलता अनुपात"
+      ],
+      "answer": 1,
+      "explanation": "Under the repo rate the RBI lends to banks; under the reverse repo rate it absorbs funds from banks.",
+      "explanationHi": "रेपो दर पर RBI बैंकों को ऋण देता है; रिवर्स रेपो दर पर वह बैंकों से धन अवशोषित करता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Cash Reserve Ratio (CRR) is the portion of a bank's net demand and time liabilities that it must:",
+      "textHi": "नकद आरक्षित अनुपात (CRR) किसी बैंक की शुद्ध माँग और सावधि देयताओं का वह भाग है जिसे उसे:",
+      "options": [
+        "Lend to the priority sector",
+        "Invest in gold",
+        "Keep as cash balance with the RBI",
+        "Pay as dividend to shareholders"
+      ],
+      "optionsHi": [
+        "प्राथमिकता क्षेत्र को ऋण देना होता है",
+        "सोने में निवेश करना होता है",
+        "RBI के पास नकद शेष के रूप में रखना होता है",
+        "अंशधारकों को लाभांश के रूप में देना होता है"
+      ],
+      "answer": 2,
+      "explanation": "CRR is kept with the RBI as cash; the statutory liquidity ratio (SLR) is maintained by banks in liquid assets such as government securities.",
+      "explanationHi": "CRR नकद के रूप में RBI के पास रखा जाता है; सांविधिक तरलता अनुपात (SLR) बैंक सरकारी प्रतिभूतियों जैसी तरल परिसंपत्तियों में रखते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "If the RBI raises the repo rate, the most likely immediate effect is that:",
+      "textHi": "यदि RBI रेपो दर बढ़ा देता है, तो इसका सबसे संभावित तात्कालिक प्रभाव होगा:",
+      "options": [
+        "Borrowing from banks becomes cheaper",
+        "The money supply expands quickly",
+        "Inflation is encouraged",
+        "Borrowing becomes costlier and the money supply tends to contract"
+      ],
+      "optionsHi": [
+        "बैंकों से ऋण लेना सस्ता हो जाएगा",
+        "मुद्रा आपूर्ति तेज़ी से बढ़ेगी",
+        "मुद्रास्फीति को बढ़ावा मिलेगा",
+        "ऋण लेना महँगा होगा और मुद्रा आपूर्ति घटने लगेगी"
+      ],
+      "answer": 3,
+      "explanation": "A higher repo rate raises banks' cost of funds and loan rates, which reduces credit growth and helps control inflation.",
+      "explanationHi": "रेपो दर बढ़ने से बैंकों की निधि-लागत और ऋण दरें बढ़ती हैं, जिससे ऋण वृद्धि घटती है और मुद्रास्फीति नियंत्रित होती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The main difficulty of the barter system that money solves is the problem of:",
+      "textHi": "वस्तु-विनिमय प्रणाली की मुख्य कठिनाई, जिसे मुद्रा हल करती है, किसकी समस्या है?",
+      "options": [
+        "Double coincidence of wants",
+        "Collateral",
+        "Inflation",
+        "Foreign exchange"
+      ],
+      "optionsHi": [
+        "आवश्यकताओं का दोहरा संयोग",
+        "समर्थक ऋणाधार (कोलैटरल)",
+        "मुद्रास्फीति",
+        "विदेशी मुद्रा"
+      ],
+      "answer": 0,
+      "explanation": "In barter, each party must want exactly what the other offers; money acts as a medium of exchange and removes this need.",
+      "explanationHi": "वस्तु-विनिमय में प्रत्येक पक्ष को ठीक वही चाहिए जो दूसरा दे रहा है; मुद्रा विनिमय के माध्यम के रूप में इस आवश्यकता को समाप्त करती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In India, the one-rupee currency note is issued by:",
+      "textHi": "भारत में एक रुपये का करेंसी नोट कौन जारी करता है?",
+      "options": [
+        "The Reserve Bank of India",
+        "The State Bank of India",
+        "The Ministry of Finance, Government of India",
+        "The Security Printing Press, Nashik"
+      ],
+      "optionsHi": [
+        "भारतीय रिज़र्व बैंक",
+        "भारतीय स्टेट बैंक",
+        "वित्त मंत्रालय, भारत सरकार",
+        "प्रतिभूति मुद्रणालय, नासिक"
+      ],
+      "answer": 2,
+      "explanation": "All other notes are issued by the RBI, but the one-rupee note (like coins) is issued by the Government of India and bears the signature of the Finance Secretary.",
+      "explanationHi": "अन्य सभी नोट RBI जारी करता है, किंतु एक रुपये का नोट (सिक्कों की तरह) भारत सरकार जारी करती है और उस पर वित्त सचिव के हस्ताक्षर होते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In July 1969, how many major commercial banks were nationalised by the Government of India?",
+      "textHi": "जुलाई 1969 में भारत सरकार ने कितने प्रमुख वाणिज्यिक बैंकों का राष्ट्रीयकरण किया?",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "20"
+      ],
+      "optionsHi": [
+        "6",
+        "10",
+        "14",
+        "20"
+      ],
+      "answer": 2,
+      "explanation": "Fourteen major banks were nationalised in 1969; six more were nationalised in 1980.",
+      "explanationHi": "1969 में चौदह प्रमुख बैंकों का राष्ट्रीयकरण किया गया; 1980 में छह और बैंक राष्ट्रीयकृत हुए।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "According to the NCERT description, a typical Self-Help Group (SHG) of the rural poor has about:",
+      "textHi": "NCERT के विवरण के अनुसार ग्रामीण निर्धनों के एक सामान्य स्वयं सहायता समूह (SHG) में लगभग कितने सदस्य होते हैं?",
+      "options": [
+        "5–8 members",
+        "15–20 members",
+        "40–50 members",
+        "100 members"
+      ],
+      "optionsHi": [
+        "5–8 सदस्य",
+        "15–20 सदस्य",
+        "40–50 सदस्य",
+        "100 सदस्य"
+      ],
+      "answer": 1,
+      "explanation": "An SHG usually has 15–20 members, mostly women from one locality, who pool savings and lend among themselves.",
+      "explanationHi": "एक SHG में प्रायः 15–20 सदस्य होते हैं, जिनमें अधिकतर एक ही इलाके की महिलाएँ होती हैं, जो बचत एकत्र कर आपस में ऋण देती हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "An asset such as land, a building or livestock that a borrower pledges to the lender as a guarantee until a loan is repaid is called:",
+      "textHi": "भूमि, भवन या पशुधन जैसी संपत्ति, जिसे कर्ज़दार ऋण चुकाए जाने तक ऋणदाता के पास गारंटी के रूप में रखता है, क्या कहलाती है?",
+      "options": [
+        "Interest",
+        "Principal",
+        "Collateral",
+        "Equity"
+      ],
+      "optionsHi": [
+        "ब्याज",
+        "मूलधन",
+        "समर्थक ऋणाधार (कोलैटरल)",
+        "इक्विटी"
+      ],
+      "answer": 2,
+      "explanation": "Collateral is the security a lender can sell to recover the loan if the borrower fails to repay.",
+      "explanationHi": "समर्थक ऋणाधार वह प्रतिभूति है जिसे कर्ज़दार के ऋण न चुकाने पर ऋणदाता बेचकर अपना ऋण वसूल कर सकता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Deposits in bank accounts that can be withdrawn at any time, and against which cheques can be issued, are called:",
+      "textHi": "बैंक खातों की वे जमाएँ, जिन्हें किसी भी समय निकाला जा सकता है और जिन पर चेक जारी किए जा सकते हैं, क्या कहलाती हैं?",
+      "options": [
+        "Fixed deposits",
+        "Demand deposits",
+        "Recurring deposits",
+        "Term loans"
+      ],
+      "optionsHi": [
+        "सावधि जमा",
+        "माँग जमा",
+        "आवर्ती जमा",
+        "सावधि ऋण"
+      ],
+      "answer": 1,
+      "explanation": "Demand deposits can be withdrawn on demand and share the essential features of money.",
+      "explanationHi": "माँग जमा माँगने पर निकाली जा सकती है और इसमें मुद्रा की आवश्यक विशेषताएँ होती हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The headquarters of the Reserve Bank of India is located at:",
+      "textHi": "भारतीय रिज़र्व बैंक का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "New Delhi",
+        "Kolkata",
+        "Chennai",
+        "Mumbai"
+      ],
+      "optionsHi": [
+        "नई दिल्ली",
+        "कोलकाता",
+        "चेन्नई",
+        "मुंबई"
+      ],
+      "answer": 3,
+      "explanation": "The RBI's central office was moved from Kolkata (Calcutta) to Mumbai (Bombay) in 1937.",
+      "explanationHi": "RBI का केंद्रीय कार्यालय 1937 में कोलकाता (कलकत्ता) से मुंबई (बंबई) स्थानांतरित किया गया।"
+    }
+  ]
+}

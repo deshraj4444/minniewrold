@@ -1,0 +1,413 @@
+{
+  "slug": "hp-tet-tgt-arts-sample-social-studies",
+  "version": 2,
+  "title": "HP TET TGT Arts · Free Sectional Test: Social Studies",
+  "description": "20 free practice questions on Indian history, geography, polity and economics.",
+  "category": "HP TET TGT Arts",
+  "kind": "Sample test",
+  "year": null,
+  "durationMinutes": 20,
+  "price": 0,
+  "questions": [
+    {
+      "section": "Social Studies",
+      "text": "Gautama Buddha delivered his first sermon, known as the 'turning of the wheel of law', at",
+      "textHi": "गौतम बुद्ध ने अपना पहला उपदेश, जिसे 'धर्मचक्र प्रवर्तन' कहा जाता है, कहाँ दिया था?",
+      "options": [
+        "Bodh Gaya",
+        "Sarnath",
+        "Lumbini",
+        "Rajgir"
+      ],
+      "optionsHi": [
+        "बोधगया",
+        "सारनाथ",
+        "लुंबिनी",
+        "राजगीर"
+      ],
+      "answer": 1,
+      "explanation": "After attaining enlightenment at Bodh Gaya, the Buddha gave his first sermon at the deer park of Sarnath near Varanasi.",
+      "explanationHi": "बोधगया में ज्ञान प्राप्ति के बाद बुद्ध ने वाराणसी के निकट सारनाथ के मृगदाव (हिरण उद्यान) में पहला उपदेश दिया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who was the 23rd Tirthankara of Jainism, who lived before Mahavira?",
+      "textHi": "महावीर से पहले हुए जैन धर्म के 23वें तीर्थंकर कौन थे?",
+      "options": [
+        "Rishabhanatha",
+        "Neminatha",
+        "Mallinatha",
+        "Parshvanatha"
+      ],
+      "optionsHi": [
+        "ऋषभनाथ",
+        "नेमिनाथ",
+        "मल्लिनाथ",
+        "पार्श्वनाथ"
+      ],
+      "answer": 3,
+      "explanation": "Parshvanatha was the 23rd Tirthankara; Mahavira was the 24th.",
+      "explanationHi": "पार्श्वनाथ 23वें तीर्थंकर थे; महावीर 24वें तीर्थंकर थे।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In the Battle of Plassey (1757), the English East India Company led by Robert Clive defeated",
+      "textHi": "प्लासी के युद्ध (1757) में रॉबर्ट क्लाइव के नेतृत्व में अंग्रेज़ ईस्ट इंडिया कंपनी ने किसे पराजित किया?",
+      "options": [
+        "Siraj-ud-Daulah",
+        "Mir Qasim",
+        "Shuja-ud-Daulah",
+        "Tipu Sultan"
+      ],
+      "optionsHi": [
+        "सिराजुद्दौला",
+        "मीर कासिम",
+        "शुजाउद्दौला",
+        "टीपू सुल्तान"
+      ],
+      "answer": 0,
+      "explanation": "Clive defeated Siraj-ud-Daulah, the Nawab of Bengal, at Plassey in 1757, helped by the betrayal of Mir Jafar.",
+      "explanationHi": "मीर जाफ़र के विश्वासघात की सहायता से क्लाइव ने 1757 में प्लासी में बंगाल के नवाब सिराजुद्दौला को हराया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Shivaji was crowned Chhatrapati in 1674 at which fort?",
+      "textHi": "शिवाजी का 'छत्रपति' के रूप में राज्याभिषेक 1674 में किस किले में हुआ था?",
+      "options": [
+        "Pratapgad",
+        "Sinhagad",
+        "Raigad",
+        "Torna"
+      ],
+      "optionsHi": [
+        "प्रतापगढ़",
+        "सिंहगढ़",
+        "रायगढ़",
+        "तोरणा"
+      ],
+      "answer": 2,
+      "explanation": "Shivaji's coronation took place at Raigad in June 1674.",
+      "explanationHi": "शिवाजी का राज्याभिषेक जून 1674 में रायगढ़ में हुआ।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Simon Commission (1928) was boycotted by Indians mainly because",
+      "textHi": "साइमन कमीशन (1928) का भारतीयों ने मुख्य रूप से बहिष्कार क्यों किया?",
+      "options": [
+        "it proposed partition of the country",
+        "it had no Indian member",
+        "it was headed by the Viceroy",
+        "it abolished provincial legislatures"
+      ],
+      "optionsHi": [
+        "इसने देश के विभाजन का प्रस्ताव रखा था",
+        "इसमें कोई भारतीय सदस्य नहीं था",
+        "इसकी अध्यक्षता वायसराय कर रहे थे",
+        "इसने प्रांतीय विधानमंडलों को समाप्त कर दिया था"
+      ],
+      "answer": 1,
+      "explanation": "All seven members of the Simon Commission were British, so Indians greeted it with the slogan 'Simon Go Back'.",
+      "explanationHi": "साइमन कमीशन के सभी सात सदस्य अंग्रेज़ थे, इसलिए भारतीयों ने 'साइमन वापस जाओ' के नारे से इसका विरोध किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The rock-cut Kailasa temple at Ellora was built under the patronage of which dynasty?",
+      "textHi": "एलोरा का शैलकृत कैलाश मंदिर किस राजवंश के संरक्षण में बनाया गया था?",
+      "options": [
+        "Rashtrakuta",
+        "Chalukya of Badami",
+        "Pallava",
+        "Satavahana"
+      ],
+      "optionsHi": [
+        "राष्ट्रकूट",
+        "बादामी के चालुक्य",
+        "पल्लव",
+        "सातवाहन"
+      ],
+      "answer": 0,
+      "explanation": "The Kailasa temple (Cave 16) at Ellora was carved out of a single rock under the Rashtrakuta king Krishna I in the 8th century.",
+      "explanationHi": "एलोरा का कैलाश मंदिर (गुफा 16) 8वीं शताब्दी में राष्ट्रकूट राजा कृष्ण प्रथम के समय एक ही चट्टान को काटकर बनाया गया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Chilika Lake, the largest brackish water lagoon in India, is located in",
+      "textHi": "भारत का सबसे बड़ा खारे पानी का लैगून, चिल्का झील, कहाँ स्थित है?",
+      "options": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "West Bengal",
+        "Odisha"
+      ],
+      "optionsHi": [
+        "आंध्र प्रदेश",
+        "तमिलनाडु",
+        "पश्चिम बंगाल",
+        "ओडिशा"
+      ],
+      "answer": 3,
+      "explanation": "Chilika Lake lies on the coast of Odisha and is a major wintering ground for migratory birds.",
+      "explanationHi": "चिल्का झील ओडिशा के तट पर स्थित है और प्रवासी पक्षियों का प्रमुख शीतकालीन आवास है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The International Date Line broadly follows which meridian?",
+      "textHi": "अंतरराष्ट्रीय तिथि रेखा मोटे तौर पर किस देशांतर रेखा का अनुसरण करती है?",
+      "options": [
+        "0°",
+        "90° E",
+        "180°",
+        "90° W"
+      ],
+      "optionsHi": [
+        "0°",
+        "90° पूर्व",
+        "180°",
+        "90° पश्चिम"
+      ],
+      "answer": 2,
+      "explanation": "The International Date Line runs roughly along the 180° meridian, bending in places to avoid land areas.",
+      "explanationHi": "अंतरराष्ट्रीय तिथि रेखा लगभग 180° देशांतर के साथ चलती है और स्थलीय भागों से बचने के लिए कहीं-कहीं मुड़ जाती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In Tibet, the river Brahmaputra is known as the",
+      "textHi": "तिब्बत में ब्रह्मपुत्र नदी को किस नाम से जाना जाता है?",
+      "options": [
+        "Tsangpo",
+        "Dihang",
+        "Jamuna",
+        "Lohit"
+      ],
+      "optionsHi": [
+        "सांगपो",
+        "दिहांग",
+        "जमुना",
+        "लोहित"
+      ],
+      "answer": 0,
+      "explanation": "The Brahmaputra is called the Tsangpo in Tibet, the Dihang (Siang) in Arunachal Pradesh and the Jamuna in Bangladesh.",
+      "explanationHi": "ब्रह्मपुत्र को तिब्बत में सांगपो, अरुणाचल प्रदेश में दिहांग (सियांग) और बांग्लादेश में जमुना कहा जाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Marble is a metamorphic rock formed from",
+      "textHi": "संगमरमर एक कायांतरित चट्टान है, जो किससे बनती है?",
+      "options": [
+        "granite",
+        "limestone",
+        "basalt",
+        "shale"
+      ],
+      "optionsHi": [
+        "ग्रेनाइट",
+        "चूना पत्थर",
+        "बेसाल्ट",
+        "शेल"
+      ],
+      "answer": 1,
+      "explanation": "When limestone is subjected to heat and pressure it recrystallises to form marble.",
+      "explanationHi": "चूना पत्थर पर ताप और दाब पड़ने से उसका पुनः क्रिस्टलीकरण होकर संगमरमर बनता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Lines drawn on a map joining places having equal atmospheric pressure are called",
+      "textHi": "मानचित्र पर समान वायुदाब वाले स्थानों को मिलाने वाली रेखाएँ क्या कहलाती हैं?",
+      "options": [
+        "isotherms",
+        "isohyets",
+        "contours",
+        "isobars"
+      ],
+      "optionsHi": [
+        "समताप रेखाएँ",
+        "समवर्षा रेखाएँ",
+        "समोच्च रेखाएँ",
+        "समदाब रेखाएँ"
+      ],
+      "answer": 3,
+      "explanation": "Isobars join places of equal air pressure; isotherms join equal temperature and isohyets equal rainfall.",
+      "explanationHi": "समदाब रेखाएँ समान वायुदाब वाले स्थानों को मिलाती हैं; समताप रेखाएँ समान तापमान और समवर्षा रेखाएँ समान वर्षा वाले स्थानों को।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who was the Chairman of the Drafting Committee of the Constituent Assembly?",
+      "textHi": "संविधान सभा की प्रारूप समिति के अध्यक्ष कौन थे?",
+      "options": [
+        "Rajendra Prasad",
+        "B. R. Ambedkar",
+        "Jawaharlal Nehru",
+        "B. N. Rau"
+      ],
+      "optionsHi": [
+        "राजेंद्र प्रसाद",
+        "बी. आर. अंबेडकर",
+        "जवाहरलाल नेहरू",
+        "बी. एन. राव"
+      ],
+      "answer": 1,
+      "explanation": "Dr. B. R. Ambedkar chaired the Drafting Committee; Rajendra Prasad was President of the Constituent Assembly and B. N. Rau its Constitutional Adviser.",
+      "explanationHi": "डॉ. बी. आर. अंबेडकर प्रारूप समिति के अध्यक्ष थे; राजेंद्र प्रसाद संविधान सभा के अध्यक्ष और बी. एन. राव संवैधानिक सलाहकार थे।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "textHi": "राज्यसभा का पदेन सभापति कौन होता है?",
+      "options": [
+        "The President",
+        "The Speaker of the Lok Sabha",
+        "The Vice-President",
+        "The Prime Minister"
+      ],
+      "optionsHi": [
+        "राष्ट्रपति",
+        "लोकसभा अध्यक्ष",
+        "उपराष्ट्रपति",
+        "प्रधानमंत्री"
+      ],
+      "answer": 2,
+      "explanation": "Under the Constitution the Vice-President of India is the ex-officio Chairman of the Council of States.",
+      "explanationHi": "संविधान के अनुसार भारत का उपराष्ट्रपति राज्यसभा का पदेन सभापति होता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "President's Rule in a state, on the failure of constitutional machinery, is imposed under which Article?",
+      "textHi": "किसी राज्य में संवैधानिक तंत्र के विफल होने पर राष्ट्रपति शासन किस अनुच्छेद के अंतर्गत लगाया जाता है?",
+      "options": [
+        "Article 352",
+        "Article 360",
+        "Article 368",
+        "Article 356"
+      ],
+      "optionsHi": [
+        "अनुच्छेद 352",
+        "अनुच्छेद 360",
+        "अनुच्छेद 368",
+        "अनुच्छेद 356"
+      ],
+      "answer": 3,
+      "explanation": "Article 356 deals with failure of constitutional machinery in a state; Article 352 covers national emergency and Article 360 financial emergency.",
+      "explanationHi": "अनुच्छेद 356 राज्य में संवैधानिक तंत्र की विफलता से संबंधित है; अनुच्छेद 352 राष्ट्रीय आपातकाल और अनुच्छेद 360 वित्तीय आपातकाल से।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "What is the minimum age prescribed for election as President of India?",
+      "textHi": "भारत के राष्ट्रपति पद के निर्वाचन के लिए न्यूनतम आयु कितनी निर्धारित है?",
+      "options": [
+        "35 years",
+        "30 years",
+        "25 years",
+        "40 years"
+      ],
+      "optionsHi": [
+        "35 वर्ष",
+        "30 वर्ष",
+        "25 वर्ष",
+        "40 वर्ष"
+      ],
+      "answer": 0,
+      "explanation": "Article 58 requires a candidate for President to have completed 35 years of age.",
+      "explanationHi": "अनुच्छेद 58 के अनुसार राष्ट्रपति पद के उम्मीदवार की आयु 35 वर्ष पूरी होनी चाहिए।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Under the Constitution, the Union Council of Ministers is collectively responsible to",
+      "textHi": "संविधान के अनुसार केंद्रीय मंत्रिपरिषद सामूहिक रूप से किसके प्रति उत्तरदायी होती है?",
+      "options": [
+        "the President",
+        "the Rajya Sabha",
+        "the Lok Sabha",
+        "the Supreme Court"
+      ],
+      "optionsHi": [
+        "राष्ट्रपति",
+        "राज्यसभा",
+        "लोकसभा",
+        "सर्वोच्च न्यायालय"
+      ],
+      "answer": 2,
+      "explanation": "Article 75(3) makes the Council of Ministers collectively responsible to the House of the People (Lok Sabha).",
+      "explanationHi": "अनुच्छेद 75(3) के अनुसार मंत्रिपरिषद सामूहिक रूप से लोकसभा (लोक सभा) के प्रति उत्तरदायी है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Goods and Services Tax (GST) was introduced throughout India with effect from",
+      "textHi": "वस्तु एवं सेवा कर (GST) पूरे भारत में कब से लागू किया गया?",
+      "options": [
+        "1 April 2016",
+        "1 July 2017",
+        "1 January 2018",
+        "15 August 2017"
+      ],
+      "optionsHi": [
+        "1 अप्रैल 2016",
+        "1 जुलाई 2017",
+        "1 जनवरी 2018",
+        "15 अगस्त 2017"
+      ],
+      "answer": 1,
+      "explanation": "GST, an indirect tax that replaced many central and state levies, came into force on 1 July 2017.",
+      "explanationHi": "अनेक केंद्रीय और राज्य करों का स्थान लेने वाला अप्रत्यक्ष कर GST 1 जुलाई 2017 से लागू हुआ।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Human Development Index (HDI) is published every year in the Human Development Report of the",
+      "textHi": "मानव विकास सूचकांक (HDI) प्रतिवर्ष किसकी मानव विकास रिपोर्ट में प्रकाशित होता है?",
+      "options": [
+        "World Bank",
+        "International Monetary Fund",
+        "World Trade Organization",
+        "United Nations Development Programme"
+      ],
+      "optionsHi": [
+        "विश्व बैंक",
+        "अंतरराष्ट्रीय मुद्रा कोष",
+        "विश्व व्यापार संगठन",
+        "संयुक्त राष्ट्र विकास कार्यक्रम"
+      ],
+      "answer": 3,
+      "explanation": "The UNDP's Human Development Report ranks countries on HDI, based on health, education and income.",
+      "explanationHi": "UNDP (संयुक्त राष्ट्र विकास कार्यक्रम) की मानव विकास रिपोर्ट स्वास्थ्य, शिक्षा और आय के आधार पर देशों को HDI में स्थान देती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In India, buffer stocks of foodgrains such as wheat and rice are procured and maintained mainly by the",
+      "textHi": "भारत में गेहूँ और चावल जैसे खाद्यान्नों के बफ़र स्टॉक की खरीद और रखरखाव मुख्य रूप से कौन करता है?",
+      "options": [
+        "Food Corporation of India",
+        "Reserve Bank of India",
+        "NABARD",
+        "Commission for Agricultural Costs and Prices"
+      ],
+      "optionsHi": [
+        "भारतीय खाद्य निगम",
+        "भारतीय रिज़र्व बैंक",
+        "नाबार्ड",
+        "कृषि लागत एवं मूल्य आयोग"
+      ],
+      "answer": 0,
+      "explanation": "The Food Corporation of India buys grain from farmers and holds it as buffer stock for the public distribution system.",
+      "explanationHi": "भारतीय खाद्य निगम किसानों से अनाज खरीदकर सार्वजनिक वितरण प्रणाली के लिए बफ़र स्टॉक के रूप में रखता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Minimum Support Prices (MSP) for crops are announced by the Government of India on the recommendation of the",
+      "textHi": "फ़सलों के न्यूनतम समर्थन मूल्य (MSP) की घोषणा भारत सरकार किसकी सिफ़ारिश पर करती है?",
+      "options": [
+        "NITI Aayog",
+        "Food Corporation of India",
+        "Commission for Agricultural Costs and Prices",
+        "Ministry of Commerce"
+      ],
+      "optionsHi": [
+        "नीति आयोग",
+        "भारतीय खाद्य निगम",
+        "कृषि लागत एवं मूल्य आयोग",
+        "वाणिज्य मंत्रालय"
+      ],
+      "answer": 2,
+      "explanation": "The government fixes MSPs on the basis of recommendations made by the Commission for Agricultural Costs and Prices (CACP).",
+      "explanationHi": "सरकार कृषि लागत एवं मूल्य आयोग (CACP) की सिफ़ारिशों के आधार पर MSP तय करती है।"
+    }
+  ]
+}

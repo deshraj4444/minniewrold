@@ -1,0 +1,14 @@
+/* Global reset only. Every site styles itself under its own root class (.hub, .astro, .dharma, .gk, .admin). */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; min-height: 100vh; overflow-x: hidden; }
+img { max-width: 100%; display: block; }
+button, input, select, textarea { font: inherit; color: inherit; }
+a { color: inherit; }
+.page-loading { min-height: 100vh; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Site-wide visitor counter in the footers. */
+.visitor-counter { margin: 8px 0; font-size: .9rem; opacity: .9; }
+.visitor-counter b { font-size: 1.05rem; letter-spacing: .02em; font-variant-numeric: tabular-nums; }
+.visitor-counter [lang='hi'] { font-family: 'Hind', 'Nirmala UI', sans-serif; }

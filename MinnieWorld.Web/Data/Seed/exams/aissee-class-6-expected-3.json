@@ -1,0 +1,2450 @@
+{
+  "slug": "aissee-class-6-expected-3",
+  "version": 1,
+  "title": "Sainik School AISSEE Class 6 · Expected Paper 3 (2027)",
+  "description": "Expected AISSEE Class 6 paper for 2027: English 25, Mathematics 50, Intelligence 25 and General Knowledge 25 questions (125 questions, 300 marks, 150 minutes, no negative marking). Original practice paper on the AISSEE pattern (not the official paper). Free.",
+  "category": "Sainik School AISSEE Class 6",
+  "kind": "Expected paper",
+  "year": 2027,
+  "durationMinutes": 150,
+  "negativeMark": 0,
+  "price": 0,
+  "questions": [
+    {
+      "section": "English",
+      "text": "Choose the word that is closest in meaning to HUGE.",
+      "options": [
+        "narrow",
+        "tiny",
+        "enormous",
+        "weak"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "\"Huge\" means very big; \"enormous\" means the same."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word that is opposite in meaning to GENEROUS.",
+      "options": [
+        "kind",
+        "selfish",
+        "helpful",
+        "rich"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "A generous person shares freely; the opposite is a selfish person."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct article: ___ sun rises in the east.",
+      "options": [
+        "no article",
+        "A",
+        "An",
+        "The"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "There is only one sun, so we use \"the\"."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: The train arrived ___ 6 o'clock.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "since"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "We use \"at\" with an exact time of the clock."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: Look! The children ___ in the park.",
+      "options": [
+        "have play",
+        "play",
+        "played",
+        "are playing"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "\"Look!\" shows the action is happening now, so we use the present continuous \"are playing\"."
+    },
+    {
+      "section": "English",
+      "text": "What is the plural of LEAF?",
+      "options": [
+        "leafs",
+        "leaves",
+        "leafes",
+        "leavs"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "Many words ending in -f change to -ves in the plural: leaf → leaves."
+    },
+    {
+      "section": "English",
+      "text": "One word for \"a place where books are kept for people to read or borrow\" is:",
+      "options": [
+        "museum",
+        "bakery",
+        "library",
+        "factory"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "A library is a place where books are kept for reading and borrowing."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correctly spelt word.",
+      "options": [
+        "necessary",
+        "neccessary",
+        "necesary",
+        "nesessary"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "The correct spelling is n-e-c-e-s-s-a-r-y (one c, double s)."
+    },
+    {
+      "section": "English",
+      "text": "What is the feminine of KING?",
+      "options": [
+        "princess",
+        "queen",
+        "maid",
+        "lady"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "The feminine of king is queen. (Princess is the feminine of prince.)"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct pronoun: This book is ___. I bought it yesterday.",
+      "options": [
+        "me",
+        "my",
+        "mine",
+        "I"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "We need a possessive pronoun that stands alone: \"This book is mine.\""
+    },
+    {
+      "section": "English",
+      "text": "Pick out the adverb in this sentence: She sang sweetly at the function.",
+      "options": [
+        "function",
+        "sang",
+        "she",
+        "sweetly"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "\"Sweetly\" tells us how she sang, so it is an adverb."
+    },
+    {
+      "section": "English",
+      "text": "The idiom \"to let the cat out of the bag\" means:",
+      "options": [
+        "to tell a secret by mistake",
+        "to set a pet free",
+        "to buy a new bag",
+        "to be very angry"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "To \"let the cat out of the bag\" is to reveal a secret, usually without meaning to."
+    },
+    {
+      "section": "English",
+      "text": "Arrange the words to make a correct sentence: P: The   Q: is   R: blue   S: sky",
+      "options": [
+        "P S Q R",
+        "P Q S R",
+        "S P Q R",
+        "P R S Q"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "The sentence is \"The sky is blue\" = P S Q R."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct sentence.",
+      "options": [
+        "She lived here since for five years.",
+        "She is living here since five years.",
+        "She has been living here since five years.",
+        "She has been living here for five years."
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "For a length of time (\"five years\") we use \"for\", with the present perfect continuous \"has been living\"."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct question tag: He can swim, ___?",
+      "options": [
+        "doesn't he",
+        "can he",
+        "can't he",
+        "isn't he"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "A positive sentence with \"can\" takes the negative tag \"can't he?\"."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct collective noun: a ___ of cattle",
+      "options": [
+        "flock",
+        "herd",
+        "bunch",
+        "swarm"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "A group of cattle is called a herd."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: Rohan is the ___ boy in our class.",
+      "options": [
+        "taller",
+        "tallest",
+        "tall",
+        "most tall"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "When one is compared with all the others in a group, we use the superlative \"tallest\"."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with a suitable joining word: Hurry up, ___ you will miss the bus.",
+      "options": [
+        "because",
+        "and",
+        "but",
+        "or"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "\"Or\" here means \"otherwise\": hurry up, otherwise you will miss the bus."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word that is closest in meaning to BEGIN.",
+      "options": [
+        "start",
+        "end",
+        "stop",
+        "finish"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "\"Begin\" and \"start\" mean the same."
+    },
+    {
+      "section": "English",
+      "text": "Change into indirect speech: Mother said, \"I am busy.\"",
+      "options": [
+        "Mother said that I was busy.",
+        "Mother said that she is busy.",
+        "Mother said that she was busy.",
+        "Mother said that she has busy."
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "In indirect speech \"I\" becomes \"she\" and the present \"am\" changes to the past \"was\"."
+    },
+    {
+      "section": "English",
+      "text": "What does the grandfather say about the tree?",
+      "options": [
+        "It was cut down long ago.",
+        "He planted it himself.",
+        "It was a small plant when he was a boy.",
+        "It was already huge when he was a little boy."
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "The passage says grandfather remembers that it \"was already huge when he was a little boy\".",
+      "passage": "At the edge of our village stands an old banyan tree. Nobody knows exactly how old it is, but my grandfather says it was already huge when he was a little boy. Its thick branches spread out in every direction, and from them hang long roots that reach down into the soil. These roots slowly become new trunks, so the tree looks like a small forest by itself. In the afternoon, farmers rest in its cool shade, and the village elders sit on a stone platform beneath it to talk. Parrots, mynas and squirrels make their homes in its branches, and in summer many birds come to eat its small red figs. Children swing on the hanging roots and play hide-and-seek between the trunks. Last year, when some people wanted to cut down the tree to widen the road, the whole village said no. The road was built around the tree instead."
+    },
+    {
+      "section": "English",
+      "text": "What do the hanging roots of the banyan tree slowly become?",
+      "options": [
+        "Leaves",
+        "New branches",
+        "New trunks",
+        "Figs"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "The passage says \"These roots slowly become new trunks\".",
+      "passage": "At the edge of our village stands an old banyan tree. Nobody knows exactly how old it is, but my grandfather says it was already huge when he was a little boy. Its thick branches spread out in every direction, and from them hang long roots that reach down into the soil. These roots slowly become new trunks, so the tree looks like a small forest by itself. In the afternoon, farmers rest in its cool shade, and the village elders sit on a stone platform beneath it to talk. Parrots, mynas and squirrels make their homes in its branches, and in summer many birds come to eat its small red figs. Children swing on the hanging roots and play hide-and-seek between the trunks. Last year, when some people wanted to cut down the tree to widen the road, the whole village said no. The road was built around the tree instead."
+    },
+    {
+      "section": "English",
+      "text": "According to the passage, who come to eat the small red figs in summer?",
+      "options": [
+        "Many birds",
+        "The cows of the village",
+        "The farmers",
+        "The village elders"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "The passage says \"in summer many birds come to eat its small red figs\".",
+      "passage": "At the edge of our village stands an old banyan tree. Nobody knows exactly how old it is, but my grandfather says it was already huge when he was a little boy. Its thick branches spread out in every direction, and from them hang long roots that reach down into the soil. These roots slowly become new trunks, so the tree looks like a small forest by itself. In the afternoon, farmers rest in its cool shade, and the village elders sit on a stone platform beneath it to talk. Parrots, mynas and squirrels make their homes in its branches, and in summer many birds come to eat its small red figs. Children swing on the hanging roots and play hide-and-seek between the trunks. Last year, when some people wanted to cut down the tree to widen the road, the whole village said no. The road was built around the tree instead."
+    },
+    {
+      "section": "English",
+      "text": "What happened when some people wanted to cut down the tree?",
+      "options": [
+        "The village agreed and the tree was cut.",
+        "The village refused and the road was built around the tree.",
+        "A new tree was planted in its place.",
+        "The children moved to another village."
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "The whole village said no, and the road was built around the tree instead.",
+      "passage": "At the edge of our village stands an old banyan tree. Nobody knows exactly how old it is, but my grandfather says it was already huge when he was a little boy. Its thick branches spread out in every direction, and from them hang long roots that reach down into the soil. These roots slowly become new trunks, so the tree looks like a small forest by itself. In the afternoon, farmers rest in its cool shade, and the village elders sit on a stone platform beneath it to talk. Parrots, mynas and squirrels make their homes in its branches, and in summer many birds come to eat its small red figs. Children swing on the hanging roots and play hide-and-seek between the trunks. Last year, when some people wanted to cut down the tree to widen the road, the whole village said no. The road was built around the tree instead."
+    },
+    {
+      "section": "English",
+      "text": "The word \"elders\" in the passage means:",
+      "options": [
+        "tall trees",
+        "young children",
+        "farm animals",
+        "older people"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "The \"village elders\" are the older, respected people of the village.",
+      "passage": "At the edge of our village stands an old banyan tree. Nobody knows exactly how old it is, but my grandfather says it was already huge when he was a little boy. Its thick branches spread out in every direction, and from them hang long roots that reach down into the soil. These roots slowly become new trunks, so the tree looks like a small forest by itself. In the afternoon, farmers rest in its cool shade, and the village elders sit on a stone platform beneath it to talk. Parrots, mynas and squirrels make their homes in its branches, and in summer many birds come to eat its small red figs. Children swing on the hanging roots and play hide-and-seek between the trunks. Last year, when some people wanted to cut down the tree to widen the road, the whole village said no. The road was built around the tree instead."
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find: 2/3 + 1/6",
+      "textHi": "हल कीजिए: 2/3 + 1/6",
+      "options": [
+        "5/6",
+        "3/9",
+        "1/3",
+        "2/9"
+      ],
+      "optionsHi": [
+        "5/6",
+        "3/9",
+        "1/3",
+        "2/9"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "2/3 = 4/6, so 4/6 + 1/6 = 5/6.",
+      "explanationHi": "2/3 = 4/6, अतः 4/6 + 1/6 = 5/6।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find: 5/6 − 1/4",
+      "textHi": "हल कीजिए: 5/6 − 1/4",
+      "options": [
+        "4/2",
+        "7/12",
+        "1/3",
+        "5/12"
+      ],
+      "optionsHi": [
+        "4/2",
+        "7/12",
+        "1/3",
+        "5/12"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "Using the common denominator 12: 10/12 − 3/12 = 7/12.",
+      "explanationHi": "समान हर 12 लेकर: 10/12 − 3/12 = 7/12।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find: 3/5 × 10/9",
+      "textHi": "हल कीजिए: 3/5 × 10/9",
+      "options": [
+        "3/2",
+        "13/14",
+        "2/3",
+        "5/6"
+      ],
+      "optionsHi": [
+        "3/2",
+        "13/14",
+        "2/3",
+        "5/6"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "explanation": "3/5 × 10/9 = 30/45 = 2/3.",
+      "explanationHi": "3/5 × 10/9 = 30/45 = 2/3।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find: 7/8 ÷ 7/16",
+      "textHi": "हल कीजिए: 7/8 ÷ 7/16",
+      "options": [
+        "2",
+        "1/2",
+        "49/128",
+        "7"
+      ],
+      "optionsHi": [
+        "2",
+        "1/2",
+        "49/128",
+        "7"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "Dividing by a fraction means multiplying by its reciprocal: 7/8 × 16/7 = 16/8 = 2.",
+      "explanationHi": "भिन्न से भाग देने का अर्थ है उसके व्युत्क्रम से गुणा: 7/8 × 16/7 = 16/8 = 2।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Which is the largest of these fractions: 2/3, 3/5, 5/8, 7/12?",
+      "textHi": "इन भिन्नों में सबसे बड़ी कौन-सी है: 2/3, 3/5, 5/8, 7/12?",
+      "options": [
+        "3/5",
+        "2/3",
+        "5/8",
+        "7/12"
+      ],
+      "optionsHi": [
+        "3/5",
+        "2/3",
+        "5/8",
+        "7/12"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "With denominator 120: 2/3 = 80/120, 3/5 = 72/120, 5/8 = 75/120, 7/12 = 70/120. So 2/3 is the largest.",
+      "explanationHi": "हर 120 लेकर: 2/3 = 80/120, 3/5 = 72/120, 5/8 = 75/120, 7/12 = 70/120। अतः 2/3 सबसे बड़ी है।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A tank can hold 60 litres of water. It is 3/4 full. How many litres of water are in it?",
+      "textHi": "एक टंकी में 60 लीटर पानी आ सकता है। वह 3/4 भरी है। उसमें कितने लीटर पानी है?",
+      "options": [
+        "50 litres",
+        "40 litres",
+        "15 litres",
+        "45 litres"
+      ],
+      "optionsHi": [
+        "50 लीटर",
+        "40 लीटर",
+        "15 लीटर",
+        "45 लीटर"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "explanation": "3/4 of 60 = 60 ÷ 4 × 3 = 45 litres.",
+      "explanationHi": "60 का 3/4 = 60 ÷ 4 × 3 = 45 लीटर।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Seema spent 1/3 of her money on books and 1/4 of it on food. What fraction of her money is left?",
+      "textHi": "सीमा ने अपने पैसों का 1/3 भाग किताबों पर और 1/4 भाग भोजन पर खर्च किया। उसके पैसों का कितना भाग बचा?",
+      "options": [
+        "2/7",
+        "7/12",
+        "5/12",
+        "1/2"
+      ],
+      "optionsHi": [
+        "2/7",
+        "7/12",
+        "5/12",
+        "1/2"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "explanation": "Spent = 1/3 + 1/4 = 4/12 + 3/12 = 7/12. Left = 1 − 7/12 = 5/12.",
+      "explanationHi": "खर्च = 1/3 + 1/4 = 4/12 + 3/12 = 7/12। बचा = 1 − 7/12 = 5/12।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find: 2 1/2 + 1 3/4",
+      "textHi": "हल कीजिए: 2 1/2 + 1 3/4",
+      "options": [
+        "4 1/4",
+        "3 4/6",
+        "3 1/4",
+        "4 1/2"
+      ],
+      "optionsHi": [
+        "4 1/4",
+        "3 4/6",
+        "3 1/4",
+        "4 1/2"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "Whole parts: 2 + 1 = 3. Fractions: 1/2 + 3/4 = 2/4 + 3/4 = 5/4 = 1 1/4. Total = 4 1/4.",
+      "explanationHi": "पूर्ण भाग: 2 + 1 = 3। भिन्न: 1/2 + 3/4 = 2/4 + 3/4 = 5/4 = 1 1/4। कुल = 4 1/4।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Which fraction is equal to 3/7 and has denominator 35?",
+      "textHi": "कौन-सी भिन्न 3/7 के बराबर है और जिसका हर 35 है?",
+      "options": [
+        "9/35",
+        "21/35",
+        "15/35",
+        "12/35"
+      ],
+      "optionsHi": [
+        "9/35",
+        "21/35",
+        "15/35",
+        "12/35"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "explanation": "35 = 7 × 5, so multiply the numerator by 5 too: 3 × 5 = 15, giving 15/35.",
+      "explanationHi": "35 = 7 × 5, इसलिए अंश को भी 5 से गुणा करें: 3 × 5 = 15, अतः 15/35।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is 36/48 in its simplest form?",
+      "textHi": "36/48 का सरलतम रूप क्या है?",
+      "options": [
+        "6/8",
+        "3/4",
+        "9/12",
+        "2/3"
+      ],
+      "optionsHi": [
+        "6/8",
+        "3/4",
+        "9/12",
+        "2/3"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "HCF of 36 and 48 is 12. 36 ÷ 12 = 3 and 48 ÷ 12 = 4, so 3/4.",
+      "explanationHi": "36 और 48 का HCF 12 है। 36 ÷ 12 = 3 और 48 ÷ 12 = 4, अतः 3/4।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How is 4:45 p.m. written in the 24-hour clock?",
+      "textHi": "24-घंटे की घड़ी में शाम 4:45 को कैसे लिखा जाता है?",
+      "options": [
+        "17:45",
+        "04:45",
+        "14:45",
+        "16:45"
+      ],
+      "optionsHi": [
+        "17:45",
+        "04:45",
+        "14:45",
+        "16:45"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "explanation": "For p.m. times add 12 to the hour: 4 + 12 = 16, so 16:45.",
+      "explanationHi": "p.m. समय में घंटे में 12 जोड़ते हैं: 4 + 12 = 16, अतः 16:45।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A train leaves at 9:40 a.m. and reaches at 2:15 p.m. on the same day. How long is the journey?",
+      "textHi": "एक रेलगाड़ी सुबह 9:40 पर चलती है और उसी दिन दोपहर 2:15 पर पहुँचती है। यात्रा कितने समय की है?",
+      "options": [
+        "5 h 35 min",
+        "4 h 35 min",
+        "4 h 25 min",
+        "5 h 25 min"
+      ],
+      "optionsHi": [
+        "5 घंटे 35 मिनट",
+        "4 घंटे 35 मिनट",
+        "4 घंटे 25 मिनट",
+        "5 घंटे 25 मिनट"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "From 9:40 to 10:00 is 20 min, 10:00 to 2:00 p.m. is 4 h, 2:00 to 2:15 is 15 min. Total = 4 h 35 min.",
+      "explanationHi": "9:40 से 10:00 तक 20 मिनट, 10:00 से 2:00 तक 4 घंटे, 2:00 से 2:15 तक 15 मिनट। कुल = 4 घंटे 35 मिनट।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the angle between the two hands of a clock at 6 o'clock?",
+      "textHi": "6 बजे घड़ी की दोनों सुइयों के बीच कितना कोण होता है?",
+      "options": [
+        "180°",
+        "90°",
+        "120°",
+        "360°"
+      ],
+      "optionsHi": [
+        "180°",
+        "90°",
+        "120°",
+        "360°"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "At 6:00 the hands point in opposite directions (12 and 6), making a straight angle of 180°.",
+      "explanationHi": "6:00 बजे सुइयाँ विपरीत दिशाओं में (12 और 6 पर) होती हैं, जिससे 180° का सरल कोण बनता है।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the angle between the hour hand and the minute hand of a clock at 2:30?",
+      "textHi": "2:30 बजे घड़ी की घंटे की सुई और मिनट की सुई के बीच कितना कोण होता है?",
+      "options": [
+        "120°",
+        "90°",
+        "105°",
+        "75°"
+      ],
+      "optionsHi": [
+        "120°",
+        "90°",
+        "105°",
+        "75°"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "explanation": "The minute hand is at 6 (180°). The hour hand is halfway between 2 and 3: 2.5 × 30° = 75°. Angle = 180° − 75° = 105°.",
+      "explanationHi": "मिनट की सुई 6 पर (180°) है। घंटे की सुई 2 और 3 के बीच में है: 2.5 × 30° = 75°। कोण = 180° − 75° = 105°।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many complete rounds does the minute hand of a clock make from 8 a.m. to 2 p.m.?",
+      "textHi": "सुबह 8 बजे से दोपहर 2 बजे तक घड़ी की मिनट की सुई कितने पूरे चक्कर लगाती है?",
+      "options": [
+        "360",
+        "12",
+        "3",
+        "6"
+      ],
+      "optionsHi": [
+        "360",
+        "12",
+        "3",
+        "6"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "explanation": "From 8 a.m. to 2 p.m. is 6 hours, and the minute hand makes one round every hour, so 6 rounds.",
+      "explanationHi": "सुबह 8 से दोपहर 2 बजे तक 6 घंटे हैं और मिनट की सुई हर घंटे एक चक्कर लगाती है, अतः 6 चक्कर।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Through how many degrees does the hour hand of a clock turn in one hour?",
+      "textHi": "घड़ी की घंटे की सुई एक घंटे में कितने अंश घूमती है?",
+      "options": [
+        "60°",
+        "6°",
+        "15°",
+        "30°"
+      ],
+      "optionsHi": [
+        "60°",
+        "6°",
+        "15°",
+        "30°"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "explanation": "The hour hand turns 360° in 12 hours, so in 1 hour it turns 360° ÷ 12 = 30°.",
+      "explanationHi": "घंटे की सुई 12 घंटे में 360° घूमती है, अतः 1 घंटे में 360° ÷ 12 = 30°।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many seconds are there in 1 hour 15 minutes?",
+      "textHi": "1 घंटे 15 मिनट में कितने सेकंड होते हैं?",
+      "options": [
+        "4500",
+        "750",
+        "3675",
+        "7500"
+      ],
+      "optionsHi": [
+        "4500",
+        "750",
+        "3675",
+        "7500"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "1 h 15 min = 75 minutes, and 75 × 60 = 4500 seconds.",
+      "explanationHi": "1 घंटा 15 मिनट = 75 मिनट, और 75 × 60 = 4500 सेकंड।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many days are there from 10 March to 15 April, counting both days?",
+      "textHi": "10 मार्च से 15 अप्रैल तक (दोनों दिन मिलाकर) कितने दिन होते हैं?",
+      "options": [
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "optionsHi": [
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "explanation": "March 10 to 31 = 22 days (31 − 10 + 1). April 1 to 15 = 15 days. Total = 37 days.",
+      "explanationHi": "10 से 31 मार्च = 22 दिन (31 − 10 + 1)। 1 से 15 अप्रैल = 15 दिन। कुल = 37 दिन।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many days are there in 6 weeks and 4 days?",
+      "textHi": "6 सप्ताह और 4 दिन में कितने दिन होते हैं?",
+      "options": [
+        "40",
+        "46",
+        "64",
+        "42"
+      ],
+      "optionsHi": [
+        "40",
+        "46",
+        "64",
+        "42"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "6 weeks = 6 × 7 = 42 days; 42 + 4 = 46 days.",
+      "explanationHi": "6 सप्ताह = 6 × 7 = 42 दिन; 42 + 4 = 46 दिन।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A square of side 4 m is cut out from one corner of a rectangular sheet 12 m long and 8 m wide. What is the area of the remaining sheet?",
+      "textHi": "12 m लंबी और 8 m चौड़ी एक आयताकार चादर के एक कोने से 4 m भुजा का एक वर्ग काट दिया जाता है। बची हुई चादर का क्षेत्रफल क्या है?",
+      "options": [
+        "88 m²",
+        "112 m²",
+        "64 m²",
+        "80 m²"
+      ],
+      "optionsHi": [
+        "88 m²",
+        "112 m²",
+        "64 m²",
+        "80 m²"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "explanation": "Rectangle = 12 × 8 = 96 m². Square cut = 4 × 4 = 16 m². Remaining = 96 − 16 = 80 m².",
+      "explanationHi": "आयत = 12 × 8 = 96 m²। काटा गया वर्ग = 4 × 4 = 16 m²। शेष = 96 − 16 = 80 m²।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Two squares, each of side 5 cm, are joined side by side to make a rectangle. What is the perimeter of the rectangle?",
+      "textHi": "5 cm भुजा वाले दो वर्गों को साथ-साथ जोड़कर एक आयत बनाया गया है। आयत का परिमाप क्या है?",
+      "options": [
+        "25 cm",
+        "40 cm",
+        "30 cm",
+        "50 cm"
+      ],
+      "optionsHi": [
+        "25 cm",
+        "40 cm",
+        "30 cm",
+        "50 cm"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "explanation": "The rectangle is 10 cm × 5 cm. Perimeter = 2 × (10 + 5) = 30 cm.",
+      "explanationHi": "आयत 10 cm × 5 cm का है। परिमाप = 2 × (10 + 5) = 30 cm।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A rectangular garden is 20 m long and 15 m wide. A path 2 m wide runs all around it on the outside. What is the area of the path?",
+      "textHi": "एक आयताकार बगीचा 20 m लंबा और 15 m चौड़ा है। इसके चारों ओर बाहर की तरफ़ 2 m चौड़ा रास्ता है। रास्ते का क्षेत्रफल क्या है?",
+      "options": [
+        "140 m²",
+        "156 m²",
+        "70 m²",
+        "456 m²"
+      ],
+      "optionsHi": [
+        "140 m²",
+        "156 m²",
+        "70 m²",
+        "456 m²"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "Outer rectangle = (20 + 4) × (15 + 4) = 24 × 19 = 456 m². Garden = 20 × 15 = 300 m². Path = 456 − 300 = 156 m².",
+      "explanationHi": "बाहरी आयत = (20 + 4) × (15 + 4) = 24 × 19 = 456 m²। बगीचा = 20 × 15 = 300 m²। रास्ता = 456 − 300 = 156 m²।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A shape is made of a rectangle 8 cm × 6 cm with a triangle on top of it. The triangle has base 8 cm and height 3 cm. What is the total area of the shape?",
+      "textHi": "एक आकृति 8 cm × 6 cm के आयत और उसके ऊपर बने एक त्रिभुज से मिलकर बनी है। त्रिभुज का आधार 8 cm और ऊँचाई 3 cm है। आकृति का कुल क्षेत्रफल क्या है?",
+      "options": [
+        "60 cm²",
+        "72 cm²",
+        "54 cm²",
+        "51 cm²"
+      ],
+      "optionsHi": [
+        "60 cm²",
+        "72 cm²",
+        "54 cm²",
+        "51 cm²"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "Rectangle = 8 × 6 = 48 cm². Triangle = 1/2 × 8 × 3 = 12 cm². Total = 48 + 12 = 60 cm².",
+      "explanationHi": "आयत = 8 × 6 = 48 cm²। त्रिभुज = 1/2 × 8 × 3 = 12 cm²। कुल = 48 + 12 = 60 cm²।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The largest possible circle is drawn inside a square of side 14 cm. What is the area of the part of the square outside the circle? (Take π = 22/7)",
+      "textHi": "14 cm भुजा वाले वर्ग के अंदर सबसे बड़ा संभव वृत्त बनाया गया है। वर्ग के उस भाग का क्षेत्रफल क्या है जो वृत्त के बाहर है? (π = 22/7 लीजिए)",
+      "options": [
+        "56 cm²",
+        "154 cm²",
+        "196 cm²",
+        "42 cm²"
+      ],
+      "optionsHi": [
+        "56 cm²",
+        "154 cm²",
+        "196 cm²",
+        "42 cm²"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "explanation": "Square = 14 × 14 = 196 cm². Circle has radius 7 cm: 22/7 × 7 × 7 = 154 cm². Outside part = 196 − 154 = 42 cm².",
+      "explanationHi": "वर्ग = 14 × 14 = 196 cm²। वृत्त की त्रिज्या 7 cm: 22/7 × 7 × 7 = 154 cm²। बाहर का भाग = 196 − 154 = 42 cm²।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many square tiles of side 50 cm are needed to cover the floor of a room 5 m long and 4 m wide?",
+      "textHi": "5 m लंबे और 4 m चौड़े कमरे के फ़र्श को ढकने के लिए 50 cm भुजा वाली कितनी वर्गाकार टाइलें चाहिए?",
+      "options": [
+        "20",
+        "40",
+        "80",
+        "100"
+      ],
+      "optionsHi": [
+        "20",
+        "40",
+        "80",
+        "100"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "explanation": "Along the length: 500 ÷ 50 = 10 tiles; along the width: 400 ÷ 50 = 8 tiles. Total = 10 × 8 = 80 tiles.",
+      "explanationHi": "लंबाई में: 500 ÷ 50 = 10 टाइलें; चौड़ाई में: 400 ÷ 50 = 8 टाइलें। कुल = 10 × 8 = 80 टाइलें।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The area of a square is 64 cm². What is its perimeter?",
+      "textHi": "एक वर्ग का क्षेत्रफल 64 cm² है। उसका परिमाप क्या है?",
+      "options": [
+        "16 cm",
+        "32 cm",
+        "8 cm",
+        "64 cm"
+      ],
+      "optionsHi": [
+        "16 cm",
+        "32 cm",
+        "8 cm",
+        "64 cm"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "Side = 8 cm because 8 × 8 = 64. Perimeter = 4 × 8 = 32 cm.",
+      "explanationHi": "भुजा = 8 cm क्योंकि 8 × 8 = 64। परिमाप = 4 × 8 = 32 cm।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the HCF of 36 and 60?",
+      "textHi": "36 और 60 का HCF क्या है?",
+      "options": [
+        "12",
+        "6",
+        "180",
+        "24"
+      ],
+      "optionsHi": [
+        "12",
+        "6",
+        "180",
+        "24"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "36 = 2² × 3², 60 = 2² × 3 × 5. Common factors: 2² × 3 = 12.",
+      "explanationHi": "36 = 2² × 3², 60 = 2² × 3 × 5। उभयनिष्ठ गुणनखंड: 2² × 3 = 12।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the LCM of 9 and 12?",
+      "textHi": "9 और 12 का LCM क्या है?",
+      "options": [
+        "3",
+        "108",
+        "36",
+        "72"
+      ],
+      "optionsHi": [
+        "3",
+        "108",
+        "36",
+        "72"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "explanation": "9 = 3², 12 = 2² × 3. LCM = 2² × 3² = 36.",
+      "explanationHi": "9 = 3², 12 = 2² × 3। LCM = 2² × 3² = 36।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "If 12 bananas cost ₹60, how much will 20 bananas cost?",
+      "textHi": "यदि 12 केलों का मूल्य ₹60 है, तो 20 केलों का मूल्य क्या होगा?",
+      "options": [
+        "₹80",
+        "₹100",
+        "₹120",
+        "₹90"
+      ],
+      "optionsHi": [
+        "₹80",
+        "₹100",
+        "₹120",
+        "₹90"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "One banana = 60 ÷ 12 = ₹5. 20 bananas = 20 × 5 = ₹100.",
+      "explanationHi": "एक केला = 60 ÷ 12 = ₹5। 20 केले = 20 × 5 = ₹100।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the ratio 45 : 60 in its simplest form?",
+      "textHi": "अनुपात 45 : 60 का सरलतम रूप क्या है?",
+      "options": [
+        "3 : 4",
+        "9 : 12",
+        "4 : 3",
+        "5 : 6"
+      ],
+      "optionsHi": [
+        "3 : 4",
+        "9 : 12",
+        "4 : 3",
+        "5 : 6"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "Divide both by their HCF 15: 45 ÷ 15 = 3, 60 ÷ 15 = 4, so 3 : 4.",
+      "explanationHi": "दोनों को HCF 15 से भाग दें: 45 ÷ 15 = 3, 60 ÷ 15 = 4, अतः 3 : 4।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A watch bought for ₹850 is sold for ₹765. What is the loss per cent?",
+      "textHi": "₹850 में खरीदी गई एक घड़ी ₹765 में बेची जाती है। हानि प्रतिशत क्या है?",
+      "options": [
+        "12%",
+        "15%",
+        "8.5%",
+        "10%"
+      ],
+      "optionsHi": [
+        "12%",
+        "15%",
+        "8.5%",
+        "10%"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "explanation": "Loss = 850 − 765 = ₹85. Loss % = 85 ÷ 850 × 100 = 10%.",
+      "explanationHi": "हानि = 850 − 765 = ₹85। हानि % = 85 ÷ 850 × 100 = 10%।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What will be the amount on ₹2400 at 5% simple interest per year after 2 years?",
+      "textHi": "₹2400 पर 5% वार्षिक साधारण ब्याज की दर से 2 वर्ष बाद मिश्रधन कितना होगा?",
+      "options": [
+        "₹2640",
+        "₹240",
+        "₹2520",
+        "₹2880"
+      ],
+      "optionsHi": [
+        "₹2640",
+        "₹240",
+        "₹2520",
+        "₹2880"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "SI = 2400 × 5 × 2 ÷ 100 = ₹240. Amount = 2400 + 240 = ₹2640.",
+      "explanationHi": "साधारण ब्याज = 2400 × 5 × 2 ÷ 100 = ₹240। मिश्रधन = 2400 + 240 = ₹2640।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Aman scored 18 marks out of 24. What is his score as a percentage?",
+      "textHi": "अमन ने 24 में से 18 अंक प्राप्त किए। उसके अंक प्रतिशत में कितने हैं?",
+      "options": [
+        "80%",
+        "18%",
+        "75%",
+        "72%"
+      ],
+      "optionsHi": [
+        "80%",
+        "18%",
+        "75%",
+        "72%"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "explanation": "18/24 = 3/4 = 75%.",
+      "explanationHi": "18/24 = 3/4 = 75%।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the volume of a cuboid 12 cm long, 5 cm wide and 4 cm high?",
+      "textHi": "12 cm लंबे, 5 cm चौड़े और 4 cm ऊँचे घनाभ का आयतन क्या है?",
+      "options": [
+        "480 cm³",
+        "21 cm³",
+        "120 cm³",
+        "240 cm³"
+      ],
+      "optionsHi": [
+        "480 cm³",
+        "21 cm³",
+        "120 cm³",
+        "240 cm³"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "explanation": "Volume = 12 × 5 × 4 = 240 cm³.",
+      "explanationHi": "आयतन = 12 × 5 × 4 = 240 cm³।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Convert 77 °F into degrees Celsius. (C = 5 × (F − 32) ÷ 9)",
+      "textHi": "77 °F को डिग्री सेल्सियस में बदलिए। (C = 5 × (F − 32) ÷ 9)",
+      "options": [
+        "45 °C",
+        "25 °C",
+        "35 °C",
+        "20 °C"
+      ],
+      "optionsHi": [
+        "45 °C",
+        "25 °C",
+        "35 °C",
+        "20 °C"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "C = 5 × (77 − 32) ÷ 9 = 5 × 45 ÷ 9 = 25 °C.",
+      "explanationHi": "C = 5 × (77 − 32) ÷ 9 = 5 × 45 ÷ 9 = 25 °C।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "4 litres 250 mL is equal to:",
+      "textHi": "4 लीटर 250 mL बराबर है:",
+      "options": [
+        "4025 mL",
+        "425 mL",
+        "4250 mL",
+        "42500 mL"
+      ],
+      "optionsHi": [
+        "4025 mL",
+        "425 mL",
+        "4250 mL",
+        "42500 mL"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "explanation": "1 litre = 1000 mL, so 4 L = 4000 mL; 4000 + 250 = 4250 mL.",
+      "explanationHi": "1 लीटर = 1000 mL, अतः 4 L = 4000 mL; 4000 + 250 = 4250 mL।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find: 12.5 + 3.75 − 6.08",
+      "textHi": "हल कीजिए: 12.5 + 3.75 − 6.08",
+      "options": [
+        "10.17",
+        "10.27",
+        "9.17",
+        "10.07"
+      ],
+      "optionsHi": [
+        "10.17",
+        "10.27",
+        "9.17",
+        "10.07"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "12.50 + 3.75 = 16.25; 16.25 − 6.08 = 10.17.",
+      "explanationHi": "12.50 + 3.75 = 16.25; 16.25 − 6.08 = 10.17।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Find: 0.6 × 0.05",
+      "textHi": "हल कीजिए: 0.6 × 0.05",
+      "options": [
+        "0.3",
+        "0.03",
+        "0.003",
+        "3"
+      ],
+      "optionsHi": [
+        "0.3",
+        "0.03",
+        "0.003",
+        "3"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "6 × 5 = 30, and there are 3 decimal places in all: 0.030 = 0.03.",
+      "explanationHi": "6 × 5 = 30, कुल 3 दशमलव स्थान: 0.030 = 0.03।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The Roman numeral LXXVIII stands for:",
+      "textHi": "रोमन अंक LXXVIII किस संख्या को दर्शाता है?",
+      "options": [
+        "88",
+        "68",
+        "73",
+        "78"
+      ],
+      "optionsHi": [
+        "88",
+        "68",
+        "73",
+        "78"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "explanation": "L = 50, XX = 20, VIII = 8, so LXXVIII = 78.",
+      "explanationHi": "L = 50, XX = 20, VIII = 8, अतः LXXVIII = 78।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How is the year 2024 written in Roman numerals?",
+      "textHi": "वर्ष 2024 को रोमन अंकों में कैसे लिखा जाता है?",
+      "options": [
+        "MCMXXIV",
+        "MMXIV",
+        "MMXXVI",
+        "MMXXIV"
+      ],
+      "optionsHi": [
+        "MCMXXIV",
+        "MMXIV",
+        "MMXXVI",
+        "MMXXIV"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "explanation": "2000 = MM, 20 = XX, 4 = IV, so 2024 = MMXXIV.",
+      "explanationHi": "2000 = MM, 20 = XX, 4 = IV, अतः 2024 = MMXXIV।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The average age of 4 children is 9 years. When their teacher is included, the average age becomes 14 years. What is the age of the teacher?",
+      "textHi": "4 बच्चों की औसत आयु 9 वर्ष है। उनके शिक्षक को मिलाने पर औसत आयु 14 वर्ष हो जाती है। शिक्षक की आयु क्या है?",
+      "options": [
+        "32 years",
+        "30 years",
+        "34 years",
+        "36 years"
+      ],
+      "optionsHi": [
+        "32 वर्ष",
+        "30 वर्ष",
+        "34 वर्ष",
+        "36 वर्ष"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "explanation": "Children's total = 4 × 9 = 36. Total of all 5 = 5 × 14 = 70. Teacher = 70 − 36 = 34 years.",
+      "explanationHi": "बच्चों की कुल आयु = 4 × 9 = 36। पाँचों की कुल आयु = 5 × 14 = 70। शिक्षक = 70 − 36 = 34 वर्ष।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A cyclist rides at 18 km/h. What is this speed in metres per second?",
+      "textHi": "एक साइकिल सवार 18 km/h की चाल से चलता है। यह चाल मीटर प्रति सेकंड में कितनी है?",
+      "options": [
+        "10 m/s",
+        "5 m/s",
+        "3 m/s",
+        "15 m/s"
+      ],
+      "optionsHi": [
+        "10 m/s",
+        "5 m/s",
+        "3 m/s",
+        "15 m/s"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "18 km/h = 18 × 1000 ÷ 3600 = 18 × 5/18 = 5 m/s.",
+      "explanationHi": "18 km/h = 18 × 1000 ÷ 3600 = 18 × 5/18 = 5 m/s।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How long will Kavya take to walk 2 km at a speed of 4 km/h?",
+      "textHi": "कव्या 4 km/h की चाल से 2 km चलने में कितना समय लेगी?",
+      "options": [
+        "30 minutes",
+        "20 minutes",
+        "45 minutes",
+        "2 hours"
+      ],
+      "optionsHi": [
+        "30 मिनट",
+        "20 मिनट",
+        "45 मिनट",
+        "2 घंटे"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "Time = distance ÷ speed = 2 ÷ 4 = 1/2 hour = 30 minutes.",
+      "explanationHi": "समय = दूरी ÷ चाल = 2 ÷ 4 = 1/2 घंटा = 30 मिनट।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Which is the smallest composite number?",
+      "textHi": "सबसे छोटी भाज्य संख्या कौन-सी है?",
+      "options": [
+        "9",
+        "1",
+        "2",
+        "4"
+      ],
+      "optionsHi": [
+        "9",
+        "1",
+        "2",
+        "4"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "explanation": "1 is neither prime nor composite, 2 and 3 are prime. 4 = 2 × 2 is the smallest composite number.",
+      "explanationHi": "1 न अभाज्य है न भाज्य, 2 और 3 अभाज्य हैं। 4 = 2 × 2 सबसे छोटी भाज्य संख्या है।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the sum of the first five prime numbers?",
+      "textHi": "पहली पाँच अभाज्य संख्याओं का योग क्या है?",
+      "options": [
+        "26",
+        "28",
+        "18",
+        "39"
+      ],
+      "optionsHi": [
+        "26",
+        "28",
+        "18",
+        "39"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "The first five primes are 2, 3, 5, 7, 11. Sum = 28.",
+      "explanationHi": "पहली पाँच अभाज्य संख्याएँ 2, 3, 5, 7, 11 हैं। योग = 28।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Two angles of a triangle are 50° and 60°. What is the third angle?",
+      "textHi": "एक त्रिभुज के दो कोण 50° और 60° हैं। तीसरा कोण क्या है?",
+      "options": [
+        "70°",
+        "80°",
+        "60°",
+        "90°"
+      ],
+      "optionsHi": [
+        "70°",
+        "80°",
+        "60°",
+        "90°"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "The angles of a triangle add up to 180°: 180° − (50° + 60°) = 70°.",
+      "explanationHi": "त्रिभुज के कोणों का योग 180° होता है: 180° − (50° + 60°) = 70°।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the supplement of an angle of 75°?",
+      "textHi": "75° के कोण का संपूरक कोण क्या है?",
+      "options": [
+        "285°",
+        "15°",
+        "105°",
+        "115°"
+      ],
+      "optionsHi": [
+        "285°",
+        "15°",
+        "105°",
+        "115°"
+      ],
+      "answer": 2,
+      "marks": 3,
+      "explanation": "Supplementary angles add up to 180°: 180° − 75° = 105°.",
+      "explanationHi": "संपूरक कोणों का योग 180° होता है: 180° − 75° = 105°।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the circumference of a circle of radius 21 cm? (Take π = 22/7)",
+      "textHi": "21 cm त्रिज्या वाले वृत्त की परिधि क्या है? (π = 22/7 लीजिए)",
+      "options": [
+        "42 cm",
+        "66 cm",
+        "1386 cm",
+        "132 cm"
+      ],
+      "optionsHi": [
+        "42 cm",
+        "66 cm",
+        "1386 cm",
+        "132 cm"
+      ],
+      "answer": 3,
+      "marks": 3,
+      "explanation": "Circumference = 2 × π × r = 2 × 22/7 × 21 = 132 cm.",
+      "explanationHi": "परिधि = 2 × π × r = 2 × 22/7 × 21 = 132 cm।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is the difference between the place value and the face value of 6 in 3,64,782?",
+      "textHi": "3,64,782 में 6 के स्थानीय मान और जातीय (अंकित) मान का अंतर क्या है?",
+      "options": [
+        "60,000",
+        "59,994",
+        "59,996",
+        "6"
+      ],
+      "optionsHi": [
+        "60,000",
+        "59,994",
+        "59,996",
+        "6"
+      ],
+      "answer": 1,
+      "marks": 3,
+      "explanation": "Place value of 6 = 60,000; face value = 6. Difference = 60,000 − 6 = 59,994.",
+      "explanationHi": "6 का स्थानीय मान = 60,000; जातीय मान = 6। अंतर = 60,000 − 6 = 59,994।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Simplify: 75 − 5 × (8 − 3) + 12 ÷ 4",
+      "textHi": "सरल कीजिए: 75 − 5 × (8 − 3) + 12 ÷ 4",
+      "options": [
+        "53",
+        "47",
+        "65",
+        "353"
+      ],
+      "optionsHi": [
+        "53",
+        "47",
+        "65",
+        "353"
+      ],
+      "answer": 0,
+      "marks": 3,
+      "explanation": "Bracket first: 8 − 3 = 5. Then 5 × 5 = 25 and 12 ÷ 4 = 3. So 75 − 25 + 3 = 53.",
+      "explanationHi": "पहले कोष्ठक: 8 − 3 = 5। फिर 5 × 5 = 25 और 12 ÷ 4 = 3। अतः 75 − 25 + 3 = 53।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Bird : Nest :: Bee : ?",
+      "textHi": "पक्षी : घोंसला :: मधुमक्खी : ?",
+      "options": [
+        "Burrow",
+        "Den",
+        "Hive",
+        "Stable"
+      ],
+      "optionsHi": [
+        "बिल",
+        "माँद",
+        "छत्ता",
+        "अस्तबल"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "A bird lives in a nest; a bee lives in a hive.",
+      "explanationHi": "पक्षी घोंसले में रहता है; मधुमक्खी छत्ते में।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Find the missing term: 8 : 64 :: 11 : ?",
+      "textHi": "लुप्त पद ज्ञात कीजिए: 8 : 64 :: 11 : ?",
+      "options": [
+        "111",
+        "121",
+        "132",
+        "101"
+      ],
+      "optionsHi": [
+        "111",
+        "121",
+        "132",
+        "101"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "64 is the square of 8 (8 × 8). The square of 11 is 121.",
+      "explanationHi": "64, 8 का वर्ग है (8 × 8)। 11 का वर्ग 121 है।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Find the missing term: CAT : TAC :: PEN : ?",
+      "textHi": "लुप्त पद ज्ञात कीजिए: CAT : TAC :: PEN : ?",
+      "options": [
+        "ENP",
+        "PNE",
+        "NEP",
+        "NPE"
+      ],
+      "optionsHi": [
+        "ENP",
+        "PNE",
+        "NEP",
+        "NPE"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "TAC is CAT written backwards. PEN written backwards is NEP.",
+      "explanationHi": "TAC, CAT को उल्टा लिखने पर बनता है। PEN को उल्टा लिखने पर NEP।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Find the odd one out.",
+      "textHi": "विषम को चुनिए।",
+      "options": [
+        "Wood",
+        "Copper",
+        "Iron",
+        "Silver"
+      ],
+      "optionsHi": [
+        "लकड़ी",
+        "ताँबा",
+        "लोहा",
+        "चाँदी"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "Copper, iron and silver are metals; wood is not a metal.",
+      "explanationHi": "ताँबा, लोहा और चाँदी धातुएँ हैं; लकड़ी धातु नहीं है।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Find the odd number out: 21, 35, 49, 54",
+      "textHi": "विषम संख्या चुनिए: 21, 35, 49, 54",
+      "options": [
+        "49",
+        "21",
+        "35",
+        "54"
+      ],
+      "optionsHi": [
+        "49",
+        "21",
+        "35",
+        "54"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "21, 35 and 49 are multiples of 7; 54 is not.",
+      "explanationHi": "21, 35 और 49, 7 के गुणज हैं; 54 नहीं है।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "What comes next in the series? 3, 7, 15, 31, ?",
+      "textHi": "श्रेणी में अगला पद क्या है? 3, 7, 15, 31, ?",
+      "options": [
+        "62",
+        "47",
+        "63",
+        "64"
+      ],
+      "optionsHi": [
+        "62",
+        "47",
+        "63",
+        "64"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "Each term is doubled and 1 is added: 31 × 2 + 1 = 63.",
+      "explanationHi": "हर पद को दुगुना करके 1 जोड़ा गया है: 31 × 2 + 1 = 63।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "What comes next in the series? AZ, BY, CX, ?",
+      "textHi": "श्रेणी में अगला पद क्या है? AZ, BY, CX, ?",
+      "options": [
+        "DV",
+        "DW",
+        "EW",
+        "DX"
+      ],
+      "optionsHi": [
+        "DV",
+        "DW",
+        "EW",
+        "DX"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "The first letter moves forward (A, B, C, D) and the second moves backward (Z, Y, X, W): DW.",
+      "explanationHi": "पहला अक्षर आगे बढ़ता है (A, B, C, D) और दूसरा पीछे जाता है (Z, Y, X, W): DW।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "If MANGO is written as NBOHP in a code, how will APPLE be written in that code?",
+      "textHi": "यदि किसी कूट भाषा में MANGO को NBOHP लिखा जाता है, तो उसी भाषा में APPLE को कैसे लिखा जाएगा?",
+      "options": [
+        "BQQMF",
+        "BOOMF",
+        "ZOOKD",
+        "BQQLF"
+      ],
+      "optionsHi": [
+        "BQQMF",
+        "BOOMF",
+        "ZOOKD",
+        "BQQLF"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "Each letter is moved one step forward: A→B, P→Q, P→Q, L→M, E→F, giving BQQMF.",
+      "explanationHi": "हर अक्षर एक कदम आगे: A→B, P→Q, P→Q, L→M, E→F, अतः BQQMF।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "If \"sky\" is called \"sea\", \"sea\" is called \"water\", \"water\" is called \"air\" and \"air\" is called \"cloud\", then where do fish live?",
+      "textHi": "यदि \"आकाश\" को \"समुद्र\", \"समुद्र\" को \"पानी\", \"पानी\" को \"हवा\" और \"हवा\" को \"बादल\" कहा जाए, तो मछलियाँ कहाँ रहती हैं?",
+      "options": [
+        "cloud",
+        "water",
+        "sea",
+        "air"
+      ],
+      "optionsHi": [
+        "बादल",
+        "पानी",
+        "समुद्र",
+        "हवा"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "Fish live in water, and \"water\" is called \"air\" in this code.",
+      "explanationHi": "मछलियाँ पानी में रहती हैं, और इस कूट में \"पानी\" को \"हवा\" कहा जाता है।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Meena is facing east. She turns left, then turns left again, and then turns right. Which direction is she facing now?",
+      "textHi": "मीना पूर्व की ओर मुँह करके खड़ी है। वह बाएँ मुड़ती है, फिर दोबारा बाएँ मुड़ती है और फिर दाएँ मुड़ती है। अब उसका मुँह किस दिशा में है?",
+      "options": [
+        "West",
+        "South",
+        "East",
+        "North"
+      ],
+      "optionsHi": [
+        "पश्चिम",
+        "दक्षिण",
+        "पूर्व",
+        "उत्तर"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "East → left → North → left → West → right → North.",
+      "explanationHi": "पूर्व → बाएँ → उत्तर → बाएँ → पश्चिम → दाएँ → उत्तर।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Kabir walks 6 km towards the south and then 8 km towards the east. How far is he now from his starting point in a straight line?",
+      "textHi": "कबीर 6 km दक्षिण की ओर और फिर 8 km पूर्व की ओर चलता है। अब वह अपने आरंभिक स्थान से सीधी रेखा में कितनी दूर है?",
+      "options": [
+        "2 km",
+        "14 km",
+        "10 km",
+        "12 km"
+      ],
+      "optionsHi": [
+        "2 km",
+        "14 km",
+        "10 km",
+        "12 km"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "The two paths make a right angle. Straight distance = √(6² + 8²) = √(36 + 64) = √100 = 10 km.",
+      "explanationHi": "दोनों रास्ते समकोण बनाते हैं। सीधी दूरी = √(6² + 8²) = √(36 + 64) = √100 = 10 km।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Pointing to a girl, a man said, \"She is the daughter of my father's only son.\" How is the girl related to the man?",
+      "textHi": "एक लड़की की ओर इशारा करते हुए एक आदमी ने कहा, \"वह मेरे पिता के इकलौते बेटे की बेटी है।\" लड़की का उस आदमी से क्या संबंध है?",
+      "options": [
+        "Daughter",
+        "Sister",
+        "Niece",
+        "Cousin"
+      ],
+      "optionsHi": [
+        "बेटी",
+        "बहन",
+        "भतीजी",
+        "चचेरी बहन"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "The only son of the man's father is the man himself. So the girl is his own daughter.",
+      "explanationHi": "आदमी के पिता का इकलौता बेटा वह आदमी स्वयं है। अतः लड़की उसकी अपनी बेटी है।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "How is Rahul's mother's father related to Rahul?",
+      "textHi": "राहुल की माँ के पिता का राहुल से क्या संबंध है?",
+      "options": [
+        "Uncle",
+        "Grandfather",
+        "Father-in-law",
+        "Brother"
+      ],
+      "optionsHi": [
+        "मामा",
+        "नाना",
+        "ससुर",
+        "भाई"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "The father of one's mother is one's (maternal) grandfather, nana.",
+      "explanationHi": "माँ के पिता नाना होते हैं।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Find the missing number: 5, 10, 20, 40, ?",
+      "textHi": "लुप्त संख्या ज्ञात कीजिए: 5, 10, 20, 40, ?",
+      "options": [
+        "50",
+        "60",
+        "80",
+        "45"
+      ],
+      "optionsHi": [
+        "50",
+        "60",
+        "80",
+        "45"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "Each number is double the one before it: 40 × 2 = 80.",
+      "explanationHi": "हर संख्या पिछली की दुगुनी है: 40 × 2 = 80।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Find the missing number. Row 1: 3, 4, 14   Row 2: 5, 2, 14   Row 3: 6, 3, ?",
+      "textHi": "लुप्त संख्या ज्ञात कीजिए। पंक्ति 1: 3, 4, 14   पंक्ति 2: 5, 2, 14   पंक्ति 3: 6, 3, ?",
+      "options": [
+        "18",
+        "9",
+        "27",
+        "16"
+      ],
+      "optionsHi": [
+        "18",
+        "9",
+        "27",
+        "16"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "Third number = (first + second) × 2: (3 + 4) × 2 = 14, (5 + 2) × 2 = 14, so (6 + 3) × 2 = 18.",
+      "explanationHi": "तीसरी संख्या = (पहली + दूसरी) × 2: (3 + 4) × 2 = 14, (5 + 2) × 2 = 14, अतः (6 + 3) × 2 = 18।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "In a class, Priya is 8th from the top and 14th from the bottom. How many students are there in the class?",
+      "textHi": "एक कक्षा में प्रिया ऊपर से 8वें और नीचे से 14वें स्थान पर है। कक्षा में कितने विद्यार्थी हैं?",
+      "options": [
+        "23",
+        "22",
+        "20",
+        "21"
+      ],
+      "optionsHi": [
+        "23",
+        "22",
+        "20",
+        "21"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "Total = 8 + 14 − 1 = 21 (Priya is counted twice, so subtract 1).",
+      "explanationHi": "कुल = 8 + 14 − 1 = 21 (प्रिया दो बार गिनी गई, इसलिए 1 घटाया)।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Today is Wednesday. What day of the week will it be after 45 days?",
+      "textHi": "आज बुधवार है। 45 दिन बाद सप्ताह का कौन-सा दिन होगा?",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Thursday"
+      ],
+      "optionsHi": [
+        "शुक्रवार",
+        "शनिवार",
+        "रविवार",
+        "गुरुवार"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "45 = 6 weeks + 3 days. Three days after Wednesday is Saturday.",
+      "explanationHi": "45 = 6 सप्ताह + 3 दिन। बुधवार के 3 दिन बाद शनिवार।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "If \"×\" means \"+\", \"+\" means \"÷\", \"−\" means \"×\" and \"÷\" means \"−\", what is the value of 16 + 4 × 3 − 2 ÷ 5?",
+      "textHi": "यदि \"×\" का अर्थ \"+\", \"+\" का अर्थ \"÷\", \"−\" का अर्थ \"×\" और \"÷\" का अर्थ \"−\" है, तो 16 + 4 × 3 − 2 ÷ 5 का मान क्या है?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "3"
+      ],
+      "optionsHi": [
+        "5",
+        "7",
+        "9",
+        "3"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "Replacing the signs: 16 ÷ 4 + 3 × 2 − 5 = 4 + 6 − 5 = 5.",
+      "explanationHi": "चिह्न बदलने पर: 16 ÷ 4 + 3 × 2 − 5 = 4 + 6 − 5 = 5।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "If these words are arranged in dictionary order, which word comes third? Banana, Bangle, Balloon, Basket",
+      "textHi": "यदि इन शब्दों को शब्दकोश के क्रम में लगाया जाए, तो तीसरा शब्द कौन-सा होगा? Banana, Bangle, Balloon, Basket",
+      "options": [
+        "Basket",
+        "Banana",
+        "Balloon",
+        "Bangle"
+      ],
+      "optionsHi": [
+        "Basket",
+        "Banana",
+        "Balloon",
+        "Bangle"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "Dictionary order: Balloon, Banana, Bangle, Basket. The third word is Bangle.",
+      "explanationHi": "शब्दकोश क्रम: Balloon, Banana, Bangle, Basket। तीसरा शब्द Bangle है।"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Water is below the problem figure, as shown by the dashed line. Which answer figure is its water image (reflection in water)?",
+      "textHi": "प्रश्न आकृति के नीचे पानी है, जैसा कि टूटी रेखा से दिखाया गया है। कौन-सी उत्तर आकृति इसका जल प्रतिबिंब है?",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "In a water image, top and bottom swap but left and right stay the same. The steps that went up to the top-right now go down to the bottom-right, and the black dot moves from the bottom-right to the top-right: Figure (C).",
+      "explanationHi": "जल प्रतिबिंब में ऊपर-नीचे बदल जाते हैं पर बायाँ-दायाँ वही रहता है। जो सीढ़ियाँ ऊपर-दाएँ जाती थीं, अब नीचे-दाएँ जाती हैं, और काला बिंदु नीचे-दाएँ से ऊपर-दाएँ आ जाता है: आकृति (C)।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 486 310\" width=\"486\" height=\"310\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"18\" text-anchor=\"start\" font-weight=\"bold\">Problem Figure</text><g transform=\"translate(15,28)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polyline points=\"15,85 15,62 38,62 38,38 62,38 62,15 85,15\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"74\" cy=\"66\" r=\"7\" fill=\"#111\"/></g><line x1=\"8\" y1=\"140\" x2=\"160\" y2=\"140\" stroke=\"#111\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text x=\"200\" y=\"145\">Water</text><text x=\"15\" y=\"172\" text-anchor=\"start\" font-weight=\"bold\">Answer Figures</text><g transform=\"translate(15,182)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(100,0) scale(-1,1)\"><polyline points=\"15,85 15,62 38,62 38,38 62,38 62,15 85,15\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"74\" cy=\"66\" r=\"7\" fill=\"#111\"/></g><text x=\"50\" y=\"118\">(A)</text></g><g transform=\"translate(129,182)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polyline points=\"15,85 15,62 38,62 38,38 62,38 62,15 85,15\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"74\" cy=\"66\" r=\"7\" fill=\"#111\"/><text x=\"50\" y=\"118\">(B)</text></g><g transform=\"translate(243,182)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"translate(0,100) scale(1,-1)\"><polyline points=\"15,85 15,62 38,62 38,38 62,38 62,15 85,15\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"74\" cy=\"66\" r=\"7\" fill=\"#111\"/></g><text x=\"50\" y=\"118\">(C)</text></g><g transform=\"translate(357,182)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><g transform=\"rotate(180 50 50)\"><polyline points=\"15,85 15,62 38,62 38,38 62,38 62,15 85,15\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"74\" cy=\"66\" r=\"7\" fill=\"#111\"/></g><text x=\"50\" y=\"118\">(D)</text></g></g></svg>"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Select the figure which is different from the others.",
+      "textHi": "उस आकृति को चुनिए जो अन्य से भिन्न है।",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "In (B), (C) and (D) the two shaded quarters are next to each other (one figure turned). In (A) the shaded quarters are opposite each other.",
+      "explanationHi": "(B), (C) और (D) में दोनों छायांकित चौथाई भाग पास-पास हैं (एक ही आकृति घुमाई गई है)। (A) में छायांकित भाग आमने-सामने हैं।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 472 140\" width=\"472\" height=\"140\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><g transform=\"translate(15,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M50 50 L50 12 A38 38 0 0 1 88 50 Z\" fill=\"#111\"/><path d=\"M50 50 L50 88 A38 38 0 0 1 12 50 Z\" fill=\"#111\"/><circle cx=\"50\" cy=\"50\" r=\"38\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"12\" y1=\"50\" x2=\"88\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"12\" x2=\"50\" y2=\"88\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(A)</text></g><g transform=\"translate(129,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M50 50 L12 50 A38 38 0 0 1 50 12 Z\" fill=\"#111\"/><path d=\"M50 50 L50 12 A38 38 0 0 1 88 50 Z\" fill=\"#111\"/><circle cx=\"50\" cy=\"50\" r=\"38\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"12\" y1=\"50\" x2=\"88\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"12\" x2=\"50\" y2=\"88\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(B)</text></g><g transform=\"translate(243,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M50 50 L50 12 A38 38 0 0 1 88 50 Z\" fill=\"#111\"/><path d=\"M50 50 L88 50 A38 38 0 0 1 50 88 Z\" fill=\"#111\"/><circle cx=\"50\" cy=\"50\" r=\"38\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"12\" y1=\"50\" x2=\"88\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"12\" x2=\"50\" y2=\"88\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(C)</text></g><g transform=\"translate(357,10)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M50 50 L50 88 A38 38 0 0 1 12 50 Z\" fill=\"#111\"/><path d=\"M50 50 L12 50 A38 38 0 0 1 50 12 Z\" fill=\"#111\"/><circle cx=\"50\" cy=\"50\" r=\"38\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"12\" y1=\"50\" x2=\"88\" y2=\"50\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"12\" x2=\"50\" y2=\"88\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(D)</text></g></g></svg>"
+    },
+    {
+      "section": "Intelligence",
+      "text": "Which answer figure will continue the series of problem figures?",
+      "textHi": "कौन-सी उत्तर आकृति प्रश्न आकृतियों की श्रृंखला को आगे बढ़ाएगी?",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "Each figure has one more side than the one before (3, 4, 5, so next 6), and the shading alternates: white, black, white, so next is black. A black hexagon is Figure (C).",
+      "explanationHi": "हर आकृति में पिछली से एक भुजा अधिक है (3, 4, 5, अतः अगली 6), और रंग बारी-बारी से बदलता है: सफ़ेद, काला, सफ़ेद, अतः अगला काला। काला षट्भुज आकृति (C) है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 472 292\" width=\"472\" height=\"292\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"18\" text-anchor=\"start\" font-weight=\"bold\">Problem Figures</text><g transform=\"translate(15,28)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50.0,15.0 82.9,72.0 17.1,72.0\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(129,28)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"76.9,23.1 76.9,76.9 23.1,76.9 23.1,23.1\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(243,28)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50.0,15.0 86.1,41.3 72.3,83.7 27.7,83.7 13.9,41.3\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><g transform=\"translate(357,28)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><text x=\"50\" y=\"62\" font-size=\"36\">?</text></g><text x=\"15\" y=\"154\" text-anchor=\"start\" font-weight=\"bold\">Answer Figures</text><g transform=\"translate(15,164)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50.0,15.0 82.9,34.0 82.9,72.0 50.0,91.0 17.1,72.0 17.1,34.0\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(A)</text></g><g transform=\"translate(129,164)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50.0,15.0 79.7,29.3 87.0,61.5 66.5,87.2 33.5,87.2 13.0,61.5 20.3,29.3\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(B)</text></g><g transform=\"translate(243,164)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"50.0,15.0 82.9,34.0 82.9,72.0 50.0,91.0 17.1,72.0 17.1,34.0\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(C)</text></g><g transform=\"translate(357,164)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"76.9,23.1 76.9,76.9 23.1,76.9 23.1,23.1\" fill=\"#111\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(D)</text></g></g></svg>"
+    },
+    {
+      "section": "Intelligence",
+      "text": "A square sheet of paper is folded along the dotted line (left half onto the right half) and then a hole is punched, as shown in the problem figures. How will the paper look when it is unfolded?",
+      "textHi": "एक वर्गाकार कागज़ को बिंदुदार रेखा पर मोड़ा जाता है (बायाँ आधा भाग दाएँ आधे भाग पर) और फिर उसमें एक छेद किया जाता है, जैसा प्रश्न आकृतियों में दिखाया गया है। खोलने पर कागज़ कैसा दिखेगा?",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "The hole goes through both layers. When the paper is opened, a second hole appears on the left half, exactly opposite the first one across the fold line, at the same height: Figure (B).",
+      "explanationHi": "छेद दोनों परतों में से होकर जाता है। खोलने पर बाएँ आधे भाग में भी, मोड़ की रेखा के ठीक सामने और उसी ऊँचाई पर, दूसरा छेद दिखेगा: आकृति (B)।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 472 292\" width=\"472\" height=\"292\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"18\" text-anchor=\"start\" font-weight=\"bold\">Problem Figures</text><g transform=\"translate(15,28)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"6\" x2=\"50\" y2=\"94\" stroke=\"#111\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><path d=\"M28 30 Q50 8 72 30\" fill=\"none\" stroke=\"#111\" stroke-width=\"1.5\"/><path d=\"M66 23 L74 32 L63 33 Z\" fill=\"#111\"/></g><g transform=\"translate(129,28)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"50\" y=\"10\" width=\"40\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"50\" y1=\"10\" x2=\"50\" y2=\"90\" stroke=\"#111\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><circle cx=\"70\" cy=\"32\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/></g><text x=\"15\" y=\"154\" text-anchor=\"start\" font-weight=\"bold\">Answer Figures</text><g transform=\"translate(15,164)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"32\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(A)</text></g><g transform=\"translate(129,164)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"32\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"32\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(B)</text></g><g transform=\"translate(243,164)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"68\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"32\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(C)</text></g><g transform=\"translate(357,164)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"10\" y=\"10\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"32\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"68\" r=\"7\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(D)</text></g></g></svg>"
+    },
+    {
+      "section": "Intelligence",
+      "text": "A piece is missing from the square in the problem figure (shown by the dashed lines). Which answer figure exactly fits the gap to complete the square?",
+      "textHi": "प्रश्न आकृति के वर्ग में से एक टुकड़ा गायब है (टूटी रेखाओं से दिखाया गया)। कौन-सी उत्तर आकृति खाली जगह में ठीक बैठकर वर्ग को पूरा करेगी?",
+      "options": [
+        "Figure (A)",
+        "Figure (B)",
+        "Figure (C)",
+        "Figure (D)"
+      ],
+      "optionsHi": [
+        "आकृति (A)",
+        "आकृति (B)",
+        "आकृति (C)",
+        "आकृति (D)"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "The gap is a right-angled triangle with its two equal straight sides along the top and right edges of the square and its right angle at the top-right corner. Only Figure (D) has this shape and size.",
+      "explanationHi": "खाली जगह एक समकोण त्रिभुज है जिसकी दो बराबर भुजाएँ वर्ग के ऊपरी और दाएँ किनारे पर हैं और समकोण ऊपर-दाएँ कोने पर है। केवल आकृति (D) का यही आकार और माप है।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 472 292\" width=\"472\" height=\"292\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><text x=\"15\" y=\"18\" text-anchor=\"start\" font-weight=\"bold\">Problem Figure</text><g transform=\"translate(15,28)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"5,5 50,5 95,50 95,95 5,95\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><polygon points=\"50,5 95,5 95,50\" fill=\"none\" stroke=\"#999\" stroke-dasharray=\"4 3\"/><text x=\"82\" y=\"30\" font-size=\"16\">?</text></g><text x=\"15\" y=\"154\" text-anchor=\"start\" font-weight=\"bold\">Answer Figures</text><g transform=\"translate(15,164)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><rect x=\"25\" y=\"25\" width=\"45\" height=\"45\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(A)</text></g><g transform=\"translate(129,164)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><path d=\"M70 25 L70 70 A45 45 0 0 1 25 25 Z\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(B)</text></g><g transform=\"translate(243,164)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"25,30 70,30 70,52\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(C)</text></g><g transform=\"translate(357,164)\"><rect width=\"100\" height=\"100\" fill=\"none\" stroke=\"#999\"/><polygon points=\"25,25 70,25 70,70\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"50\" y=\"118\">(D)</text></g></g></svg>"
+    },
+    {
+      "section": "Intelligence",
+      "text": "How many squares are there in the figure?",
+      "textHi": "आकृति में कितने वर्ग हैं?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "9"
+      ],
+      "optionsHi": [
+        "6",
+        "8",
+        "7",
+        "9"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "There are 6 small squares. There are also 2 bigger squares, each made of 2 × 2 small squares (the left four and the right four). Total = 6 + 2 = 8.",
+      "explanationHi": "6 छोटे वर्ग हैं। इसके अलावा 2 बड़े वर्ग भी हैं, हर एक 2 × 2 छोटे वर्गों से बना (बाईं ओर के चार और दाईं ओर के चार)। कुल = 6 + 2 = 8।",
+      "figure": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 130\" width=\"200\" height=\"130\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g font-family=\"Arial\" font-size=\"14\" text-anchor=\"middle\"><rect x=\"25\" y=\"15\" width=\"150\" height=\"100\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"75\" y1=\"15\" x2=\"75\" y2=\"115\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"125\" y1=\"15\" x2=\"125\" y2=\"115\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"25\" y1=\"65\" x2=\"175\" y2=\"65\" stroke=\"#111\" stroke-width=\"2\"/></g></svg>"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Which is the largest continent in the world?",
+      "textHi": "विश्व का सबसे बड़ा महाद्वीप कौन-सा है?",
+      "options": [
+        "North America",
+        "Africa",
+        "Asia",
+        "Europe"
+      ],
+      "optionsHi": [
+        "उत्तरी अमेरिका",
+        "अफ़्रीका",
+        "एशिया",
+        "यूरोप"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "Asia is the largest continent, both in area and in population.",
+      "explanationHi": "एशिया क्षेत्रफल और जनसंख्या दोनों में सबसे बड़ा महाद्वीप है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Which is the largest and deepest ocean in the world?",
+      "textHi": "विश्व का सबसे बड़ा और सबसे गहरा महासागर कौन-सा है?",
+      "options": [
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "optionsHi": [
+        "हिंद महासागर",
+        "अटलांटिक महासागर",
+        "प्रशांत महासागर",
+        "आर्कटिक महासागर"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "The Pacific Ocean is the largest and deepest ocean.",
+      "explanationHi": "प्रशांत महासागर सबसे बड़ा और सबसे गहरा महासागर है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Which is the smallest continent?",
+      "textHi": "सबसे छोटा महाद्वीप कौन-सा है?",
+      "options": [
+        "South America",
+        "Europe",
+        "Antarctica",
+        "Australia"
+      ],
+      "optionsHi": [
+        "दक्षिण अमेरिका",
+        "यूरोप",
+        "अंटार्कटिका",
+        "ऑस्ट्रेलिया"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "Australia is the smallest continent.",
+      "explanationHi": "ऑस्ट्रेलिया सबसे छोटा महाद्वीप है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "The Sahara, the largest hot desert in the world, is in which continent?",
+      "textHi": "विश्व का सबसे बड़ा गर्म रेगिस्तान सहारा किस महाद्वीप में है?",
+      "options": [
+        "Africa",
+        "Asia",
+        "Australia",
+        "South America"
+      ],
+      "optionsHi": [
+        "अफ़्रीका",
+        "एशिया",
+        "ऑस्ट्रेलिया",
+        "दक्षिण अमेरिका"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "The Sahara Desert covers a large part of northern Africa.",
+      "explanationHi": "सहारा रेगिस्तान उत्तरी अफ़्रीका के बड़े भाग में फैला है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Which ocean lies to the south of India?",
+      "textHi": "भारत के दक्षिण में कौन-सा महासागर है?",
+      "options": [
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "optionsHi": [
+        "प्रशांत महासागर",
+        "हिंद महासागर",
+        "अटलांटिक महासागर",
+        "आर्कटिक महासागर"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "The Indian Ocean lies to the south of India; it is the only ocean named after a country.",
+      "explanationHi": "भारत के दक्षिण में हिंद महासागर है; यह किसी देश के नाम पर रखा गया एकमात्र महासागर है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Which continent is almost completely covered with ice and has no permanent population?",
+      "textHi": "कौन-सा महाद्वीप लगभग पूरा बर्फ़ से ढका है और वहाँ कोई स्थायी आबादी नहीं है?",
+      "options": [
+        "Europe",
+        "Antarctica",
+        "North America",
+        "Australia"
+      ],
+      "optionsHi": [
+        "यूरोप",
+        "अंटार्कटिका",
+        "उत्तरी अमेरिका",
+        "ऑस्ट्रेलिया"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "Antarctica, around the South Pole, is the coldest continent; only scientists stay there for some time.",
+      "explanationHi": "दक्षिणी ध्रुव के आसपास स्थित अंटार्कटिका सबसे ठंडा महाद्वीप है; वहाँ केवल वैज्ञानिक कुछ समय के लिए रहते हैं।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "How many continents are there on the Earth?",
+      "textHi": "पृथ्वी पर कितने महाद्वीप हैं?",
+      "options": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "optionsHi": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe and Australia.",
+      "explanationHi": "7 महाद्वीप हैं: एशिया, अफ़्रीका, उत्तरी अमेरिका, दक्षिणी अमेरिका, अंटार्कटिका, यूरोप और ऑस्ट्रेलिया।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "The Amazon river and rainforest are in which continent?",
+      "textHi": "अमेज़न नदी और वर्षावन किस महाद्वीप में हैं?",
+      "options": [
+        "Asia",
+        "Africa",
+        "South America",
+        "North America"
+      ],
+      "optionsHi": [
+        "एशिया",
+        "अफ़्रीका",
+        "दक्षिण अमेरिका",
+        "उत्तरी अमेरिका"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "The Amazon flows through South America, mostly through Brazil.",
+      "explanationHi": "अमेज़न नदी दक्षिण अमेरिका में, मुख्यतः ब्राज़ील से होकर बहती है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Which is the smallest ocean in the world?",
+      "textHi": "विश्व का सबसे छोटा महासागर कौन-सा है?",
+      "options": [
+        "Southern Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "optionsHi": [
+        "दक्षिणी महासागर",
+        "हिंद महासागर",
+        "अटलांटिक महासागर",
+        "आर्कटिक महासागर"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "The Arctic Ocean, around the North Pole, is the smallest ocean.",
+      "explanationHi": "उत्तरी ध्रुव के आसपास स्थित आर्कटिक महासागर सबसे छोटा महासागर है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "The sitar is which kind of musical instrument?",
+      "textHi": "सितार किस प्रकार का वाद्य यंत्र है?",
+      "options": [
+        "A string instrument",
+        "A wind instrument",
+        "A drum (percussion) instrument",
+        "A keyboard instrument"
+      ],
+      "optionsHi": [
+        "तार वाद्य",
+        "फूँक से बजने वाला वाद्य",
+        "ताल (थाप) वाद्य",
+        "कीबोर्ड वाद्य"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "The sitar is played by plucking its strings, so it is a string instrument.",
+      "explanationHi": "सितार उसके तारों को छेड़कर बजाया जाता है, इसलिए यह तार वाद्य है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Ustad Zakir Hussain was world famous for playing the:",
+      "textHi": "उस्ताद ज़ाकिर हुसैन किस वाद्य को बजाने के लिए विश्व प्रसिद्ध थे?",
+      "options": [
+        "flute",
+        "sitar",
+        "tabla",
+        "sarod"
+      ],
+      "optionsHi": [
+        "बाँसुरी",
+        "सितार",
+        "तबला",
+        "सरोद"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "Ustad Zakir Hussain was a great tabla player.",
+      "explanationHi": "उस्ताद ज़ाकिर हुसैन महान तबला वादक थे।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Pandit Ravi Shankar made Indian music popular across the world by playing the:",
+      "textHi": "पंडित रवि शंकर ने किस वाद्य को बजाकर भारतीय संगीत को पूरे विश्व में लोकप्रिय बनाया?",
+      "options": [
+        "tabla",
+        "sitar",
+        "shehnai",
+        "santoor"
+      ],
+      "optionsHi": [
+        "तबला",
+        "सितार",
+        "शहनाई",
+        "संतूर"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "Pandit Ravi Shankar was a legendary sitar player and a Bharat Ratna awardee.",
+      "explanationHi": "पंडित रवि शंकर महान सितार वादक थे और उन्हें भारत रत्न मिला था।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Ustad Bismillah Khan is remembered as a master of which instrument?",
+      "textHi": "उस्ताद बिस्मिल्लाह ख़ाँ किस वाद्य के उस्ताद के रूप में याद किए जाते हैं?",
+      "options": [
+        "Mridangam",
+        "Sarangi",
+        "Veena",
+        "Shehnai"
+      ],
+      "optionsHi": [
+        "मृदंगम",
+        "सारंगी",
+        "वीणा",
+        "शहनाई"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "Ustad Bismillah Khan made the shehnai famous; he received the Bharat Ratna in 2001.",
+      "explanationHi": "उस्ताद बिस्मिल्लाह ख़ाँ ने शहनाई को प्रसिद्ध किया; उन्हें 2001 में भारत रत्न मिला।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Pandit Hariprasad Chaurasia is a famous player of the:",
+      "textHi": "पंडित हरिप्रसाद चौरसिया किस वाद्य के प्रसिद्ध वादक हैं?",
+      "options": [
+        "sitar",
+        "tabla",
+        "bansuri (flute)",
+        "harmonium"
+      ],
+      "optionsHi": [
+        "सितार",
+        "तबला",
+        "बाँसुरी",
+        "हारमोनियम"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "Pandit Hariprasad Chaurasia is a world-famous bansuri (bamboo flute) player.",
+      "explanationHi": "पंडित हरिप्रसाद चौरसिया विश्व प्रसिद्ध बाँसुरी वादक हैं।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Carnatic music is the classical music tradition of which part of India?",
+      "textHi": "कर्नाटक संगीत भारत के किस भाग की शास्त्रीय संगीत परंपरा है?",
+      "options": [
+        "Western India",
+        "North India",
+        "North-east India",
+        "South India"
+      ],
+      "optionsHi": [
+        "पश्चिमी भारत",
+        "उत्तर भारत",
+        "पूर्वोत्तर भारत",
+        "दक्षिण भारत"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "Indian classical music has two main styles: Hindustani (North India) and Carnatic (South India).",
+      "explanationHi": "भारतीय शास्त्रीय संगीत की दो मुख्य शैलियाँ हैं: हिंदुस्तानी (उत्तर भारत) और कर्नाटक (दक्षिण भारत)।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Goddess Saraswati is usually shown holding which musical instrument?",
+      "textHi": "देवी सरस्वती को प्रायः कौन-सा वाद्य यंत्र पकड़े हुए दिखाया जाता है?",
+      "options": [
+        "Flute",
+        "Veena",
+        "Tabla",
+        "Shehnai"
+      ],
+      "optionsHi": [
+        "बाँसुरी",
+        "वीणा",
+        "तबला",
+        "शहनाई"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "Goddess Saraswati, the goddess of learning and music, is shown playing the veena.",
+      "explanationHi": "विद्या और संगीत की देवी सरस्वती को वीणा बजाते हुए दिखाया जाता है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Lata Mangeshkar, who received the Bharat Ratna in 2001, was a famous:",
+      "textHi": "2001 में भारत रत्न पाने वाली लता मंगेशकर एक प्रसिद्ध _____ थीं।",
+      "options": [
+        "playback singer",
+        "classical dancer",
+        "painter",
+        "cricketer"
+      ],
+      "optionsHi": [
+        "पार्श्व गायिका",
+        "शास्त्रीय नृत्यांगना",
+        "चित्रकार",
+        "क्रिकेट खिलाड़ी"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "Lata Mangeshkar sang thousands of film songs in many Indian languages.",
+      "explanationHi": "लता मंगेशकर ने कई भारतीय भाषाओं में हज़ारों फ़िल्मी गीत गाए।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Who wrote India's national anthem, \"Jana Gana Mana\"?",
+      "textHi": "भारत का राष्ट्रगान \"जन गण मन\" किसने लिखा?",
+      "options": [
+        "Bankim Chandra Chatterjee",
+        "Rabindranath Tagore",
+        "Sarojini Naidu",
+        "Muhammad Iqbal"
+      ],
+      "optionsHi": [
+        "बंकिमचंद्र चट्टोपाध्याय",
+        "रवींद्रनाथ टैगोर",
+        "सरोजिनी नायडू",
+        "मुहम्मद इक़बाल"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "Rabindranath Tagore wrote \"Jana Gana Mana\". (Bankim Chandra wrote the national song \"Vande Mataram\".)",
+      "explanationHi": "\"जन गण मन\" रवींद्रनाथ टैगोर ने लिखा। (राष्ट्रगीत \"वंदे मातरम्\" बंकिमचंद्र ने लिखा।)"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Which planet is known as the \"Red Planet\"?",
+      "textHi": "किस ग्रह को \"लाल ग्रह\" कहा जाता है?",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Jupiter",
+        "Mars"
+      ],
+      "optionsHi": [
+        "बुध",
+        "शुक्र",
+        "बृहस्पति",
+        "मंगल"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "Mars looks red because of iron oxide (rust) in its soil.",
+      "explanationHi": "मंगल की मिट्टी में आयरन ऑक्साइड (जंग) होने के कारण यह लाल दिखता है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "Which organ of our body pumps blood to all its parts?",
+      "textHi": "हमारे शरीर का कौन-सा अंग पूरे शरीर में रक्त पंप करता है?",
+      "options": [
+        "Kidneys",
+        "Lungs",
+        "Heart",
+        "Liver"
+      ],
+      "optionsHi": [
+        "गुर्दे",
+        "फेफड़े",
+        "हृदय",
+        "यकृत"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "The heart is a muscular pump that sends blood to all parts of the body.",
+      "explanationHi": "हृदय एक मांसपेशीय पंप है जो शरीर के सभी भागों में रक्त भेजता है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "The green colour of leaves is due to a pigment called:",
+      "textHi": "पत्तियों का हरा रंग किस वर्णक के कारण होता है?",
+      "options": [
+        "chlorophyll",
+        "haemoglobin",
+        "melanin",
+        "carotene"
+      ],
+      "optionsHi": [
+        "क्लोरोफ़िल (पर्णहरित)",
+        "हीमोग्लोबिन",
+        "मेलानिन",
+        "कैरोटीन"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "Chlorophyll gives leaves their green colour and helps them make food using sunlight.",
+      "explanationHi": "क्लोरोफ़िल पत्तियों को हरा रंग देता है और सूर्य के प्रकाश से भोजन बनाने में मदद करता है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "The National Defence Academy (NDA), where cadets of the Army, Navy and Air Force train together, is at:",
+      "textHi": "राष्ट्रीय रक्षा अकादमी (NDA), जहाँ थल सेना, नौसेना और वायु सेना के कैडेट साथ प्रशिक्षण लेते हैं, कहाँ स्थित है?",
+      "options": [
+        "Khadakwasla, Pune",
+        "Dehradun",
+        "Hyderabad",
+        "Ezhimala"
+      ],
+      "optionsHi": [
+        "खड़कवासला, पुणे",
+        "देहरादून",
+        "हैदराबाद",
+        "एझिमाला"
+      ],
+      "answer": 0,
+      "marks": 2,
+      "explanation": "The NDA is at Khadakwasla near Pune in Maharashtra.",
+      "explanationHi": "NDA महाराष्ट्र में पुणे के पास खड़कवासला में है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "The Summer Olympic Games are normally held once every:",
+      "textHi": "ग्रीष्मकालीन ओलंपिक खेल सामान्यतः कितने वर्षों में एक बार होते हैं?",
+      "options": [
+        "2 years",
+        "4 years",
+        "3 years",
+        "5 years"
+      ],
+      "optionsHi": [
+        "2 वर्ष",
+        "4 वर्ष",
+        "3 वर्ष",
+        "5 वर्ष"
+      ],
+      "answer": 1,
+      "marks": 2,
+      "explanation": "The Summer Olympics are held every four years.",
+      "explanationHi": "ग्रीष्मकालीन ओलंपिक हर चार वर्ष में होते हैं।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "What is the national bird of India?",
+      "textHi": "भारत का राष्ट्रीय पक्षी कौन-सा है?",
+      "options": [
+        "Eagle",
+        "Parrot",
+        "Sparrow",
+        "Peacock"
+      ],
+      "optionsHi": [
+        "गरुड़ (चील)",
+        "तोता",
+        "गौरैया",
+        "मोर"
+      ],
+      "answer": 3,
+      "marks": 2,
+      "explanation": "The Indian peacock is the national bird of India.",
+      "explanationHi": "भारतीय मोर भारत का राष्ट्रीय पक्षी है।"
+    },
+    {
+      "section": "General Knowledge",
+      "text": "When ice melts into water, matter changes from:",
+      "textHi": "जब बर्फ़ पिघलकर पानी बनती है, तो पदार्थ किस अवस्था से किस अवस्था में बदलता है?",
+      "options": [
+        "liquid to solid",
+        "liquid to gas",
+        "solid to liquid",
+        "gas to liquid"
+      ],
+      "optionsHi": [
+        "द्रव से ठोस",
+        "द्रव से गैस",
+        "ठोस से द्रव",
+        "गैस से द्रव"
+      ],
+      "answer": 2,
+      "marks": 2,
+      "explanation": "Ice is a solid; when it melts it becomes liquid water.",
+      "explanationHi": "बर्फ़ ठोस है; पिघलने पर वह द्रव (पानी) बन जाती है।"
+    }
+  ]
+}

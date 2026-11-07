@@ -1,0 +1,283 @@
+{
+  "slug": "ctet-paper-2-sst-sample-free",
+  "version": 1,
+  "title": "CTET Paper II (Social Studies) · Free Mini Mock Test",
+  "description": "Free 30-question CTET Paper II (Social Studies) practice test: 10 Child Development & Pedagogy, 5 English, 5 Hindi and 10 Social Studies questions (history, geography, polity and SST pedagogy) for classes VI–VIII.",
+  "category": "CTET Paper II (Social Studies)",
+  "kind": "Sample test",
+  "year": null,
+  "durationMinutes": 30,
+  "price": 0,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who described adolescence as a period of 'storm and stress'?",
+      "textHi": "किसने किशोरावस्था को 'तूफ़ान और तनाव' (आँधी-तूफ़ान) की अवस्था कहा?",
+      "options": ["Sigmund Freud", "Jean Piaget", "Erik Erikson", "G. Stanley Hall"],
+      "optionsHi": ["सिगमंड फ्रायड", "जीन पियाजे", "एरिक एरिक्सन", "जी. स्टैनली हॉल"],
+      "answer": 3,
+      "explanation": "G. Stanley Hall, in his book 'Adolescence' (1904), called this stage a period of 'storm and stress'.",
+      "explanationHi": "जी. स्टैनली हॉल ने अपनी पुस्तक 'Adolescence' (1904) में इस अवस्था को 'तूफ़ान और तनाव' का काल कहा।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Erikson, the main psychosocial conflict faced by adolescents is",
+      "textHi": "एरिक्सन के अनुसार, किशोरों के सामने आने वाला प्रमुख मनो-सामाजिक द्वंद्व है",
+      "options": ["Trust vs. mistrust", "Industry vs. inferiority", "Identity vs. role confusion", "Intimacy vs. isolation"],
+      "optionsHi": ["विश्वास बनाम अविश्वास", "परिश्रम बनाम हीनता", "पहचान बनाम भूमिका-भ्रम", "आत्मीयता बनाम अलगाव"],
+      "answer": 2,
+      "explanation": "Erikson's fifth stage (about 12–18 years) is identity vs. role confusion, when adolescents try to work out who they are.",
+      "explanationHi": "एरिक्सन की पाँचवीं अवस्था (लगभग 12–18 वर्ष) पहचान बनाम भूमिका-भ्रम है, जिसमें किशोर अपनी पहचान खोजते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A Class VII student helps a classmate mainly because she wants her teacher and friends to think of her as a 'nice girl'. In Kohlberg's theory, this reasoning belongs to the",
+      "textHi": "कक्षा VII की एक छात्रा अपनी सहपाठी की मदद मुख्यतः इसलिए करती है ताकि उसके शिक्षक और मित्र उसे 'अच्छी लड़की' समझें। कोलबर्ग के सिद्धांत में यह तर्क किस स्तर का है?",
+      "options": ["Pre-conventional level", "Conventional level", "Post-conventional level", "Autonomous level"],
+      "optionsHi": ["पूर्व-परंपरागत स्तर", "परंपरागत स्तर", "उत्तर-परंपरागत स्तर", "स्वायत्त स्तर"],
+      "answer": 1,
+      "explanation": "The 'good boy–good girl' orientation (seeking approval) is stage 3, the first stage of the conventional level.",
+      "explanationHi": "'अच्छा लड़का–अच्छी लड़की' अभिमुखता (स्वीकृति पाना) चरण 3 है, जो परंपरागत स्तर का पहला चरण है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Vygotsky, the 'private speech' that children use while solving a difficult task",
+      "textHi": "वायगोत्स्की के अनुसार, कठिन कार्य हल करते समय बच्चे जो 'निजी वाक्' (स्वयं से बात करना) प्रयोग करते हैं, वह",
+      "options": ["helps them guide and regulate their own thinking and actions", "is a sign of egocentrism that serves no purpose", "indicates a language disorder", "is only a way to attract the teacher's attention"],
+      "optionsHi": ["उन्हें अपने चिंतन और क्रियाओं को निर्देशित व नियंत्रित करने में मदद करती है", "आत्मकेंद्रितता का चिह्न है जिसका कोई उपयोग नहीं", "भाषा-विकार की ओर संकेत करती है", "केवल शिक्षक का ध्यान खींचने का तरीका है"],
+      "answer": 0,
+      "explanation": "Vygotsky saw private speech as a tool for self-regulation that later becomes inner speech; Piaget viewed it as egocentric.",
+      "explanationHi": "वायगोत्स्की के अनुसार निजी वाक् आत्म-नियंत्रण का साधन है जो आगे चलकर आंतरिक वाक् बन जाती है; पियाजे इसे आत्मकेंद्रित मानते थे।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is one of the guiding principles of the National Curriculum Framework 2005?",
+      "textHi": "निम्नलिखित में से कौन-सा राष्ट्रीय पाठ्यचर्या की रूपरेखा 2005 के मार्गदर्शी सिद्धांतों में से एक है?",
+      "options": ["Making the textbook the only source of knowledge", "Connecting knowledge to life outside the school", "Ensuring that learning is based on rote methods", "Making examinations more rigid"],
+      "optionsHi": ["पाठ्यपुस्तक को ज्ञान का एकमात्र स्रोत बनाना", "ज्ञान को विद्यालय के बाहर के जीवन से जोड़ना", "यह सुनिश्चित करना कि सीखना रटंत विधियों पर आधारित हो", "परीक्षाओं को अधिक कठोर बनाना"],
+      "answer": 1,
+      "explanation": "NCF 2005 asks for connecting knowledge to life outside school, moving away from rote learning and making exams more flexible.",
+      "explanationHi": "NCF 2005 ज्ञान को स्कूल के बाहर के जीवन से जोड़ने, रटंत प्रणाली से हटने और परीक्षाओं को लचीला बनाने की बात करता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is NOT one of the processes of observational learning described by Albert Bandura?",
+      "textHi": "निम्नलिखित में से कौन-सी अल्बर्ट बंडूरा द्वारा बताई गई अवलोकनात्मक अधिगम की प्रक्रियाओं में से एक नहीं है?",
+      "options": ["Attention", "Retention", "Assimilation", "Motivation"],
+      "optionsHi": ["अवधान", "धारण", "आत्मसात्करण", "अभिप्रेरणा"],
+      "answer": 2,
+      "explanation": "Bandura's four processes are attention, retention, reproduction and motivation; assimilation is a Piagetian concept.",
+      "explanationHi": "बंडूरा की चार प्रक्रियाएँ हैं — अवधान, धारण, पुनरुत्पादन और अभिप्रेरणा; आत्मसात्करण पियाजे की अवधारणा है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following classroom practices best develops critical thinking among Class VIII students?",
+      "textHi": "निम्नलिखित में से कौन-सी कक्षा-प्रक्रिया कक्षा VIII के विद्यार्थियों में आलोचनात्मक चिंतन का सर्वाधिक विकास करती है?",
+      "options": ["Dictating notes for students to copy", "Asking students to memorise definitions", "Writing answers on the board for practice", "Organising debates on social issues in which students support their views with evidence"],
+      "optionsHi": ["नोट्स बोलकर लिखवाना", "विद्यार्थियों से परिभाषाएँ याद करवाना", "अभ्यास के लिए उत्तर बोर्ड पर लिखना", "सामाजिक मुद्दों पर वाद-विवाद आयोजित करना जिसमें विद्यार्थी साक्ष्य के साथ अपने विचार रखें"],
+      "answer": 3,
+      "explanation": "Evidence-based debate requires students to analyse, compare viewpoints and justify claims, which builds critical thinking.",
+      "explanationHi": "साक्ष्य-आधारित वाद-विवाद में विद्यार्थी विश्लेषण करते हैं, विभिन्न दृष्टिकोणों की तुलना करते हैं और तर्क देते हैं, जिससे आलोचनात्मक चिंतन विकसित होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A Class VIII boy refuses to go to school because of a small pimple, believing that everyone will stare at him. David Elkind called this belief the",
+      "textHi": "कक्षा VIII का एक लड़का चेहरे पर एक छोटी-सी फुंसी के कारण स्कूल जाने से मना कर देता है, क्योंकि उसे लगता है कि सब उसे ही घूरेंगे। डेविड एल्काइंड ने इस धारणा को कहा है",
+      "options": ["Imaginary audience", "Personal fable", "Object permanence", "Centration"],
+      "optionsHi": ["काल्पनिक दर्शक-वर्ग", "व्यक्तिगत दंतकथा", "वस्तु स्थायित्व", "केंद्रीकरण"],
+      "answer": 0,
+      "explanation": "Imaginary audience is the adolescent belief that others are constantly watching and judging them; personal fable is the belief that one is unique or invulnerable.",
+      "explanationHi": "काल्पनिक दर्शक-वर्ग किशोरों की यह धारणा है कि सब लोग लगातार उन्हें देख और परख रहे हैं; व्यक्तिगत दंतकथा स्वयं को अनोखा या अजेय मानने की धारणा है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following questions promotes higher-order thinking in a Class VIII history lesson?",
+      "textHi": "कक्षा VIII के इतिहास पाठ में निम्नलिखित में से कौन-सा प्रश्न उच्च-स्तरीय चिंतन को बढ़ावा देता है?",
+      "options": ["In which year did the Revolt of 1857 begin?", "Who led the revolt at Jhansi?", "Why do you think the Revolt of 1857 did not succeed?", "Name the place where the revolt began."],
+      "optionsHi": ["1857 का विद्रोह किस वर्ष शुरू हुआ?", "झाँसी में विद्रोह का नेतृत्व किसने किया?", "आपके विचार से 1857 का विद्रोह सफल क्यों नहीं हुआ?", "उस स्थान का नाम बताइए जहाँ विद्रोह शुरू हुआ।"],
+      "answer": 2,
+      "explanation": "A 'why do you think' question requires analysis and evaluation; the others only test recall of facts.",
+      "explanationHi": "'आपके विचार से क्यों' वाला प्रश्न विश्लेषण और मूल्यांकन माँगता है; शेष प्रश्न केवल तथ्यों का स्मरण जाँचते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "'Assessment as learning' mainly refers to",
+      "textHi": "'सीखने के रूप में आकलन' (Assessment as learning) का मुख्य आशय है",
+      "options": ["ranking students on the basis of term-end marks", "a board examination held at the end of Class VIII", "the teacher recording marks for the report card", "students reflecting on and monitoring their own learning through self- and peer-assessment"],
+      "optionsHi": ["सत्रांत अंकों के आधार पर विद्यार्थियों को श्रेणी देना", "कक्षा VIII के अंत में होने वाली बोर्ड परीक्षा", "रिपोर्ट कार्ड के लिए शिक्षक द्वारा अंक दर्ज करना", "स्व-आकलन और सहपाठी-आकलन द्वारा विद्यार्थियों का अपने सीखने पर चिंतन और निगरानी करना"],
+      "answer": 3,
+      "explanation": "In assessment as learning, learners themselves use assessment to reflect on and regulate their learning.",
+      "explanationHi": "सीखने के रूप में आकलन में विद्यार्थी स्वयं आकलन का उपयोग अपने सीखने पर चिंतन और उसे नियंत्रित करने के लिए करते हैं।"
+    },
+    {
+      "section": "English",
+      "text": "Choose the grammatically correct sentence.",
+      "options": ["He did not knew the answer.", "He did not know the answer.", "He not knew the answer.", "He does not knew the answer."],
+      "answer": 1,
+      "explanation": "After the auxiliary 'did' or 'does', the main verb is used in its base form: 'did not know'."
+    },
+    {
+      "section": "English",
+      "text": "The Communicative Language Teaching (CLT) approach mainly emphasises",
+      "options": ["using language for meaningful communication in real-life situations", "memorising grammar rules before speaking", "translating every sentence into the mother tongue", "correcting every error immediately"],
+      "answer": 0,
+      "explanation": "CLT focuses on communicative competence: learners use the language for real purposes, with fluency valued alongside accuracy."
+    },
+    {
+      "section": "English",
+      "text": "Remedial teaching in an English class is best described as",
+      "options": ["giving extra homework to the whole class", "repeating the same lesson in the same way", "teaching that addresses specific learning difficulties identified through assessment", "punishing learners who make errors"],
+      "answer": 2,
+      "explanation": "Remedial teaching follows diagnosis: the teacher identifies a learner's specific difficulties and uses different strategies to address them."
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank: By the time we reached the station, the train ________.",
+      "options": ["left", "had left", "has left", "was leaving"],
+      "answer": 1,
+      "explanation": "The past perfect 'had left' shows the action that was completed before another past action (reaching the station)."
+    },
+    {
+      "section": "English",
+      "text": "The meeting was put off because the principal was unwell. Here, 'put off' means",
+      "options": ["cancelled for ever", "started", "shifted to another room", "postponed"],
+      "answer": 3,
+      "explanation": "The phrasal verb 'put off' means to postpone, i.e. move to a later time."
+    },
+    {
+      "section": "Hindi",
+      "text": "बच्चे में मातृभाषा का 'अर्जन' किस प्रकार होता है?",
+      "options": ["सहज और स्वाभाविक रूप से, परिवेश में भाषा के प्रयोग से", "व्याकरण के नियम रटने से", "औपचारिक कक्षा-शिक्षण से ही", "अनुवाद अभ्यास द्वारा"],
+      "answer": 0,
+      "explanation": "भाषा-अर्जन सहज और अनौपचारिक प्रक्रिया है जो परिवेश में भाषा सुनने और प्रयोग करने से होती है, जबकि भाषा-अधिगम प्रायः सचेत और औपचारिक होता है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "राष्ट्रीय पाठ्यचर्या की रूपरेखा 2005 के अनुसार कक्षा की बहुभाषिकता को",
+      "options": ["एक समस्या माना जाना चाहिए", "अनदेखा किया जाना चाहिए", "एक संसाधन के रूप में देखा जाना चाहिए", "केवल मानक भाषा से बदल देना चाहिए"],
+      "answer": 2,
+      "explanation": "NCF 2005 बहुभाषिकता को कक्षा का संसाधन मानता है और बच्चों की भाषाओं के प्रयोग को प्रोत्साहित करता है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'जो दूसरों के किए हुए उपकार को न माने' के लिए एक शब्द है:",
+      "options": ["कृतज्ञ", "कृतघ्न", "उपकारी", "परोपकारी"],
+      "answer": 1,
+      "explanation": "उपकार को न मानने वाला 'कृतघ्न' कहलाता है; उपकार मानने वाला 'कृतज्ञ' होता है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'प्रत्येक' शब्द में कौन-सा उपसर्ग है?",
+      "options": ["प्र", "प्रत", "प्रति", "प्रत्य"],
+      "answer": 2,
+      "explanation": "प्रति + एक = प्रत्येक (यण संधि); इसमें 'प्रति' उपसर्ग है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'राजपुत्र' में कौन-सा समास है?",
+      "options": ["द्वंद्व समास", "बहुव्रीहि समास", "द्विगु समास", "तत्पुरुष समास"],
+      "answer": 3,
+      "explanation": "राजपुत्र = राजा का पुत्र; 'का' विभक्ति का लोप होने से यह संबंध तत्पुरुष समास है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The construction of the Qutb Minar was started by ________ and completed by Iltutmish.",
+      "textHi": "कुतुब मीनार का निर्माण ________ ने शुरू करवाया और इल्तुतमिश ने पूरा करवाया।",
+      "options": ["Alauddin Khalji", "Qutbuddin Aibak", "Balban", "Firuz Shah Tughluq"],
+      "optionsHi": ["अलाउद्दीन खिलजी", "कुतुबुद्दीन ऐबक", "बलबन", "फ़िरोज़ शाह तुगलक"],
+      "answer": 1,
+      "explanation": "Qutbuddin Aibak began the minar around 1199 and Iltutmish added the upper storeys; Firuz Shah Tughluq later repaired it after lightning damage.",
+      "explanationHi": "कुतुबुद्दीन ऐबक ने लगभग 1199 में मीनार बनवाना शुरू किया और इल्तुतमिश ने ऊपरी मंज़िलें बनवाईं; बाद में बिजली गिरने से हुई क्षति की मरम्मत फ़िरोज़ शाह तुगलक ने करवाई।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In the Mughal mansabdari system, the 'zat' of a mansabdar determined his",
+      "textHi": "मुग़ल मनसबदारी व्यवस्था में किसी मनसबदार का 'ज़ात' निर्धारित करता था उसका",
+      "options": ["rank (position) and salary", "number of cavalrymen he had to maintain", "share of land revenue sent to the treasury", "religious status at the court"],
+      "optionsHi": ["पद (दर्जा) और वेतन", "रखे जाने वाले घुड़सवारों की संख्या", "राजकोष में भेजे जाने वाले भू-राजस्व का भाग", "दरबार में धार्मिक दर्जा"],
+      "answer": 0,
+      "explanation": "Zat was a numerical ranking that fixed the mansabdar's position and salary; 'sawar' indicated the number of horsemen he had to maintain.",
+      "explanationHi": "ज़ात एक संख्यात्मक श्रेणी थी जिससे मनसबदार का पद और वेतन तय होता था; 'सवार' से रखे जाने वाले घुड़सवारों की संख्या तय होती थी।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Permanent Settlement of land revenue was introduced in Bengal in 1793 by",
+      "textHi": "1793 में बंगाल में भू-राजस्व का स्थायी बंदोबस्त किसने लागू किया?",
+      "options": ["Warren Hastings", "Lord Cornwallis", "Lord Wellesley", "Lord Dalhousie"],
+      "optionsHi": ["वॉरेन हेस्टिंग्स", "लॉर्ड कॉर्नवालिस", "लॉर्ड वेलेज़्ली", "लॉर्ड डलहौज़ी"],
+      "answer": 1,
+      "explanation": "Lord Cornwallis introduced the Permanent Settlement in 1793, fixing the revenue to be paid by zamindars permanently.",
+      "explanationHi": "लॉर्ड कॉर्नवालिस ने 1793 में स्थायी बंदोबस्त लागू किया, जिसमें ज़मींदारों द्वारा दिया जाने वाला राजस्व स्थायी रूप से तय कर दिया गया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In which layer of the atmosphere do almost all weather phenomena such as clouds, rain and storms occur?",
+      "textHi": "वायुमंडल की किस परत में बादल, वर्षा और तूफ़ान जैसी लगभग सभी मौसमी घटनाएँ होती हैं?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "optionsHi": ["क्षोभमंडल", "समतापमंडल", "मध्यमंडल", "तापमंडल"],
+      "answer": 0,
+      "explanation": "The troposphere, the lowest layer (average height about 13 km), contains most water vapour, so weather occurs here.",
+      "explanationHi": "सबसे निचली परत क्षोभमंडल (औसत ऊँचाई लगभग 13 किमी) में अधिकांश जलवाष्प होती है, इसलिए मौसमी घटनाएँ यहीं होती हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following is a rabi crop in India?",
+      "textHi": "निम्नलिखित में से कौन-सी भारत की रबी फ़सल है?",
+      "options": ["Rice", "Cotton", "Wheat", "Jute"],
+      "optionsHi": ["चावल", "कपास", "गेहूँ", "जूट"],
+      "answer": 2,
+      "explanation": "Rabi crops such as wheat, gram and mustard are sown in winter and harvested in spring; rice, cotton and jute are kharif crops.",
+      "explanationHi": "गेहूँ, चना और सरसों जैसी रबी फ़सलें सर्दियों में बोई और वसंत में काटी जाती हैं; चावल, कपास और जूट खरीफ़ फ़सलें हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The longitude of 82°30′ E, used for Indian Standard Time, passes near",
+      "textHi": "भारतीय मानक समय के लिए प्रयुक्त 82°30′ पूर्वी देशांतर किसके निकट से गुज़रता है?",
+      "options": ["Nagpur", "Bhopal", "Ujjain", "Mirzapur"],
+      "optionsHi": ["नागपुर", "भोपाल", "उज्जैन", "मिर्ज़ापुर"],
+      "answer": 3,
+      "explanation": "The standard meridian of India (82°30′ E) passes through Mirzapur in Uttar Pradesh; IST is 5 hours 30 minutes ahead of GMT.",
+      "explanationHi": "भारत की मानक याम्योत्तर (82°30′ पूर्व) उत्तर प्रदेश के मिर्ज़ापुर से होकर गुज़रती है; भारतीय मानक समय GMT से 5 घंटे 30 मिनट आगे है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which Fundamental Right did Dr. B. R. Ambedkar call 'the heart and soul of the Constitution'?",
+      "textHi": "डॉ. बी. आर. आंबेडकर ने किस मौलिक अधिकार को 'संविधान का हृदय और आत्मा' कहा?",
+      "options": ["Right to Equality", "Right to Freedom", "Right against Exploitation", "Right to Constitutional Remedies"],
+      "optionsHi": ["समानता का अधिकार", "स्वतंत्रता का अधिकार", "शोषण के विरुद्ध अधिकार", "संवैधानिक उपचारों का अधिकार"],
+      "answer": 3,
+      "explanation": "The Right to Constitutional Remedies (Article 32) lets citizens go directly to the Supreme Court if their Fundamental Rights are violated.",
+      "explanationHi": "संवैधानिक उपचारों का अधिकार (अनुच्छेद 32) मौलिक अधिकारों के उल्लंघन पर नागरिकों को सीधे सर्वोच्च न्यायालय जाने का अधिकार देता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "textHi": "राज्य सभा का पदेन सभापति कौन होता है?",
+      "options": ["The President of India", "The Prime Minister", "The Vice-President of India", "The Speaker of the Lok Sabha"],
+      "optionsHi": ["भारत के राष्ट्रपति", "प्रधानमंत्री", "भारत के उपराष्ट्रपति", "लोक सभा अध्यक्ष"],
+      "answer": 2,
+      "explanation": "Under Article 64, the Vice-President of India is the ex-officio Chairman of the Rajya Sabha.",
+      "explanationHi": "अनुच्छेद 64 के अनुसार भारत के उपराष्ट्रपति राज्य सभा के पदेन सभापति होते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which activity will best help Class VI students develop a sense of historical chronology?",
+      "textHi": "कक्षा VI के विद्यार्थियों में ऐतिहासिक कालक्रम की समझ विकसित करने में कौन-सी गतिविधि सबसे अधिक सहायक होगी?",
+      "options": ["Memorising a list of dates", "Constructing a timeline of important events", "Copying the chapter summary", "Reading the chapter aloud twice"],
+      "optionsHi": ["तिथियों की सूची रटना", "प्रमुख घटनाओं की समय-रेखा बनाना", "अध्याय का सारांश उतारना", "अध्याय को दो बार ज़ोर से पढ़ना"],
+      "answer": 1,
+      "explanation": "Making a timeline lets students see the sequence of events and the time gaps between them, building a sense of chronology.",
+      "explanationHi": "समय-रेखा बनाने से विद्यार्थी घटनाओं का क्रम और उनके बीच का समयांतराल देख पाते हैं, जिससे कालक्रम की समझ बनती है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "To teach Class VI students how the Gram Panchayat works, the most effective method is to",
+      "textHi": "कक्षा VI के विद्यार्थियों को ग्राम पंचायत की कार्यप्रणाली सिखाने का सबसे प्रभावी तरीका है",
+      "options": ["arrange an interaction with local panchayat members and let students observe a Gram Sabha meeting", "ask students to learn the definitions from the textbook", "give a lecture on the 73rd Amendment", "show the chapter's questions and answers on the board"],
+      "optionsHi": ["स्थानीय पंचायत सदस्यों से बातचीत कराना और विद्यार्थियों को ग्राम सभा की बैठक देखने देना", "विद्यार्थियों से पाठ्यपुस्तक की परिभाषाएँ याद करवाना", "73वें संशोधन पर व्याख्यान देना", "अध्याय के प्रश्न-उत्तर बोर्ड पर दिखाना"],
+      "answer": 0,
+      "explanation": "Direct experience and interaction with local institutions link the concept to students' lives, as NCF 2005 recommends for social science.",
+      "explanationHi": "स्थानीय संस्थाओं से प्रत्यक्ष अनुभव और संवाद अवधारणा को विद्यार्थियों के जीवन से जोड़ता है, जैसा NCF 2005 सामाजिक विज्ञान के लिए सुझाता है।"
+    }
+  ]
+}

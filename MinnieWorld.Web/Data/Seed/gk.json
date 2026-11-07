@@ -1,0 +1,71 @@
+{
+  "courses": [
+    {
+      "title": "Indian Polity Basics",
+      "subtitle": "The Constitution, Parliament, President and courts, explained simply for exams and everyday understanding.",
+      "description": "A fast, exam-friendly introduction to how India is governed.\n\n## Covered\n\n- How the Constitution was made, and its key features\n- Fundamental Rights and Duties\n- Parliament: Lok Sabha and Rajya Sabha\n- The President, Prime Minister and Council of Ministers\n- The Supreme Court and High Courts\n\nGood for UPSC, SSC, state PSC and banking aspirants, and anyone curious.",
+      "category": "Polity",
+      "level": "Beginner",
+      "thumbnailUrl": "/covers/polity.png",
+      "isFeatured": true,
+      "lessons": [
+        {
+          "title": "Making of the Constitution",
+          "summary": "Who wrote it, how long it took, and when it came into force.",
+          "content": "## Quick facts\n\n| Fact | Detail |\n|---|---|\n| Constituent Assembly first met | 9 December 1946 |\n| President of the Assembly | Dr Rajendra Prasad |\n| Chairman, Drafting Committee | Dr B. R. Ambedkar |\n| Adopted | 26 November 1949 (Constitution Day) |\n| Came into force | 26 January 1950 (Republic Day) |\n| Time taken | 2 years, 11 months, 18 days |\n\n## Borrowed features\n\n- **UK**: parliamentary system, rule of law\n- **USA**: Fundamental Rights, judicial review\n- **Ireland**: Directive Principles of State Policy\n- **Canada**: federation with a strong centre\n\n### Remember\n\n26 January was chosen because on that day in 1930 the Congress declared *Purna Swaraj* (complete independence).",
+          "durationMinutes": 7
+        },
+        {
+          "title": "Fundamental Rights and Duties",
+          "summary": "The six Fundamental Rights (Part III) and the eleven Fundamental Duties (Part IV-A).",
+          "content": "## Six Fundamental Rights (Part III)\n\n1. **Right to Equality** (Articles 14–18)\n2. **Right to Freedom** (Articles 19–22)\n3. **Right against Exploitation** (Articles 23–24)\n4. **Right to Freedom of Religion** (Articles 25–28)\n5. **Cultural and Educational Rights** (Articles 29–30)\n6. **Right to Constitutional Remedies** (Article 32)\n\nDr Ambedkar called **Article 32** the \"heart and soul\" of the Constitution.\n\nThe Right to Property was originally a Fundamental Right; the 44th Amendment (1978) made it a legal right under Article 300A.\n\n## Fundamental Duties (Part IV-A, Article 51A)\n\nAdded by the **42nd Amendment (1976)** on the Swaran Singh Committee's recommendation. There were 10; the 86th Amendment (2002) added the 11th: parents' duty to provide education to children aged 6–14.",
+          "durationMinutes": 8
+        },
+        {
+          "title": "Parliament: Lok Sabha and Rajya Sabha",
+          "summary": "Composition, terms and powers of the two Houses.",
+          "content": "Parliament = **President + Lok Sabha + Rajya Sabha** (Article 79).\n\n| | Lok Sabha | Rajya Sabha |\n|---|---|---|\n| Also called | House of the People | Council of States |\n| Max strength | 550 (currently 543 elected) | 250 (238 elected + 12 nominated) |\n| Term | 5 years (can be dissolved) | Permanent; one-third retire every 2 years |\n| Member term | 5 years | 6 years |\n| Minimum age | 25 | 30 |\n| Presiding officer | Speaker | Vice-President (Chairman) |\n\n## Money Bills\n\nCan be introduced **only in the Lok Sabha**. The Rajya Sabha can delay a Money Bill for at most **14 days**.",
+          "durationMinutes": 8
+        }
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "title": "Our Solar System: 15 Facts Worth Knowing",
+      "excerpt": "From the hottest planet to the longest day, quick facts about our cosmic neighbourhood.",
+      "content": "1. The Sun holds about **99.86%** of the Solar System's mass.\n2. **Venus** is the hottest planet (about 465 °C), hotter than Mercury, because of its thick CO₂ atmosphere.\n3. A day on **Venus** (243 Earth days) is longer than its year (225 Earth days).\n4. **Jupiter** is the largest planet; more than 1,300 Earths would fit inside it.\n5. **Saturn** is less dense than water.\n6. **Mars** has the tallest volcano known, **Olympus Mons**, about 22 km high.\n7. **Uranus** rotates on its side, tilted about 98°.\n8. **Neptune** has the fastest winds recorded on any planet, over 2,000 km/h.\n9. **Pluto** was reclassified as a dwarf planet in **2006**.\n10. Sunlight takes about **8 minutes 20 seconds** to reach Earth.\n11. The **Moon** is moving away from Earth by about 3.8 cm a year.\n12. **Mercury** has no moons, and neither does Venus.\n13. The **asteroid belt** lies between Mars and Jupiter.\n14. **Ganymede** (Jupiter) is the largest moon in the Solar System, bigger than Mercury.\n15. India's **Chandrayaan-3** landed near the Moon's south pole on **23 August 2023**, a first for any country.",
+      "category": "Science",
+      "tags": "space,planets,science",
+      "coverImageUrl": "/covers/solar-system.png",
+      "author": "Curious Minds"
+    },
+    {
+      "title": "How the Internet Actually Works",
+      "excerpt": "What happens in the second between typing a web address and seeing the page.",
+      "content": "## 1. DNS: finding the address\n\nComputers find each other by **IP address** (like `142.250.183.14`). The **Domain Name System** turns a name such as `example.com` into that number, like a phone book.\n\n## 2. Packets\n\nData is split into small **packets**. Each travels separately, possibly by different routes, and they're reassembled at the end. **TCP** makes sure nothing is lost; **IP** handles the addressing.\n\n## 3. Undersea cables\n\nAbout **99%** of intercontinental internet traffic travels through **undersea fibre-optic cables**, not satellites.\n\n## 4. HTTPS\n\nThe padlock in your browser means the connection is encrypted with **TLS**, so others on the network can't read or change what you send.\n\n### Did you know?\n\nThe first message sent over ARPANET, the internet's ancestor, in **1969** was meant to be \"LOGIN\". The system crashed after \"LO\".",
+      "category": "Technology",
+      "tags": "internet,technology,how it works",
+      "coverImageUrl": "/covers/internet.png",
+      "author": "Curious Minds"
+    },
+    {
+      "title": "India's National Symbols at a Glance",
+      "excerpt": "Flag, emblem, anthem, animal, bird and more: the official symbols of India and their stories.",
+      "content": "| Symbol | Official choice | Note |\n|---|---|---|\n| National flag | Tiranga | Adopted 22 July 1947; 24-spoke Ashoka Chakra in navy blue |\n| National emblem | Lion Capital of Ashoka, Sarnath | Adopted 26 January 1950; motto *Satyameva Jayate* |\n| National anthem | *Jana Gana Mana* | By Rabindranath Tagore; about 52 seconds |\n| National song | *Vande Mataram* | By Bankim Chandra Chattopadhyay |\n| National animal | Bengal tiger | Replaced the lion in 1973 |\n| National bird | Indian peafowl (peacock) | |\n| National flower | Lotus | |\n| National tree | Banyan | |\n| National river | Ganga | Declared in 2008 |\n| National aquatic animal | Ganges river dolphin | Declared in 2009 |\n| National calendar | Saka calendar | Adopted 22 March 1957 |\n\n### Quick quiz\n\nWhich article of the Constitution describes the Union's official language? **Article 343**: Hindi in Devanagari script.",
+      "category": "India",
+      "tags": "india,national symbols,gk",
+      "coverImageUrl": "/covers/national-symbols.png",
+      "author": "Curious Minds"
+    },
+    {
+      "title": "7 Wonders of the World (New) and Where They Are",
+      "excerpt": "The New Seven Wonders chosen in 2007, plus the one ancient wonder still standing.",
+      "content": "In **2007**, the New7Wonders Foundation announced the results of a worldwide public vote.\n\n| Wonder | Country | Built |\n|---|---|---|\n| Taj Mahal | India | 1632–1653 |\n| Great Wall | China | 7th century BCE onwards |\n| Petra | Jordan | c. 4th century BCE |\n| Colosseum | Italy | 70–80 CE |\n| Chichén Itzá | Mexico | c. 600–1200 CE |\n| Machu Picchu | Peru | c. 1450 CE |\n| Christ the Redeemer | Brazil | 1922–1931 |\n\nThe **Great Pyramid of Giza**, the only surviving wonder of the ancient world, was given honorary status.\n\n### Fact\n\nThe Taj Mahal was built by Mughal emperor **Shah Jahan** in memory of his wife **Mumtaz Mahal**, and is a UNESCO World Heritage Site since **1983**.",
+      "category": "World",
+      "tags": "wonders,world,history",
+      "coverImageUrl": "/covers/seven-wonders.png",
+      "author": "Curious Minds"
+    }
+  ]
+}

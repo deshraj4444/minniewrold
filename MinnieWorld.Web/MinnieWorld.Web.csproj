@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ClientAppDir>$(MSBuildProjectDirectory)\..\client\</ClientAppDir>
+    <!-- IIS runs the app in its own process (Kestrel behind the ASP.NET Core Module), not inside w3wp. -->
+    <AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Markdig" Version="1.6.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.13">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.13" />
+    <PackageReference Include="System.Security.Cryptography.Pkcs" Version="10.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Uploaded images live outside wwwroot so a client rebuild never wipes them. -->
+    <Content Remove="App_Data\**" />
+    <None Remove="App_Data\**" />
+    <Content Update="Data\Seed\**\*.json" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <!-- Local-only settings (dev database and dev admin login) never go to the server. -->
+    <Content Update="appsettings.Development.json" CopyToPublishDirectory="Never" />
+  </ItemGroup>
+
+  <!-- `dotnet publish` builds the React client into wwwroot so one deployable folder holds the whole site. -->
+  <Target Name="BuildClientApp" BeforeTargets="ComputeFilesToPublish" Condition="'$(SkipClientBuild)' != 'true'">
+    <Exec WorkingDirectory="$(ClientAppDir)" Command="npm ci" Condition="!Exists('$(ClientAppDir)node_modules')" />
+    <Exec WorkingDirectory="$(ClientAppDir)" Command="npm run build" />
+    <ItemGroup>
+      <ClientDistFiles Include="wwwroot\**" />
+      <ResolvedFileToPublish Include="@(ClientDistFiles->'%(FullPath)')" Exclude="@(ResolvedFileToPublish)">
+        <RelativePath>%(ClientDistFiles.Identity)</RelativePath>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      </ResolvedFileToPublish>
+    </ItemGroup>
+  </Target>
+
+</Project>

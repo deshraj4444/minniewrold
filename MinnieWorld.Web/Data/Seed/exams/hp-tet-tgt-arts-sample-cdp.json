@@ -1,0 +1,413 @@
+{
+  "slug": "hp-tet-tgt-arts-sample-cdp",
+  "version": 2,
+  "title": "HP TET TGT Arts · Free Sectional Test: Child Development & Pedagogy",
+  "description": "20 free practice questions on child development, learning theories, inclusive education, assessment, NCF 2005, NEP 2020 and the RTE Act.",
+  "category": "HP TET TGT Arts",
+  "kind": "Sample test",
+  "year": null,
+  "durationMinutes": 20,
+  "price": 0,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Noam Chomsky proposed that children are born with an innate mechanism that enables them to acquire language. He called it the",
+      "textHi": "नोम चॉम्स्की ने प्रस्तावित किया कि बच्चे एक जन्मजात तंत्र के साथ पैदा होते हैं जो उन्हें भाषा अर्जित करने में सक्षम बनाता है। उन्होंने इसे कहा:",
+      "options": [
+        "Zone of Proximal Development",
+        "Language Acquisition Device",
+        "Cognitive map",
+        "Schema"
+      ],
+      "optionsHi": [
+        "समीपस्थ विकास का क्षेत्र",
+        "भाषा अर्जन उपकरण (LAD)",
+        "संज्ञानात्मक मानचित्र",
+        "स्कीमा (अवधारणात्मक ढाँचा)"
+      ],
+      "answer": 1,
+      "explanation": "Chomsky argued that an inborn Language Acquisition Device allows children to pick up the grammar of any language they are exposed to.",
+      "explanationHi": "चॉम्स्की के अनुसार जन्मजात भाषा अर्जन उपकरण (LAD) बच्चों को उस किसी भी भाषा का व्याकरण सीखने में सक्षम बनाता है जिसके संपर्क में वे आते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "For an intellectually gifted student who regularly finishes classwork well before others, the most suitable strategy is to",
+      "textHi": "एक बौद्धिक रूप से प्रतिभाशाली विद्यार्थी, जो प्रायः कक्षा-कार्य दूसरों से बहुत पहले पूरा कर लेता है, के लिए सबसे उपयुक्त रणनीति है:",
+      "options": [
+        "give extra copies of the same exercise to keep the child busy",
+        "ask the child to sit quietly until the others finish",
+        "promote the child to a higher class at once without any assessment",
+        "provide enrichment activities that add depth and challenge"
+      ],
+      "optionsHi": [
+        "बच्चे को व्यस्त रखने के लिए उसी अभ्यास की अतिरिक्त प्रतियाँ देना",
+        "बच्चे से अन्य बच्चों के काम पूरा होने तक चुपचाप बैठने को कहना",
+        "बिना किसी आकलन के बच्चे को तुरंत अगली कक्षा में भेज देना",
+        "गहराई और चुनौती बढ़ाने वाली संवर्धन (enrichment) गतिविधियाँ देना"
+      ],
+      "answer": 3,
+      "explanation": "Enrichment offers gifted learners more complex and creative tasks so that they stay engaged and develop further.",
+      "explanationHi": "संवर्धन गतिविधियाँ प्रतिभाशाली विद्यार्थियों को अधिक जटिल और सृजनात्मक कार्य देती हैं, जिससे वे संलग्न रहते हैं और आगे विकसित होते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which classroom practice best helps to break gender stereotypes?",
+      "textHi": "निम्नलिखित में से कौन-सी कक्षा-प्रथा लैंगिक रूढ़ियों को तोड़ने में सबसे अधिक सहायक है?",
+      "options": [
+        "Rotating tasks such as arranging the classroom and leading teams among both girls and boys",
+        "Asking only girls to decorate the classroom and only boys to carry furniture",
+        "Using reading material that shows only men as doctors and engineers",
+        "Seating girls and boys in separate rows for every activity"
+      ],
+      "optionsHi": [
+        "कक्षा व्यवस्थित करने और टीम का नेतृत्व करने जैसे कार्य बारी-बारी से लड़कियों और लड़कों दोनों को देना",
+        "केवल लड़कियों से कक्षा सजवाना और केवल लड़कों से फर्नीचर उठवाना",
+        "ऐसी पठन-सामग्री का उपयोग करना जिसमें केवल पुरुषों को डॉक्टर और इंजीनियर दिखाया गया हो",
+        "प्रत्येक गतिविधि में लड़कियों और लड़कों को अलग-अलग पंक्तियों में बैठाना"
+      ],
+      "answer": 0,
+      "explanation": "Giving all children equal access to every kind of role challenges the idea that certain tasks belong to one gender.",
+      "explanationHi": "सभी बच्चों को हर प्रकार की भूमिका का समान अवसर देने से यह धारणा टूटती है कि कुछ कार्य केवल एक ही लिंग के लिए हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The National Curriculum Framework 2005 was prepared under a National Steering Committee chaired by",
+      "textHi": "राष्ट्रीय पाठ्यचर्या की रूपरेखा (NCF) 2005 किसकी अध्यक्षता वाली राष्ट्रीय संचालन समिति के अंतर्गत तैयार की गई थी?",
+      "options": [
+        "Dr. D. S. Kothari",
+        "Dr. K. Kasturirangan",
+        "Prof. Yash Pal",
+        "Dr. A. Lakshmanaswami Mudaliar"
+      ],
+      "optionsHi": [
+        "डॉ. डी. एस. कोठारी",
+        "डॉ. के. कस्तूरीरंगन",
+        "प्रो. यशपाल",
+        "डॉ. ए. लक्ष्मणस्वामी मुदालियर"
+      ],
+      "answer": 2,
+      "explanation": "Prof. Yash Pal chaired the steering committee for NCF 2005; Kothari headed the Education Commission (1964–66) and Mudaliar the Secondary Education Commission (1952–53).",
+      "explanationHi": "NCF 2005 की संचालन समिति के अध्यक्ष प्रो. यशपाल थे; कोठारी ने शिक्षा आयोग (1964–66) तथा मुदालियर ने माध्यमिक शिक्षा आयोग (1952–53) की अध्यक्षता की थी।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "NEP 2020 proposed setting up a national assessment centre named PARAKH. Its main role is to",
+      "textHi": "राष्ट्रीय शिक्षा नीति (NEP) 2020 ने 'परख' (PARAKH) नामक राष्ट्रीय मूल्यांकन केंद्र स्थापित करने का प्रस्ताव रखा। इसकी मुख्य भूमिका है:",
+      "options": [
+        "conduct entrance examinations for admission to central universities",
+        "write and publish textbooks for all school classes",
+        "set norms, standards and guidelines for student assessment and evaluation across school boards",
+        "grant recognition to teacher education institutions"
+      ],
+      "optionsHi": [
+        "केंद्रीय विश्वविद्यालयों में प्रवेश हेतु प्रवेश परीक्षाएँ आयोजित करना",
+        "सभी स्कूली कक्षाओं के लिए पाठ्यपुस्तकें लिखना और प्रकाशित करना",
+        "सभी स्कूल बोर्डों में विद्यार्थियों के आकलन और मूल्यांकन के लिए मानदंड, मानक और दिशानिर्देश तय करना",
+        "शिक्षक-शिक्षा संस्थानों को मान्यता प्रदान करना"
+      ],
+      "answer": 2,
+      "explanation": "PARAKH (Performance Assessment, Review, and Analysis of Knowledge for Holistic Development) is meant to guide and standardise assessment practices of school boards.",
+      "explanationHi": "परख (PARAKH – समग्र विकास हेतु ज्ञान का कार्य-निष्पादन आकलन, समीक्षा और विश्लेषण) का उद्देश्य स्कूल बोर्डों की मूल्यांकन पद्धतियों का मार्गदर्शन और मानकीकरण करना है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Under the RTE Act, 2009, at least what proportion of the members of a School Management Committee must be parents or guardians of children?",
+      "textHi": "शिक्षा का अधिकार (RTE) अधिनियम, 2009 के अंतर्गत विद्यालय प्रबंधन समिति (SMC) के कम-से-कम कितने अनुपात सदस्य बच्चों के माता-पिता या अभिभावक होने चाहिए?",
+      "options": [
+        "Three-fourths",
+        "One-half",
+        "One-third",
+        "Two-thirds"
+      ],
+      "optionsHi": [
+        "तीन-चौथाई",
+        "आधा",
+        "एक-तिहाई",
+        "दो-तिहाई"
+      ],
+      "answer": 0,
+      "explanation": "Section 21 of the Act requires that at least three-fourths of the members of the School Management Committee be parents or guardians.",
+      "explanationHi": "अधिनियम की धारा 21 के अनुसार विद्यालय प्रबंधन समिति के कम-से-कम तीन-चौथाई सदस्य माता-पिता या अभिभावक होने चाहिए।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A child of normal intelligence finds it very hard to sit still, often acts without thinking and is easily distracted. These are typical signs of",
+      "textHi": "सामान्य बुद्धि वाले एक बच्चे को स्थिर बैठने में बहुत कठिनाई होती है, वह प्रायः बिना सोचे कार्य करता है और आसानी से विचलित हो जाता है। ये किसके विशिष्ट लक्षण हैं?",
+      "options": [
+        "Dyslexia",
+        "Dysgraphia",
+        "Dyscalculia",
+        "Attention Deficit Hyperactivity Disorder (ADHD)"
+      ],
+      "optionsHi": [
+        "डिस्लेक्सिया (पठन विकार)",
+        "डिस्ग्राफिया (लेखन विकार)",
+        "डिस्कैलकुलिया (गणना विकार)",
+        "ध्यान-अभाव अतिसक्रियता विकार (ADHD)"
+      ],
+      "answer": 3,
+      "explanation": "Inattention, hyperactivity and impulsivity are the core features of ADHD, whereas the other options are specific learning disabilities.",
+      "explanationHi": "असावधानी, अतिसक्रियता और आवेगशीलता ADHD के मुख्य लक्षण हैं, जबकि अन्य विकल्प विशिष्ट अधिगम अक्षमताएँ हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A student with partial hearing impairment has joined your class. Which step will help the student most?",
+      "textHi": "आंशिक श्रवण-बाधित एक विद्यार्थी आपकी कक्षा में आया है। कौन-सा कदम उसके लिए सबसे अधिक सहायक होगा?",
+      "options": [
+        "Seat the student at the back so that the student is not embarrassed",
+        "Seat the student near the front, where the teacher's face is clearly visible",
+        "Speak very fast so that the lesson is completed on time",
+        "Avoid writing anything on the blackboard"
+      ],
+      "optionsHi": [
+        "उसे पीछे बैठाना ताकि वह शर्मिंदा न हो",
+        "उसे आगे की ओर बैठाना, जहाँ से शिक्षक का चेहरा साफ़ दिखाई दे",
+        "बहुत तेज़ बोलना ताकि पाठ समय पर पूरा हो जाए",
+        "श्यामपट्ट पर कुछ भी लिखने से बचना"
+      ],
+      "answer": 1,
+      "explanation": "Sitting in front allows the child to hear better and to use lip-reading and facial cues, which supports inclusion.",
+      "explanationHi": "आगे बैठने से बच्चा बेहतर सुन पाता है और होंठों की गति व चेहरे के भावों का उपयोग कर पाता है, जिससे समावेशन को बल मिलता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "In B. F. Skinner's operant conditioning, which schedule of reinforcement generally produces a high, steady rate of response that is most resistant to extinction?",
+      "textHi": "बी. एफ. स्किनर के क्रियाप्रसूत अनुबंधन में पुनर्बलन की कौन-सी अनुसूची सामान्यतः उच्च और स्थिर अनुक्रिया दर उत्पन्न करती है, जो विलोपन के प्रति सर्वाधिक प्रतिरोधी होती है?",
+      "options": [
+        "Variable ratio schedule",
+        "Continuous reinforcement",
+        "Fixed interval schedule",
+        "Fixed ratio schedule"
+      ],
+      "optionsHi": [
+        "परिवर्ती अनुपात अनुसूची",
+        "सतत पुनर्बलन",
+        "निश्चित अंतराल अनुसूची",
+        "निश्चित अनुपात अनुसूची"
+      ],
+      "answer": 0,
+      "explanation": "When reinforcement comes after an unpredictable number of responses, learners keep responding steadily, so behaviour learned this way extinguishes slowly.",
+      "explanationHi": "जब पुनर्बलन अनिश्चित संख्या में अनुक्रियाओं के बाद मिलता है, तो अधिगमकर्ता लगातार अनुक्रिया करता रहता है, इसलिए ऐसा सीखा गया व्यवहार धीरे-धीरे विलुप्त होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following best reflects child-centred pedagogy?",
+      "textHi": "निम्नलिखित में से कौन बाल-केंद्रित शिक्षाशास्त्र को सबसे अच्छी तरह दर्शाता है?",
+      "options": [
+        "Completing the syllabus quickly through continuous lectures",
+        "Planning activities around learners' experiences, interests and pace of learning",
+        "Using the same worksheet and the same pace for every learner",
+        "Giving importance mainly to the teacher's explanation"
+      ],
+      "optionsHi": [
+        "लगातार व्याख्यानों द्वारा पाठ्यक्रम शीघ्र पूरा करना",
+        "विद्यार्थियों के अनुभवों, रुचियों और सीखने की गति के अनुसार गतिविधियाँ नियोजित करना",
+        "प्रत्येक विद्यार्थी के लिए एक ही कार्यपत्रक और एक ही गति का उपयोग करना",
+        "मुख्य रूप से शिक्षक की व्याख्या को महत्व देना"
+      ],
+      "answer": 1,
+      "explanation": "Child-centred pedagogy places the learner's voice, experience and active participation at the centre of teaching.",
+      "explanationHi": "बाल-केंद्रित शिक्षाशास्त्र में शिक्षार्थी की आवाज़, अनुभव और सक्रिय भागीदारी शिक्षण के केंद्र में होती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following questions is most likely to promote higher-order thinking among students?",
+      "textHi": "निम्नलिखित में से कौन-सा प्रश्न विद्यार्थियों में उच्च-स्तरीय चिंतन को सबसे अधिक बढ़ावा देगा?",
+      "options": [
+        "In which year was the Constitution of India adopted?",
+        "What is the capital of Himachal Pradesh?",
+        "Who was the first President of India?",
+        "Why do you think early human settlements grew up near rivers?"
+      ],
+      "optionsHi": [
+        "भारत का संविधान किस वर्ष अंगीकृत किया गया?",
+        "हिमाचल प्रदेश की राजधानी क्या है?",
+        "भारत के प्रथम राष्ट्रपति कौन थे?",
+        "आपके विचार में प्रारंभिक मानव बस्तियाँ नदियों के निकट क्यों विकसित हुईं?"
+      ],
+      "answer": 3,
+      "explanation": "An open-ended \"why\" question requires reasoning and analysis, while the others ask only for recall of facts.",
+      "explanationHi": "मुक्त-उत्तरीय 'क्यों' वाले प्रश्न में तर्क और विश्लेषण की आवश्यकता होती है, जबकि अन्य प्रश्न केवल तथ्यों का स्मरण माँगते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "From a constructivist point of view, the errors that children make while learning are best seen as",
+      "textHi": "रचनावादी दृष्टिकोण से, सीखते समय बच्चों द्वारा की गई त्रुटियों को सबसे उचित रूप में देखा जाना चाहिए:",
+      "options": [
+        "signs of carelessness that should be punished",
+        "proof that the child cannot learn the subject",
+        "windows into their thinking that help the teacher plan further instruction",
+        "unimportant events that are best ignored"
+      ],
+      "optionsHi": [
+        "लापरवाही के संकेत के रूप में, जिनके लिए दंड दिया जाना चाहिए",
+        "इस प्रमाण के रूप में कि बच्चा वह विषय नहीं सीख सकता",
+        "उनके चिंतन की झलक के रूप में, जो शिक्षक को आगे का शिक्षण नियोजित करने में सहायता करती हैं",
+        "महत्वहीन घटनाओं के रूप में, जिन्हें अनदेखा करना ही उचित है"
+      ],
+      "answer": 2,
+      "explanation": "Errors reveal how a child is reasoning, so analysing them helps the teacher address misconceptions.",
+      "explanationHi": "त्रुटियाँ दिखाती हैं कि बच्चा किस प्रकार तर्क कर रहा है, इसलिए उनका विश्लेषण शिक्षक को भ्रांत धारणाएँ दूर करने में मदद करता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The \"jigsaw\" technique of cooperative learning, in which each group member masters one part of a topic and teaches it to the others, was developed by",
+      "textHi": "सहयोगात्मक अधिगम की 'जिग्सॉ' तकनीक, जिसमें समूह का प्रत्येक सदस्य विषय के एक भाग में दक्षता प्राप्त कर उसे दूसरों को सिखाता है, किसके द्वारा विकसित की गई थी?",
+      "options": [
+        "Jean Piaget",
+        "B. F. Skinner",
+        "Albert Bandura",
+        "Elliot Aronson"
+      ],
+      "optionsHi": [
+        "जीन पियाजे",
+        "बी. एफ. स्किनर",
+        "अल्बर्ट बंडूरा",
+        "इलियट एरॉनसन"
+      ],
+      "answer": 3,
+      "explanation": "Social psychologist Elliot Aronson and his students developed the jigsaw classroom in 1971 to promote cooperation.",
+      "explanationHi": "सामाजिक मनोवैज्ञानिक इलियट एरॉनसन और उनके विद्यार्थियों ने सहयोग को बढ़ावा देने के लिए 1971 में जिग्सॉ कक्षा विकसित की।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who described adolescence as a period of \"storm and stress\"?",
+      "textHi": "किसने किशोरावस्था को 'तूफ़ान और तनाव' (संघर्ष और तनाव) की अवस्था कहा?",
+      "options": [
+        "G. Stanley Hall",
+        "Sigmund Freud",
+        "Arnold Gesell",
+        "Alfred Binet"
+      ],
+      "optionsHi": [
+        "जी. स्टैनली हॉल",
+        "सिगमंड फ्रायड",
+        "आर्नोल्ड गेसेल",
+        "अल्फ्रेड बिने"
+      ],
+      "answer": 0,
+      "explanation": "G. Stanley Hall, in his 1904 work \"Adolescence\", characterised this stage as one of storm and stress.",
+      "explanationHi": "जी. स्टैनली हॉल ने 1904 की अपनी कृति 'Adolescence' में इस अवस्था को तूफ़ान और तनाव की अवस्था बताया।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The concept of emotional intelligence was popularised by whose 1995 book titled \"Emotional Intelligence\"?",
+      "textHi": "संवेगात्मक बुद्धि की अवधारणा को 1995 में प्रकाशित 'इमोशनल इंटेलिजेंस' नामक किसकी पुस्तक ने लोकप्रिय बनाया?",
+      "options": [
+        "Howard Gardner",
+        "Daniel Goleman",
+        "Robert Sternberg",
+        "Charles Spearman"
+      ],
+      "optionsHi": [
+        "हावर्ड गार्डनर",
+        "डेनियल गोलमैन",
+        "रॉबर्ट स्टर्नबर्ग",
+        "चार्ल्स स्पीयरमैन"
+      ],
+      "answer": 1,
+      "explanation": "Daniel Goleman's 1995 bestseller brought the idea of emotional intelligence, first described by Salovey and Mayer, to a wide audience.",
+      "explanationHi": "डेनियल गोलमैन की 1995 की लोकप्रिय पुस्तक ने सैलोवे और मेयर द्वारा प्रतिपादित संवेगात्मक बुद्धि की अवधारणा को व्यापक जनसमूह तक पहुँचाया।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A teacher writes a brief, factual note describing a significant incident in a pupil's behaviour soon after observing it. This assessment tool is called",
+      "textHi": "एक शिक्षक किसी विद्यार्थी के व्यवहार की किसी महत्वपूर्ण घटना को देखने के तुरंत बाद उसका संक्षिप्त, तथ्यात्मक विवरण लिखता है। यह आकलन उपकरण कहलाता है:",
+      "options": [
+        "a cumulative record",
+        "a rating scale",
+        "an anecdotal record",
+        "a checklist"
+      ],
+      "optionsHi": [
+        "संचयी अभिलेख",
+        "निर्धारण मापनी (रेटिंग स्केल)",
+        "उपाख्यानात्मक अभिलेख",
+        "जाँच-सूची (चेकलिस्ट)"
+      ],
+      "answer": 2,
+      "explanation": "An anecdotal record is an objective description of a specific incident, useful for understanding a learner's behaviour over time.",
+      "explanationHi": "उपाख्यानात्मक अभिलेख किसी विशेष घटना का वस्तुनिष्ठ विवरण है, जो समय के साथ विद्यार्थी के व्यवहार को समझने में उपयोगी होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A test that interprets a student's score by comparing it with the performance of other students in the same group is called a",
+      "textHi": "वह परीक्षण जो किसी विद्यार्थी के अंकों की व्याख्या उसी समूह के अन्य विद्यार्थियों के प्रदर्शन से तुलना करके करता है, कहलाता है:",
+      "options": [
+        "criterion-referenced test",
+        "norm-referenced test",
+        "diagnostic test",
+        "ipsative assessment"
+      ],
+      "optionsHi": [
+        "निकष-संदर्भित परीक्षण",
+        "मानक-संदर्भित परीक्षण",
+        "निदानात्मक परीक्षण",
+        "स्व-संदर्भित (इप्सेटिव) आकलन"
+      ],
+      "answer": 1,
+      "explanation": "Norm-referenced tests rank learners against peers, whereas criterion-referenced tests judge performance against fixed standards.",
+      "explanationHi": "मानक-संदर्भित परीक्षण विद्यार्थियों को साथियों की तुलना में क्रमबद्ध करते हैं, जबकि निकष-संदर्भित परीक्षण निश्चित मानकों के आधार पर प्रदर्शन आँकते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to NCF 2005, the multilingual background of children in a classroom should be treated as",
+      "textHi": "NCF 2005 के अनुसार, कक्षा में बच्चों की बहुभाषी पृष्ठभूमि को किस रूप में देखा जाना चाहिए?",
+      "options": [
+        "a barrier that must be removed",
+        "a reason to forbid home languages in school",
+        "a problem that concerns only language teachers",
+        "a resource for learning"
+      ],
+      "optionsHi": [
+        "एक बाधा, जिसे दूर किया जाना चाहिए",
+        "विद्यालय में घर की भाषाओं पर रोक लगाने का कारण",
+        "एक समस्या, जो केवल भाषा-शिक्षकों से संबंधित है",
+        "अधिगम के एक संसाधन के रूप में"
+      ],
+      "answer": 3,
+      "explanation": "NCF 2005 recommends using children's home languages and multilingualism as a resource for teaching and learning.",
+      "explanationHi": "NCF 2005 बच्चों की घरेलू भाषाओं और बहुभाषिकता को शिक्षण-अधिगम के संसाधन के रूप में उपयोग करने की अनुशंसा करती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The kindergarten system, which compares the child to a growing plant and the teacher to a gardener, was founded by",
+      "textHi": "किंडरगार्टन पद्धति, जिसमें बच्चे की तुलना बढ़ते पौधे से और शिक्षक की तुलना माली से की गई है, के संस्थापक थे:",
+      "options": [
+        "Friedrich Froebel",
+        "Maria Montessori",
+        "John Dewey",
+        "J. H. Pestalozzi"
+      ],
+      "optionsHi": [
+        "फ्रेडरिक फ्रोबेल",
+        "मारिया मॉन्टेसरी",
+        "जॉन ड्यूवी",
+        "जे. एच. पेस्टालॉजी"
+      ],
+      "answer": 0,
+      "explanation": "The German educator Friedrich Froebel opened the first kindergarten in 1837 and stressed play, songs and \"gifts\" in early learning.",
+      "explanationHi": "जर्मन शिक्षाशास्त्री फ्रेडरिक फ्रोबेल ने 1837 में पहला किंडरगार्टन खोला और प्रारंभिक शिक्षा में खेल, गीतों और 'उपहारों' (gifts) पर बल दिया।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The Montessori method of early childhood education mainly emphasises",
+      "textHi": "प्रारंभिक बाल्यावस्था शिक्षा की मॉन्टेसरी पद्धति मुख्यतः किस पर बल देती है?",
+      "options": [
+        "strict discipline and repeated drill",
+        "whole-class lectures delivered by the teacher",
+        "self-directed activity using specially designed sensory materials",
+        "competitive examinations from an early age"
+      ],
+      "optionsHi": [
+        "कठोर अनुशासन और बार-बार अभ्यास (ड्रिल)",
+        "शिक्षक द्वारा पूरी कक्षा को दिए जाने वाले व्याख्यान",
+        "विशेष रूप से निर्मित संवेदी सामग्री के माध्यम से स्व-निर्देशित गतिविधि",
+        "प्रारंभिक आयु से ही प्रतियोगी परीक्षाएँ"
+      ],
+      "answer": 2,
+      "explanation": "Maria Montessori believed children learn best through freedom within a prepared environment and hands-on didactic materials.",
+      "explanationHi": "मारिया मॉन्टेसरी का मानना था कि बच्चे तैयार किए गए वातावरण में स्वतंत्रता और हाथों से की जाने वाली शिक्षण-सामग्री के माध्यम से सबसे अच्छा सीखते हैं।"
+    }
+  ]
+}

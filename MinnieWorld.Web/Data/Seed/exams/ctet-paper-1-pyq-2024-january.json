@@ -1,0 +1,1181 @@
+{
+  "slug": "ctet-paper-1-pyq-2024-january",
+  "version": 1,
+  "title": "CTET Paper I · January 2024 (previous year paper)",
+  "description": "Questions from CTET Paper I held on 21 January 2024 (evening shift, Set K): Child Development & Pedagogy, Environmental Studies and English (Language II pedagogy), with answers from the answer key published by theexampillar.com and checked independently. Not the complete paper: Mathematics, the reading passages and a few doubtful questions are left out.",
+  "category": "CTET Paper I",
+  "kind": "Previous year",
+  "year": 2024,
+  "durationMinutes": 64,
+  "price": 10,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Assertion (A): The school curriculum should give due place and value to the cultural knowledge of students.\nReason (R): Providing support to students to maintain their cultural identity facilitates the learning process.\nChoose the correct option:",
+      "textHi": "अभिकथन (A) : विद्यालयी पाठ्यक्रम को विद्यार्थियों के सांस्कृतिक ज्ञान को उचित स्थान और मूल्य देना चाहिए।\nकारण (R) : विद्यार्थियों को उनकी सांस्कृतिक पहचान को बनाए रखने के लिए समर्थन प्रदान करना, सीखने की प्रक्रिया को सुगम बनाता है।\nसही विकल्प चुनें :",
+      "options": [
+        "(A) is true but (R) is false.",
+        "Both (A) and (R) are false.",
+        "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "Both (A) and (R) are true but (R) is not the correct explanation of (A)."
+      ],
+      "optionsHi": [
+        "(A) सही है लेकिन (R) गलत है।",
+        "(A) और (R) दोनों गलत हैं।",
+        "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+        "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।"
+      ],
+      "answer": 2,
+      "explanation": "Valuing learners' culture supports their identity, which in turn eases learning, so R explains A. (Q1 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "शिक्षार्थियों की संस्कृति को महत्त्व देने से उनकी पहचान को समर्थन मिलता है जिससे सीखना सरल होता है, अतः R, A की व्याख्या करता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Socio-constructivist views of learning advocate that:",
+      "textHi": "सीखने के सामाजिक-संरचनावादी विचार इस बात की वकालत करते हैं कि :",
+      "options": [
+        "Effective teaching is activated by lecturing and explaining.",
+        "Effective teaching happens through the thinking process of recall and repetition.",
+        "Learners passively receive knowledge from others.",
+        "Learners actively construct knowledge."
+      ],
+      "optionsHi": [
+        "व्याख्यान देने और समझाने से प्रभावी शिक्षण सक्रिय होता है।",
+        "प्रत्याहार और दोहराव की चिंतन प्रक्रिया से प्रभावी शिक्षण होती है",
+        "शिक्षार्थी दूसरों से निष्क्रिय रूप से ज्ञान प्राप्त करते हैं",
+        "शिक्षार्थी सक्रिय रूप से ज्ञान का निर्माण करते हैं"
+      ],
+      "answer": 3,
+      "explanation": "Social constructivism sees learners as active constructors of knowledge through interaction. (Q2 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "सामाजिक-रचनावाद के अनुसार शिक्षार्थी अंतःक्रिया द्वारा सक्रिय रूप से ज्ञान का निर्माण करते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following statements is NOT true about learning?",
+      "textHi": "निम्नलिखित में से कौन सा कथन अधिगम के बारे में सही नहीं है ?",
+      "options": [
+        "Learning is processed through social activity.",
+        "Learning is not a process but a product.",
+        "Learning depends on the prior knowledge of the learner.",
+        "Learning implies the reorganisation of prior conceptual schemes."
+      ],
+      "optionsHi": [
+        "अधिगम सामाजिक क्रिया द्वारा संसाधित होती है।",
+        "अधिगम एक प्रक्रिया नहीं अपितु एक उत्पाद है",
+        "अधिगम शिक्षार्थी के पूर्व ज्ञान पर निर्भर करता है",
+        "अधिगम का तात्पर्य पूर्व वैचारिक स्कीम्स के पुनर्गठन से है"
+      ],
+      "answer": 1,
+      "explanation": "Learning is a continuous process, not merely a product. (Q3 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "अधिगम एक सतत प्रक्रिया है, केवल उत्पाद नहीं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "In the course of development, children develop gross motor skills before fine motor skills. This shows that development is:",
+      "textHi": "विकास के क्रम में, बच्चे सूक्ष्म पेशीय कौशल से पहले सकल पेशीय कौशल विकसित करते हैं। यह दर्शाता है कि विकास :",
+      "options": [
+        "Linear",
+        "Proximodistal",
+        "Chaotic",
+        "Cephalocaudal"
+      ],
+      "optionsHi": [
+        "रेखीय",
+        "समीप दूराभिमुख",
+        "अराजक",
+        "शीर्षगामी"
+      ],
+      "answer": 1,
+      "explanation": "Proximodistal development proceeds from the centre of the body outward, so large-muscle control comes before fine finger control. (Q4 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "समीप-दूराभिमुख विकास शरीर के केंद्र से बाहर की ओर होता है, इसलिए सकल पेशीय कौशल सूक्ष्म पेशीय कौशल से पहले आते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Reasoning, thinking and problem solving are explained under which aspect of development?",
+      "textHi": "विकास के किस पहलू में तर्क, चिंतन और समस्या समाधान की व्याख्या की जाती है ?",
+      "options": [
+        "Moral development",
+        "Motor development",
+        "Social development",
+        "Cognitive development"
+      ],
+      "optionsHi": [
+        "नैतिक विकास",
+        "गतिक विकास",
+        "सामाजिक विकास",
+        "संज्ञानात्मक विकास"
+      ],
+      "answer": 3,
+      "explanation": "Thinking, reasoning and problem solving are mental processes studied under cognitive development. (Q5 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "तर्क, चिंतन और समस्या-समाधान मानसिक प्रक्रियाएँ हैं जो संज्ञानात्मक विकास के अंतर्गत आती हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "While skipping, Aru gets 'out' when the rope gets caught in her foot, and she says the rope got her 'out' on purpose. In which stage of Jean Piaget's theory of cognitive development do children reason like this?",
+      "textHi": "रस्सी कूदते समय पैर में रस्सी फँसने के कारण ‘आउट’ होने के बाद अरू कहती है कि उसे रस्सी ने जानबूझकर ‘आउट’ किया है। जीन पियाजे के संज्ञानात्मक विकास सिद्धान्त की किस अवस्था में बच्चे इस तरह के तर्क देते हैं ?",
+      "options": [
+        "Sensori-motor stage",
+        "Pre-operational stage",
+        "Concrete operational stage",
+        "Formal operational stage"
+      ],
+      "optionsHi": [
+        "संवेदी चालक अवस्था",
+        "पूर्व-चलन अवस्था",
+        "मूर्त संक्रियात्मक अवस्था",
+        "औपचारिक संक्रियात्मक अवस्था"
+      ],
+      "answer": 1,
+      "explanation": "Attributing intentions to lifeless objects (animism) is typical of Piaget's pre-operational stage. (Q6 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "निर्जीव वस्तुओं में इच्छा या उद्देश्य मानना (जीववाद) पियाजे की पूर्व-संक्रियात्मक अवस्था की विशेषता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Assertion (A): Learners construct their knowledge on the basis of what they already know.\nReason (R): Finding patterns and making connections with previous knowledge helps learners to process information meaningfully.\nChoose the correct option:",
+      "textHi": "अभिकथन (A) : शिक्षार्थी जो पहले से जानते हैं उसके आधार पर अपने ज्ञान का निर्माण करते हैं।\nकारण (R) : पैटर्न ढूँढना और पिछले ज्ञान के साथ जुड़ाव बनाने से शिक्षार्थियों को जानकारी को सार्थक रूप से संसाधित करने में मदद मिलती है।\nसही विकल्प चुनें :",
+      "options": [
+        "(A) is true but (R) is false.",
+        "Both (A) and (R) are false.",
+        "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "Both (A) and (R) are true but (R) is not the correct explanation of (A)."
+      ],
+      "optionsHi": [
+        "(A) सही है लेकिन (R) गलत है।",
+        "(A) और (R) दोनों गलत हैं।",
+        "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+        "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।"
+      ],
+      "answer": 2,
+      "explanation": "Linking new information to prior knowledge is exactly how learners build on what they know, so R explains A. (Q8 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "नई जानकारी को पूर्व ज्ञान से जोड़कर ही शिक्षार्थी ज्ञान का निर्माण करते हैं, अतः R, A की सही व्याख्या है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Assertion (A): Childhood is experienced differently by children in different cultures.\nReason (R): Children's development is universal.\nChoose the correct option:",
+      "textHi": "अभिकथन (A) : बच्चों द्वारा बचपन अलग-अलग संस्कृतियों में अलग-अलग तरह से अनुभव किया जाता है।\nकारण (R) : बच्चों का विकास सार्वभौमिक हैं।\nसही विकल्प चुनें:",
+      "options": [
+        "(A) is true but (R) is false.",
+        "Both (A) and (R) are false.",
+        "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "Both (A) and (R) are true but (R) is not the correct explanation of (A)."
+      ],
+      "optionsHi": [
+        "(A) सही है लेकिन (R) गलत है।",
+        "(A) और (R) दोनों गलत हैं।",
+        "(A) और (R) दोनों सही हैं और (A) की (R) सही व्याख्या करता है।",
+        "(A) और (R) दोनों सही हैं लेकिन (A) की (R) सही व्याख्या नहीं करता है।"
+      ],
+      "answer": 0,
+      "explanation": "Childhood is shaped by socio-cultural context, so development is not universal; A is true and R is false. (Q9 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "बचपन सामाजिक-सांस्कृतिक संदर्भ से प्रभावित होता है, इसलिए विकास सार्वभौमिक नहीं है; A सही और R गलत है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Assertion (A): In Lawrence Kohlberg's theory of moral development, children move from judging actions as good or bad on the basis of their consequences to the understanding that rules and laws are flexible and can be changed.\nReason (R): Lawrence Kohlberg argues that moral development takes place sequentially in stages.\nChoose the correct option:",
+      "textHi": "अभिकथन (A) : लॉरेंस कोहलबर्ग के नैतिक विकास सिद्धांत में बच्चे कार्यों को उनके परिणाम के आधार पर अच्छा या बुरा समझने से, इस समझ पर पहुँचते हैं कि नियम और कानून नम्य हैं और बदले जा सकते हैं।\nकारण (R) : लॉरेंस कोहलबर्ग का तर्क है कि नैतिक विकास क्रमिक रूप से चरणों में होता है।\nसही विकल्प चुनें :",
+      "options": [
+        "(A) is true but (R) is false.",
+        "Both (A) and (R) are false.",
+        "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "Both (A) and (R) are true but (R) is not the correct explanation of (A)."
+      ],
+      "optionsHi": [
+        "(A) सत्य है लेकिन (R) गलत है।",
+        "(A) और (R) दोनों गलत हैं।",
+        "(A) और (R) दोनों सत्य हैं और (R), (A) की सही व्याख्या करता है।",
+        "(A) और (R) दोनों सत्य हैं लेकिन (R), (A) की सही व्याख्या नहीं करता है।"
+      ],
+      "answer": 2,
+      "explanation": "Kohlberg's stages form an invariant sequence, which is why children progress from consequence-based judgements to seeing rules as changeable social agreements. (Q10 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "कोहलबर्ग की अवस्थाएँ एक निश्चित क्रम में आती हैं, इसी कारण बच्चे परिणाम-आधारित निर्णय से नियमों को परिवर्तनीय मानने तक पहुँचते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following statements is NOT correct about inclusive education?",
+      "textHi": "निम्नलिखित में से कौन सा कथन समावेशी शिक्षा के बारे में सही नहीं है ?",
+      "options": [
+        "An inclusive classroom \"accommodates differences in learning styles and promotes collaboration\".",
+        "An inclusive classroom is centred only around \"a fixed curriculum and standard assessment\".",
+        "Inclusive teaching means \"teaching in ways that do not exclude\".",
+        "Inclusive teaching means \"adopting a pedagogy that supports the needs of all learners\"."
+      ],
+      "optionsHi": [
+        "एक समावेशी कक्षा “भाषा शैली में अंतर को समायोजित करती है और सहयोग को बढ़ावा देती है”।",
+        "“निश्चित पाठ्यचर्या और मानक मूल्यांकन” के आसपास ही एक समावेशी कक्षा का केंद्र होता है।",
+        "समावेशी शिक्षण का अर्थ है “ऐसे तरीकों से शिक्षण जो बहिष्कृत न करें”।",
+        "समावेशी शिक्षण का अर्थ है “उस शिक्षाशास्त्र को अपनाना जो सभी शिक्षार्थियों की आवश्यकताओं का समर्थन करता है”।"
+      ],
+      "answer": 1,
+      "explanation": "Inclusion needs a flexible curriculum and varied assessment, not a fixed curriculum and standard tests. (Q11 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "समावेशन के लिए लचीली पाठ्यचर्या और विविध आकलन चाहिए, निश्चित पाठ्यचर्या और मानक मूल्यांकन नहीं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Lev Vygotsky proposes that ________ is important for self-regulation in children.",
+      "textHi": "लेव वायगोत्स्की प्रस्तावित करते हैं कि ________ बच्चों में स्व-नियमन के लिए महत्वपूर्ण हैं।",
+      "options": [
+        "Adaptation",
+        "Organisation",
+        "Disequilibrium",
+        "Private speech"
+      ],
+      "optionsHi": [
+        "अनुकूल",
+        "संगठन",
+        "असंतुलन",
+        "निजी वाक्"
+      ],
+      "answer": 3,
+      "explanation": "Vygotsky saw private speech as the tool children use to guide and regulate their own behaviour. (Q12 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "वायगोत्स्की के अनुसार निजी वाक् वह साधन है जिससे बच्चे अपने व्यवहार का स्व-नियमन करते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Jean Piaget's theory of cognitive development, which of the following abilities distinguishes concrete operational thinking from pre-operational thinking?",
+      "textHi": "जीन पियाजे के संज्ञानात्मक विकास के सिद्धांत के अनुसार, निम्नलिखित में से कौन-सी क्षमता मूर्त-संक्रियात्मक सोच को पूर्व-संक्रियात्मक सोच से अलग करती है?",
+      "options": [
+        "Hypothetical reasoning",
+        "Object permanence",
+        "Coordination of the senses",
+        "Decentration"
+      ],
+      "optionsHi": [
+        "परिकल्पित तार्किकता",
+        "वस्तु स्थायित्व",
+        "इंद्रियों का समन्वय",
+        "विकेंद्रण"
+      ],
+      "answer": 3,
+      "explanation": "Concrete operational children can decentre (attend to several aspects at once), unlike centred pre-operational thinkers. (Q13 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "मूर्त संक्रियात्मक अवस्था में बच्चे विकेंद्रण कर पाते हैं, जबकि पूर्व-संक्रियात्मक सोच केंद्रित रहती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following types of questions helps to assess a student's ability to critically evaluate information?",
+      "textHi": "निम्न में से किस प्रकार के प्रश्न एक छात्र की जानकारी का गंभीर रूप से मूल्यांकन करने की योग्यता का आकलन करने में मदद करता है?",
+      "options": [
+        "Questions that ask for examples that validate the text",
+        "Questions that ask for a summary of a text",
+        "Questions that ask for a simple definition of a word",
+        "Questions that ask for the student's personal opinion"
+      ],
+      "optionsHi": [
+        "वे प्रश्न जो पाठ को मान्य करने वाले उदाहरणों के लिए पूछते हैं",
+        "वे प्रश्न जो किसी पाठ का सारांश माँगते हैं",
+        "वे प्रश्न जो शब्द की सरल परिभाषा के लिए पूछते हैं",
+        "वे प्रश्न जो छात्र की व्यक्तिगत राय पूछते हैं"
+      ],
+      "answer": 3,
+      "explanation": "Asking for a personal, reasoned opinion requires the student to judge the information rather than merely recall it. (Q14 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "व्यक्तिगत राय माँगने पर विद्यार्थी को जानकारी का मूल्यांकन करना पड़ता है, केवल याद करना नहीं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following statements appropriately defines the relationship between cognition and emotions?",
+      "textHi": "निम्नलिखित में से कौन-सा कथन संज्ञान और भावनाओं के बीच के संबंध को उपयुक्त रूप से परिभाषित करता है?",
+      "options": [
+        "Cognition affects emotions but the reverse is not true.",
+        "Emotions affect cognition but the reverse is not true.",
+        "Cognition and emotions are both independent systems.",
+        "Emotions and cognition are mutually interdependent on each other."
+      ],
+      "optionsHi": [
+        "संज्ञान भावनाओं को प्रभावित करता है लेकिन इसका विपरीत सत्य नहीं है।",
+        "भावनाएँ संज्ञान को प्रभावित करती हैं लेकिन इसका विपरीत सत्य नहीं है।",
+        "संज्ञान और भावनाएँ, दोनों स्वतंत्र प्रणालियाँ हैं।",
+        "भावनाएँ और संज्ञान आपस में एक-दूसरे पर पारस्परिक रूप से निर्भर करते हैं।"
+      ],
+      "answer": 3,
+      "explanation": "Emotions influence attention and memory, and thinking shapes emotions, so the two are interdependent. (Q15 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "भावनाएँ ध्यान और स्मृति को प्रभावित करती हैं और चिंतन भावनाओं को, अतः दोनों परस्पर निर्भर हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "How is language development facilitated in primary classes?",
+      "textHi": "प्राथमिक कक्षाओं में भाषा का विकास किस प्रकार संसाधित होता है ?",
+      "options": [
+        "When teachers disregard and neglect children's mother tongue.",
+        "When teachers start with signs and symbols instead of concrete objects.",
+        "When teachers use concrete examples to refer to abstract concepts.",
+        "When teachers emphasise and enforce the use of formal language."
+      ],
+      "optionsHi": [
+        "जब शिक्षक बच्चों की मातृभाषा की अवहेलना और उपेक्षा करते हैं।",
+        "जब शिक्षक मूर्त वस्तुओं के बजाय संकेतों और प्रतिकों से शुरू करते हैं।",
+        "जब शिक्षक अमूर्त अवधारणाओं को संदर्भित करने के लिए ठोस उदाहरणों का उपयोग करते हैं।",
+        "जब शिक्षक औपचारिक भाषा के प्रयोग पर जोर देते हैं और उसे लागू करते हैं।"
+      ],
+      "answer": 2,
+      "explanation": "Young children grasp language and ideas best when abstract concepts are linked to concrete examples. (Q16 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "छोटे बच्चे अमूर्त अवधारणाओं को ठोस उदाहरणों से जोड़ने पर भाषा और विचार बेहतर सीखते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to the attribution theory of motivation, which of the following is likely to lead to persistent effort and better performance?",
+      "textHi": "अभिप्रेरणा के आरोपण सिद्धांत के अनुसार निम्नलिखित में से किससे लगातार कोशिश और बेहतर प्रदर्शन की संभावना है?",
+      "options": [
+        "Internal attribution for both failure and success",
+        "External attribution for both failure and success",
+        "Internal attribution for success and external attribution for failure",
+        "External attribution for success and internal attribution for failure"
+      ],
+      "optionsHi": [
+        "असफलता और सफलता दोनों के लिए आंतरिक आरोपण",
+        "असफलता और सफलता दोनों के लिए बाहरी आरोपण",
+        "सफलता के लिए आंतरिक आरोपण और असफलता के लिए बाहरी आरोपण",
+        "सफलता के लिए बाहरी आरोपण और असफलता के लिए आंतरिक आरोपण"
+      ],
+      "answer": 0,
+      "explanation": "Attributing both success and failure to internal, controllable causes such as effort keeps learners trying. (Q17 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "सफलता और असफलता दोनों को आंतरिक, नियंत्रणीय कारणों (जैसे प्रयास) से जोड़ने पर शिक्षार्थी लगातार प्रयास करते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "For the inclusion of students belonging to disadvantaged sections:",
+      "textHi": "वंचित वर्गों से संबंधित विद्यार्थियों के समावेशन के लिए :",
+      "options": [
+        "they should be segregated in the classroom on the basis of social affiliation.",
+        "students should be divided into groups on the basis of similar abilities.",
+        "awareness of and sensitivity towards diverse traditions should be promoted.",
+        "identity-based stereotypes should be validated and encouraged."
+      ],
+      "optionsHi": [
+        "सामाजिक संबद्धता के आधार पर कक्षा में अलगाव करना चाहिए।",
+        "समान क्षमताओं के आधार पर विद्यार्थियों को समूहों में विभाजित करना चाहिए।",
+        "विविध परम्पराओं के प्रति जागरूकता और संवेदनशीलता को बढ़ावा देना चाहिए।",
+        "पहचान आधारित रुढ़ियों को प्रमाणित और प्रोत्साहित किया जाना चाहिए।"
+      ],
+      "answer": 2,
+      "explanation": "Inclusion is built by respecting and being sensitive to diverse traditions, not by segregation or stereotyping. (Q18 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "समावेशन विविध परम्पराओं के प्रति सम्मान और संवेदनशीलता से होता है, अलगाव या रूढ़ियों से नहीं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "While taking part in a sports competition in class, Tanuj tells his friend that he will take part in javelin throw and his sister can take part in rope skipping, because she is a girl and girls cannot throw the javelin. This shows ________.",
+      "textHi": "कक्षा में खेल प्रतियोगिता में हिस्सा लेते समय तनुज अपने दोस्त से कहता है कि वह भाला फेंकने में हिस्सा लेगा और रस्सी कूदने में उसकी बहन हिस्सा ले सकती हैं क्योंकि वह एक लड़की है और लड़कियां भाला नहीं फेंक सकती। यह ________ को प्रदर्शित करता है।",
+      "options": [
+        "Gender equity",
+        "Gender stereotyping",
+        "Gender relatedness",
+        "Gender equality"
+      ],
+      "optionsHi": [
+        "जेंडर समता",
+        "जेंडर रूढ़िवादिता",
+        "जेंडर संबंधता",
+        "जेंडर समानता"
+      ],
+      "answer": 1,
+      "explanation": "Assuming girls cannot do certain activities is a gender stereotype. (Q19 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "यह मानना कि लड़कियाँ कुछ कार्य नहीं कर सकतीं, जेंडर रूढ़िवादिता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is a distinctive characteristic of dyslexia?",
+      "textHi": "निम्नलिखित में से पठन वैकल्य की एक विशिष्ट विशेषता कौन-सी है ?",
+      "options": [
+        "Difficulty in physical coordination",
+        "Difficulty in spatial understanding/information",
+        "Difficulty in creative problem solving",
+        "Difficulty in phonological processing"
+      ],
+      "optionsHi": [
+        "शारीरिक समन्वय में कठिनाई",
+        "स्थानिक समझ / जानकारी में कठिनाई",
+        "रचनात्मक समस्या समाधान में कठिनाई",
+        "ध्वन्यात्मक प्रसंस्करण में कठिनाई"
+      ],
+      "answer": 3,
+      "explanation": "Dyslexia is a reading disability rooted mainly in difficulty with phonological (sound) processing. (Q20 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "पठन वैकल्य (डिस्लेक्सिया) मुख्यतः ध्वन्यात्मक प्रसंस्करण की कठिनाई से जुड़ी पठन अक्षमता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following factors promotes problem solving?",
+      "textHi": "निम्नलिखित में से कौन सा कारक समस्या समाधान को बढ़ावा देता है ?",
+      "options": [
+        "Passive conformity",
+        "Response set",
+        "Divergent thinking",
+        "Functional fixedness"
+      ],
+      "optionsHi": [
+        "निष्क्रिय अनुसरण",
+        "प्रतिक्रिया सेट",
+        "अपसारी चिंतन",
+        "कार्यात्मक स्थिरता"
+      ],
+      "answer": 2,
+      "explanation": "Divergent thinking generates many possible solutions; response set and functional fixedness block problem solving. (Q21 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "अपसारी चिंतन अनेक संभावित हल देता है; अनुक्रिया-विन्यास और कार्यात्मक स्थिरता समस्या-समाधान में बाधक हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Divergent thinking ________ whereas convergent thinking ________.",
+      "textHi": "अपसारी चिंतन ________ जबकि अभिसारी चिंतन ________",
+      "options": [
+        "promotes mathematical abilities; promotes verbal abilities",
+        "promotes verbal abilities; promotes mathematical abilities",
+        "encourages multiple answers; is fixed on one correct solution",
+        "is fixed on one correct solution; encourages multiple answers"
+      ],
+      "optionsHi": [
+        "गणितीय क्षमताओं को बढ़ावा देता है; मौखिक क्षमताओं को बढ़ावा देता है",
+        "मौखिक क्षमताओं को बढ़ावा देता है; गणितीय क्षमताओं को बढ़ावा देता है",
+        "कई उत्तरों को प्रोत्साहित करता है; एक सही समाधान पर स्थिर है",
+        "एक सही समाधान पर स्थिर है; कई उत्तरों को प्रोत्साहित करता है"
+      ],
+      "answer": 2,
+      "explanation": "Divergent thinking explores many answers while convergent thinking narrows down to one correct answer. (Q22 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "अपसारी चिंतन कई उत्तर खोजता है जबकि अभिसारी चिंतन एक सही उत्तर पर केंद्रित होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following would NOT be considered formative assessment?",
+      "textHi": "निम्नलिखित में से किसे रचनात्मक मूल्यांकन नहीं माना जाएगा ?",
+      "options": [
+        "An assessment task that helps to compare students according to a standard scale of norms.",
+        "An assessment used to identify misconceptions in a student's learning.",
+        "An assessment given at the beginning of a new concept to determine students' prior knowledge.",
+        "An assessment given during class to provide forward-looking feedback to students and teachers."
+      ],
+      "optionsHi": [
+        "एक मूल्यांकन कार्य जो मानदंड के एक मानक पैमाने के अनुसार छात्रों की तुलना करने में सहायक होता है।",
+        "एक आकलन एक छात्र के सीखने में गलत धारणाओं की पहचान करने के लिए प्रयोग किया जाता है।",
+        "छात्रों के पूर्व ज्ञान को निर्धारित करने के लिए एक नई अवधारणा की शुरुआत में दिया गया आकलन ।",
+        "छात्रों और शिक्षकों को अग्रगामी प्रतिपुष्टि प्रदान करने के लिए कक्षा के दौरान दिया गया मूल्यांकन ।"
+      ],
+      "answer": 0,
+      "explanation": "Comparing students against norms is norm-referenced (summative-type) testing, not formative assessment for learning. (Q23 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "मानदंडों के आधार पर विद्यार्थियों की तुलना मानक-संदर्भित आकलन है, रचनात्मक आकलन नहीं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is a characteristic of useful feedback?",
+      "textHi": "निम्नलिखित में से उपयोगी प्रतिपुष्टि की एक विशेषता कौन-सी है ?",
+      "options": [
+        "It focuses only on results.",
+        "It is timely and specific.",
+        "It is given only at the end of the task.",
+        "It is broad and general."
+      ],
+      "optionsHi": [
+        "यह केवल परिणामों पर केंद्रित होती हैं।",
+        "यह सामयिक और विशिष्ट होती है।",
+        "यह केवल कार्य के अंत में ही दी जाती है।",
+        "यह व्यापक और सामान्य होती है।"
+      ],
+      "answer": 1,
+      "explanation": "Feedback helps most when it comes in time and tells the learner exactly what to improve. (Q24 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "प्रतिपुष्टि तब सबसे उपयोगी होती है जब वह समय पर और विशिष्ट हो।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following correctly describes intrinsic motivation?",
+      "textHi": "निम्नलिखित में से कौन आंतरिक अभिप्रेरणा का सही वर्णन करता है ?",
+      "options": [
+        "Motivation that comes from competition with others",
+        "Motivation that comes from fear of punishment",
+        "Motivation that comes from external rewards",
+        "Motivation that comes from personal enjoyment of the task"
+      ],
+      "optionsHi": [
+        "अभिप्रेरणा जो दूसरों के साथ प्रतिस्पर्धा से आती है",
+        "अभिप्रेरणा जो दंड के भय से आती है",
+        "अभिप्रेरणा जो बाहरी पुरस्कारों से आती है",
+        "अभिप्रेरणा जो कार्य के व्यक्तिगत-आनंद से आती है"
+      ],
+      "answer": 3,
+      "explanation": "Intrinsic motivation comes from interest and enjoyment in the task itself. (Q26 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "आंतरिक अभिप्रेरणा कार्य में रुचि और आनंद से उत्पन्न होती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is a key principle of progressive education?",
+      "textHi": "निम्नलिखित में से कौन सा प्रगतिशील शिक्षा का एक प्रमुख सिद्धांत है?",
+      "options": [
+        "Learning should be based on authentic tasks.",
+        "The curriculum should be predetermined and universal.",
+        "Standardised testing is the best way to measure students' learning.",
+        "Students should be passive recipients of knowledge from their teachers."
+      ],
+      "optionsHi": [
+        "सीखना प्रामाणिक कार्यों पर आधारित होना चाहिए।",
+        "पाठ्यचर्या पूर्व निर्धारित और सार्वभौमिक होनी चाहिए।",
+        "छात्रों के सीखने को मापने के लिए मानकीकृत परीक्षण सबसे अच्छा तरीका है।",
+        "छात्रों को अपने शिक्षकों से ज्ञान का निष्क्रिय प्राप्तकर्ता होना चाहिए।"
+      ],
+      "answer": 0,
+      "explanation": "Progressive education (Dewey) links learning to real, authentic experiences. (Q27 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "प्रगतिशील शिक्षा (ड्यूई) सीखने को वास्तविक, प्रामाणिक अनुभवों से जोड़ती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Impairment is a ________ condition, whereas disability is a ________ condition.",
+      "textHi": "बाधिता एक ________ स्थिति है, जबकि अक्षमता एक ________ स्थिति है।",
+      "options": [
+        "functional, physical",
+        "social, psychological",
+        "biological, functional",
+        "functional, biological"
+      ],
+      "optionsHi": [
+        "क्रियात्मक, शारीरिक",
+        "सामाजिक, मनोवैज्ञानिक",
+        "जैविक, कार्यात्मक",
+        "कार्यात्मक, जैविक"
+      ],
+      "answer": 2,
+      "explanation": "Impairment is a loss of body structure or function (biological); disability is the resulting limitation in activity (functional). (Q28 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "बाधिता शरीर की संरचना/कार्य की क्षति (जैविक) है; अक्षमता उससे उत्पन्न कार्यात्मक सीमा है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following are examples of scaffolding?\n(a) Think aloud\n(b) Hints and cues\n(c) Questions\n(d) Half-solved examples\n(e) Rote repetition",
+      "textHi": "निम्न में से कौन सा आलम्बन के उदाहरण हैं?\n(a) बोल कर सोचो\n(b) संकेत और ईशारे\n(c) प्रश्न\n(d) आधा हल किया हुआ उदाहरण\n(e) रटकर दोहराव",
+      "options": [
+        "(a), (b), (c), (d)",
+        "(a), (b), (c), (d), (e)",
+        "(a), (b)",
+        "(a), (b), (c)"
+      ],
+      "optionsHi": [
+        "(a), (b), (c), (d)",
+        "(a), (b), (c), (d), (e)",
+        "(a), (b)",
+        "(a), (b), (c)"
+      ],
+      "answer": 0,
+      "explanation": "Thinking aloud, hints, questions and worked examples are temporary supports; rote repetition is not scaffolding. (Q29 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "बोलकर सोचना, संकेत, प्रश्न और आधे हल किए उदाहरण अस्थायी सहारा (आलम्बन) हैं; रटकर दोहराव आलम्बन नहीं है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Kohlberg's theory of moral development, at which level are children self-centred and see only their own benefit in doing an act?",
+      "textHi": "कोहलबर्ग के नैतिक विकास सिद्धांत के अनुसार किस स्तर पर बच्चे आत्मकेन्द्रित होते हैं और किसी कार्य को करने में अपना ही लाभ देखते हैं?",
+      "options": [
+        "Third stage of the second level",
+        "Fifth stage of the third level",
+        "First stage of the first level",
+        "Second stage of the first level"
+      ],
+      "optionsHi": [
+        "दूसरे स्तर के तीसरे चरण में",
+        "तीसरे स्तर के पाँचवे चरण में",
+        "पहले स्तर के पहले चरण में",
+        "पहले स्तर के दूसरे चरण में"
+      ],
+      "answer": 3,
+      "explanation": "Stage 2 (instrumental/self-interest orientation) of the pre-conventional level judges actions by personal gain. (Q30 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-cdp-answer-key/",
+      "explanationHi": "पूर्व-पारंपरिक (पहले) स्तर की दूसरी अवस्था (स्व-हित/साधनात्मक अभिमुखता) में बच्चे अपने लाभ के आधार पर कार्य करते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "You want students to learn through peer-teaching strategies. How will you form the groups?",
+      "textHi": "आप चाहते हैं कि छात्र सहपाठी शिक्षण रणनीतियों द्वारा सीखें। आप समूह कैसे बनाएँगे ?",
+      "options": [
+        "Form a heterogeneous group on the basis of participation and cooperation.",
+        "Form a group of 5 students of the same gender and socio-economic background.",
+        "Form groups of 4/5 students according to roll numbers.",
+        "Form a homogeneous group of students according to marks obtained in the examination."
+      ],
+      "optionsHi": [
+        "भागीदारी और सहयोग के आधार पर एक विषम समूह बनाएँ।",
+        "समान लिंग और सामाजिक-आर्थिक पृष्ठभूमि के 5 छात्रों का एक समूह बनाएँ।",
+        "4/5 छात्रों के रोल नंबर के अनुसार समूह बनाएँ।",
+        "परीक्षा में प्राप्त अंकों के अनुसार छात्रों का एक समान समूह बनाएँ।"
+      ],
+      "answer": 0,
+      "explanation": "Peer learning works best in mixed (heterogeneous) groups where students help one another. (Q63 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "सहपाठी अधिगम विषम (मिश्रित) समूहों में सबसे अच्छा होता है जहाँ विद्यार्थी एक-दूसरे की मदद करते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "'Pochampally' is a district famous for its brightly coloured saris with beautiful designs and a special kind of weaving, also called Pochampally. It is a part of which of the following?",
+      "textHi": "‘पोचमपल्ली’ खूबसूरत डिजाइन की चमकदार रंगों की साड़ियों और विशेष प्रकार की बुनाई जिसे भी पोचमपल्ली ही कहते हैं के लिए विख्यात जिला है। यह निम्नलिखित में से किसका भाग है?",
+      "options": [
+        "Maharashtra",
+        "Telangana",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "optionsHi": [
+        "महाराष्ट्र",
+        "तेलंगाना",
+        "तमिलनाडु",
+        "कर्नाटक"
+      ],
+      "answer": 1,
+      "explanation": "Pochampally ikat weaving comes from Telangana (NCERT EVS Class 5). (Q64 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "पोचमपल्ली इकत बुनाई तेलंगाना की है (एन.सी.ई.आर.टी. ईवीएस कक्षा 5)।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Read the following statements carefully:\nStatement (I): The EVS syllabus is divided into 6 themes: water, relationships, food, travel, shelter and how things work.\nStatement (II): The EVS themes are very close to children's lives.",
+      "textHi": "निम्नलिखित कथनों को ध्यान से पढ़िए:\nकथन (I) : ई.वी.एस पाठ्यक्रम को 6 थीम में बाँटा गया है पानी, आपसी संबंध, भोजन, यातायात, आवास एवं वस्तुएँ कैसे कार्य करती हैं।\nकथन (II) : ई.वी.एस के थीम बच्चों के जीवन के बहुत करीब हैं।",
+      "options": [
+        "Statement (I) is correct and Statement (II) is incorrect.",
+        "Statement (I) is incorrect and Statement (II) is correct.",
+        "Both Statements (I) and (II) are correct.",
+        "Both Statements (I) and (II) are incorrect."
+      ],
+      "optionsHi": [
+        "कथन (I) सही है एवं कथन (II) गलत है।",
+        "कथन (I) गलत है एवं कथन (II) सही है।",
+        "दोनों कथन (I) एवं (II) सही है।",
+        "दोनों कथन (I) एवं (II) गलत है।"
+      ],
+      "answer": 2,
+      "explanation": "The primary EVS syllabus is organised in six themes drawn from children's everyday lives. (Q65 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "प्राथमिक ईवीएस पाठ्यक्रम छह थीमों में बँटा है जो बच्चों के दैनिक जीवन से लिए गए हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Comprehensive evaluation means a holistic way of evaluating a student. The way in which an EVS teacher can assess her students for comprehensive evaluation in EVS is:",
+      "textHi": "व्यापक मूल्यांकन का अर्थ है एक छात्र का मूल्यांकन करने का समग्र तरीका। जिस तरीके से एक ईवीएस शिक्षक ईवीएस में व्यापक मूल्यांकन के लिए अपने छात्रों का आकलन कर सकता है वह है :",
+      "options": [
+        "Rating scale for evaluating activities",
+        "Portfolio",
+        "Teacher's observation",
+        "Half-yearly and annual examinations"
+      ],
+      "optionsHi": [
+        "गतिविधियों के मूल्यांकन के लिए रेटिंग स्केल",
+        "पोर्टफोलियो",
+        "शिक्षकों का अवलोकन",
+        "अर्धवार्षिक और वार्षिक परीक्षा"
+      ],
+      "answer": 1,
+      "explanation": "A portfolio collects varied work over time and so gives a holistic picture of a learner. (Q66 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "पोर्टफोलियो समय के साथ विविध कार्यों का संग्रह है, इसलिए यह शिक्षार्थी की समग्र तस्वीर देता है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "An EVS teacher taught her students about animals and asked them to do the following tasks:\n(a) Write the names of different animals around you.\n(b) Observe the activities of different animals.\n(c) Classify the animals into categories on the basis of observation.\n(d) Define 'animal'.\nWhich of the above is NOT suitable for students at the primary level?",
+      "textHi": "एक ईवीएस शिक्षिका ने अपने छात्रों को जानवरों के बारे में पढ़ाया और उन्हें निम्नलिखित कार्य करने के लिए कहा :\n(a) आस-पास के विभिन्न जानवरों के नाम लिखिए।\n(b) विभिन्न जानवरों की गतिविधियों का अवलोकन करो।\n(c) अवलोकन के आधार पर जानवरों को श्रेणियों में वर्गीकृत करो।\n(d) जानवर को परिभाषित करो।\nउपरोक्त में से कौन सा प्राथमिक स्तर के छात्रों के लिए उपयुक्त नहीं है ?",
+      "options": [
+        "Only (c)",
+        "Only (d)",
+        "(a) and (c)",
+        "(b) and (c)"
+      ],
+      "optionsHi": [
+        "केवल (c)",
+        "केवल (d)",
+        "(a) और (c)",
+        "(b) और (c)"
+      ],
+      "answer": 1,
+      "explanation": "Abstract definitions are not suitable at the primary stage; observing, naming and classifying are. (Q67 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "प्राथमिक स्तर पर अमूर्त परिभाषाएँ उपयुक्त नहीं हैं; अवलोकन, नाम लिखना और वर्गीकरण उपयुक्त हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Neena, an EVS teacher of Class 5, gives her students a group assignment to visit nearby farms and collect information about the tools used by farmers and the crops they grow. They also have to collect photographs and prepare a report. Which process skills and learning indicators are involved here?",
+      "textHi": "कक्षा 5 की ईवीएस शिक्षिका नीना अपने छात्रों को एक समूह असाइनमेंट देती है कि उन्हें पास के कृषि फार्मों का दौरा करना है और कृषि के दौरान किसानों द्वारा उपयोग किए जाने वाले उपकरणों और उनके द्वारा उगाई जाने वाली फसलों के बारे में जानकारी प्राप्त करनी है। उन्हें फोटो भी कलेक्ट कर रिपोर्ट तैयार करनी है। यहाँ कौन से प्रक्रिया कौशल और सीखने के संकेतक शामिल हैं?",
+      "options": [
+        "Hypothesising, drawing conclusions, expression",
+        "Estimation, experimentation, observation",
+        "Questioning, expressing, drawing conclusions",
+        "Asking questions, experimenting, sensitivity towards the environment"
+      ],
+      "optionsHi": [
+        "परिकल्पना, परिणाम निकालना, अभिव्यक्ति",
+        "अनुमान, प्रयोग, अवलोकन",
+        "प्रश्न करना, अभिव्यक्ति करना, परिणाम निकालना",
+        "प्रश्न पूछना, प्रयोग करना, पर्यावरण के प्रति संवेदनशीलता"
+      ],
+      "answer": 2,
+      "explanation": "Interviewing farmers (questioning), reporting (expressing) and summarising findings (concluding) are the skills used. (Q69 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "किसानों से पूछना (प्रश्न करना), रिपोर्ट बनाना (अभिव्यक्ति) और निष्कर्ष निकालना इस कार्य के कौशल हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Which of the following groups represents the themes of EVS at the primary level?",
+      "textHi": "निम्नलिखित में से कौन सा समूह प्राथमिक स्तर पर ईवीएस के थीमों को दर्शाता है ?",
+      "options": [
+        "Family and friends, travel, natural resources",
+        "Shelter, travel, things we make and do",
+        "Weather, water, travel",
+        "Food, matter, shelter"
+      ],
+      "optionsHi": [
+        "परिवार और मित्र, यात्रा, प्राकृतिक संसाधन",
+        "आवास, यात्रा, चीजें जो हम बनाते है और करते है।",
+        "मौसम, पानी, यात्रा",
+        "भोजन, पदार्थ, आवास"
+      ],
+      "answer": 1,
+      "explanation": "The six EVS themes are Family and Friends, Food, Shelter, Water, Travel, and Things We Make and Do. (Q70 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "ईवीएस की छह थीम हैं: परिवार और मित्र, भोजन, आवास, पानी, यात्रा तथा चीजें जो हम बनाते और करते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "EVS textbooks should reflect the NCF 2005 recommendation of connecting students' life at school to their life outside. This means:",
+      "textHi": "ईवीएस की पाठ्यपुस्तकों को विद्यार्थी स्कूल के जीवन को उनके बाहर के जीवन से जोड़ने की एनसीएफ, 2005 की सिफारिश को प्रतिबिंबित करना चाहिए। इसका अर्थ है :",
+      "options": [
+        "Textbooks help students construct knowledge through all the sources around them.",
+        "Teachers need to use textbooks as one resource among teaching-learning resources.",
+        "Students are bound to memorise important concepts of EVS.",
+        "The textbook is the only source of knowledge."
+      ],
+      "optionsHi": [
+        "पाठ्यपुस्तकें विद्यार्थियों को उनके आसपास के सभी स्रोतों के माध्यम से ज्ञान का निर्माण करने में सहायता करती हैं।",
+        "शिक्षकों को पाठ्यपुस्तकों को शिक्षण-अधिगम संसाधनों में एक संसाधन के रूप में उपयोग करने की आवश्यकता है।",
+        "विद्यार्थी EVS के महत्त्वपूर्ण अवधारणाओं को याद करने के लिए बाध्य हैं।",
+        "पाठ्यपुस्तक ज्ञान का एकमात्र स्रोत है।"
+      ],
+      "answer": 0,
+      "explanation": "NCF 2005 wants learners to build knowledge from their surroundings, not only from the textbook. (Q72 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "एनसीएफ 2005 चाहता है कि शिक्षार्थी केवल पाठ्यपुस्तक से नहीं, बल्कि अपने परिवेश के सभी स्रोतों से ज्ञान का निर्माण करें।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Which one of the following statements about Ghadsisar is NOT correct? Choose the correct answer.",
+      "textHi": "घड़सीसर से संबंधित निम्नलिखित कथनों में से कौन-सा एक कथन सही नहीं है? सही उत्तर चुनें।",
+      "options": [
+        "It was connected to nine lakes.",
+        "This lake is still in use today.",
+        "It was built by King Ghadsi of Jaisalmer.",
+        "It was built about 650 years ago."
+      ],
+      "optionsHi": [
+        "यह नौ तालाबों से जुड़ा हुआ था",
+        "यह तालाब आज भी प्रयोग में है",
+        "जैसलमेर राजा घड़सी से इसे बनाया था",
+        "यह लगभग 650 साल पहले बनया गया था"
+      ],
+      "answer": 1,
+      "explanation": "NCERT EVS (Class 4) notes that Ghadsisar, built by Raja Ghadsi about 650 years ago, is hardly used for water today. (Q73 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "एन.सी.ई.आर.टी. ईवीएस (कक्षा 4) के अनुसार लगभग 650 वर्ष पहले राजा घड़सी द्वारा बनाया गया घड़सीसर आज पानी के लिए लगभग प्रयोग नहीं होता।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Seema, an EVS teacher, organised a field trip to the zoo for her students. Which of the following are the most appropriate objectives of the zoo visit?\n(a) Memorising the names of the zoo animals\n(b) Connecting concepts related to animals\n(c) Promoting process skills\n(d) Assessing students' learning at the zoo",
+      "textHi": "सीमा, एक ईवीएस शिक्षिका ने अपने छात्रों के लिए चिड़ियाघर एक क्षेत्र भ्रमण (फील्ड ट्रिप) का आयोजन किया। निम्नलिखित में से कौन चिड़ियाघर की यात्रा के सबसे उपयुक्त उद्देश्य हैं ?\n(a) चिड़ियाघर के जानवरों के नाम याद करना\n(b) जानवरों से संबंधित अवधारणाओं को जोड़ना\n(c) प्रक्रिया कौशल को बढ़ावा देना\n(d) चिड़ियाघर में छात्रों के सीखने का आकलन",
+      "options": [
+        "(a), (c) and (d)",
+        "(a) and (b)",
+        "(a), (b) and (c)",
+        "(b), (c) and (d)"
+      ],
+      "optionsHi": [
+        "(a), (c) और (d)",
+        "(a) और (b)",
+        "(a), (b) और (c)",
+        "(b), (c) और (d)"
+      ],
+      "answer": 3,
+      "explanation": "Field trips are for linking concepts, building process skills and assessing learning, not memorising names. (Q74 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "क्षेत्र भ्रमण का उद्देश्य अवधारणाओं को जोड़ना, प्रक्रिया कौशल बढ़ाना और अधिगम का आकलन करना है, नाम रटना नहीं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Ravi took water in a glass and put a whole lemon in it. Then he added a lot of salt to the glass, half a spoon at a time. After some time he found that:",
+      "textHi": "रवि ने एक गिलास में जल लिया। उसमें उसने एक साबूत नींबू डाल दिया। फिर, वह उस गिलास में बहुत सारा नमक डालता है, आधा चम्मच एक बार में। कुछ समय पश्चात, उसने पाया कि :",
+      "options": [
+        "the lemon broke into two parts in the water.",
+        "the lemon went to the middle of the glass.",
+        "the lemon sank in the water.",
+        "the lemon started floating in the water."
+      ],
+      "optionsHi": [
+        "नींबू जल में दो भागों में टूट गया।",
+        "नींबू गिलास के बीचों बीच चला गया।",
+        "नींबू जल में डूब गया।",
+        "नींबू जल में तैरने लगा।"
+      ],
+      "answer": 3,
+      "explanation": "Dissolving salt raises the density of the water, so the lemon floats. (Q75 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "नमक घुलने से पानी का घनत्व बढ़ जाता है, इसलिए नींबू तैरने लगता है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "A chapter of the NCERT EVS textbook describes Wahida Prism and her experiences as a doctor in the Navy. What are the reasons for including this?\n(a) Her experience challenges gender stereotypes.\n(b) Her story gives a glimpse of the life of a medical officer in the armed forces.\n(c) To understand that a prism shows 7 colours.\n(d) To understand the difficulties she faced and the ways she dealt with them.",
+      "textHi": "एन.सी.ई.आर.टी. की ई.वी.एस. पाठ्यपुस्तक के एक अध्याय में वहीदा का प्रिज्म और नौसेना में डॉक्टर के रूप में उनके अनुभव का वर्णन है। इसे शामिल करने के क्या कारण है?\n(a) उनका अनुभव लैंगिक रूढ़ियों को चुनौती देता है।\n(b) उसको कहानी सशस्त्र बलों में एक चिकित्सा अधिकारी के जीवन की एक झलक देती है।\n(c) यह समझना कि प्रिज्म 7 रंगों को दर्शाता है।\n(d) उसके सामने आने वाली कठिनाइयों और उनसे निपटने के तरीकों को समझना।",
+      "options": [
+        "(c) and (d)",
+        "(b), (d) and (a)",
+        "(a), (b) and (c)",
+        "(b), (c) and (d)"
+      ],
+      "optionsHi": [
+        "(c) और (d)",
+        "(b), (d) और (a)",
+        "(a), (b) और (c)",
+        "(b), (c) और (d)"
+      ],
+      "answer": 1,
+      "explanation": "The story of a woman naval doctor challenges stereotypes and shows life and challenges in the armed forces; it has nothing to do with optical prisms. (Q76 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "नौसेना की महिला डॉक्टर की कहानी रूढ़ियों को चुनौती देती है और सशस्त्र बलों का जीवन व चुनौतियाँ दिखाती है; इसका प्रकाशीय प्रिज्म से कोई संबंध नहीं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Which of the following strategies promotes inquiry while teaching the theme 'Food'?",
+      "textHi": "निम्नलिखित में से कौन सी रणनीति ‘भोजन’ थीम को पढ़ाते समय पूछताछ को बढ़ावा देती है?",
+      "options": [
+        "Asking students to find out the food preferences of their family members.",
+        "Showing pictures of different preserved foods used in different regions of India.",
+        "Asking students to collect pictures of different food items.",
+        "Demonstrating making sandwiches, shikanji (lemon water) etc. without fire."
+      ],
+      "optionsHi": [
+        "छात्रों से उनके परिवार के सदस्यों की खाने की पसंद का पता लगाने के लिए कहना।",
+        "भारत के विभिन्न क्षेत्रों में उपयोग किए जाने वाले विभिन्न परिरक्षित खाद्य पदार्थों के चित्र दिखाना।",
+        "छात्रों से विभिन्न खाद्य पदार्थों के चित्र एकत्र करने के लिए कहना।",
+        "सैंडविच, शिकंजी (लेमन वाटर) वगैरह को बिना आज के पकाने का प्रदर्शन"
+      ],
+      "answer": 0,
+      "explanation": "Finding out family members' food choices makes students investigate and gather information themselves. (Q77 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "परिवार के सदस्यों की खाने की पसंद पता करने से विद्यार्थी स्वयं जाँच-पड़ताल करते हैं।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Consider the statements (A) and (B) given below:\nStatement (A): Bora is a common variety of paddy (rice) used in Assam.\nStatement (B): Paddy grows well in clayey soil and the crop needs plenty of water.\nChoose the correct code:",
+      "textHi": "नीचे दिए गए कथनों (A) और (B) पर विचार कीजिए:\nकथन (A) : बोरा असम में उपयोग की जाने वाले धान का एक सामान्य प्रकार है।\nकथन (B) : धान की खेती चिकनी मिट्टी में अच्छी होती है एवं इस फसल को प्रचुर मात्रा में पानी चाहिए।\nनिम्नलिखित में से सही कोड चुनिए :",
+      "options": [
+        "(A) is correct but (B) is incorrect",
+        "(A) is incorrect but (B) is correct",
+        "Both (A) and (B) are correct",
+        "Both (A) and (B) are incorrect"
+      ],
+      "optionsHi": [
+        "(A) सही है परन्तु (B) गलत",
+        "(A) गलत हैं परन्तु (B) सही",
+        "(A) और (B) दोनों सही है",
+        "(A) और (B) दोनों गलत है"
+      ],
+      "answer": 2,
+      "explanation": "Bora (sticky rice) is common in Assam, and paddy needs clayey soil and abundant water. (Q78 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "बोरा (चिपचिपा चावल) असम में प्रचलित है, और धान को चिकनी मिट्टी व प्रचुर पानी चाहिए।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Alex, an EVS teacher of Class 3, while introducing the theme 'How we make things', helped his students cut coloured strips of paper and weave the strips into a mat. The edges are pasted together to make a beautiful mat. On which of the following objectives should Alex help his students focus?\n(a) Learning about colour and pattern and developing an aesthetic sense\n(b) Relating this activity to the weaving done by weavers\n(c) Memorising the steps of the method of making the mat\n(d) Learning to choose attractively coloured paper and to cut the strips perfectly",
+      "textHi": "कक्षा 3 के एक ईवीएस शिक्षक एलेक्स ने ‘हम चीजें कैसे बनाते हैं’ थीम की शुरुआत करते हुए अपने छात्रों को कागज में रंगीन पट्टियों को काटने और पट्टियों को चटाई बनाने में मदद की। एक सुंदर चटाई बनाने के लिए किनारों को एक साथ चिपकाया जाता है। निम्नलिखित में से किस उद्देश्य से एलेक्स को अपने छात्रों को ध्यान केंद्रित करने में मदद करनी चाहिए।\n(a) रंग, पैटरन के बारे में सीखना और सौन्दर्य बोध विकसित करना\n(b) इस गतिविधि को बुनकरों द्वारा की जाने वाली बुनाई से संबंधित करना\n(c) चटाई को बनाने की विधि के चरणों को याद करना।\n(d) आकर्षक रंगों के पेपर चुनना और स्ट्रिप्स को पूरी तरह से काटना सीखना।",
+      "options": [
+        "(a), (c) and (d)",
+        "(a) and (c)",
+        "(a), (b) and (d)",
+        "(b), (c) and (d)"
+      ],
+      "optionsHi": [
+        "(a), (c) और (d)",
+        "(a) और (c)",
+        "(a),(b) और (d)",
+        "(b), (c) और (d)"
+      ],
+      "answer": 2,
+      "explanation": "The activity builds aesthetics, links to weavers' work and develops skills; memorising steps is not the aim. (Q79 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "यह गतिविधि सौंदर्य बोध, बुनकरों के काम से जुड़ाव और कौशल विकसित करती है; चरण रटना उद्देश्य नहीं है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Which one of the following statements about the johad is correct? Choose the correct answer.",
+      "textHi": "जोहड़ से सम्बंधित, निम्नलिखित में से कौन-सा एक कथन सही है? सही उत्तर चुनें।",
+      "options": [
+        "It collects ground water in nearby wells.",
+        "It collects water from rivers.",
+        "It is a community-based rainwater harvesting system.",
+        "It filters impurities from water."
+      ],
+      "optionsHi": [
+        "यह आसपास के कुओं में जमीन का पानी इकट्ठा करता है।",
+        "यह नदियों से पानी इकट्ठा करता है।",
+        "यह समुदाय आधारित वर्षा जल संचयन प्रणाली है।",
+        "यह पानी से अशुद्धियों को फिल्टर करता है।"
+      ],
+      "answer": 2,
+      "explanation": "A johad is a traditional community-built earthen structure that stores rainwater. (Q81 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "जोहड़ समुदाय द्वारा बनाई गई पारंपरिक संरचना है जो वर्षा जल का संचयन करती है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Find the mass of an object whose density is 12 g/mL and volume is 3 mL.",
+      "textHi": "उस वस्तु का द्रव्यमान ज्ञात करिए जिसका घनत्व 12 ग्रा/मिली लीटर है तथा आयतन 3 मिली लीटर हैं।",
+      "options": [
+        "36 g",
+        "4 g",
+        "15 g",
+        "24 g"
+      ],
+      "optionsHi": [
+        "36 ग्रा.",
+        "4 ग्रा.",
+        "15 ग्रा.",
+        "24 ग्रा."
+      ],
+      "answer": 0,
+      "explanation": "Mass = density × volume = 12 × 3 = 36 g. (Q82 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "द्रव्यमान = घनत्व × आयतन = 12 × 3 = 36 ग्राम।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Read the given statements carefully and choose the correct option:\nAssertion (A): We can cook food more easily at sea level than at high altitudes.\nReason (R): The boiling point of water increases at high altitudes.",
+      "textHi": "दिए गए कथनों को ध्यानपूर्वक पढ़ें और सही विकल्प चुनें :\nअभिकथन (A) : हम अधिक ऊँचाई की तुलना में समुद्र तल पर आसानी से खाना पका सकते हैं।\nकारण (R) : अधिक ऊँचाई पर पानी का क्वथनाँक बढ़ जाता है।",
+      "options": [
+        "(A) is true but (R) is false.",
+        "(A) is false but (R) is true.",
+        "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+        "Both (A) and (R) are true but (R) is not the correct explanation of (A)."
+      ],
+      "optionsHi": [
+        "(A) सत्य है लेकिन (R) असत्य है।",
+        "(A) असत्य है लेकिन (R) सत्य है।",
+        "दोनों (A) और (R) सत्य हैं और (R), (A) का सही स्पष्टीकरण है।",
+        "दोनों (A) और (R) सत्य हैं लेकिन (R), (A) का सही स्पष्टीकरण नहीं है।"
+      ],
+      "answer": 0,
+      "explanation": "At high altitude air pressure is lower, so water boils at a lower temperature; R is false. (Q83 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "ऊँचाई पर वायुदाब कम होने से पानी कम तापमान पर उबलता है; अतः R असत्य है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Bird watchers have observed that in a particular species of bird, the males build their own nests. The female looks at all these nests and decides to lay her eggs in the one she likes best. This bird is the:",
+      "textHi": "पक्षियों का अध्ययन करने वालों ने यह प्रेक्षण किया है कि पक्षियों की एक विशेष प्रजाति में नर पक्षी अपने-अपने घोसले बनाते हैं। मादा पक्षी उन सभी घोंसलों को देखती है। उनमें से उसे जो सबसे अच्छा लगता है उसमें ही वह अण्डे देने का निश्चय करती है। इस पक्षी का नाम है :",
+      "options": [
+        "Sunbird (kalchidi)",
+        "Sugar-eater (shakkar khora)",
+        "Tailorbird",
+        "Weaver bird"
+      ],
+      "optionsHi": [
+        "कलचिडी",
+        "शक्कर खोरा",
+        "दर्जिन चिड़िया",
+        "वीवर पक्षी"
+      ],
+      "answer": 3,
+      "explanation": "Male weaver birds build nests and the female chooses the best one (NCERT EVS Class 5). (Q84 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "नर बया (वीवर) पक्षी घोंसले बनाते हैं और मादा सबसे अच्छा घोंसला चुनती है (एन.सी.ई.आर.टी. ईवीएस कक्षा 5)।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Assertion: 'Family and Friends' is a major theme in EVS, and 'Plants and Animals' are presented as sub-themes of 'Family and Friends'.\nReason: The theme highlights the interdependence of humans and other forms of life.",
+      "textHi": "अभिकथन : थीम ‘परिवार और मित्र’ ईवीएस में एक प्रमुख थीम है और ‘पौधों और जानवरों’ को ‘परिवार और मित्र’ के उप-थीम के रूप में प्रस्तुत किया जाता है।\nकारण : थीम के द्वारा मनुष्य और जीवन के अन्य रूपों की अन्योन्याश्रितता पर प्रकाश डाला गया है।",
+      "options": [
+        "Assertion is correct but Reason is incorrect.",
+        "Assertion is incorrect but Reason is correct.",
+        "Both Assertion and Reason are correct and Reason is the correct explanation of Assertion.",
+        "Assertion and Reason are correct but Reason is not the correct explanation of Assertion."
+      ],
+      "optionsHi": [
+        "अभिकथन सही है लेकिन कारण गलत है।",
+        "अभिकथन गलत है परन्तु कारण सही है।",
+        "अभिकथन और कारण दोनों सही हैं और कारण अभिकथन की सही व्याख्या है।",
+        "अभिकथन और कारण सही हैं लेकिन कारण, अभिकथन की सही व्याख्या नहीं करता है।"
+      ],
+      "answer": 2,
+      "explanation": "Plants and animals are placed under 'Family and Friends' to show that humans and other living beings depend on one another. (Q85 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "पौधे और जानवर 'परिवार और मित्र' के अंतर्गत इसलिए रखे गए हैं ताकि मनुष्य और अन्य जीवों की परस्पर निर्भरता दिखाई जा सके।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "Students conduct a survey at home and in the neighbourhood to find out the number of members in each family and the approximate amount of water consumed. Which skills and processes are developed through this activity?",
+      "textHi": "प्रत्येक परिवार में सदस्यों की संख्या और पानी की अनुमानित मात्रा की खपत का पता लगाने के लिए छात्र अपने घर और पड़ोस में एक सर्वेक्षण करते हैं। इस गतिविधि के माध्यम से कौन से कौशल और प्रक्रियाएँ विकसित की जाती हैं?",
+      "options": [
+        "Hypothesising, drawing conclusions, expression",
+        "Estimation, experimentation, observation",
+        "Asking questions, experimenting, sensitivity towards the environment",
+        "Inquiry, drawing conclusions, expression"
+      ],
+      "optionsHi": [
+        "परिकल्पना, परिणाम निकालना, अभिव्यक्ति",
+        "अनुमान, प्रयोग, अवलोकन",
+        "प्रश्न पूछना, प्रयोग करना, पर्यावरण के प्रति संवेदनशीलता",
+        "पूछताछ, परिणाम निकालना, अभिव्यक्ति"
+      ],
+      "answer": 3,
+      "explanation": "A survey involves enquiring, drawing conclusions from the data and expressing the findings. (Q86 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "सर्वेक्षण में पूछताछ, आँकड़ों से निष्कर्ष निकालना और परिणामों की अभिव्यक्ति शामिल है।"
+    },
+    {
+      "section": "Environmental Studies",
+      "text": "The states bordering Haryana are:",
+      "textHi": "हरियाणा के सीमान्तवर्ती राज्य हैं :",
+      "options": [
+        "Himachal Pradesh, Punjab, Bihar",
+        "Bihar, Punjab, Uttar Pradesh",
+        "Himachal Pradesh, Rajasthan, Uttar Pradesh",
+        "Uttar Pradesh, Uttarakhand, Madhya Pradesh"
+      ],
+      "optionsHi": [
+        "हिमाचल प्रदेश, पंजाब, बिहार",
+        "बिहार, पंजाब, उत्तर प्रदेश",
+        "हिमाचल प्रदेश, राजस्थान, उत्तर प्रदेश",
+        "उत्तर प्रदेश, उत्तराखण्ड, मध्य प्रदेश"
+      ],
+      "answer": 2,
+      "explanation": "Haryana borders Punjab, Himachal Pradesh, Uttarakhand, Uttar Pradesh, Rajasthan and Delhi; it does not touch Bihar or Madhya Pradesh. (Q87 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-evs-answer-key/",
+      "explanationHi": "हरियाणा की सीमा पंजाब, हिमाचल प्रदेश, उत्तराखंड, उत्तर प्रदेश, राजस्थान और दिल्ली से लगती है; बिहार या मध्य प्रदेश से नहीं।"
+    },
+    {
+      "section": "English",
+      "text": "One of the best ways to learn a second language is:",
+      "options": [
+        "by repeating and practicing the dialogues as done in the audio-lingual method.",
+        "by joining a speaking course for the target language.",
+        "being in a classroom where you can focus on the grammar and receive help from a teacher.",
+        "by constant contact with native speakers in their own society."
+      ],
+      "answer": 3,
+      "explanation": "Constant interaction with native speakers gives rich, meaningful exposure to the language. (Q136 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "If children hear two languages spoken around them, this exposure will:",
+      "options": [
+        "not make any difference to the children.",
+        "confuse the children, hindering understanding.",
+        "put the children at a disadvantage.",
+        "put the children at an advantage."
+      ],
+      "answer": 3,
+      "explanation": "Exposure to two languages is a cognitive and linguistic advantage for children. (Q137 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "The students learn patterns of language by repeating model sentences that the teacher provides. They memorise set phrases and receive positive reinforcement from their teacher when they perform the drills correctly. The teacher is using the:",
+      "options": [
+        "Total physical response",
+        "Structural approach",
+        "Audio-lingual method",
+        "Communicative approach"
+      ],
+      "answer": 2,
+      "explanation": "Drills, memorised model sentences and positive reinforcement are the hallmarks of the audio-lingual method. (Q138 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "This reading has certain learning aims and tasks; learners are supposed to read the text in detail with concentration and due care. It is called:",
+      "options": [
+        "Guided reading",
+        "Pleasure reading",
+        "Extensive reading",
+        "Intensive reading"
+      ],
+      "answer": 3,
+      "explanation": "Close, detailed reading of a short text for specific learning aims is intensive reading. (Q139 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "At the beginning of the lesson, a teacher divided the class into groups and asked them to talk about an interesting newspaper article that they had just read. This type of speaking activity is for enhancing:",
+      "options": [
+        "Guided oral practice.",
+        "Active listening.",
+        "Oral fluency practice.",
+        "Controlled oral practice."
+      ],
+      "answer": 2,
+      "explanation": "Free discussion of an article in groups builds oral fluency rather than controlled accuracy. (Q140 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "Children’s cognitive development and language:",
+      "options": [
+        "development bear no relationship.",
+        "is closely related to the culture and the community in which children live.",
+        "is related to the principle of linking stimulus-response and a process of imitation.",
+        "is that an individual is born with a tool to master the language."
+      ],
+      "answer": 1,
+      "explanation": "Language and cognition develop within the child's culture and community (socio-cultural view). (Q141 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "To assess reading skills at primary level a language teacher should most importantly focus on:",
+      "options": [
+        "reading at a proper speed.",
+        "reading with understanding.",
+        "identifying the letters of alphabet.",
+        "use of punctuation mark."
+      ],
+      "answer": 1,
+      "explanation": "Reading means making meaning, so comprehension is the key focus of assessment. (Q142 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "The whole language approach is:",
+      "options": [
+        "Blending sounds",
+        "Inferring a sound-symbol relationship",
+        "Meaning based",
+        "Skill based"
+      ],
+      "answer": 2,
+      "explanation": "The whole language approach focuses on meaning rather than isolated phonic skills. (Q143 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "A teacher asked the students of Class V to read the story quickly and then put the four pictures in order. The purpose of this activity is to:",
+      "options": [
+        "give them practice in reading for specific information.",
+        "revise the new and difficult vocabulary of the story.",
+        "arrange the picture cards.",
+        "give them practice in reading for the gist."
+      ],
+      "answer": 3,
+      "explanation": "Reading quickly to sequence the main events is skimming for the gist. (Q144 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "\"Language learning is an intensive process that begins at birth and continues throughout life.\" Do you agree or disagree with the above statement?",
+      "options": [
+        "I partially agree with the statement.",
+        "I partially disagree with the statement.",
+        "I agree with this statement.",
+        "I disagree with this statement."
+      ],
+      "answer": 2,
+      "explanation": "Language learning starts from birth and continues lifelong. (Q145 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "Assessment tools and processes at the foundation stage should be designed in a way that:",
+      "options": [
+        "learner’s progress is described and analysed with that of the overall class performance.",
+        "a teacher may use common single method to assess the achievement of all the learners.",
+        "explicit tests and examinations become appropriate for learners.",
+        "they become a natural extension of the child’s learning experience."
+      ],
+      "answer": 3,
+      "explanation": "Assessment at the foundational stage should flow naturally from the child's learning experiences. (Q146 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "Learners are memorising grammar rules and vocabulary, and a large amount of work is done in their mother tongue. Which method is the teacher using in his language class?",
+      "options": [
+        "Communicative teaching",
+        "Grammar Translation",
+        "Direct method",
+        "Natural approach"
+      ],
+      "answer": 1,
+      "explanation": "Rule memorisation and heavy use of the mother tongue characterise the grammar-translation method. (Q147 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "A big challenge in learning to read is finding motivation and good children’s literature. To overcome this challenge:",
+      "options": [
+        "Provide easily accessible Children’s literature to motivate and generate interest in reading.",
+        "School authorities must take learners to book fairs to generate motivation and interest in reading books.",
+        "Teachers should motivate them to read a book everyday as homework.",
+        "Encourage parents to establish a small library at home."
+      ],
+      "answer": 0,
+      "explanation": "Easy access to good children's literature motivates children to read. (Q149 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    },
+    {
+      "section": "English",
+      "text": "A good speaking activity is the one during which:",
+      "options": [
+        "learners talk more",
+        "participation by outspoken students is the maximum",
+        "teachers explain more",
+        "learners listen more"
+      ],
+      "answer": 0,
+      "explanation": "A good speaking activity maximises learner talk time. (Q150 of the paper.) Source: https://theexampillar.com/ctet-exam-21-january-2024-paper-i-language-ii-english-answer-key/"
+    }
+  ]
+}

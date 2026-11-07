@@ -1,0 +1,2449 @@
+{
+  "slug": "hp-tet-tgt-arts-pyq-2020-november",
+  "version": 1,
+  "title": "HP TET TGT Arts · November 2020 (previous year questions)",
+  "description": "Questions asked in the HP TET TGT (Arts) exam held on 12 December 2020 (November 2020 session), with answers checked against a published solved paper and independently verified. Not the complete paper.",
+  "category": "HP TET TGT Arts",
+  "kind": "Previous year",
+  "year": 2020,
+  "durationMinutes": 133,
+  "price": 10,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "\"Psychology first lost its soul, then its mind, then it lost its consciousness; it still has behaviour of a kind\" was stated by:",
+      "textHi": "“मनोविज्ञान ने सर्वप्रथम अपनी आत्मा का त्याग किया, फिर मन का त्याग किया, फिर उसने अपनी चेतना को त्यागा, इसने अभी भी एक ढंग के व्यवहार को अपनाया हुआ है।” यह किसने कहा?",
+      "options": [
+        "Titchener",
+        "Wundt",
+        "Woodworth",
+        "McDougall"
+      ],
+      "optionsHi": [
+        "टिचनर",
+        "वुण्ट",
+        "वुडवर्थ",
+        "मैक्डूगल"
+      ],
+      "answer": 2,
+      "explanation": "Woodworth said psychology first lost its soul, then its mind, then its consciousness, but still has behaviour of a kind. (Q1 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-1.html",
+      "explanationHi": "यह कथन वुडवर्थ का है, जो मनोविज्ञान के अर्थ में आए बदलावों को दर्शाता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Piaget called the period of infancy the:",
+      "textHi": "पियाजे ने शैशवावस्था को क्या कहा?",
+      "options": [
+        "Sensorimotor stage",
+        "Pre-operational stage",
+        "Concrete operational stage",
+        "Formal operational stage"
+      ],
+      "optionsHi": [
+        "संवेदी प्रेरक अवस्था",
+        "पूर्व संक्रियात्मक अवस्था",
+        "मूर्त संक्रियात्मक अवस्था",
+        "औपचारिक संक्रियात्मक अवस्था"
+      ],
+      "answer": 0,
+      "explanation": "Piaget's first stage (birth to about 2 years) is the sensorimotor stage. (Q2 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-1.html",
+      "explanationHi": "पियाजे की पहली अवस्था (जन्म से लगभग 2 वर्ष) संवेदी-प्रेरक अवस्था है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Fitting new information into existing schemes is known as:",
+      "textHi": "नई जानकारी को पहले से विद्यमान स्कीमा (योजनाओं) में समाहित करना क्या कहलाता है?",
+      "options": [
+        "Accommodation",
+        "Equilibration",
+        "Assimilation",
+        "Organisation"
+      ],
+      "optionsHi": [
+        "समायोजन",
+        "साम्यधारण (संतुलन)",
+        "आत्मसात्करण",
+        "संगठन"
+      ],
+      "answer": 2,
+      "explanation": "In Piaget's theory, assimilation is fitting new information into existing schemas. (Q3 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-1.html",
+      "explanationHi": "पियाजे के अनुसार नई जानकारी को पहले से बने स्कीमा में समाहित करना आत्मसात्करण कहलाता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Vygotsky, learning cannot be separated from:",
+      "textHi": "वायगोत्स्की के अनुसार, अधिगम को किससे पृथक नहीं किया जा सकता?",
+      "options": [
+        "Reinforcement",
+        "A measurable change in behaviour",
+        "Perception and attentional processes",
+        "Its social context"
+      ],
+      "optionsHi": [
+        "पुनर्बलन से",
+        "व्यवहार में मापने योग्य परिवर्तन से",
+        "प्रत्यक्षीकरण और अवधानात्मक प्रक्रियाओं से",
+        "उसके सामाजिक संदर्भ से"
+      ],
+      "answer": 3,
+      "explanation": "Vygotsky's sociocultural theory holds that learning is inseparable from its social context. (Q4 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-1.html",
+      "explanationHi": "वायगोत्स्की के सामाजिक-सांस्कृतिक सिद्धांत के अनुसार अधिगम को उसके सामाजिक संदर्भ से अलग नहीं किया जा सकता।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The process of socialisation includes:",
+      "textHi": "समाजीकरण की प्रक्रिया में शामिल हैं:",
+      "options": [
+        "Acquiring values and beliefs",
+        "Learning the customs and norms of a culture",
+        "Adaptation to social norms",
+        "All of these"
+      ],
+      "optionsHi": [
+        "मूल्यों और विश्वासों का अर्जन",
+        "एक संस्कृति की रीतियों और मानदंडों को सीखना",
+        "समाज के मानदंडों से अनुकूलन",
+        "ये सभी"
+      ],
+      "answer": 3,
+      "explanation": "Socialisation involves acquiring values and beliefs, learning cultural customs and norms, and adapting to social norms. (Q5 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-1.html",
+      "explanationHi": "समाजीकरण में मूल्यों-विश्वासों का अर्जन, संस्कृति की रीतियाँ-मानदंड सीखना और सामाजिक मानदंडों से अनुकूलन, सभी शामिल हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Both the chronological age and the mental age of a pupil are 7 years. Into which category may he be classified?",
+      "textHi": "एक विद्यार्थी की मानसिक आयु और वास्तविक (कालानुक्रमिक) आयु दोनों 7 वर्ष हैं। उसे किस वर्ग में वर्गीकृत किया जाएगा?",
+      "options": [
+        "Below Normal Intelligence",
+        "Normal Intelligence",
+        "Above Normal Intelligence",
+        "Genius"
+      ],
+      "optionsHi": [
+        "सामान्य से कम बुद्धि",
+        "सामान्य बुद्धि",
+        "सामान्य से अधिक बुद्धि",
+        "प्रतिभाशाली"
+      ],
+      "answer": 1,
+      "explanation": "IQ = (MA/CA) x 100 = (7/7) x 100 = 100, which is normal intelligence. (Q6 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-1.html",
+      "explanationHi": "बुद्धि-लब्धि = (मानसिक आयु/वास्तविक आयु) x 100 = 100, अर्थात सामान्य बुद्धि।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "T.A.T. (Thematic Apperception Test) is a projective technique used for measuring:",
+      "textHi": "कथानक संप्रत्यक्षण परीक्षण (टी.ए.टी.) एक प्रक्षेपी तकनीक है जिसका उपयोग ______ के मापन के लिए किया जाता है।",
+      "options": [
+        "Personality",
+        "Intelligence",
+        "Creativity",
+        "Stress"
+      ],
+      "optionsHi": [
+        "व्यक्तित्व",
+        "बुद्धि",
+        "सृजनात्मकता",
+        "तनाव"
+      ],
+      "answer": 0,
+      "explanation": "The TAT (Murray and Morgan) is a projective test of personality. (Q7 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-1.html",
+      "explanationHi": "टी.ए.टी. (मरे और मॉर्गन) व्यक्तित्व मापन की एक प्रक्षेपी तकनीक है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A concept learnt by a student in the science class is used by her in the social science class. This is a type of:",
+      "textHi": "एक विद्यार्थी द्वारा विज्ञान की कक्षा में सीखी गई अवधारणा का उपयोग सामाजिक विज्ञान की कक्षा में किया गया। यह किसका उदाहरण है?",
+      "options": [
+        "Positive transfer of learning",
+        "Negative transfer of learning",
+        "Zero transfer of learning",
+        "None of these"
+      ],
+      "optionsHi": [
+        "धनात्मक अधिगम अंतरण",
+        "ऋणात्मक अधिगम अंतरण",
+        "शून्य अधिगम अंतरण",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "Using learning from one subject to help in another is positive transfer of learning. (Q9 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-1.html",
+      "explanationHi": "एक विषय में सीखी बात का दूसरे विषय में सहायक होना धनात्मक अधिगम अंतरण है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which one of the following is a characteristic of a gifted learner?",
+      "textHi": "निम्नलिखित में से क्या एक प्रतिभाशाली शिक्षार्थी की विशेषता है?",
+      "options": [
+        "He gets aggressive and frustrated.",
+        "He can feel under-stimulated and bored if the class activities are not challenging enough.",
+        "He is highly temperamental.",
+        "He engages in ritualistic behaviour like hand flapping, rocking etc."
+      ],
+      "optionsHi": [
+        "वह आक्रामक और निराश हो जाता है।",
+        "यदि कक्षा की गतिविधियाँ पर्याप्त चुनौतीपूर्ण न हों तो वह कम उत्तेजित और ऊबा हुआ महसूस कर सकता है।",
+        "वह अत्यधिक तुनकमिज़ाज है।",
+        "वह हाथ फड़फड़ाना, आगे-पीछे हिलना जैसे कर्मकांडी व्यवहार करता है।"
+      ],
+      "answer": 1,
+      "explanation": "Gifted learners often feel under-stimulated and bored when classroom tasks are not challenging enough. (Q10 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-1.html",
+      "explanationHi": "प्रतिभाशाली शिक्षार्थी पर्याप्त चुनौतीपूर्ण गतिविधियाँ न मिलने पर ऊब जाते हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The oldest method in psychology is:",
+      "textHi": "मनोविज्ञान की सबसे पुरानी विधि है:",
+      "options": [
+        "Introspection",
+        "Observation",
+        "Case study",
+        "Clinical method"
+      ],
+      "optionsHi": [
+        "आत्मनिरीक्षण",
+        "अवलोकन (निरीक्षण)",
+        "व्यक्ति अध्ययन (केस स्टडी)",
+        "नैदानिक विधि"
+      ],
+      "answer": 0,
+      "explanation": "Introspection (self-observation), used by Wundt and Titchener, is the oldest method of psychology. (Q11 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-2.html",
+      "explanationHi": "आत्मनिरीक्षण (अंतर्दर्शन) मनोविज्ञान की सबसे पुरानी विधि है, जिसका प्रयोग वुण्ट और टिचनर ने किया।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The pace of development varies from one individual to another, but it follows a/an ________ pattern.",
+      "textHi": "विकास की गति एक व्यक्ति से दूसरे व्यक्ति में अलग-अलग होती है, परन्तु यह ________ स्वरूप का पालन करती है।",
+      "options": [
+        "toe-to-head",
+        "haphazard",
+        "unpredictable",
+        "sequential and orderly"
+      ],
+      "optionsHi": [
+        "पैर से सिर की ओर",
+        "बेतरतीब",
+        "अप्रत्याशित",
+        "अनुक्रमिक और व्यवस्थित"
+      ],
+      "answer": 3,
+      "explanation": "Although the rate varies between individuals, development follows a sequential and orderly pattern. (Q13 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-2.html",
+      "explanationHi": "विकास की गति व्यक्ति-व्यक्ति में भिन्न होती है, परन्तु इसका क्रम अनुक्रमिक और व्यवस्थित होता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following statements is not correct about development?",
+      "textHi": "विकास के संदर्भ में निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+      "options": [
+        "Each phase of development has its own hazards.",
+        "Development is not aided by stimulation.",
+        "Development is affected by cultural changes.",
+        "Each phase of development has characteristic behaviour."
+      ],
+      "optionsHi": [
+        "विकास की प्रत्येक अवस्था के अपने खतरे होते हैं।",
+        "विकास उद्दीपन (बढ़ावा देने) से नहीं होता।",
+        "विकास सांस्कृतिक परिवर्तनों से प्रभावित होता है।",
+        "विकास की प्रत्येक अवस्था का अपना विशिष्ट व्यवहार होता है।"
+      ],
+      "answer": 1,
+      "explanation": "Development is aided by stimulation, so the statement 'Development is not aided by stimulation' is incorrect. (Q14 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-2.html",
+      "explanationHi": "विकास को उद्दीपन (प्रेरणा) से बढ़ावा मिलता है, अतः 'विकास उद्दीपन से नहीं होता' कथन गलत है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The first book of psychology was written by:",
+      "textHi": "मनोविज्ञान की प्रथम पुस्तक किसके द्वारा लिखी गई?",
+      "options": [
+        "Kohler",
+        "William James",
+        "Clark Hull",
+        "Plato"
+      ],
+      "optionsHi": [
+        "कोहलर",
+        "विलियम जेम्स",
+        "क्लार्क हल",
+        "प्लेटो"
+      ],
+      "answer": 1,
+      "explanation": "William James wrote 'The Principles of Psychology' (1890), regarded as the first textbook of psychology. (Q15 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-2.html",
+      "explanationHi": "विलियम जेम्स ने 'द प्रिंसिपल्स ऑफ साइकोलॉजी' (1890) लिखी, जिसे मनोविज्ञान की पहली पुस्तक माना जाता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "\"Out-of-the-box thinking\" is related to:",
+      "textHi": "\"लीक से हटकर (आउट-ऑफ-द-बॉक्स) चिंतन\" किससे संबंधित है?",
+      "options": [
+        "Consistent thinking",
+        "Memory-based thinking",
+        "Divergent thinking",
+        "Convergent thinking"
+      ],
+      "optionsHi": [
+        "सुसंगत चिन्तन",
+        "स्मृति आधारित चिंतन",
+        "अपसारी चिंतन",
+        "अभिसारी चिंतन"
+      ],
+      "answer": 2,
+      "explanation": "Out-of-the-box thinking generates many novel solutions, i.e. divergent thinking. (Q17 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-2.html",
+      "explanationHi": "लीक से हटकर सोचना अनेक नए समाधान खोजना है, अर्थात अपसारी चिंतन।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Name the theory which advocates a sudden solution to the problem.",
+      "textHi": "उस सिद्धांत का नाम बताइए जो समस्या के आकस्मिक समाधान की वकालत करता है।",
+      "options": [
+        "Operant conditioning",
+        "Theory of insight",
+        "Trial and error theory",
+        "Classical conditioning"
+      ],
+      "optionsHi": [
+        "क्रियाप्रसूत अनुबंधन",
+        "सूझ का सिद्धांत",
+        "प्रयास एवं त्रुटि का सिद्धांत",
+        "शास्त्रीय (प्राचीन) अनुबंधन"
+      ],
+      "answer": 1,
+      "explanation": "Köhler's insight theory explains the sudden solution of a problem by perceiving relationships. (Q18 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-2.html",
+      "explanationHi": "कोहलर का सूझ का सिद्धांत समस्या के आकस्मिक समाधान की व्याख्या करता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Who propounded the theory of \"trial and error\"?",
+      "textHi": "“प्रयास एवं त्रुटि” का सिद्धांत किसके द्वारा प्रतिपादित किया गया?",
+      "options": [
+        "Pavlov",
+        "Skinner",
+        "Thorndike",
+        "Hull"
+      ],
+      "optionsHi": [
+        "पावलॉव",
+        "स्किनर",
+        "थॉर्नडाइक",
+        "हल"
+      ],
+      "answer": 2,
+      "explanation": "E.L. Thorndike propounded the trial-and-error theory of learning (puzzle box experiments with cats). (Q19 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-2.html",
+      "explanationHi": "ई.एल. थॉर्नडाइक ने बिल्ली पर प्रयोग करके प्रयास एवं त्रुटि का सिद्धांत दिया।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Freud, which component of personality works on the \"pleasure principle\"?",
+      "textHi": "फ्रायड के अनुसार व्यक्तित्व का कौन-सा घटक \"सुखवादी सिद्धांत\" पर कार्य करता है?",
+      "options": [
+        "Id",
+        "Ego",
+        "Superego",
+        "None of these"
+      ],
+      "optionsHi": [
+        "इदम्",
+        "अहम्",
+        "पराहम्",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "Freud's id is governed by the pleasure principle; the ego follows the reality principle. (Q20 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-2.html",
+      "explanationHi": "फ्रायड के अनुसार इदम् (इड) सुखवादी सिद्धांत पर और अहम् वास्तविकता के सिद्धांत पर कार्य करता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Child-centred education was advocated by which of the following thinkers?",
+      "textHi": "बाल-केन्द्रित शिक्षा का समर्थन निम्नलिखित में से किस विचारक ने किया?",
+      "options": [
+        "Erik Erikson",
+        "Charles Darwin",
+        "B.F. Skinner",
+        "John Dewey"
+      ],
+      "optionsHi": [
+        "एरिक एरिक्सन",
+        "चार्ल्स डार्विन",
+        "बी.एफ. स्किनर",
+        "जॉन ड्यूवी"
+      ],
+      "answer": 3,
+      "explanation": "John Dewey championed child-centred, activity-based education. (Q21 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-3.html",
+      "explanationHi": "जॉन ड्यूवी ने बाल-केन्द्रित, क्रिया-आधारित शिक्षा का समर्थन किया।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following theories of intelligence was given by Howard Gardner?",
+      "textHi": "निम्नलिखित में से कौन-सा बुद्धि का सिद्धांत हावर्ड गार्डनर ने दिया?",
+      "options": [
+        "One-factor theory",
+        "Two-factor theory",
+        "Group-factor theory",
+        "Multiple intelligence theory"
+      ],
+      "optionsHi": [
+        "एक कारक सिद्धांत",
+        "द्वि कारक सिद्धांत",
+        "समूह कारक सिद्धांत",
+        "बहु बुद्धि सिद्धांत"
+      ],
+      "answer": 3,
+      "explanation": "Howard Gardner proposed the theory of multiple intelligences (1983). (Q22 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-3.html",
+      "explanationHi": "हावर्ड गार्डनर ने बहु-बुद्धि सिद्धांत (1983) दिया।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A five-year-old child's mental age is 6 years. Then his I.Q. will be:",
+      "textHi": "एक पाँच वर्षीय बालक की मानसिक आयु 6 वर्ष है, तो उसकी बुद्धि-लब्धि होगी:",
+      "options": [
+        "120",
+        "100",
+        "80",
+        "160"
+      ],
+      "optionsHi": [
+        "120",
+        "100",
+        "80",
+        "160"
+      ],
+      "answer": 0,
+      "explanation": "IQ = (MA/CA) x 100 = (6/5) x 100 = 120. (Q23 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-3.html",
+      "explanationHi": "बुद्धि-लब्धि = (मानसिक आयु/वास्तविक आयु) x 100 = (6/5) x 100 = 120।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The factor \"g\" in Spearman's definition of intelligence stands for:",
+      "textHi": "स्पीयरमैन की बुद्धि की परिभाषा में \"g\" कारक का अर्थ है:",
+      "options": [
+        "Genetic intelligence",
+        "Generative intelligence",
+        "General intelligence",
+        "Global intelligence"
+      ],
+      "optionsHi": [
+        "आनुवंशिक बुद्धि",
+        "उत्पादक बुद्धि",
+        "सामान्य बुद्धि",
+        "वैश्विक बुद्धि"
+      ],
+      "answer": 2,
+      "explanation": "In Spearman's two-factor theory, 'g' is general intelligence and 's' is specific ability. (Q24 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-3.html",
+      "explanationHi": "स्पीयरमैन के द्वि-कारक सिद्धांत में 'g' सामान्य बुद्धि और 's' विशिष्ट योग्यता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Gates, ________ is modification of behaviour through experience.",
+      "textHi": "गेट्स के अनुसार, अनुभव द्वारा व्यवहार में परिवर्तन ही ______ है।",
+      "options": [
+        "Motivation",
+        "Adjustment",
+        "Learning",
+        "Thinking"
+      ],
+      "optionsHi": [
+        "अभिप्रेरणा",
+        "समायोजन",
+        "अधिगम (सीखना)",
+        "चिंतन"
+      ],
+      "answer": 2,
+      "explanation": "Gates defined learning as the modification of behaviour through experience. (Q25 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-3.html",
+      "explanationHi": "गेट्स के अनुसार अनुभव द्वारा व्यवहार में परिवर्तन ही अधिगम (सीखना) है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "When a test measures an individual's ability consistently and accurately, the test is known as:",
+      "textHi": "जब कोई परीक्षण व्यक्ति की योग्यता का मापन निरंतर (संगत) और सही रूप में करता है, तो वह परीक्षण कहलाता है:",
+      "options": [
+        "Valid",
+        "Reliable",
+        "Objective",
+        "None of these"
+      ],
+      "optionsHi": [
+        "वैध",
+        "विश्वसनीय",
+        "वस्तुनिष्ठ",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "A test that measures consistently gives the same results on repetition; this is reliability. (Q26 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-3.html",
+      "explanationHi": "जो परीक्षण बार-बार प्रयोग करने पर संगत परिणाम दे, वह विश्वसनीय कहलाता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Education of children with special needs should be provided:",
+      "textHi": "विशेष आवश्यकता वाले बच्चों को शिक्षा प्रदान की जानी चाहिए",
+      "options": [
+        "Along with other normal children",
+        "By methods developed for special children in special schools",
+        "In special schools",
+        "By special teachers in special schools"
+      ],
+      "optionsHi": [
+        "अन्य सामान्य बच्चों के साथ।",
+        "विशेष स्कूलों में विशेष बच्चों के लिए विकसित विधियों द्वारा।",
+        "विशेष विद्यालयों में।",
+        "विशेष स्कूलों में विशेष शिक्षकों द्वारा।"
+      ],
+      "answer": 0,
+      "explanation": "Under inclusive education, children with special needs are taught along with other children in regular schools. (Q27 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-3.html",
+      "explanationHi": "समावेशी शिक्षा के अंतर्गत विशेष आवश्यकता वाले बच्चों को सामान्य बच्चों के साथ ही पढ़ाया जाना चाहिए।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "The learning disability named dyscalculia is associated with:",
+      "textHi": "डिस्कैल्कुलिया नामक अधिगम अशक्तता संबंधित है",
+      "options": [
+        "Mental disorder",
+        "Mathematical disorder",
+        "Reading disorder",
+        "Behavioural disorder"
+      ],
+      "optionsHi": [
+        "मानसिक विकार से",
+        "गणितीय विकार से",
+        "पठन विकार से",
+        "व्यवहारात्मक विकार से"
+      ],
+      "answer": 1,
+      "explanation": "Dyscalculia is a learning disability in mathematics (number and calculation). (Q28 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-3.html",
+      "explanationHi": "डिस्कैल्कुलिया गणित (संख्या एवं गणना) से संबंधित अधिगम अक्षमता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "\"Education of all in schools for all\" could be a tagline for which of the following?",
+      "textHi": "\"सभी के लिए विद्यालय में सभी की शिक्षा\" निम्नलिखित में से किसका प्रचार वाक्य हो सकता है?",
+      "options": [
+        "Cohesive education",
+        "Inclusive education",
+        "Co-operative education",
+        "Exclusive education"
+      ],
+      "optionsHi": [
+        "संसक्तिशील शिक्षा",
+        "समावेशी शिक्षा",
+        "सहयोगात्मक शिक्षा",
+        "पृथक शिक्षा"
+      ],
+      "answer": 1,
+      "explanation": "\"Education of all in schools for all\" is the idea of inclusive education. (Q29 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-3.html",
+      "explanationHi": "\"सभी के लिए विद्यालय में सभी की शिक्षा\" समावेशी शिक्षा का विचार है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following is an objective-type question?",
+      "textHi": "निम्नलिखित में से कौन-सा वस्तुनिष्ठ प्रश्न है?",
+      "options": [
+        "Essay type",
+        "Short answer",
+        "Open-ended",
+        "True or false"
+      ],
+      "optionsHi": [
+        "निबंधात्मक",
+        "लघु उत्तरीय",
+        "मुक्त अंत वाले प्रश्न",
+        "सही या गलत"
+      ],
+      "answer": 3,
+      "explanation": "True/false items have a single fixed correct answer and are scored objectively. (Q30 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-3.html",
+      "explanationHi": "सही/गलत प्रश्नों का एक निश्चित उत्तर होता है और उनका मूल्यांकन वस्तुनिष्ठ होता है।"
+    },
+    {
+      "section": "English",
+      "text": "Identify the tense of the following sentence: Sita has got the job.",
+      "options": [
+        "Present indefinite",
+        "Present continuous",
+        "Present perfect continuous",
+        "Present perfect"
+      ],
+      "answer": 3,
+      "explanation": "'Has got' = has + past participle, the present perfect tense. (Q31 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with a suitable preposition: There is no limit ______ the wants of man.",
+      "options": [
+        "for",
+        "to",
+        "of",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "'No limit to' is the correct collocation. (Q32 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with a suitable preposition: Most of the family members dissented ______ the suggestion he made.",
+      "options": [
+        "to",
+        "from",
+        "of",
+        "after"
+      ],
+      "answer": 1,
+      "explanation": "'Dissent from' means to disagree with. (Q33 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with a suitable preposition: On seeing a robber he at once reached ______ his pistol in his pocket.",
+      "options": [
+        "to",
+        "for",
+        "on",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "'Reach for' means to stretch out the hand to take something. (Q34 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Select the correct verb form: She has been ______ since morning.",
+      "options": [
+        "worked",
+        "working",
+        "works",
+        "None of these"
+      ],
+      "answer": 1,
+      "explanation": "Present perfect continuous: has been + verb-ing. (Q35 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Select the correct verb form: They ______ to school by bus.",
+      "options": [
+        "going",
+        "goes",
+        "to go",
+        "go"
+      ],
+      "answer": 3,
+      "explanation": "Simple present with plural subject 'They' takes the base form 'go'. (Q36 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct word to fill in the blank: Man is essentially a ______ animal and tends to associate with others.",
+      "options": [
+        "sentimental",
+        "social",
+        "selfish",
+        "perverse"
+      ],
+      "answer": 1,
+      "explanation": "Man tends to associate with others, i.e. he is a social animal. (Q37 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct word to fill in the blank: Some animals have unique ______ that allow them to survive in extreme weather conditions.",
+      "options": [
+        "characteristics",
+        "problems",
+        "feelings",
+        "conditions"
+      ],
+      "answer": 0,
+      "explanation": "Unique characteristics (traits) allow animals to survive extreme weather. (Q38 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the sentence with the correct use of tense (select 'None' if none is correct):",
+      "options": [
+        "I have received your letter this morning.",
+        "I had received your letter this morning.",
+        "I received your letter this morning.",
+        "None"
+      ],
+      "answer": 2,
+      "explanation": "With a finished past time ('this morning') the simple past is the standard choice. (Q39 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the question with the correct use of tense (select 'None' if none is correct):",
+      "options": [
+        "Why are you cooking food today?",
+        "Why do you cook today?",
+        "Why have you been cooking food today?",
+        "None"
+      ],
+      "answer": 0,
+      "explanation": "An action in progress around now uses the present continuous: 'Why are you cooking food today?' (Q40 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-4.html"
+    },
+    {
+      "section": "English",
+      "text": "One-word substitute: Soldiers who fight on horseback.",
+      "options": [
+        "Infantry",
+        "Artillery",
+        "Cavalry",
+        "Armoured"
+      ],
+      "answer": 2,
+      "explanation": "Cavalry are soldiers who fight on horseback. (Q41 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "One-word substitute: The practice of having many wives.",
+      "options": [
+        "Bigamy",
+        "Calligraphy",
+        "Polygamy",
+        "Polyandry"
+      ],
+      "answer": 2,
+      "explanation": "Polygamy is having more than one wife (or spouse) at a time. (Q42 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "One-word substitute: A person who abstains completely from alcoholic drinks.",
+      "options": [
+        "Teetotaller",
+        "Derelict",
+        "Subjunctive",
+        "Incriminatory"
+      ],
+      "answer": 0,
+      "explanation": "A teetotaller never drinks alcohol. (Q43 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "One-word substitute: Property inherited from one's father or ancestors.",
+      "options": [
+        "Alimony",
+        "Patrimony",
+        "Voluntary",
+        "Armistice"
+      ],
+      "answer": 1,
+      "explanation": "Patrimony is property inherited from one's father or ancestors. (Q44 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Complete the sentence: She ______ work hard if she wants to top the merit list.",
+      "options": [
+        "must have",
+        "must",
+        "must not",
+        "shouldn't"
+      ],
+      "answer": 1,
+      "explanation": "'Must' expresses necessity: she must work hard. (Q45 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Complete the sentence: She told me that she ______ go to Mumbai next month.",
+      "options": [
+        "will",
+        "should",
+        "would",
+        "can"
+      ],
+      "answer": 2,
+      "explanation": "In reported speech 'will' becomes 'would'. (Q46 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Complete the sentence: He went there so that he ______ borrow money.",
+      "options": [
+        "may",
+        "can",
+        "might",
+        "should"
+      ],
+      "answer": 2,
+      "explanation": "Purpose clause in the past: 'so that he might'. (Q47 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word opposite in meaning to: Spurious",
+      "options": [
+        "Genuine",
+        "Authentic",
+        "Real",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Spurious means fake; genuine, authentic and real are all its opposites. (Q48 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word opposite in meaning to: Cessation",
+      "options": [
+        "Commencement",
+        "Renewal",
+        "Ongoing",
+        "Interruption"
+      ],
+      "answer": 0,
+      "explanation": "Cessation means stopping; its opposite is commencement. (Q49 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word opposite in meaning to: Curb",
+      "options": [
+        "Help",
+        "Allow",
+        "Restrain",
+        "Remove"
+      ],
+      "answer": 1,
+      "explanation": "Curb means to restrain; its opposite is allow. (Q50 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-5.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct word: We should not adopt ______ means to achieve success.",
+      "options": [
+        "fowl",
+        "foul",
+        "foil",
+        "fail"
+      ],
+      "answer": 1,
+      "explanation": "Foul means unfair or dishonest. (Q51 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct word: The earth is not ______; it revolves.",
+      "options": [
+        "stationary",
+        "stationery",
+        "stationed",
+        "None of the above"
+      ],
+      "answer": 0,
+      "explanation": "Stationary = not moving; stationery = writing material. (Q52 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the word nearest in meaning to the word in capitals: He is so GARRULOUS that all sober people avoid his company.",
+      "options": [
+        "Quarrelsome",
+        "Talkative",
+        "Domineering",
+        "Foolish"
+      ],
+      "answer": 1,
+      "explanation": "Garrulous means excessively talkative. (Q53 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Use the most suitable form: Today everyone wishes ______ money quickly.",
+      "options": [
+        "earn",
+        "to earn",
+        "for earning",
+        "None of these"
+      ],
+      "answer": 1,
+      "explanation": "'Wish' is followed by the to-infinitive: wishes to earn. (Q56 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Use the most suitable form: He is rich today but he seems ______ in the past.",
+      "options": [
+        "to be poor",
+        "to have been poor",
+        "to being poor",
+        "None of these"
+      ],
+      "answer": 1,
+      "explanation": "The perfect infinitive 'to have been' refers to a time before the main verb. (Q57 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct passive voice: The students were laughing at the old man.",
+      "options": [
+        "The old man was being laughed at by the students.",
+        "The old man was laughed at by the students.",
+        "The old man was being laughed by the students.",
+        "The old man is laughing at the students."
+      ],
+      "answer": 0,
+      "explanation": "Past continuous passive: was being + past participle; 'laugh at' keeps 'at'. (Q58 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct passive voice: The shopkeeper lowered the prices.",
+      "options": [
+        "The prices lowered by shopkeeper.",
+        "The prices were lowered by the shopkeeper.",
+        "Down went the prices.",
+        "The shopkeeper got down the prices."
+      ],
+      "answer": 1,
+      "explanation": "Simple past passive: were + past participle (lowered). (Q59 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-6.html"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct passive voice: One must keep one's promises.",
+      "options": [
+        "One's promises are kept.",
+        "One's promises must kept.",
+        "One's promises were kept.",
+        "One's promises must be kept."
+      ],
+      "answer": 3,
+      "explanation": "Modal passive: must be + past participle. (Q60 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-6.html"
+    },
+    {
+      "section": "Social Studies",
+      "text": "When was the Indian National Flag adopted?",
+      "textHi": "भारतीय राष्ट्रीय ध्वज कब अपनाया गया?",
+      "options": [
+        "15th August 1947",
+        "27th July 1947",
+        "22nd July 1947",
+        "26th January 1947"
+      ],
+      "optionsHi": [
+        "15 अगस्त 1947",
+        "27 जुलाई 1947",
+        "22 जुलाई 1947",
+        "26 जनवरी 1947"
+      ],
+      "answer": 2,
+      "explanation": "The Constituent Assembly adopted the national flag on 22 July 1947. (Q61 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-7.html",
+      "explanationHi": "संविधान सभा ने 22 जुलाई 1947 को राष्ट्रीय ध्वज अपनाया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In which year did the Supreme Court of India start functioning?",
+      "textHi": "भारत के सर्वोच्च न्यायालय ने किस वर्ष कार्य करना शुरू किया?",
+      "options": [
+        "1950",
+        "1952",
+        "1951",
+        "1953"
+      ],
+      "optionsHi": [
+        "1950",
+        "1952",
+        "1951",
+        "1953"
+      ],
+      "answer": 0,
+      "explanation": "The Supreme Court of India was inaugurated on 28 January 1950. (Q62 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-7.html",
+      "explanationHi": "भारत का सर्वोच्च न्यायालय 28 जनवरी 1950 को शुरू हुआ।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Dr. B.R. Ambedkar called which fundamental right the \"heart and soul\" of the Indian Constitution?",
+      "textHi": "डॉ. भीमराव अम्बेडकर ने किस मौलिक अधिकार को भारतीय संविधान का \"हृदय और आत्मा\" कहा?",
+      "options": [
+        "Right against exploitation",
+        "Right to freedom of religion",
+        "Right to equality",
+        "Right to constitutional remedies"
+      ],
+      "optionsHi": [
+        "शोषण के विरुद्ध अधिकार",
+        "धार्मिक स्वतंत्रता का अधिकार",
+        "समानता का अधिकार",
+        "संवैधानिक उपचारों का अधिकार"
+      ],
+      "answer": 3,
+      "explanation": "Ambedkar called Article 32 (right to constitutional remedies) the heart and soul of the Constitution. (Q63 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-7.html",
+      "explanationHi": "डॉ. अम्बेडकर ने अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार) को संविधान का हृदय और आत्मा कहा।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Election Commission of India functions under the:",
+      "textHi": "भारत का निर्वाचन आयोग किसके अधीन कार्य करता है?",
+      "options": [
+        "Home Ministry",
+        "Law Ministry",
+        "Prime Minister's Office",
+        "None of the above"
+      ],
+      "optionsHi": [
+        "गृह मंत्रालय",
+        "विधि मंत्रालय",
+        "प्रधानमंत्री कार्यालय",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 3,
+      "explanation": "The Election Commission is an independent constitutional body (Article 324), not under any ministry. (Q64 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-7.html",
+      "explanationHi": "निर्वाचन आयोग अनुच्छेद 324 के अंतर्गत एक स्वतंत्र संवैधानिक निकाय है, किसी मंत्रालय के अधीन नहीं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In the Indian Constitution, the subject 'Education' is in which list?",
+      "textHi": "भारत के संविधान में शिक्षा का विषय किस सूची में है?",
+      "options": [
+        "Union List",
+        "State List",
+        "Concurrent List",
+        "Residuary subjects"
+      ],
+      "optionsHi": [
+        "संघ सूची में।",
+        "राज्य सूची में।",
+        "समवर्ती सूची में।",
+        "अवशिष्ट विषयों में।"
+      ],
+      "answer": 2,
+      "explanation": "Education was moved to the Concurrent List by the 42nd Amendment (1976). (Q65 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-7.html",
+      "explanationHi": "42वें संशोधन (1976) द्वारा शिक्षा को समवर्ती सूची में डाला गया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The words \"No appeal, no vakil, no dalil\" were related to:",
+      "textHi": "\"ना अपील, ना वकील, ना दलील\" कथन किससे संबंधित था?",
+      "options": [
+        "Ilbert Bill",
+        "Rowlatt Act",
+        "Simon Commission",
+        "Cases related to the Azad Hind Fauj"
+      ],
+      "optionsHi": [
+        "इल्बर्ट बिल",
+        "रॉलेट एक्ट",
+        "साइमन कमीशन",
+        "आज़ाद हिन्द फौज के मुकदमे"
+      ],
+      "answer": 1,
+      "explanation": "The Rowlatt Act (1919) allowed detention without trial, summed up as 'No appeal, no vakil, no dalil'. (Q66 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-7.html",
+      "explanationHi": "रॉलेट एक्ट (1919) में बिना मुकदमे के बंदी बनाने का प्रावधान था; इसलिए कहा गया 'ना अपील, ना वकील, ना दलील'।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which city is known as the 'Manchester of India'?",
+      "textHi": "किस शहर को 'भारत का मैनचेस्टर' कहा जाता है?",
+      "options": [
+        "Gandhi Nagar",
+        "Ahmedabad",
+        "Surat",
+        "Rajkot"
+      ],
+      "optionsHi": [
+        "गांधी नगर",
+        "अहमदाबाद",
+        "सूरत",
+        "राजकोट"
+      ],
+      "answer": 1,
+      "explanation": "Ahmedabad, with its many textile mills, is called the Manchester of India. (Q67 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-7.html",
+      "explanationHi": "कपड़ा मिलों की अधिकता के कारण अहमदाबाद को भारत का मैनचेस्टर कहा जाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The McMahon Line is situated between which two countries?",
+      "textHi": "मैकमोहन रेखा किन दो देशों के बीच स्थित है?",
+      "options": [
+        "India & Pakistan",
+        "India & China",
+        "India & Nepal",
+        "India & Bangladesh"
+      ],
+      "optionsHi": [
+        "भारत व पाकिस्तान",
+        "भारत व चीन",
+        "भारत व नेपाल",
+        "भारत व बांग्लादेश"
+      ],
+      "answer": 1,
+      "explanation": "The McMahon Line (1914) is the boundary between India and China (Tibet) in the east. (Q68 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-7.html",
+      "explanationHi": "मैकमोहन रेखा (1914) पूर्व में भारत और चीन (तिब्बत) के बीच की सीमा है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who signed the Shimla Agreement in 1972?",
+      "textHi": "1972 के शिमला समझौते पर किसने हस्ताक्षर किए?",
+      "options": [
+        "Pt. Nehru & Zulfikar Ali Bhutto",
+        "Indira Gandhi & Zulfikar Ali Bhutto",
+        "Mohd. Ali Jinnah & Pt. Nehru",
+        "Indira Gandhi & Mohd. Ali Jinnah"
+      ],
+      "optionsHi": [
+        "पं. नेहरू व ज़ुल्फ़िकार अली भुट्टो",
+        "इंदिरा गांधी व ज़ुल्फ़िकार अली भुट्टो",
+        "मुहम्मद अली जिन्ना व पं. नेहरू",
+        "इंदिरा गांधी व मुहम्मद अली जिन्ना"
+      ],
+      "answer": 1,
+      "explanation": "The Shimla Agreement (July 1972) was signed by Indira Gandhi and Zulfikar Ali Bhutto. (Q70 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-7.html",
+      "explanationHi": "शिमला समझौता (जुलाई 1972) इंदिरा गांधी और ज़ुल्फ़िकार अली भुट्टो ने हस्ताक्षरित किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which of the following revolutions is known as the October Revolution?",
+      "textHi": "निम्नलिखित में से किस क्रान्ति को अक्टूबर की क्रान्ति कहा जाता है?",
+      "options": [
+        "Russian Revolution",
+        "English Revolution",
+        "French Revolution",
+        "German Revolution"
+      ],
+      "optionsHi": [
+        "रूसी क्रान्ति",
+        "इंग्लैण्ड की क्रान्ति",
+        "फ्रांसीसी क्रान्ति",
+        "जर्मन क्रान्ति"
+      ],
+      "answer": 0,
+      "explanation": "The Bolshevik Revolution of 1917 in Russia is called the October Revolution. (Q71 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-8.html",
+      "explanationHi": "1917 की रूस की बोल्शेविक क्रांति को अक्टूबर क्रांति कहा जाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who was appointed as the first Lokpal of India?",
+      "textHi": "भारत का पहला लोकपाल किसे नियुक्त किया गया?",
+      "options": [
+        "Justice A.K. Goel",
+        "Justice Deepak Mishra",
+        "Justice P.C. Ghose",
+        "Justice Kurian Joseph"
+      ],
+      "optionsHi": [
+        "न्यायमूर्ति ए.के. गोयल",
+        "न्यायमूर्ति दीपक मिश्रा",
+        "न्यायमूर्ति पी.सी. घोष",
+        "न्यायमूर्ति कुरियन जोसेफ"
+      ],
+      "answer": 2,
+      "explanation": "Justice Pinaki Chandra Ghose became India's first Lokpal in March 2019. (Q72 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-8.html",
+      "explanationHi": "न्यायमूर्ति पिनाकी चंद्र घोष मार्च 2019 में भारत के पहले लोकपाल बने।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Balwant Rai Mehta Committee was related to which of the following?",
+      "textHi": "बलवंत राय मेहता समिति का संबंध निम्नलिखित में से किससे है?",
+      "options": [
+        "Panchayati Raj system",
+        "Centre-State relations",
+        "Rural development",
+        "Election reforms"
+      ],
+      "optionsHi": [
+        "पंचायती राज व्यवस्था",
+        "केन्द्र-राज्य संबंध",
+        "ग्रामीण विकास",
+        "चुनाव सुधार"
+      ],
+      "answer": 0,
+      "explanation": "The Balwant Rai Mehta Committee (1957) recommended the three-tier Panchayati Raj system. (Q73 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-8.html",
+      "explanationHi": "बलवंत राय मेहता समिति (1957) ने त्रि-स्तरीय पंचायती राज व्यवस्था की सिफारिश की।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In which year was the Right to Information Act enacted in India?",
+      "textHi": "भारत में सूचना का अधिकार अधिनियम किस वर्ष लागू किया गया?",
+      "options": [
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+      ],
+      "optionsHi": [
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+      ],
+      "answer": 3,
+      "explanation": "The Right to Information Act was enacted in 2005. (Q74 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-8.html",
+      "explanationHi": "सूचना का अधिकार अधिनियम 2005 में लागू किया गया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "In the Indian system, which is the basic unit of administration?",
+      "textHi": "भारत में प्रशासन की बुनियादी क्षेत्रीय इकाई कौन-सी है?",
+      "options": [
+        "Tehsil",
+        "Revenue Mandal",
+        "Village",
+        "District"
+      ],
+      "optionsHi": [
+        "तहसील",
+        "राजस्व मंडल",
+        "गाँव",
+        "जिला"
+      ],
+      "answer": 3,
+      "explanation": "The district is the basic territorial unit of administration in India. (Q75 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-8.html",
+      "explanationHi": "भारत में जिला प्रशासन की मूल क्षेत्रीय इकाई है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The India-US nuclear deal is known as the:",
+      "textHi": "भारत – अमेरिका का परमाणु करार किस नाम से जाना जाता है?",
+      "options": [
+        "121 Agreement",
+        "123 Agreement",
+        "132 Agreement",
+        "124 Agreement"
+      ],
+      "optionsHi": [
+        "121 समझौता",
+        "123 समझौता",
+        "132 समझौता",
+        "124 समझौता"
+      ],
+      "answer": 1,
+      "explanation": "The India-US civil nuclear deal is called the 123 Agreement after Section 123 of the US Atomic Energy Act. (Q76 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-8.html",
+      "explanationHi": "भारत-अमेरिका परमाणु समझौता अमेरिकी परमाणु ऊर्जा अधिनियम की धारा 123 के कारण '123 समझौता' कहलाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "When was the World Trade Organization established?",
+      "textHi": "विश्व व्यापार संगठन की स्थापना कब हुई?",
+      "options": [
+        "1 January 1994",
+        "1 January 1995",
+        "1 January 1996",
+        "31 January 1998"
+      ],
+      "optionsHi": [
+        "1 जनवरी 1994",
+        "1 जनवरी 1995",
+        "1 जनवरी 1996",
+        "31 जनवरी 1998"
+      ],
+      "answer": 1,
+      "explanation": "The WTO came into being on 1 January 1995. (Q77 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-8.html",
+      "explanationHi": "विश्व व्यापार संगठन की स्थापना 1 जनवरी 1995 को हुई।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who presides over the joint session of Parliament in India?",
+      "textHi": "भारत में संसद के संयुक्त अधिवेशन की अध्यक्षता कौन करता है?",
+      "options": [
+        "President of India",
+        "Vice-President",
+        "Speaker of the Lok Sabha",
+        "Prime Minister"
+      ],
+      "optionsHi": [
+        "भारत के राष्ट्रपति",
+        "उपराष्ट्रपति",
+        "लोकसभा अध्यक्ष",
+        "प्रधानमंत्री"
+      ],
+      "answer": 2,
+      "explanation": "Under Article 118(4), the Speaker of the Lok Sabha presides over a joint sitting of Parliament. (Q78 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-8.html",
+      "explanationHi": "अनुच्छेद 118(4) के अनुसार संसद की संयुक्त बैठक की अध्यक्षता लोकसभा अध्यक्ष करते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which constitutional amendment act is called a 'mini Constitution'?",
+      "textHi": "संविधान का कौन-सा संशोधन अधिनियम 'लघु (मिनी) संविधान' के नाम से जाना जाता है?",
+      "options": [
+        "42nd",
+        "44th",
+        "52nd",
+        "73rd"
+      ],
+      "optionsHi": [
+        "42वाँ",
+        "44वाँ",
+        "52वाँ",
+        "73वाँ"
+      ],
+      "answer": 0,
+      "explanation": "The 42nd Amendment (1976) made sweeping changes and is called the mini-Constitution. (Q79 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-8.html",
+      "explanationHi": "42वें संशोधन (1976) ने व्यापक परिवर्तन किए, इसलिए इसे लघु संविधान कहा जाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Where was the first Non-Aligned Movement summit held?",
+      "textHi": "गुटनिरपेक्ष आंदोलन का पहला शिखर सम्मेलन कहाँ हुआ था?",
+      "options": [
+        "Belgrade",
+        "Lusaka",
+        "Cairo",
+        "Havana"
+      ],
+      "optionsHi": [
+        "बेलग्रेड",
+        "लुसाका",
+        "काहिरा",
+        "हवाना"
+      ],
+      "answer": 0,
+      "explanation": "The first NAM summit was held at Belgrade (Yugoslavia) in 1961. (Q80 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-8.html",
+      "explanationHi": "गुटनिरपेक्ष आंदोलन का पहला शिखर सम्मेलन 1961 में बेलग्रेड (यूगोस्लाविया) में हुआ।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "A no-confidence motion is moved in which House of Parliament?",
+      "textHi": "अविश्वास प्रस्ताव संसद के किस सदन में प्रस्तुत किया जाता है?",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Both",
+        "None of these"
+      ],
+      "optionsHi": [
+        "लोक सभा",
+        "राज्य सभा",
+        "दोनों में",
+        "किसी में नहीं"
+      ],
+      "answer": 0,
+      "explanation": "A no-confidence motion can be moved only in the Lok Sabha, to which the Council of Ministers is responsible. (Q81 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-9.html",
+      "explanationHi": "अविश्वास प्रस्ताव केवल लोकसभा में लाया जा सकता है, क्योंकि मंत्रिपरिषद लोकसभा के प्रति उत्तरदायी है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Whom did the people of the Indus Valley worship?",
+      "textHi": "सिंधु घाटी के लोग किसकी पूजा करते थे?",
+      "options": [
+        "Pashupati",
+        "Indra & Varun",
+        "Brahma",
+        "Vishnu"
+      ],
+      "optionsHi": [
+        "पशुपति",
+        "इन्द्र और वरुण",
+        "ब्रह्मा",
+        "विष्णु"
+      ],
+      "answer": 0,
+      "explanation": "The 'Pashupati' seal shows that the Indus people worshipped a proto-Shiva (Pashupati). (Q82 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-9.html",
+      "explanationHi": "'पशुपति' मुहर से पता चलता है कि सिंधु घाटी के लोग पशुपति (आदि-शिव) की पूजा करते थे।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who built the Sanchi Stupa?",
+      "textHi": "साँची स्तूप किसने बनवाया था?",
+      "options": [
+        "Samudragupta",
+        "Bindusara",
+        "Chandragupta Maurya",
+        "Ashoka"
+      ],
+      "optionsHi": [
+        "समुद्रगुप्त",
+        "बिन्दुसार",
+        "चन्द्रगुप्त मौर्य",
+        "अशोक"
+      ],
+      "answer": 3,
+      "explanation": "The Sanchi Stupa was originally built by the Mauryan emperor Ashoka. (Q84 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-9.html",
+      "explanationHi": "साँची स्तूप का निर्माण मूल रूप से मौर्य सम्राट अशोक ने करवाया था।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which was the first metal to be used by humans?",
+      "textHi": "मनुष्य ने सबसे पहले निम्नलिखित में से किस धातु का प्रयोग किया?",
+      "options": [
+        "Bronze",
+        "Silver",
+        "Iron",
+        "Copper"
+      ],
+      "optionsHi": [
+        "काँसा",
+        "चाँदी",
+        "लोहा",
+        "ताँबा"
+      ],
+      "answer": 3,
+      "explanation": "Copper was the first metal used by humans (Chalcolithic age). (Q85 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-9.html",
+      "explanationHi": "मनुष्य ने सबसे पहले ताँबे का प्रयोग किया (ताम्र-पाषाण काल)।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The main cause of earthquakes is:",
+      "textHi": "भूकंप का मुख्य कारण है:",
+      "options": [
+        "Erosion",
+        "Denudation",
+        "Tectonic forces",
+        "Weathering"
+      ],
+      "optionsHi": [
+        "अपरदन",
+        "अनाच्छादन",
+        "विवर्तनिक बल",
+        "अपक्षय"
+      ],
+      "answer": 2,
+      "explanation": "Most earthquakes are caused by tectonic forces, i.e. plate movements. (Q86 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-9.html",
+      "explanationHi": "अधिकांश भूकंप विवर्तनिक बलों अर्थात प्लेटों की गति के कारण आते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Black soil is good for the growth of which crop?",
+      "textHi": "काली मिट्टी किस फसल के लिए अच्छी होती है?",
+      "options": [
+        "Rice",
+        "Wheat",
+        "Cotton",
+        "Sugarcane"
+      ],
+      "optionsHi": [
+        "चावल",
+        "गेहूँ",
+        "कपास",
+        "गन्ना"
+      ],
+      "answer": 2,
+      "explanation": "Black (regur) soil retains moisture and is ideal for cotton. (Q87 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-9.html",
+      "explanationHi": "काली (रेगुर) मिट्टी नमी बनाए रखती है और कपास के लिए सबसे उपयुक्त है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Finance Commission is constituted under which article of the Constitution of India?",
+      "textHi": "वित्त आयोग का गठन भारतीय संविधान के किस अनुच्छेद के अंतर्गत किया जाता है?",
+      "options": [
+        "324",
+        "280",
+        "325",
+        "368"
+      ],
+      "optionsHi": [
+        "324",
+        "280",
+        "325",
+        "368"
+      ],
+      "answer": 1,
+      "explanation": "The Finance Commission is constituted under Article 280. (Q88 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-9.html",
+      "explanationHi": "वित्त आयोग का गठन अनुच्छेद 280 के अंतर्गत किया जाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which town of Himachal Pradesh is known as \"Himachal ka Banaras\"?",
+      "textHi": "हिमाचल प्रदेश के किस शहर को \"हिमाचल का बनारस\" कहा जाता है?",
+      "options": [
+        "Mandi",
+        "Bilaspur",
+        "Una",
+        "Solan"
+      ],
+      "optionsHi": [
+        "मंडी",
+        "बिलासपुर",
+        "ऊना",
+        "सोलन"
+      ],
+      "answer": 0,
+      "explanation": "Mandi, with its many temples on the Beas, is called the 'Varanasi of the Hills' / 'Himachal ka Banaras'. (Q90 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-9.html",
+      "explanationHi": "ब्यास तट पर अनेक मंदिरों के कारण मंडी को 'हिमाचल का बनारस' कहा जाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "What are the forests of areas of maximum rainfall called?",
+      "textHi": "अधिकतम वर्षा वाले क्षेत्रों में पाए जाने वाले वनों को क्या कहते हैं?",
+      "options": [
+        "Tropical rainforest",
+        "Deciduous (autumn) forest",
+        "Mountain forest",
+        "None of these"
+      ],
+      "optionsHi": [
+        "उष्णकटिबंधीय वर्षा वन",
+        "पतझड़ वन",
+        "पर्वतीय वन",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "Areas of very heavy rainfall have tropical rainforests (tropical evergreen forests). (Q92 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-10.html",
+      "explanationHi": "अत्यधिक वर्षा वाले क्षेत्रों में उष्णकटिबंधीय वर्षा वन (सदाबहार वन) पाए जाते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The Narora atomic power station is in which state?",
+      "textHi": "नरोरा परमाणु ऊर्जा केन्द्र किस राज्य में स्थित है?",
+      "options": [
+        "Gujarat",
+        "Uttar Pradesh",
+        "Kerala",
+        "Maharashtra"
+      ],
+      "optionsHi": [
+        "गुजरात",
+        "उत्तर प्रदेश",
+        "केरल",
+        "महाराष्ट्र"
+      ],
+      "answer": 1,
+      "explanation": "Narora Atomic Power Station is in Bulandshahr district, Uttar Pradesh. (Q94 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-10.html",
+      "explanationHi": "नरोरा परमाणु ऊर्जा केन्द्र उत्तर प्रदेश के बुलंदशहर जिले में है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "What does Article 17 of the Indian Constitution say?",
+      "textHi": "भारतीय संविधान का अनुच्छेद 17 क्या कहता है?",
+      "options": [
+        "Untouchability is abolished",
+        "The practice of untouchability is forbidden",
+        "The practice of untouchability is an offence",
+        "All of these"
+      ],
+      "optionsHi": [
+        "छुआछूत का अंत कर दिया गया है",
+        "छुआछूत का आचरण वर्जित है",
+        "छुआछूत का आचरण एक अपराध है",
+        "ये सभी"
+      ],
+      "answer": 3,
+      "explanation": "Article 17 abolishes untouchability, forbids its practice in any form and makes its enforcement an offence. (Q95 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-10.html",
+      "explanationHi": "अनुच्छेद 17 छुआछूत का अंत करता है, उसके आचरण को वर्जित करता है और उसे दंडनीय अपराध बनाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who initiated the Doctrine of Lapse?",
+      "textHi": "'व्यपगत (लैप्स) का सिद्धांत' किसने शुरू किया?",
+      "options": [
+        "Canning",
+        "Dalhousie",
+        "Wellesley",
+        "William Bentinck"
+      ],
+      "optionsHi": [
+        "कैनिंग",
+        "डलहौजी",
+        "वेलेजली",
+        "विलियम बेंटिक"
+      ],
+      "answer": 1,
+      "explanation": "Lord Dalhousie (1848-56) applied the Doctrine of Lapse to annex states like Satara and Jhansi. (Q96 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-10.html",
+      "explanationHi": "लॉर्ड डलहौजी (1848-56) ने व्यपगत (लैप्स) के सिद्धांत से सतारा, झाँसी आदि का विलय किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "What is the minimum age for the post of President of India?",
+      "textHi": "भारत के राष्ट्रपति पद के लिए न्यूनतम निर्धारित आयु कितनी है?",
+      "options": [
+        "25 years",
+        "35 years",
+        "30 years",
+        "26 years"
+      ],
+      "optionsHi": [
+        "25 वर्ष",
+        "35 वर्ष",
+        "30 वर्ष",
+        "26 वर्ष"
+      ],
+      "answer": 1,
+      "explanation": "Article 58: a presidential candidate must be at least 35 years old. (Q97 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-10.html",
+      "explanationHi": "अनुच्छेद 58 के अनुसार राष्ट्रपति पद के लिए न्यूनतम आयु 35 वर्ष है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The movement of the Earth around the Sun is known as:",
+      "textHi": "सूर्य के चारों ओर पृथ्वी की गति को कहा जाता है:",
+      "options": [
+        "Revolution",
+        "Orbital plane",
+        "Circle of illumination",
+        "Rotation"
+      ],
+      "optionsHi": [
+        "परिक्रमण",
+        "कक्षीय तल",
+        "प्रदीप्ति वृत्त",
+        "घूर्णन"
+      ],
+      "answer": 0,
+      "explanation": "The Earth's movement around the Sun is revolution; spinning on its axis is rotation. (Q98 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-10.html",
+      "explanationHi": "सूर्य के चारों ओर पृथ्वी की गति परिक्रमण तथा अपनी धुरी पर घूमना घूर्णन कहलाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Where is Kandla port situated?",
+      "textHi": "कांडला बंदरगाह कहाँ स्थित है?",
+      "options": [
+        "Gujarat",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "optionsHi": [
+        "गुजरात",
+        "महाराष्ट्र",
+        "तमिलनाडु",
+        "आंध्र प्रदेश"
+      ],
+      "answer": 0,
+      "explanation": "Kandla (Deendayal) Port is on the Gulf of Kutch, Gujarat. (Q99 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-10.html",
+      "explanationHi": "कांडला (दीनदयाल) बंदरगाह गुजरात में कच्छ की खाड़ी पर है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who implemented the Vernacular Press Act?",
+      "textHi": "वर्नाक्युलर प्रेस एक्ट किसने लागू किया?",
+      "options": [
+        "Lord Lytton",
+        "Lord Dalhousie",
+        "Lord Canning",
+        "Lord Wellesley"
+      ],
+      "optionsHi": [
+        "लॉर्ड लिटन",
+        "लॉर्ड डलहौजी",
+        "लॉर्ड कैनिंग",
+        "लॉर्ड वेलेजली"
+      ],
+      "answer": 0,
+      "explanation": "Lord Lytton passed the Vernacular Press Act in 1878. (Q100 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-10.html",
+      "explanationHi": "लॉर्ड लिटन ने 1878 में वर्नाक्युलर प्रेस एक्ट लागू किया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which is not an indirect tax?",
+      "textHi": "कौन सा अप्रत्यक्ष कर नहीं है?",
+      "options": [
+        "Income tax",
+        "Sales tax",
+        "Production tax",
+        "Service tax"
+      ],
+      "optionsHi": [
+        "आय कर",
+        "बिक्री कर",
+        "उत्पादन कर",
+        "सेवा कर"
+      ],
+      "answer": 0,
+      "explanation": "Income tax is a direct tax; sales, production and service taxes are indirect. (Q101 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-11.html",
+      "explanationHi": "आयकर प्रत्यक्ष कर है; बिक्री, उत्पादन और सेवा कर अप्रत्यक्ष कर हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which right was removed from the fundamental rights by the 44th Constitutional Amendment?",
+      "textHi": "44 वें संविधान संशोधन द्वारा किस अधिकार को मौलिक अधिकारों की सूची से हटाया गया?",
+      "options": [
+        "Right to health",
+        "Right to property",
+        "Right to education",
+        "Right to equality"
+      ],
+      "optionsHi": [
+        "स्वास्थ्य का अधिकार",
+        "संपत्ति का अधिकार",
+        "शिक्षा का अधिकार",
+        "समानता का अधिकार"
+      ],
+      "answer": 1,
+      "explanation": "The 44th Amendment (1978) removed the right to property from fundamental rights (now Article 300A). (Q102 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-11.html",
+      "explanationHi": "44वें संशोधन (1978) ने संपत्ति के अधिकार को मौलिक अधिकारों से हटाया (अब अनुच्छेद 300A)।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Bharatanatyam is a famous dance of which state?",
+      "textHi": "भरतनाट्यम किस राज्य का प्रसिद्ध नृत्य है?",
+      "options": [
+        "Uttar Pradesh",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Kerala"
+      ],
+      "optionsHi": [
+        "उत्तर प्रदेश",
+        "आंध्र प्रदेश",
+        "तमिलनाडु",
+        "केरल"
+      ],
+      "answer": 2,
+      "explanation": "Bharatanatyam is the classical dance of Tamil Nadu. (Q103 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-11.html",
+      "explanationHi": "भरतनाट्यम तमिलनाडु का शास्त्रीय नृत्य है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "\"Merino\" is a breed of:",
+      "textHi": "'मेरिनो' किसकी नस्ल है?",
+      "options": [
+        "Fish",
+        "Goat",
+        "Dog",
+        "Sheep"
+      ],
+      "optionsHi": [
+        "मछली",
+        "बकरी",
+        "कुत्ता",
+        "भेड़"
+      ],
+      "answer": 3,
+      "explanation": "Merino is a breed of sheep famous for fine wool. (Q104 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-11.html",
+      "explanationHi": "मेरिनो बारीक ऊन के लिए प्रसिद्ध भेड़ की नस्ल है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The National Cadet Corps was established in the year:",
+      "textHi": "राष्ट्रीय कैडेट कोर का गठन किस वर्ष हुआ था?",
+      "options": [
+        "1949",
+        "1948",
+        "1958",
+        "1959"
+      ],
+      "optionsHi": [
+        "1949",
+        "1948",
+        "1958",
+        "1959"
+      ],
+      "answer": 1,
+      "explanation": "The NCC was raised under the National Cadet Corps Act of 1948. (Q105 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-11.html",
+      "explanationHi": "राष्ट्रीय कैडेट कोर का गठन 1948 के अधिनियम के अंतर्गत हुआ।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The \"Diet\" is the parliament of which country?",
+      "textHi": "'डाइट' किस देश की संसद है?",
+      "options": [
+        "Russia",
+        "China",
+        "Japan",
+        "Norway"
+      ],
+      "optionsHi": [
+        "रूस",
+        "चीन",
+        "जापान",
+        "नॉर्वे"
+      ],
+      "answer": 2,
+      "explanation": "The Diet is the national parliament of Japan. (Q106 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-11.html",
+      "explanationHi": "डाइट जापान की संसद है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who gave the title \"Paharan-di-Bulbul\" to Baba Kanshi Ram?",
+      "textHi": "बाबा कांशी राम को 'पहाड़ाँ दी बुलबुल' की उपाधि किसने दी?",
+      "options": [
+        "Mahatma Gandhi",
+        "Subhash Chandra Bose",
+        "Jawahar Lal Nehru",
+        "Sarojini Naidu"
+      ],
+      "optionsHi": [
+        "महात्मा गाँधी",
+        "सुभाष चन्द्र बोस",
+        "जवाहर लाल नेहरू",
+        "सरोजिनी नायडू"
+      ],
+      "answer": 3,
+      "explanation": "Sarojini Naidu called Baba Kanshi Ram 'Bulbul-e-Pahar' (Paharan-di-Bulbul). (Q107 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-11.html",
+      "explanationHi": "सरोजिनी नायडू ने बाबा कांशी राम को 'पहाड़ाँ दी बुलबुल' की उपाधि दी।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Municipality and panchayat elections are conducted by the:",
+      "textHi": "नगरपालिका और पंचायत के चुनाव कौन करवाता है?",
+      "options": [
+        "State Government",
+        "Central Government",
+        "State Election Commission",
+        "Central Election Commission"
+      ],
+      "optionsHi": [
+        "राज्य सरकार",
+        "केन्द्र सरकार",
+        "राज्य निर्वाचन आयोग",
+        "केन्द्रीय निर्वाचन आयोग"
+      ],
+      "answer": 2,
+      "explanation": "Under Articles 243K and 243ZA, State Election Commissions conduct panchayat and municipal elections. (Q108 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-11.html",
+      "explanationHi": "अनुच्छेद 243K और 243ZA के अनुसार पंचायत और नगरपालिका चुनाव राज्य निर्वाचन आयोग करवाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The ________ is an introduction to the Constitution.",
+      "textHi": "________ संविधान का परिचय है।",
+      "options": [
+        "Act",
+        "Bill",
+        "The Parliament",
+        "Preamble"
+      ],
+      "optionsHi": [
+        "अधिनियम",
+        "विधेयक",
+        "संसद",
+        "प्रस्तावना"
+      ],
+      "answer": 3,
+      "explanation": "The Preamble is the introduction to the Constitution. (Q109 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-11.html",
+      "explanationHi": "प्रस्तावना संविधान का परिचय (उद्देशिका) है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The \"Black Pagoda\" is located at:",
+      "textHi": "‘ब्लैक पैगोडा’ स्थित है –",
+      "options": [
+        "Khajuraho",
+        "Konark",
+        "Madurai",
+        "Mahabalipuram"
+      ],
+      "optionsHi": [
+        "खजुराहो",
+        "कोणार्क",
+        "मदुरै",
+        "महाबलीपुरम"
+      ],
+      "answer": 1,
+      "explanation": "The Sun Temple at Konark (Odisha) is called the Black Pagoda. (Q110 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-11.html",
+      "explanationHi": "कोणार्क (ओडिशा) का सूर्य मंदिर 'ब्लैक पैगोडा' कहलाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "When did the Indian Wildlife (Protection) Act come into force?",
+      "textHi": "भारतीय वन्यजीव (संरक्षण) अधिनियम कब लागू हुआ?",
+      "options": [
+        "1972",
+        "1971",
+        "1974",
+        "1982"
+      ],
+      "optionsHi": [
+        "1972",
+        "1971",
+        "1974",
+        "1982"
+      ],
+      "answer": 0,
+      "explanation": "The Wildlife (Protection) Act was enacted in 1972. (Q111 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-12.html",
+      "explanationHi": "वन्यजीव (संरक्षण) अधिनियम 1972 में लागू हुआ।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who gave the slogan \"Go back to the Vedas\"?",
+      "textHi": "‘वेदों की ओर लौटो’ यह प्रसिद्ध नारा किसने दिया था?",
+      "options": [
+        "Swami Vivekananda",
+        "Dayanand Saraswati",
+        "Mahatma Gandhi",
+        "Gopal Krishna Gokhale"
+      ],
+      "optionsHi": [
+        "स्वामी विवेकानंद",
+        "दयानंद सरस्वती",
+        "महात्मा गांधी",
+        "गोपाल कृष्ण गोखले"
+      ],
+      "answer": 1,
+      "explanation": "Swami Dayanand Saraswati, founder of the Arya Samaj, gave the call 'Go back to the Vedas'. (Q112 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-12.html",
+      "explanationHi": "आर्य समाज के संस्थापक स्वामी दयानंद सरस्वती ने 'वेदों की ओर लौटो' का नारा दिया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "The value of the prime meridian is:",
+      "textHi": "प्रधान याम्योत्तर का मान है",
+      "options": [
+        "90°",
+        "0°",
+        "60°",
+        "180°"
+      ],
+      "optionsHi": [
+        "90°",
+        "0°",
+        "60°",
+        "180°"
+      ],
+      "answer": 1,
+      "explanation": "The prime meridian (Greenwich) is 0° longitude. (Q113 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-12.html",
+      "explanationHi": "प्रधान याम्योत्तर (ग्रीनविच) 0° देशांतर है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "When was the practice of sati prohibited?",
+      "textHi": "सती प्रथा पर प्रतिबंध कब लगाया गया?",
+      "options": [
+        "1827 AD",
+        "1829 AD",
+        "1828 AD",
+        "1830 AD"
+      ],
+      "optionsHi": [
+        "1827 ई.",
+        "1829 ई.",
+        "1828 ई.",
+        "1830 ई."
+      ],
+      "answer": 1,
+      "explanation": "Lord William Bentinck banned sati by Regulation XVII of 1829. (Q115 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-12.html",
+      "explanationHi": "लॉर्ड विलियम बेंटिक ने 1829 के नियम XVII द्वारा सती प्रथा पर रोक लगाई।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "How many banks were nationalised in the year 1969?",
+      "textHi": "वर्ष 1969 में कितने बैंकों का राष्ट्रीयकरण किया गया था?",
+      "options": [
+        "16",
+        "14",
+        "15",
+        "20"
+      ],
+      "optionsHi": [
+        "16",
+        "14",
+        "15",
+        "20"
+      ],
+      "answer": 1,
+      "explanation": "Fourteen major commercial banks were nationalised on 19 July 1969. (Q116 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-12.html",
+      "explanationHi": "19 जुलाई 1969 को 14 प्रमुख व्यावसायिक बैंकों का राष्ट्रीयकरण किया गया।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "How many shlokas are there in the Mahabharata?",
+      "textHi": "महाभारत में कुल कितने श्लोक हैं?",
+      "options": [
+        "100000",
+        "50000",
+        "88000",
+        "None of these"
+      ],
+      "optionsHi": [
+        "100000",
+        "50000",
+        "88000",
+        "उपरोक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "The Mahabharata is traditionally said to contain about one lakh (100,000) shlokas. (Q118 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-12.html",
+      "explanationHi": "परंपरागत रूप से महाभारत में लगभग एक लाख श्लोक माने जाते हैं।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Which colour is used for showing water on a map?",
+      "textHi": "मानचित्र पर जलाशयों को दिखाने के लिए किस रंग का प्रयोग किया जाता है?",
+      "options": [
+        "Blue",
+        "Black",
+        "White",
+        "Brown"
+      ],
+      "optionsHi": [
+        "नीला",
+        "काला",
+        "सफेद",
+        "भूरा"
+      ],
+      "answer": 0,
+      "explanation": "Water bodies are shown in blue on maps. (Q119 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-12.html",
+      "explanationHi": "मानचित्र पर जलाशयों को नीले रंग से दिखाया जाता है।"
+    },
+    {
+      "section": "Social Studies",
+      "text": "Who was born in Lumbini?",
+      "textHi": "लुम्बिनी में किसका जन्म हुआ था?",
+      "options": [
+        "Swami Vivekananda",
+        "Gautama Buddha",
+        "Swami Mahavir",
+        "Swami Dayanand"
+      ],
+      "optionsHi": [
+        "स्वामी विवेकानंद",
+        "गौतम बुद्ध",
+        "स्वामी महावीर",
+        "स्वामी दयानंद"
+      ],
+      "answer": 1,
+      "explanation": "Gautama Buddha was born at Lumbini (in present-day Nepal). (Q120 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-12.html",
+      "explanationHi": "गौतम बुद्ध का जन्म लुम्बिनी (वर्तमान नेपाल) में हुआ।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Through which continent do all three imaginary lines, the Tropic of Cancer, the Tropic of Capricorn and the Equator, pass?",
+      "textHi": "किस महाद्वीप से तीनों काल्पनिक रेखाएँ, कर्क रेखा, मकर रेखा और विषुवत रेखा, गुजरती हैं?",
+      "options": [
+        "Africa",
+        "Australia",
+        "Europe",
+        "Asia"
+      ],
+      "optionsHi": [
+        "अफ्रीका",
+        "ऑस्ट्रेलिया",
+        "यूरोप",
+        "एशिया"
+      ],
+      "answer": 0,
+      "explanation": "Africa is the only continent crossed by the Tropic of Cancer, the Equator and the Tropic of Capricorn. (Q121 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-13.html",
+      "explanationHi": "अफ्रीका एकमात्र महाद्वीप है जिससे कर्क रेखा, भूमध्य रेखा और मकर रेखा तीनों गुजरती हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "When was the Goods and Services Tax introduced in India?",
+      "textHi": "भारत में वस्तु एवं सेवा कर (GST) कब शुरू किया गया?",
+      "options": [
+        "8 November 2016",
+        "15 August 2017",
+        "1 July 2017",
+        "26 January 2017"
+      ],
+      "optionsHi": [
+        "8 नवम्बर 2016",
+        "15 अगस्त 2017",
+        "1 जुलाई 2017",
+        "26 जनवरी 2017"
+      ],
+      "answer": 2,
+      "explanation": "GST was rolled out across India on 1 July 2017. (Q122 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-13.html",
+      "explanationHi": "वस्तु एवं सेवा कर (GST) 1 जुलाई 2017 से पूरे भारत में लागू हुआ।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is the logo of \"Make in India\"?",
+      "textHi": "‘मेक इन इंडिया’ का लोगो क्या है ?",
+      "options": [
+        "Tiger",
+        "Cheetah",
+        "Elephant",
+        "Lion"
+      ],
+      "optionsHi": [
+        "बाघ",
+        "चीता",
+        "हाथी",
+        "शेर"
+      ],
+      "answer": 3,
+      "explanation": "The Make in India logo is a lion made of cogs. (Q123 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-13.html",
+      "explanationHi": "'मेक इन इंडिया' का लोगो पहियों (कॉग) से बना शेर है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "How many languages are printed on the back of Indian currency notes?",
+      "textHi": "भारतीय करेंसी नोटों के पिछले भाग पर कितनी भाषाएँ मुद्रित होती हैं?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "optionsHi": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "answer": 3,
+      "explanation": "Besides Hindi and English on the front, 15 languages appear in the language panel on the back of Indian notes. (Q124 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-13.html",
+      "explanationHi": "भारतीय नोटों के पिछले भाग पर भाषा पैनल में 15 भाषाएँ मुद्रित होती हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is the full form of L.E.D.?",
+      "textHi": "L.E.D. का पूर्ण रूप क्या है?",
+      "options": [
+        "Light Emitting Diode",
+        "Light Emitting Device",
+        "Light Enhancing Device",
+        "Light Enhancing Diode"
+      ],
+      "optionsHi": [
+        "Light Emitting Diode",
+        "Light Emitting Device",
+        "Light Enhancing Device",
+        "Light Enhancing Diode"
+      ],
+      "answer": 0,
+      "explanation": "LED stands for Light Emitting Diode. (Q125 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-13.html",
+      "explanationHi": "LED का पूर्ण रूप Light Emitting Diode (प्रकाश उत्सर्जक डायोड) है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "In which year was the first Nobel Prize awarded?",
+      "textHi": "सर्वप्रथम नोबेल पुरस्कार किस वर्ष दिया गया?",
+      "options": [
+        "1901",
+        "1954",
+        "1957",
+        "1929"
+      ],
+      "optionsHi": [
+        "1901",
+        "1954",
+        "1957",
+        "1929"
+      ],
+      "answer": 0,
+      "explanation": "The first Nobel Prizes were awarded in 1901. (Q126 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-13.html",
+      "explanationHi": "पहला नोबेल पुरस्कार 1901 में दिया गया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What does \"D\" represent in the abbreviation \"IRDA\"?",
+      "textHi": "संक्षिप्त नाम \"IRDA\" में 'D' किसे दर्शाता है?",
+      "options": [
+        "Department",
+        "Depository",
+        "Development",
+        "Domestic"
+      ],
+      "optionsHi": [
+        "डिपार्टमेंट",
+        "डिपॉजिटरी",
+        "डेवलपमेंट",
+        "डोमेस्टिक"
+      ],
+      "answer": 2,
+      "explanation": "IRDA = Insurance Regulatory and Development Authority. (Q127 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-13.html",
+      "explanationHi": "IRDA = Insurance Regulatory and Development Authority (बीमा विनियामक और विकास प्राधिकरण)।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who was posthumously awarded the supreme peacetime gallantry award, the Ashoka Chakra, in 2019?",
+      "textHi": "वर्ष 2019 में शांतिकाल का सर्वोच्च वीरता पुरस्कार 'अशोक चक्र' मरणोपरांत किसे प्रदान किया गया?",
+      "options": [
+        "Jyoti Prakash Nirala",
+        "Nazir Ahmad Wani",
+        "Hangpan Dada",
+        "Mohan Nath Goswami"
+      ],
+      "optionsHi": [
+        "ज्योति प्रकाश निराला",
+        "नज़ीर अहमद वानी",
+        "हंगपन दादा",
+        "मोहन नाथ गोस्वामी"
+      ],
+      "answer": 1,
+      "explanation": "Lance Naik Nazir Ahmad Wani was posthumously awarded the Ashoka Chakra on Republic Day 2019. (Q128 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-13.html",
+      "explanationHi": "लांस नायक नज़ीर अहमद वानी को गणतंत्र दिवस 2019 पर मरणोपरांत अशोक चक्र दिया गया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "\"Connecting India\" is the tagline of which one of the following?",
+      "textHi": "‘कनेक्टिंग इंडिया’ निम्नलिखित में से किसकी टैगलाइन है?",
+      "options": [
+        "Air India",
+        "State Bank of India",
+        "Indian Railways",
+        "BSNL"
+      ],
+      "optionsHi": [
+        "एयर इंडिया",
+        "भारतीय स्टेट बैंक",
+        "भारतीय रेल",
+        "बी.एस.एन.एल."
+      ],
+      "answer": 3,
+      "explanation": "'Connecting India' is the tagline of BSNL. (Q129 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-13.html",
+      "explanationHi": "'कनेक्टिंग इंडिया' बीएसएनएल की टैगलाइन है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who were the oldest residents of H.P.?",
+      "textHi": "हिमाचल प्रदेश के प्राचीनतम निवासी कौन थे?",
+      "options": [
+        "Kol",
+        "Aryans",
+        "Gaddi",
+        "None of the above"
+      ],
+      "optionsHi": [
+        "कोल",
+        "आर्य",
+        "गद्दी",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "The Kols (Kolarians) are regarded as the oldest inhabitants of Himachal Pradesh. (Q130 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-13.html",
+      "explanationHi": "कोल (कोलारियन) हिमाचल प्रदेश के प्राचीनतम निवासी माने जाते हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The fundamental rights have been taken from the Constitution of which country?",
+      "textHi": "मौलिक अधिकारों को किस देश के संविधान से लिया गया है?",
+      "options": [
+        "Canada",
+        "France",
+        "Germany",
+        "USA"
+      ],
+      "optionsHi": [
+        "कनाडा",
+        "फ्रांस",
+        "जर्मनी",
+        "अमेरिका"
+      ],
+      "answer": 3,
+      "explanation": "India's fundamental rights are borrowed from the US Bill of Rights. (Q131 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-14.html",
+      "explanationHi": "भारत के मौलिक अधिकार अमेरिका के संविधान (बिल ऑफ राइट्स) से लिए गए हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is a plateau?",
+      "textHi": "पठार क्या है?",
+      "options": [
+        "Land covered with mountains",
+        "Land covered with snow",
+        "An area of relatively high ground",
+        "None of the above"
+      ],
+      "optionsHi": [
+        "पहाड़ों से घिरी भूमि",
+        "बर्फ से ढकी भूमि",
+        "अपेक्षाकृत ऊँचे धरातल वाला क्षेत्र",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 2,
+      "explanation": "A plateau is an extensive area of relatively high, flat-topped ground. (Q132 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-14.html",
+      "explanationHi": "पठार अपेक्षाकृत ऊँचे और समतल शीर्ष वाले धरातल का विस्तृत भू-भाग है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who was the Prime Minister of Britain at the time of India's independence?",
+      "textHi": "भारत की स्वतंत्रता के समय ब्रिटेन का प्रधानमंत्री कौन था?",
+      "options": [
+        "Clement Attlee",
+        "Winston Churchill",
+        "James Bolt",
+        "Radcliffe"
+      ],
+      "optionsHi": [
+        "क्लीमेंट एटली",
+        "विंस्टन चर्चिल",
+        "जेम्स बोल्ट",
+        "रेडक्लिफ"
+      ],
+      "answer": 0,
+      "explanation": "Clement Attlee (Labour) was the British PM in August 1947. (Q134 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-14.html",
+      "explanationHi": "अगस्त 1947 में क्लीमेंट एटली ब्रिटेन के प्रधानमंत्री थे।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which are famous by the name \"Seven Sisters\"?",
+      "textHi": "'सात बहनें' नाम से कौन प्रसिद्ध हैं?",
+      "options": [
+        "States of the North-East",
+        "Rivers of North India",
+        "Peaks of the Middle Himalaya",
+        "All of the above"
+      ],
+      "optionsHi": [
+        "पूर्वोत्तर के राज्य",
+        "उत्तर भारत की नदियाँ",
+        "मध्य हिमालय की चोटियाँ",
+        "उपरोक्त सभी"
+      ],
+      "answer": 0,
+      "explanation": "The north-eastern states are called the 'Seven Sisters'. (Q135 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-14.html",
+      "explanationHi": "पूर्वोत्तर के सात राज्यों को 'सात बहनें' कहा जाता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is common between Hatkoti, Nichar and Sarahan?",
+      "textHi": "हाटकोटी, निचार और सराहन में क्या समानता है?",
+      "options": [
+        "Fruit orchards",
+        "Pastures",
+        "Places of Goddess worship",
+        "Places of Shiva worship"
+      ],
+      "optionsHi": [
+        "फलों के बगीचे",
+        "चरागाह",
+        "देवी पूजा के स्थल",
+        "शिव पूजा के स्थल"
+      ],
+      "answer": 2,
+      "explanation": "Hatkoti (Hateshwari Mata), Nichar and Sarahan (Bhimakali) are known for temples of the Goddess. (Q136 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-14.html",
+      "explanationHi": "हाटकोटी (हाटेश्वरी माता), निचार और सराहन (भीमाकाली) देवी पूजा के स्थल हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which crop's varieties are named Kalyan Sona, Sonalika and RR-21?",
+      "textHi": "कल्याण सोना, सोनालिका और आर.आर.-21 किस फसल की किस्में हैं?",
+      "options": [
+        "Wheat",
+        "Rice",
+        "Barley",
+        "Apple"
+      ],
+      "optionsHi": [
+        "गेहूँ",
+        "चावल",
+        "जौ",
+        "सेब"
+      ],
+      "answer": 0,
+      "explanation": "Kalyan Sona, Sonalika and RR-21 are high-yielding wheat varieties of the Green Revolution. (Q137 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-14.html",
+      "explanationHi": "कल्याण सोना, सोनालिका और आर.आर.-21 हरित क्रांति की गेहूँ की उन्नत किस्में हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is the work of Lok Mitra Kendras in H.P.?",
+      "textHi": "हिमाचल प्रदेश में लोक मित्र केन्द्र क्या काम करते हैं?",
+      "options": [
+        "Deposit electricity bills",
+        "Deposit water bills",
+        "Copy of Jamabandi",
+        "All of the above"
+      ],
+      "optionsHi": [
+        "बिजली के बिल जमा करना",
+        "पानी के बिल जमा करना",
+        "जमाबंदी की प्रतिलिपि निकालना",
+        "उपरोक्त सभी"
+      ],
+      "answer": 3,
+      "explanation": "Lok Mitra Kendras (CSCs) in H.P. offer bill payments, copies of Jamabandi and other services. (Q138 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-14.html",
+      "explanationHi": "हिमाचल के लोक मित्र केन्द्र बिल जमा करने, जमाबंदी की प्रति निकालने आदि सभी सेवाएँ देते हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "H.P. Road Transport Corporation gives Green Card holders a discount of what percent on HRTC buses?",
+      "textHi": "हिमाचल पथ परिवहन निगम ग्रीन कार्ड धारकों को एचआरटीसी बसों में कितने प्रतिशत छूट देता है?",
+      "options": [
+        "25%",
+        "30%",
+        "40%",
+        "50%"
+      ],
+      "optionsHi": [
+        "25%",
+        "30%",
+        "40%",
+        "50%"
+      ],
+      "answer": 0,
+      "explanation": "HRTC's Green Card gave holders a 25% discount on fares (per the published key). (Q139 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-14.html",
+      "explanationHi": "एचआरटीसी ग्रीन कार्ड धारकों को किराए में 25% छूट मिलती थी।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Kayang, Bakayang and Bnyangchu are dance forms of which district?",
+      "textHi": "कायांग, बाकयांग और बन्यांगचू किस जिले के नृत्य हैं?",
+      "options": [
+        "Kinnaur",
+        "Lahaul-Spiti",
+        "Kullu",
+        "Shimla"
+      ],
+      "optionsHi": [
+        "किन्नौर",
+        "लाहौल-स्पीती",
+        "कुल्लू",
+        "शिमला"
+      ],
+      "answer": 0,
+      "explanation": "Kayang, Bakayang and Bnyangchu are folk dances of Kinnaur. (Q140 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-14.html",
+      "explanationHi": "कायांग, बाकयांग और बन्यांगचू किन्नौर के लोक नृत्य हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who designed the rupee symbol?",
+      "textHi": "रुपये के चिह्न की रचना किसने की?",
+      "options": [
+        "Amartya Sen",
+        "D. Udaya Kumar",
+        "James William",
+        "R. Jagmohan Dass"
+      ],
+      "optionsHi": [
+        "अमर्त्य सेन",
+        "डी. उदय कुमार",
+        "जेम्स विलियम",
+        "आर. जगमोहन दास"
+      ],
+      "answer": 1,
+      "explanation": "The ₹ symbol was designed by D. Udaya Kumar (2010). (Q141 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-15.html",
+      "explanationHi": "रुपये का चिह्न डी. उदय कुमार ने (2010 में) बनाया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Article 368 is related to:",
+      "textHi": "अनुच्छेद 368 का संबंध किससे है?",
+      "options": [
+        "Constitutional amendment",
+        "Supreme Court",
+        "Centre-State relations",
+        "None of these"
+      ],
+      "optionsHi": [
+        "संविधान संशोधन से",
+        "उच्चतम न्यायालय से",
+        "केन्द्र राज्य सम्बन्ध से",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 0,
+      "explanation": "Article 368 deals with the power of Parliament to amend the Constitution. (Q144 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-15.html",
+      "explanationHi": "अनुच्छेद 368 संसद की संविधान संशोधन की शक्ति से संबंधित है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is \"Begar Pratha\", which is related to H.P. and other states?",
+      "textHi": "हिमाचल प्रदेश व कुछ अन्य राज्यों में प्रचलित 'बेगार प्रथा' से क्या तात्पर्य है?",
+      "options": [
+        "Unemployment",
+        "Taking work forcefully without paying wages",
+        "Bonded labour",
+        "None of these"
+      ],
+      "optionsHi": [
+        "बेरोज़गारी",
+        "मज़दूरी दिए बिना ज़बरदस्ती काम करवाना",
+        "बंधुआ मज़दूरी",
+        "इनमें से कोई नहीं"
+      ],
+      "answer": 1,
+      "explanation": "Begar was forced labour taken without paying wages, common in the hill states. (Q146 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-15.html",
+      "explanationHi": "बेगार प्रथा का अर्थ है बिना मज़दूरी दिए ज़बरदस्ती काम करवाना।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "What is Tankri?",
+      "textHi": "टाँकरी क्या है?",
+      "options": [
+        "A weaving technique",
+        "A wedding ceremony",
+        "A coin",
+        "A script"
+      ],
+      "optionsHi": [
+        "बुनाई की तकनीक",
+        "विवाह की रीति",
+        "एक सिक्का",
+        "एक लिपि"
+      ],
+      "answer": 3,
+      "explanation": "Takri (Tankri) is a script formerly used in the western Himalayan hill states. (Q148 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-15.html",
+      "explanationHi": "टाँकरी (टाकरी) पश्चिमी हिमालय की पहाड़ी रियासतों में प्रयुक्त एक लिपि है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which is the most fertile valley of H.P.?",
+      "textHi": "हिमाचल प्रदेश की सबसे उपजाऊ घाटी कौन-सी है?",
+      "options": [
+        "Kullu Valley",
+        "Balh Valley",
+        "Ravi Valley",
+        "Kangra Valley"
+      ],
+      "optionsHi": [
+        "कुल्लू घाटी",
+        "बल्ह घाटी",
+        "रावी घाटी",
+        "काँगड़ा घाटी"
+      ],
+      "answer": 1,
+      "explanation": "The Balh valley of Mandi district is known as the most fertile valley of H.P. (Q149 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-15.html",
+      "explanationHi": "मंडी जिले की बल्ह घाटी हिमाचल की सबसे उपजाऊ घाटी मानी जाती है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Who established Nahan town?",
+      "textHi": "नाहन शहर की स्थापना किसने की थी?",
+      "options": [
+        "Sumer Prakash",
+        "Sukh Prakash",
+        "Buddhi Prakash",
+        "Karam Prakash"
+      ],
+      "optionsHi": [
+        "सुमेर प्रकाश",
+        "सुख प्रकाश",
+        "बुद्धि प्रकाश",
+        "कर्म प्रकाश"
+      ],
+      "answer": 3,
+      "explanation": "Raja Karam Prakash of Sirmaur founded Nahan in 1621. (Q150 of the paper.) Source: https://hpallexam.blogspot.com/2022/03/hp-tet-arts-nov-2020-paper-part-15.html",
+      "explanationHi": "सिरमौर के राजा कर्म प्रकाश ने 1621 में नाहन बसाया।"
+    }
+  ]
+}

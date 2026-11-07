@@ -1,0 +1,413 @@
+{
+  "slug": "hp-tet-tgt-arts-sample-general-awareness",
+  "version": 2,
+  "title": "HP TET TGT Arts · Free Sectional Test: General Awareness (Himachal GK)",
+  "description": "20 free practice questions on Himachal Pradesh GK, Indian general awareness and environment.",
+  "category": "HP TET TGT Arts",
+  "kind": "Sample test",
+  "year": null,
+  "durationMinutes": 20,
+  "price": 0,
+  "questions": [
+    {
+      "section": "General Awareness",
+      "text": "The Tabo Monastery in the Spiti valley, founded in 996 CE, is traditionally credited to which translator-monk?",
+      "textHi": "स्पीति घाटी में 996 ई. में स्थापित ताबो मठ का श्रेय परंपरागत रूप से किस अनुवादक-भिक्षु को दिया जाता है?",
+      "options": [
+        "Padmasambhava",
+        "Atisha",
+        "Rinchen Zangpo",
+        "Tsongkhapa"
+      ],
+      "optionsHi": [
+        "पद्मसंभव",
+        "अतीश",
+        "रिनचेन ज़ांगपो",
+        "त्सोंगखापा"
+      ],
+      "answer": 2,
+      "explanation": "Tabo Monastery was founded in 996 CE by the scholar-translator Rinchen Zangpo and is one of the oldest continuously functioning Buddhist monasteries in the Himalaya.",
+      "explanationHi": "ताबो मठ की स्थापना 996 ई. में विद्वान-अनुवादक रिनचेन ज़ांगपो ने की थी; यह हिमालय में निरंतर चल रहे सबसे पुराने बौद्ध मठों में से एक है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which tree has been adopted as the state tree of Himachal Pradesh?",
+      "textHi": "हिमाचल प्रदेश का राज्य वृक्ष किसे घोषित किया गया है?",
+      "options": [
+        "Deodar",
+        "Chir pine",
+        "Banj oak",
+        "Blue pine"
+      ],
+      "optionsHi": [
+        "देवदार",
+        "चीड़",
+        "बान (बांज) ओक",
+        "कैल (ब्लू पाइन)"
+      ],
+      "answer": 0,
+      "explanation": "The deodar (Cedrus deodara), a tall Himalayan cedar, is the state tree of Himachal Pradesh.",
+      "explanationHi": "देवदार (सेड्रस देवदारा), एक ऊँचा हिमालयी शंकुधारी वृक्ष, हिमाचल प्रदेश का राज्य वृक्ष है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Kunzum Pass in Himachal Pradesh links which two valleys?",
+      "textHi": "हिमाचल प्रदेश का कुंजुम दर्रा किन दो घाटियों को जोड़ता है?",
+      "options": [
+        "Kullu and Lahaul",
+        "Lahaul and Spiti",
+        "Spiti and Kinnaur",
+        "Chamba and Pangi"
+      ],
+      "optionsHi": [
+        "कुल्लू और लाहौल",
+        "लाहौल और स्पीति",
+        "स्पीति और किन्नौर",
+        "चंबा और पांगी"
+      ],
+      "answer": 1,
+      "explanation": "Kunzum La lies on the road between Gramphu and Losar and connects the Lahaul valley with the Spiti valley.",
+      "explanationHi": "कुंजुम ला ग्रांफू और लोसर के बीच सड़क पर स्थित है और लाहौल घाटी को स्पीति घाटी से जोड़ता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Bhaga river rises from Suraj Tal, a lake lying just below which high pass on the Manali–Leh road?",
+      "textHi": "भागा नदी सूरज ताल से निकलती है। यह झील मनाली–लेह मार्ग पर किस ऊँचे दर्रे के ठीक नीचे स्थित है?",
+      "options": [
+        "Kunzum La",
+        "Shipki La",
+        "Jalori Pass",
+        "Baralacha La"
+      ],
+      "optionsHi": [
+        "कुंजुम ला",
+        "शिपकी ला",
+        "जलोड़ी दर्रा",
+        "बारालाचा ला"
+      ],
+      "answer": 3,
+      "explanation": "Suraj Tal lies just below Baralacha La; the Bhaga flows from it, and the Chandra also rises from glaciers in this area.",
+      "explanationHi": "सूरज ताल बारालाचा ला के ठीक नीचे स्थित है; भागा नदी इसी से निकलती है और चंद्रा नदी भी इसी क्षेत्र के हिमनदों से निकलती है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Atal Tunnel, opened in October 2020 to give all-weather access to the Lahaul valley, has been built beneath which pass?",
+      "textHi": "लाहौल घाटी को हर मौसम में संपर्क देने के लिए अक्टूबर 2020 में खोली गई अटल सुरंग किस दर्रे के नीचे बनाई गई है?",
+      "options": [
+        "Rohtang Pass",
+        "Baralacha La",
+        "Kunzum Pass",
+        "Sach Pass"
+      ],
+      "optionsHi": [
+        "रोहतांग दर्रा",
+        "बारालाचा ला",
+        "कुंजुम दर्रा",
+        "साच दर्रा"
+      ],
+      "answer": 0,
+      "explanation": "The Atal Tunnel runs under the Rohtang Pass on the Manali–Leh axis, linking the Manali side with Sissu in Lahaul.",
+      "explanationHi": "अटल सुरंग मनाली–लेह मार्ग पर रोहतांग दर्रे के नीचे से गुजरती है और मनाली की ओर को लाहौल के सिस्सू से जोड़ती है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Spiti river joins the Sutlej at which place in Kinnaur district?",
+      "textHi": "किन्नौर ज़िले में स्पीति नदी सतलुज से किस स्थान पर मिलती है?",
+      "options": [
+        "Karchham",
+        "Rampur",
+        "Khab",
+        "Pooh"
+      ],
+      "optionsHi": [
+        "करछम",
+        "रामपुर",
+        "खाब",
+        "पूह"
+      ],
+      "answer": 2,
+      "explanation": "The Spiti river meets the Sutlej at Khab near the Indo-Tibetan border in Kinnaur district.",
+      "explanationHi": "स्पीति नदी किन्नौर ज़िले में भारत-तिब्बत सीमा के पास खाब नामक स्थान पर सतलुज से मिलती है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Rewalsar Lake (Tso Pema), held sacred by Hindus, Sikhs and Buddhists and associated with Guru Padmasambhava, is located in which district?",
+      "textHi": "हिंदुओं, सिखों और बौद्धों द्वारा पवित्र मानी जाने वाली तथा गुरु पद्मसंभव से जुड़ी रिवालसर झील (त्सो पेमा) किस ज़िले में स्थित है?",
+      "options": [
+        "Kullu",
+        "Kangra",
+        "Bilaspur",
+        "Mandi"
+      ],
+      "optionsHi": [
+        "कुल्लू",
+        "कांगड़ा",
+        "बिलासपुर",
+        "मंडी"
+      ],
+      "answer": 3,
+      "explanation": "Rewalsar Lake lies in Mandi district and is a pilgrimage site for all three faiths.",
+      "explanationHi": "रिवालसर झील मंडी ज़िले में स्थित है और तीनों धर्मों के लिए तीर्थस्थल है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Indian Institute of Advanced Study at Shimla is housed in which historic building?",
+      "textHi": "शिमला स्थित भारतीय उच्च अध्ययन संस्थान किस ऐतिहासिक भवन में स्थित है?",
+      "options": [
+        "The Viceregal Lodge (Rashtrapati Niwas)",
+        "Gorton Castle",
+        "Barnes Court",
+        "Peterhoff"
+      ],
+      "optionsHi": [
+        "वाइसरीगल लॉज (राष्ट्रपति निवास)",
+        "गॉर्टन कैसल",
+        "बार्न्स कोर्ट",
+        "पीटरहॉफ"
+      ],
+      "answer": 0,
+      "explanation": "The Indian Institute of Advanced Study functions from the former Viceregal Lodge, now called Rashtrapati Niwas, on Observatory Hill in Shimla.",
+      "explanationHi": "भारतीय उच्च अध्ययन संस्थान शिमला की ऑब्ज़र्वेटरी हिल पर स्थित पूर्व वाइसरीगल लॉज, जिसे अब राष्ट्रपति निवास कहा जाता है, में कार्य करता है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Shimla Agreement of July 1972 was signed between India and Pakistan by Indira Gandhi and",
+      "textHi": "जुलाई 1972 का शिमला समझौता भारत और पाकिस्तान के बीच इंदिरा गांधी और ______ द्वारा हस्ताक्षरित किया गया था।",
+      "options": [
+        "Ayub Khan",
+        "Zulfikar Ali Bhutto",
+        "Yahya Khan",
+        "Liaquat Ali Khan"
+      ],
+      "optionsHi": [
+        "अयूब खान",
+        "ज़ुल्फ़िकार अली भुट्टो",
+        "याह्या खान",
+        "लियाकत अली खान"
+      ],
+      "answer": 1,
+      "explanation": "Indira Gandhi and Zulfikar Ali Bhutto signed the Shimla Agreement on 2 July 1972 after the 1971 war.",
+      "explanationHi": "1971 के युद्ध के बाद इंदिरा गांधी और ज़ुल्फ़िकार अली भुट्टो ने 2 जुलाई 1972 को शिमला समझौते पर हस्ताक्षर किए।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The ancient Kangra Fort is associated with which royal dynasty of the region?",
+      "textHi": "प्राचीन कांगड़ा किला इस क्षेत्र के किस राजवंश से संबंधित है?",
+      "options": [
+        "Pathania",
+        "Sen",
+        "Katoch",
+        "Pal"
+      ],
+      "optionsHi": [
+        "पठानिया",
+        "सेन",
+        "कटोच",
+        "पाल"
+      ],
+      "answer": 2,
+      "explanation": "Kangra Fort was the seat of the Katoch rulers of Kangra, one of the oldest royal dynasties of the hills.",
+      "explanationHi": "कांगड़ा किला कांगड़ा के कटोच शासकों की राजधानी था, जो पहाड़ी क्षेत्र के सबसे प्राचीन राजवंशों में से एक है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Bir Billing, internationally known for paragliding, is located in which district of Himachal Pradesh?",
+      "textHi": "पैराग्लाइडिंग के लिए अंतरराष्ट्रीय स्तर पर प्रसिद्ध बीड़ बिलिंग हिमाचल प्रदेश के किस ज़िले में स्थित है?",
+      "options": [
+        "Kullu",
+        "Kangra",
+        "Shimla",
+        "Solan"
+      ],
+      "optionsHi": [
+        "कुल्लू",
+        "कांगड़ा",
+        "शिमला",
+        "सोलन"
+      ],
+      "answer": 1,
+      "explanation": "Bir Billing lies in Kangra district; Billing is the take-off site and Bir the landing site.",
+      "explanationHi": "बीड़ बिलिंग कांगड़ा ज़िले में है; बिलिंग उड़ान भरने (टेक-ऑफ) का स्थल और बीड़ उतरने (लैंडिंग) का स्थल है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Gaddi tribe, traditionally semi-nomadic shepherds, is mainly associated with which area of Himachal Pradesh?",
+      "textHi": "परंपरागत रूप से अर्ध-घुमंतू चरवाहा गद्दी जनजाति मुख्य रूप से हिमाचल प्रदेश के किस क्षेत्र से संबंधित है?",
+      "options": [
+        "Bharmour in Chamba district",
+        "Kaza in Spiti",
+        "Paonta Sahib in Sirmaur",
+        "Nalagarh in Solan"
+      ],
+      "optionsHi": [
+        "चंबा ज़िले का भरमौर",
+        "स्पीति का काज़ा",
+        "सिरमौर का पांवटा साहिब",
+        "सोलन का नालागढ़"
+      ],
+      "answer": 0,
+      "explanation": "Bharmour in Chamba district, also called Gadderan, is the traditional homeland of the Gaddi shepherds.",
+      "explanationHi": "चंबा ज़िले का भरमौर, जिसे गद्देरन भी कहते हैं, गद्दी चरवाहों की पारंपरिक मातृभूमि है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Jwalamukhi temple, known for its natural flames worshipped as the goddess, is situated in which district?",
+      "textHi": "प्राकृतिक ज्वालाओं के रूप में देवी की पूजा के लिए प्रसिद्ध ज्वालामुखी मंदिर किस ज़िले में स्थित है?",
+      "options": [
+        "Una",
+        "Hamirpur",
+        "Mandi",
+        "Kangra"
+      ],
+      "optionsHi": [
+        "ऊना",
+        "हमीरपुर",
+        "मंडी",
+        "कांगड़ा"
+      ],
+      "answer": 3,
+      "explanation": "The Jwalamukhi temple is in Kangra district; the goddess is worshipped in the form of natural flames issuing from the rock.",
+      "explanationHi": "ज्वालामुखी मंदिर कांगड़ा ज़िले में है; यहाँ चट्टान से निकलने वाली प्राकृतिक ज्वालाओं के रूप में देवी की पूजा होती है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Chamba Rumal, a traditional handicraft of Himachal Pradesh, is a",
+      "textHi": "हिमाचल प्रदेश का पारंपरिक हस्तशिल्प 'चंबा रुमाल' एक ______ है।",
+      "options": [
+        "kind of woven woollen shawl",
+        "embroidered handkerchief or cover",
+        "miniature painting on paper",
+        "metal mask used in rituals"
+      ],
+      "optionsHi": [
+        "प्रकार की बुनी हुई ऊनी शॉल",
+        "कढ़ाईदार रूमाल या आवरण",
+        "कागज़ पर बनी लघु चित्रकला",
+        "अनुष्ठानों में प्रयुक्त धातु का मुखौटा"
+      ],
+      "answer": 1,
+      "explanation": "The Chamba Rumal is a square cloth embroidered in double-satin stitch so that the design looks the same on both sides; it has a GI tag.",
+      "explanationHi": "चंबा रुमाल दोहरे साटन टाँके से कढ़ा वर्गाकार कपड़ा है, जिससे डिज़ाइन दोनों ओर एक जैसा दिखता है; इसे GI टैग (भौगोलिक संकेतक) प्राप्त है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The 1992 United Nations Conference on Environment and Development, popularly called the Earth Summit, was held at",
+      "textHi": "1992 का संयुक्त राष्ट्र पर्यावरण एवं विकास सम्मेलन, जिसे 'पृथ्वी शिखर सम्मेलन' कहा जाता है, कहाँ आयोजित हुआ था?",
+      "options": [
+        "Stockholm",
+        "Kyoto",
+        "Rio de Janeiro",
+        "Johannesburg"
+      ],
+      "optionsHi": [
+        "स्टॉकहोम",
+        "क्योटो",
+        "रियो डी जनेरियो",
+        "जोहान्सबर्ग"
+      ],
+      "answer": 2,
+      "explanation": "The Earth Summit was held at Rio de Janeiro, Brazil, in 1992 and adopted Agenda 21.",
+      "explanationHi": "पृथ्वी शिखर सम्मेलन 1992 में ब्राज़ील के रियो डी जनेरियो में हुआ था, जिसमें एजेंडा 21 अपनाया गया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Kyoto Protocol (1997) is mainly concerned with",
+      "textHi": "क्योटो प्रोटोकॉल (1997) मुख्य रूप से किससे संबंधित है?",
+      "options": [
+        "reducing emissions of greenhouse gases",
+        "protecting migratory birds",
+        "banning trade in ivory",
+        "conserving wetlands"
+      ],
+      "optionsHi": [
+        "ग्रीनहाउस गैसों के उत्सर्जन में कमी",
+        "प्रवासी पक्षियों का संरक्षण",
+        "हाथीदाँत के व्यापार पर प्रतिबंध",
+        "आर्द्रभूमियों का संरक्षण"
+      ],
+      "answer": 0,
+      "explanation": "The Kyoto Protocol set binding targets for developed countries to reduce their greenhouse gas emissions.",
+      "explanationHi": "क्योटो प्रोटोकॉल ने विकसित देशों के लिए ग्रीनहाउस गैस उत्सर्जन घटाने के बाध्यकारी लक्ष्य निर्धारित किए।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which animal was declared the National Heritage Animal of India in 2010?",
+      "textHi": "वर्ष 2010 में किस पशु को भारत का राष्ट्रीय धरोहर पशु घोषित किया गया?",
+      "options": [
+        "Tiger",
+        "Snow leopard",
+        "One-horned rhinoceros",
+        "Elephant"
+      ],
+      "optionsHi": [
+        "बाघ",
+        "हिम तेंदुआ",
+        "एक सींग वाला गैंडा",
+        "हाथी"
+      ],
+      "answer": 3,
+      "explanation": "The Government of India declared the elephant the National Heritage Animal in 2010.",
+      "explanationHi": "भारत सरकार ने 2010 में हाथी को राष्ट्रीय धरोहर पशु घोषित किया।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Acid rain is mainly caused by the release of which gases into the atmosphere?",
+      "textHi": "अम्लीय वर्षा मुख्य रूप से वायुमंडल में किन गैसों के उत्सर्जन से होती है?",
+      "options": [
+        "Oxygen and nitrogen",
+        "Sulphur dioxide and nitrogen oxides",
+        "Methane and helium",
+        "Carbon monoxide and argon"
+      ],
+      "optionsHi": [
+        "ऑक्सीजन और नाइट्रोजन",
+        "सल्फर डाइऑक्साइड और नाइट्रोजन ऑक्साइड",
+        "मीथेन और हीलियम",
+        "कार्बन मोनोऑक्साइड और आर्गन"
+      ],
+      "answer": 1,
+      "explanation": "Sulphur dioxide and nitrogen oxides from burning fuels form sulphuric and nitric acids that fall with rain.",
+      "explanationHi": "ईंधन जलने से निकली सल्फर डाइऑक्साइड और नाइट्रोजन ऑक्साइड सल्फ्यूरिक व नाइट्रिक अम्ल बनाकर वर्षा के साथ गिरती हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Gir National Park in Gujarat is the only natural home in the world of the",
+      "textHi": "गुजरात का गिर राष्ट्रीय उद्यान विश्व में किसका एकमात्र प्राकृतिक आवास है?",
+      "options": [
+        "Asiatic lion",
+        "Indian wild ass",
+        "Great Indian bustard",
+        "Snow leopard"
+      ],
+      "optionsHi": [
+        "एशियाई शेर",
+        "भारतीय जंगली गधा",
+        "सोन चिरैया (ग्रेट इंडियन बस्टर्ड)",
+        "हिम तेंदुआ"
+      ],
+      "answer": 0,
+      "explanation": "The Gir forest is the last natural habitat of the Asiatic lion.",
+      "explanationHi": "गिर का वन एशियाई शेर का अंतिम प्राकृतिक आवास है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The Sundarbans National Park, a large mangrove forest in the Ganga–Brahmaputra delta, is best known for the",
+      "textHi": "गंगा–ब्रह्मपुत्र डेल्टा में स्थित विशाल मैंग्रोव वन, सुंदरबन राष्ट्रीय उद्यान, किसके लिए सबसे अधिक प्रसिद्ध है?",
+      "options": [
+        "Asiatic lion",
+        "Nilgiri tahr",
+        "Royal Bengal tiger",
+        "Red panda"
+      ],
+      "optionsHi": [
+        "एशियाई शेर",
+        "नीलगिरि तहर",
+        "रॉयल बंगाल टाइगर",
+        "लाल पांडा"
+      ],
+      "answer": 2,
+      "explanation": "The Sundarbans mangroves of West Bengal are famous for the Royal Bengal tiger, which is adapted to swimming in tidal waters.",
+      "explanationHi": "पश्चिम बंगाल के सुंदरबन मैंग्रोव रॉयल बंगाल टाइगर के लिए प्रसिद्ध हैं, जो ज्वारीय जल में तैरने के लिए अनुकूलित है।"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "slug": "hp-tet-jbt-sample-free",
+  "version": 1,
+  "title": "HP TET JBT · Free Mini Mock Test",
+  "description": "Free 30-question HP TET JBT practice test: 6 questions each from Child Development & Pedagogy, English, Hindi, Mathematics and General Awareness (Himachal GK and EVS), in the real exam order.",
+  "category": "HP TET JBT",
+  "kind": "Sample test",
+  "year": null,
+  "durationMinutes": 30,
+  "price": 0,
+  "questions": [
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A teacher asks her Class IV students, \"What would happen if there were no trees on Earth?\" This is an example of a question that encourages",
+      "textHi": "एक अध्यापिका कक्षा IV के विद्यार्थियों से पूछती है, \"यदि पृथ्वी पर पेड़ न होते तो क्या होता?\" यह किस प्रकार के चिंतन को प्रोत्साहित करने वाले प्रश्न का उदाहरण है?",
+      "options": ["Convergent thinking", "Divergent thinking", "Rote recall", "Reflex behaviour"],
+      "optionsHi": ["अभिसारी चिंतन", "अपसारी (विविधमुखी) चिंतन", "रटकर स्मरण", "प्रतिवर्ती व्यवहार"],
+      "answer": 1,
+      "explanation": "An open-ended 'what if' question has many possible answers, so it promotes divergent (creative) thinking.",
+      "explanationHi": "'क्या होता यदि' जैसे मुक्त-उत्तरीय प्रश्न के अनेक संभावित उत्तर होते हैं, इसलिए यह अपसारी (सृजनात्मक) चिंतन को बढ़ावा देता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "According to Howard Gardner, a child who understands her own feelings, strengths and weaknesses well shows a high level of",
+      "textHi": "हावर्ड गार्डनर के अनुसार, जो बच्ची अपनी भावनाओं, क्षमताओं और कमज़ोरियों को भली-भाँति समझती है, उसमें किस बुद्धि का उच्च स्तर है?",
+      "options": ["Interpersonal intelligence", "Naturalistic intelligence", "Intrapersonal intelligence", "Spatial intelligence"],
+      "optionsHi": ["अंतर्वैयक्तिक (पारस्परिक) बुद्धि", "प्रकृतिवादी बुद्धि", "अंतःवैयक्तिक (आत्म-बोध) बुद्धि", "स्थानिक बुद्धि"],
+      "answer": 2,
+      "explanation": "Intrapersonal intelligence is the capacity to understand oneself; interpersonal intelligence is understanding others.",
+      "explanationHi": "अंतःवैयक्तिक बुद्धि स्वयं को समझने की क्षमता है, जबकि अंतर्वैयक्तिक बुद्धि दूसरों को समझने की क्षमता है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A child of average intelligence finds it very hard to button his shirt, use scissors or catch a ball because of poor motor coordination. He may have",
+      "textHi": "औसत बुद्धि वाले एक बच्चे को कमज़ोर गामक समन्वय के कारण कमीज़ के बटन लगाने, कैंची चलाने या गेंद पकड़ने में बहुत कठिनाई होती है। उसे संभवतः है",
+      "options": ["Dyslexia", "Dysgraphia", "Aphasia", "Dyspraxia"],
+      "optionsHi": ["डिस्लेक्सिया", "डिस्ग्राफिया", "अफेज़िया (वाचाघात)", "डिस्प्रैक्सिया"],
+      "answer": 3,
+      "explanation": "Dyspraxia is a developmental disorder of motor coordination and planning of movements.",
+      "explanationHi": "डिस्प्रैक्सिया गतियों के समन्वय और नियोजन से जुड़ा एक विकासात्मक विकार है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A child understands that the amount of water remains the same when it is poured from a short wide glass into a tall thin glass. According to Piaget, the child has acquired",
+      "textHi": "एक बच्चा समझता है कि छोटे चौड़े गिलास से लंबे पतले गिलास में डालने पर पानी की मात्रा उतनी ही रहती है। पियाजे के अनुसार, बच्चे ने अर्जित कर लिया है",
+      "options": ["Conservation", "Animism", "Egocentrism", "Centration"],
+      "optionsHi": ["संरक्षण", "जीववाद", "आत्मकेंद्रितता", "केंद्रीकरण"],
+      "answer": 0,
+      "explanation": "Conservation, the understanding that quantity does not change with shape, develops in the concrete operational stage.",
+      "explanationHi": "संरक्षण, अर्थात् आकार बदलने पर भी मात्रा न बदलने की समझ, मूर्त संक्रियात्मक अवस्था में विकसित होती है।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "Which of the following activities mainly develops fine motor skills in young children?",
+      "textHi": "निम्नलिखित में से कौन-सी गतिविधि छोटे बच्चों में मुख्यतः सूक्ष्म गामक कौशल विकसित करती है?",
+      "options": ["Running a race", "Threading beads on a string", "Jumping over a rope", "Climbing stairs"],
+      "optionsHi": ["दौड़ लगाना", "धागे में मोती पिरोना", "रस्सी के ऊपर से कूदना", "सीढ़ियाँ चढ़ना"],
+      "answer": 1,
+      "explanation": "Fine motor skills use small muscles of the hands and fingers with eye-hand coordination; the other options are gross motor activities.",
+      "explanationHi": "सूक्ष्म गामक कौशल में हाथ और उँगलियों की छोटी मांसपेशियों तथा आँख-हाथ समन्वय का उपयोग होता है; शेष विकल्प स्थूल गामक गतिविधियाँ हैं।"
+    },
+    {
+      "section": "Child Development & Pedagogy",
+      "text": "A child in Class I speaks only her tribal home language. According to NCF 2005, the teacher should",
+      "textHi": "कक्षा I की एक बच्ची केवल अपनी जनजातीय घरेलू भाषा बोलती है। NCF 2005 के अनुसार, शिक्षक को चाहिए कि वह",
+      "options": ["forbid her from using her home language in class", "insist that she speaks only the standard language", "use her home language as a resource for learning", "shift her to a separate remedial class"],
+      "optionsHi": ["कक्षा में उसकी घरेलू भाषा के प्रयोग पर रोक लगाए", "केवल मानक भाषा बोलने पर ज़ोर दे", "उसकी घरेलू भाषा को सीखने के संसाधन के रूप में उपयोग करे", "उसे अलग उपचारात्मक कक्षा में भेज दे"],
+      "answer": 2,
+      "explanation": "NCF 2005 treats the child's home language and multilingualism as a resource; learning builds on what the child already knows.",
+      "explanationHi": "NCF 2005 बच्चे की घरेलू भाषा और बहुभाषिकता को संसाधन मानता है; सीखना बच्चे के पूर्व ज्ञान पर आधारित होना चाहिए।"
+    },
+    {
+      "section": "English",
+      "text": "Fill in the blank with the correct verb: Each of the boys ________ given a prize.",
+      "options": ["were", "have been", "are", "was"],
+      "answer": 3,
+      "explanation": "'Each' is singular, so it takes a singular verb: 'Each of the boys was given a prize.'"
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct collective noun: a ________ of bees",
+      "options": ["swarm", "herd", "pack", "school"],
+      "answer": 0,
+      "explanation": "A group of bees is a swarm; herd is used for cattle, pack for wolves and school for fish."
+    },
+    {
+      "section": "English",
+      "text": "Choose the word most opposite in meaning to: ABUNDANT",
+      "options": ["Plentiful", "Ample", "Scarce", "Rich"],
+      "answer": 2,
+      "explanation": "Abundant means existing in large quantities; its opposite is scarce."
+    },
+    {
+      "section": "English",
+      "text": "In second language learning, the 'silent period' refers to a stage when the learner",
+      "options": ["refuses to learn the new language", "listens and understands but produces little or no speech", "is punished for speaking in the mother tongue", "reads silently instead of reading aloud"],
+      "answer": 1,
+      "explanation": "During the silent period (Krashen) learners build comprehension by listening before they begin to speak; teachers should not force speech."
+    },
+    {
+      "section": "English",
+      "text": "Choose the correct meaning of the idiom 'to break the ice'.",
+      "options": ["To start a conversation in an awkward situation", "To cause a serious quarrel", "To break a promise", "To work in very cold weather"],
+      "answer": 0,
+      "explanation": "'To break the ice' means to say or do something that eases tension and gets people talking."
+    },
+    {
+      "section": "English",
+      "text": "Which of the following is a productive language skill?",
+      "options": ["Listening", "Reading", "Viewing", "Writing"],
+      "answer": 3,
+      "explanation": "Speaking and writing are productive skills because the learner produces language; listening and reading are receptive skills."
+    },
+    {
+      "section": "Hindi",
+      "text": "'रसोईघर' में कौन-सा समास है?",
+      "options": ["द्वंद्व समास", "तत्पुरुष समास", "बहुव्रीहि समास", "अव्ययीभाव समास"],
+      "answer": 1,
+      "explanation": "रसोईघर = रसोई के लिए घर; 'के लिए' विभक्ति का लोप होने से यह सम्प्रदान तत्पुरुष समास है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'आकाश' का पर्यायवाची शब्द नहीं है:",
+      "options": ["अंबर", "गगन", "नभ", "अनल"],
+      "answer": 3,
+      "explanation": "अंबर, गगन और नभ आकाश के पर्यायवाची हैं, जबकि 'अनल' का अर्थ आग है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'उत्कर्ष' का विलोम शब्द है:",
+      "options": ["उन्नति", "प्रकर्ष", "अपकर्ष", "विकास"],
+      "answer": 2,
+      "explanation": "उत्कर्ष (उन्नति) का विलोम अपकर्ष (अवनति) है।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'दाँतों तले उँगली दबाना' मुहावरे का अर्थ है:",
+      "options": ["आश्चर्यचकित होना", "बहुत डर जाना", "दाँत में दर्द होना", "चुप रहना"],
+      "answer": 0,
+      "explanation": "'दाँतों तले उँगली दबाना' का अर्थ है बहुत हैरान या आश्चर्यचकित होना।"
+    },
+    {
+      "section": "Hindi",
+      "text": "'जो सब कुछ जानता हो' के लिए एक शब्द है:",
+      "options": ["सर्वज्ञ", "सर्वव्यापी", "सर्वोत्तम", "सर्वस्व"],
+      "answer": 0,
+      "explanation": "सब कुछ जानने वाला 'सर्वज्ञ' कहलाता है; सर्वव्यापी का अर्थ है जो सब जगह व्याप्त हो।"
+    },
+    {
+      "section": "Hindi",
+      "text": "प्राथमिक स्तर पर भाषा-कौशलों के विकास का स्वाभाविक क्रम है:",
+      "options": ["पढ़ना, लिखना, सुनना, बोलना", "सुनना, बोलना, पढ़ना, लिखना", "बोलना, सुनना, लिखना, पढ़ना", "लिखना, पढ़ना, बोलना, सुनना"],
+      "answer": 1,
+      "explanation": "बच्चा पहले सुनकर समझता है, फिर बोलता है, उसके बाद पढ़ना और अंत में लिखना सीखता है।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "Which of the following numbers is divisible by 11?",
+      "textHi": "निम्नलिखित में से कौन-सी संख्या 11 से विभाज्य है?",
+      "options": ["2,47,831", "5,63,421", "3,85,935", "7,19,284"],
+      "optionsHi": ["2,47,831", "5,63,421", "3,85,935", "7,19,284"],
+      "answer": 2,
+      "explanation": "For 385935, the difference between the sums of alternate digits is (5 + 9 + 8) − (3 + 5 + 3) = 11, so it is divisible by 11 (385935 = 11 × 35085).",
+      "explanationHi": "385935 में एकांतर अंकों के योगों का अंतर (5 + 9 + 8) − (3 + 5 + 3) = 11 है, अतः यह 11 से विभाज्य है (385935 = 11 × 35085)।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The value of 0.5 × 0.05 is",
+      "textHi": "0.5 × 0.05 का मान है",
+      "options": ["0.25", "0.025", "2.5", "0.0025"],
+      "optionsHi": ["0.25", "0.025", "2.5", "0.0025"],
+      "answer": 1,
+      "explanation": "5 × 5 = 25 and there are 1 + 2 = 3 decimal places, so the product is 0.025.",
+      "explanationHi": "5 × 5 = 25 और कुल 1 + 2 = 3 दशमलव स्थान हैं, अतः गुणनफल 0.025 है।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "How many edges does a cube have?",
+      "textHi": "एक घन के कितने किनारे (कोर) होते हैं?",
+      "options": ["12", "8", "6", "10"],
+      "optionsHi": ["12", "8", "6", "10"],
+      "answer": 0,
+      "explanation": "A cube has 6 faces, 8 vertices and 12 edges.",
+      "explanationHi": "घन के 6 फलक, 8 शीर्ष और 12 किनारे होते हैं।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "The smallest four-digit number that can be formed using each of the digits 3, 0, 7 and 5 exactly once is",
+      "textHi": "अंकों 3, 0, 7 और 5 में से प्रत्येक का केवल एक बार प्रयोग करके बनने वाली चार अंकों की सबसे छोटी संख्या है",
+      "options": ["0357", "3057", "3075", "3507"],
+      "optionsHi": ["0357", "3057", "3075", "3507"],
+      "answer": 1,
+      "explanation": "0 cannot be the first digit of a four-digit number, so the smallest non-zero digit 3 comes first, followed by 0, 5, 7.",
+      "explanationHi": "चार अंकों की संख्या 0 से शुरू नहीं हो सकती, इसलिए पहले सबसे छोटा शून्येतर अंक 3 और फिर 0, 5, 7 आते हैं।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "What is 3/4 of 2/5 of 200?",
+      "textHi": "200 के 2/5 का 3/4 कितना है?",
+      "options": ["40", "50", "60", "80"],
+      "optionsHi": ["40", "50", "60", "80"],
+      "answer": 2,
+      "explanation": "2/5 of 200 = 80, and 3/4 of 80 = 60.",
+      "explanationHi": "200 का 2/5 = 80 और 80 का 3/4 = 60।"
+    },
+    {
+      "section": "Mathematics",
+      "text": "A Class III child writes 25 + 17 = 312. This error most likely shows that the child",
+      "textHi": "कक्षा III का एक बच्चा 25 + 17 = 312 लिखता है। यह त्रुटि संभवतः दर्शाती है कि बच्चा",
+      "options": ["was careless while writing", "has not memorised the tables", "has dyslexia", "has not understood place value and regrouping (carrying)"],
+      "optionsHi": ["लिखते समय लापरवाह था", "पहाड़े याद नहीं कर पाया है", "डिस्लेक्सिया से ग्रस्त है", "स्थानीय मान और पुनर्समूहन (हासिल) की अवधारणा नहीं समझ पाया है"],
+      "answer": 3,
+      "explanation": "The child added the ones (5 + 7 = 12) and wrote 12 without carrying 1 ten to the tens column, a place-value misconception.",
+      "explanationHi": "बच्चे ने इकाइयों का योग 12 पूरा लिख दिया और 1 दहाई को दहाई के स्तंभ में नहीं ले गया; यह स्थानीय मान की भ्रांति है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The former Viceregal Lodge (Rashtrapati Niwas) at Shimla now houses the",
+      "textHi": "शिमला स्थित पूर्व वाइसरीगल लॉज (राष्ट्रपति निवास) में अब स्थित है",
+      "options": ["Himachal Pradesh University", "Indian Institute of Advanced Study", "Himachal Pradesh Legislative Assembly", "Indian Institute of Technology"],
+      "optionsHi": ["हिमाचल प्रदेश विश्वविद्यालय", "भारतीय उच्च अध्ययन संस्थान", "हिमाचल प्रदेश विधान सभा", "भारतीय प्रौद्योगिकी संस्थान"],
+      "answer": 1,
+      "explanation": "The Indian Institute of Advanced Study has functioned from the Viceregal Lodge since 1965.",
+      "explanationHi": "भारतीय उच्च अध्ययन संस्थान 1965 से वाइसरीगल लॉज में कार्यरत है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which river is known as 'Chandrabhaga' in Himachal Pradesh?",
+      "textHi": "हिमाचल प्रदेश में किस नदी को 'चंद्रभागा' कहा जाता है?",
+      "options": ["Beas", "Ravi", "Chenab", "Satluj"],
+      "optionsHi": ["ब्यास", "रावी", "चिनाब", "सतलुज"],
+      "answer": 2,
+      "explanation": "The Chandra and Bhaga rivers meet at Tandi in Lahaul to form the Chandrabhaga, known further downstream as the Chenab.",
+      "explanationHi": "लाहौल में तांदी के पास चंद्रा और भागा नदियाँ मिलकर चंद्रभागा बनाती हैं, जिसे आगे चलकर चिनाब कहते हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The pagoda-style Hadimba Devi temple, built in 1553, is located at",
+      "textHi": "1553 में निर्मित पैगोडा शैली का हिडिम्बा देवी मंदिर कहाँ स्थित है?",
+      "options": ["Mandi", "Chamba", "Manali", "Dharamshala"],
+      "optionsHi": ["मंडी", "चम्बा", "मनाली", "धर्मशाला"],
+      "answer": 2,
+      "explanation": "The Hadimba Devi temple at Manali (Kullu district) was built by Raja Bahadur Singh in 1553.",
+      "explanationHi": "मनाली (कुल्लू जिला) का हिडिम्बा देवी मंदिर 1553 में राजा बहादुर सिंह ने बनवाया था।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Animals such as the kangaroo, whose young ones grow in a pouch on the mother's body, are called",
+      "textHi": "कंगारू जैसे जंतु, जिनके बच्चे माँ के शरीर पर बनी थैली में बड़े होते हैं, कहलाते हैं",
+      "options": ["Amphibians", "Rodents", "Reptiles", "Marsupials"],
+      "optionsHi": ["उभयचर", "कृंतक", "सरीसृप", "शिशुधानी (मार्सुपियल)"],
+      "answer": 3,
+      "explanation": "Marsupials, such as the kangaroo and koala, carry and nurse their young in a pouch.",
+      "explanationHi": "कंगारू और कोआला जैसे शिशुधानी जंतु अपने बच्चों को थैली में रखकर पालते हैं।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "The ancient Baijnath temple dedicated to Lord Shiva is in which district of Himachal Pradesh?",
+      "textHi": "भगवान शिव को समर्पित प्राचीन बैजनाथ मंदिर हिमाचल प्रदेश के किस जिले में है?",
+      "options": ["Kangra", "Mandi", "Hamirpur", "Una"],
+      "optionsHi": ["कांगड़ा", "मंडी", "हमीरपुर", "ऊना"],
+      "answer": 0,
+      "explanation": "The Baijnath temple (built in 1204 CE) is in Kangra district, on the Pathankot–Mandi road.",
+      "explanationHi": "बैजनाथ मंदिर (1204 ई. में निर्मित) कांगड़ा जिले में स्थित है।"
+    },
+    {
+      "section": "General Awareness",
+      "text": "Which of the following diseases spreads mainly through contaminated water?",
+      "textHi": "निम्नलिखित में से कौन-सा रोग मुख्यतः दूषित जल से फैलता है?",
+      "options": ["Malaria", "Tuberculosis", "Dengue", "Cholera"],
+      "optionsHi": ["मलेरिया", "क्षय रोग (टी.बी.)", "डेंगू", "हैजा"],
+      "answer": 3,
+      "explanation": "Cholera is a water-borne bacterial disease; malaria and dengue spread through mosquitoes and TB through the air.",
+      "explanationHi": "हैजा जल-जनित जीवाणु रोग है; मलेरिया और डेंगू मच्छरों से तथा टी.बी. हवा से फैलता है।"
+    }
+  ]
+}
